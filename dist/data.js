@@ -1,8 +1,8 @@
 window.AJOU_NOTICES = {
   "reviewedAt": "2026-10-15",
   "fetchedAt": "2026-10-15T15:04:09.524676+09:00",
-  "scanned": 98,
-  "pages": 7,
+  "scanned": 179,
+  "pages": 15,
   "sources": [
     {
       "name": "一般大学院",
@@ -30,23 +30,7 @@ window.AJOU_NOTICES = {
       "key": "graduate_en"
     }
   ],
-  "errors": [
-    {
-      "board": "international",
-      "page": 1,
-      "error": "ConnectTimeout"
-    },
-    {
-      "board": "oia",
-      "page": 0,
-      "error": "ConnectTimeout"
-    },
-    {
-      "board": "university",
-      "page": 0,
-      "error": "ConnectTimeout"
-    }
-  ],
+  "errors": [],
   "items": [
     {
       "id": "377459",
@@ -2459,19 +2443,19 @@ window.AJOU_NOTICES = {
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801"
     }
   ],
-  "checkedAt": "2026-10-15T16:02:07.976829+09:00",
-  "updatedAt": "2026-10-15T16:02:07.976829+09:00",
+  "checkedAt": "2026-10-15T16:05:18.921716+09:00",
+  "updatedAt": "2026-10-15T16:05:18.921716+09:00",
   "automatic": true,
   "schedule": "每日 08:17、12:17、18:17 KST",
   "translationModel": "gpt-6-luna",
   "updateStats": {
-    "checkedAt": "2026-10-15T16:02:07.976829+09:00",
+    "checkedAt": "2026-10-15T16:05:18.921716+09:00",
     "model": "gpt-6-luna",
-    "scanned": 98,
-    "pages": 7,
-    "boards": 3,
+    "scanned": 179,
+    "pages": 15,
+    "boards": 5,
     "translated": 0,
-    "unchanged": 89,
+    "unchanged": 90,
     "excluded": 0,
     "skipped": 0,
     "schedule": "每日 08:17、12:17、18:17 KST"
