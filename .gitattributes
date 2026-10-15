@@ -1,0 +1,2 @@
+# RFC 5545 requires CRLF and permits significant spaces at folded line endings.
+*.ics -text whitespace=-blank-at-eol
