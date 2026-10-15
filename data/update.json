@@ -1,13 +1,54 @@
 {
-  "checkedAt": "2026-10-15T16:05:18.921716+09:00",
+  "checkedAt": "2026-10-15T23:12:15.562623+09:00",
   "model": "gpt-6-luna",
   "scanned": 179,
   "pages": 15,
   "boards": 5,
   "translated": 0,
-  "unchanged": 90,
-  "excluded": 0,
-  "skipped": 0,
-  "errors": [],
+  "unchanged": 79,
+  "excluded": 2,
+  "skipped": 1,
+  "errors": [
+    {
+      "id": "369657",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376367",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376256",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375375",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375263",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377439",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377183",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376257",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376052",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375925",
+      "error": "ConnectTimeout"
+    }
+  ],
   "schedule": "每日 08:17、12:17、18:17 KST"
 }

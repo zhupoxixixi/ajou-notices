@@ -30,7 +30,48 @@ window.AJOU_NOTICES = {
       "key": "graduate_en"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "id": "369657",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376367",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376256",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375375",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375263",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377439",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377183",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376257",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376052",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375925",
+      "error": "ConnectTimeout"
+    }
+  ],
   "items": [
     {
       "id": "377459",
@@ -59,7 +100,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-14",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "붙임1. 중간설문 매뉴얼(학생용).pdf",
@@ -67,7 +108,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -103,7 +144,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-11",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[붙임1-1] 2026-2학기 학위논문계획서 제출 안내.pdf",
@@ -115,7 +156,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -151,7 +192,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-07",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "(한글) 2027 전기(정시) 석박사통합 학위과정변경 모집전형 안내문.pdf",
@@ -175,7 +216,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -208,7 +249,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-06",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "붙임1. (BK21대학원혁신)국제공동연구 논문 게재비 지원 안내(2026).pdf",
@@ -220,7 +261,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -256,7 +297,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-02",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[붙임2-1] 2026학년도 전기(2027년 2월 졸업예정) 석사학위 청구논문 심사원 제출 안내 및 양식(학생용).hwp",
@@ -268,7 +309,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -305,7 +346,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-11",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "붙임1-1. 2026-2학기 논문표절예방시스템 사용 안내(국문).pdf",
@@ -317,7 +358,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -348,7 +389,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-28",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "1.2026_대학원혁신_연구노트_경진대회_안내문(FAQ).pdf",
@@ -364,7 +405,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -394,10 +435,10 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-12",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -434,10 +475,10 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-13",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -472,10 +513,10 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-13",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -507,10 +548,10 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-21",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -551,7 +592,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
       "editorial": "human",
-      "fetchStatus": "ok"
+      "fetchStatus": "stale"
     },
     {
       "id": "377402",
@@ -580,10 +621,10 @@ window.AJOU_NOTICES = {
       "source": "学校综合公告",
       "board": "university",
       "published": "2026-10-13",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -619,10 +660,10 @@ window.AJOU_NOTICES = {
       "source": "国际交流处",
       "board": "oia",
       "published": "2026-10-02",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -655,7 +696,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=download&articleNo=373075&attachNo=331155"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "D-2留学生兼职许可制度说明",
       "tags": [
         "外国人",
@@ -679,7 +720,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -717,7 +758,7 @@ window.AJOU_NOTICES = {
       "source": "外国人留学生",
       "board": "international",
       "published": "2025-11-05",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "2024 외국인건강보험 제도안내 리플렛-영문.pdf",
@@ -733,7 +774,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -763,7 +804,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-04-02",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "(한국어)외국인 유학생을 위한 「성희롱·성폭력 SOS 가이드」.pdf",
@@ -795,7 +836,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -826,7 +867,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-09",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[붙임 1] 폭력피해이주여성 지원 서비스 홍보 자료.zip",
@@ -834,7 +875,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -859,7 +900,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=360568&attachNo=318554"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "在韩国际学生指南：生活、学业、就业与签证",
       "tags": [
         "外国人",
@@ -884,7 +925,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -918,7 +959,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-10-07",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "(Ajou University) 2027 Spring Graduate School International Admission Guide.pdf",
@@ -926,7 +967,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -958,10 +999,10 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-07-09",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -993,7 +1034,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-07-30",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "2026학년도 1학기『K-STAR 비자트랙』우수인재 후보 선발 안내.pdf",
@@ -1013,7 +1054,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1045,10 +1086,10 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-08-06",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1079,10 +1120,10 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-07-21",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1113,10 +1154,10 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-07-21",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1146,7 +1187,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-28",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[붙임1]_수강포기원(국문).hwp",
@@ -1158,7 +1199,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1208,7 +1249,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
       "editorial": "human",
-      "fetchStatus": "ok"
+      "fetchStatus": "stale"
     },
     {
       "id": "375153",
@@ -1242,7 +1283,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-07",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "(붙임2-1) 2026-2학기 대학원 종합시험 신청안내(학생용)(국문).pdf",
@@ -1250,7 +1291,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1286,7 +1327,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-02",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[붙임1-1] 전적대학원 학점인정신청서(국문).hwp",
@@ -1302,7 +1343,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1334,7 +1375,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-08-21",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "붙임1-1. Information for exemption from foreign language test(학생 공고용).docx",
@@ -1346,7 +1387,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1377,7 +1418,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-08-20",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[붙임1] 2026년 AISA(유실협) 우수장학 외국인 유학생 선발 안내 1부.pdf",
@@ -1385,7 +1426,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1420,10 +1461,10 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-16",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1453,7 +1494,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-09-09",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "(붙임2) ISF 2026 Fall_Participation Guide_20260909.pdf",
@@ -1461,7 +1502,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1492,10 +1533,10 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-08-20",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1527,7 +1568,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-07-27",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[붙임2-2] Korean Language Class Application For Fall Semester 2026.pdf",
@@ -1535,7 +1576,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1576,7 +1617,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
       "editorial": "human",
-      "fetchStatus": "ok"
+      "fetchStatus": "stale"
     },
     {
       "id": "374925",
@@ -1605,7 +1646,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-03",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[산학지원팀]연구자 대상 온라인 교육 MOCA-MOOC 수강매뉴얼.pdf",
@@ -1613,7 +1654,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1643,10 +1684,10 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-18",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1677,7 +1718,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2022-05-12",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "[2023 English Manual] Manual of Statutory Compulsory Education.pdf",
@@ -1685,7 +1726,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1716,7 +1757,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-02",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [
         {
           "label": "2026-2학기(후기) 파안장학문화재단법인 장학생 선발 안내 및 관련 양식.pdf",
@@ -1724,7 +1765,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1754,10 +1795,10 @@ window.AJOU_NOTICES = {
       "source": "国际交流处",
       "board": "oia",
       "published": "2026-10-02",
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "attachments": [],
       "reviewNeeded": false,
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1774,7 +1815,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=376366&attachNo=334027"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026 KRIVET学术会议举办通知",
       "tags": [
         "一般大学院",
@@ -1797,7 +1838,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1820,7 +1861,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=375801&attachNo=333500"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "《大学研究》第5卷第2期论文征稿",
       "tags": [
         "外国人",
@@ -1843,7 +1884,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1866,7 +1907,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=374546&attachNo=332468"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "LuvD首届论文奖征集",
       "tags": [
         "外国人",
@@ -1892,7 +1933,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1906,7 +1947,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-09-03",
       "attachments": [],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "第9期大学（院）生气候环境领袖培养课程招募",
       "tags": [
         "外国人",
@@ -1930,7 +1971,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1944,7 +1985,7 @@ window.AJOU_NOTICES = {
       "board": "international",
       "published": "2026-06-18",
       "attachments": [],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026年暑假韩语写作辅导申请",
       "tags": [
         "外国人",
@@ -1967,7 +2008,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1981,7 +2022,7 @@ window.AJOU_NOTICES = {
       "board": "oia",
       "published": "2026-06-26",
       "attachments": [],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "招募第36期 Ajou Global Ambassador（A.G.A.）",
       "tags": [
         "外国人",
@@ -2005,7 +2046,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2019,7 +2060,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-14",
       "attachments": [],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "社会弱势群体法律制度研究中心第16次研讨会：超高龄与无缘社会的法律问题",
       "tags": [
         "一般大学院",
@@ -2041,7 +2082,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2055,7 +2096,7 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-08-10",
       "attachments": [],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026水原外国居民全球体育日",
       "tags": [
         "外国人",
@@ -2077,7 +2118,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2091,7 +2132,7 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-08-11",
       "attachments": [],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026安东国际留学生节",
       "tags": [
         "外国人",
@@ -2114,7 +2155,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2133,7 +2174,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=373172&attachNo=331164"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026韩国留学短视频竞赛",
       "tags": [
         "外国人",
@@ -2157,7 +2198,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2176,7 +2217,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=372714&attachNo=330651"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026年秋季学期英语课程申请",
       "tags": [
         "一般大学院",
@@ -2201,7 +2242,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2228,7 +2269,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=372629&attachNo=330562"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026年秋季学期选课安排",
       "tags": [
         "一般大学院",
@@ -2251,7 +2292,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2294,7 +2335,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=372921&attachNo=330983"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026年秋季一般大学院新生学号及校园证件办理",
       "tags": [
         "一般大学院",
@@ -2319,7 +2360,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:42:23.514499+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2342,7 +2383,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=371875&attachNo=329741"
         }
       ],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "2026年秋季恢复学位论文提交资格申请",
       "tags": [
         "一般大学院",
@@ -2366,7 +2407,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:47:37.000793+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2380,7 +2421,7 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-07-29",
       "attachments": [],
-      "fetchedAt": "2026-10-15T15:51:35.927476+09:00",
+      "fetchedAt": "2026-10-15T23:12:15.562623+09:00",
       "title": "外国STEM研究生与研究人员调查",
       "tags": [
         "外国人",
@@ -2404,7 +2445,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-15T15:51:35.927476+09:00",
-      "lastCheckedAt": "2026-10-15T15:51:35.927476+09:00",
+      "lastCheckedAt": "2026-10-15T23:12:15.562623+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2443,21 +2484,21 @@ window.AJOU_NOTICES = {
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801"
     }
   ],
-  "checkedAt": "2026-10-15T16:05:18.921716+09:00",
-  "updatedAt": "2026-10-15T16:05:18.921716+09:00",
+  "checkedAt": "2026-10-15T23:12:15.562623+09:00",
+  "updatedAt": "2026-10-15T23:12:15.562623+09:00",
   "automatic": true,
   "schedule": "每日 08:17、12:17、18:17 KST",
   "translationModel": "gpt-6-luna",
   "updateStats": {
-    "checkedAt": "2026-10-15T16:05:18.921716+09:00",
+    "checkedAt": "2026-10-15T23:12:15.562623+09:00",
     "model": "gpt-6-luna",
     "scanned": 179,
     "pages": 15,
     "boards": 5,
     "translated": 0,
-    "unchanged": 90,
-    "excluded": 0,
-    "skipped": 0,
+    "unchanged": 79,
+    "excluded": 2,
+    "skipped": 1,
     "schedule": "每日 08:17、12:17、18:17 KST"
   }
 };
