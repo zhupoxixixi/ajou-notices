@@ -1,8 +1,10 @@
 """Bounded official-board crawl. No credentials; originals retained for review."""
-import argparse, datetime as dt, hashlib, json, re, time
+import argparse, datetime as dt, hashlib, json, re, time, threading
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).parent
@@ -13,9 +15,17 @@ BOARDS = {
     'university': ('学校综合公告', 'https://www.ajou.ac.kr/kr/ajou/notice.do'),
     'graduate_en': ('大学院英文公告', 'https://grad.ajou.ac.kr/gs_eng/community/notice.do'),
 }
+_CLIENTS=threading.local()
+
+def session():
+    if not hasattr(_CLIENTS,'session'):
+        client=requests.Session()
+        client.mount('https://',HTTPAdapter(max_retries=Retry(total=2,connect=2,read=1,backoff_factor=.75,status_forcelist=(429,500,502,503,504),allowed_methods=('GET',))))
+        _CLIENTS.session=client
+    return _CLIENTS.session
 
 def fetch(url):
-    r = requests.get(url, timeout=(8, 15), headers={'User-Agent': 'AjouNoticeArchive/1.0 (public academic notice reader)'})
+    r = session().get(url, timeout=(8, 15), headers={'User-Agent': 'AjouNoticeArchive/1.0 (public academic notice reader)'})
     r.raise_for_status()
     r.encoding = 'utf-8'
     return r.text
