@@ -1,0 +1,38 @@
+async (page) => {
+ const checks=[];const ok=(condition,name)=>{if(!condition)throw new Error(name);checks.push(name);};
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://127.0.0.1:8789/');
+ await page.evaluate(()=>{localStorage.removeItem('ajouNoticeSaved');localStorage.setItem('ajouNoticeTheme','light');});await page.reload();
+ const total=await page.evaluate(()=>window.AJOU_NOTICES.items.length);ok(await page.locator('#count').textContent()===total+' 条','all records loaded');
+ await page.getByRole('button',{name:'外国人',exact:true}).click();
+ ok((await page.locator('#count').textContent())!==total+' 条','foreign audience filters results');
+ await page.getByRole('searchbox',{name:'搜索公告'}).fill('D-2');
+ ok(await page.locator('#list article').count()===1,'Chinese and Latin search');
+ await page.getByRole('button',{name:'查看详情',exact:true}).click();
+ ok(await page.locator('#detail').isVisible(),'detail opens');
+ ok((await page.locator('#detailBody').textContent()).includes('本科'),'eligibility warning preserved');
+ ok(await page.locator('#detailBody a').first().getAttribute('href')==='https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=373075','official source retained');
+ await page.getByRole('button',{name:'☆ 收藏',exact:true}).click();
+ await page.getByRole('button',{name:'关闭详情',exact:true}).click();
+ await page.locator('[data-view="saved"]').click();ok(await page.locator('#list article').count()===1,'saved view filters');
+ await page.reload();await page.locator('[data-view="saved"]').click();ok(await page.locator('#list article').count()===1,'saved persists reload');
+ await page.locator('#reset').click();await page.getByRole('searchbox',{name:'搜索公告'}).fill('学位论文计划书');await page.getByRole('button',{name:'查看详情',exact:true}).click();
+ ok(page.url().includes('#notice-375650'),'deep link generated');await page.reload();ok(await page.locator('#detail').isVisible(),'deep link reopens');await page.keyboard.press('Escape');
+ ok(!(await page.locator('#detail').isVisible()),'Escape closes dialog');
+ await page.getByRole('searchbox',{name:'搜索公告'}).fill('zzzz-no-such-announcement');ok(await page.getByRole('heading',{name:'没有符合条件的公告'}).isVisible(),'empty state');
+ await page.locator('#reset').click();await page.locator('#status').selectOption('ended');ok((await page.locator('#list .status-tag').allTextContents()).every(x=>x==='已截止 / 结束'),'expired filter');
+ await page.locator('#reset').click();await page.locator('#source').selectOption('oia');ok(await page.locator('#list article').count()>=2,'source filter');
+ await page.locator('#reset').click();await page.locator('#loadMore').click();ok(await page.locator('#list article').count()===24,'pagination');
+ await page.getByRole('button',{name:'收录说明 ↗'}).click();ok((await page.locator('#aboutBody').textContent()).includes('本科在读生'),'excluded scope explained');await page.keyboard.press('Escape');
+ await page.setViewportSize({width:390,height:844});await page.locator('#reset').click();await page.evaluate(()=>window.scrollTo(0,0));
+ ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'390px no horizontal overflow');await page.screenshot({path:'output/mobile-light.png'});
+ await page.locator('#theme').click();ok(await page.evaluate(()=>document.documentElement.classList.contains('dark')),'dark mode');await page.screenshot({path:'output/mobile-dark.png'});
+ await page.setViewportSize({width:320,height:740});ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'320px no horizontal overflow');
+ await page.locator('#list [data-detail]').first().click();ok(await page.evaluate(()=>{const x=document.querySelector('#detail');return x.scrollWidth<=x.clientWidth;}),'mobile dialog no overflow');await page.screenshot({path:'output/mobile-detail.png'});await page.keyboard.press('Escape');
+ await page.setViewportSize({width:1440,height:1000});await page.locator('#theme').click();await page.evaluate(()=>window.scrollTo(0,0));await page.screenshot({path:'output/desktop-final.png'});
+ const response=await page.request.get('http://127.0.0.1:8789/notices.json');ok(response.ok()&&(await response.json()).items.length===total,'export JSON valid');
+ const md=await page.request.get('http://127.0.0.1:8789/'+encodeURIComponent('亚洲大学中文公告.md'));ok(md.ok()&&(await md.text()).includes('K-STAR'),'Chinese Markdown export valid');
+ ok(errors.length===0,'no browser runtime errors');
+ await page.evaluate(()=>localStorage.removeItem('ajouNoticeSaved'));await page.reload();
+ return {passed:checks.length,checks};
+}

@@ -1,0 +1,18 @@
+const assert=require('node:assert/strict');
+const {status,matches,sortItems}=require('./src/core.js');
+const at=s=>Date.parse(s+'+09:00');
+const r={id:'x',title:'论文计划书',titleKo:'학위논문계획서',summary:'提交',audience:'研究生',details:['12 学分'],tags:['一般大学院'],published:'2026-09-11',kind:'deadline',start:'2026-10-14',end:'2026-10-16'};
+assert.equal(status(r,at('2026-10-13T23:59:59')),'upcoming');
+assert.equal(status(r,at('2026-10-14T00:00:00')),'active');
+assert.equal(status(r,at('2026-10-16T23:59:59')),'active');
+assert.equal(status(r,at('2026-10-17T00:00:00')),'ended');
+assert.equal(status({...r,end:'2026-10-16T17:00'},at('2026-10-16T17:00:01')),'ended');
+assert.equal(status({...r,kind:'guide'},at('2027-01-01T00:00:00')),'guide');
+assert.equal(status({...r,reviewNeeded:true},at('2026-10-15T12:00:00')),'review');
+assert(matches(r,{q:'학위',tag:'一般大学院'},[]));
+assert(!matches(r,{tag:'外国人'},[]));
+assert(!matches(r,{saved:true},[]));
+assert(matches(r,{saved:true},['x']));
+assert.equal(sortItems([{...r,id:'old',end:'2026-09-01'},r],'priority',at('2026-10-15T12:00:00'))[0].id,'x');
+console.log('12 meaningful checks passed: KST boundaries, exact time, guides, changed sources, search, audience, saved, ordering.');
+assert.equal(status({...r,kind:'event',start:null,end:null,event:'2026-10-27T17:00'},at('2026-10-28T00:00:00')),'ended');

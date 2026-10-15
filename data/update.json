@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-10-15T15:51:35.927476+09:00",
+  "model": "gpt-6-luna",
+  "scanned": 179,
+  "pages": 15,
+  "boards": 5,
+  "translated": 1,
+  "unchanged": 86,
+  "excluded": 2,
+  "skipped": 1,
+  "errors": [],
+  "schedule": "每日 08:17、12:17、18:17 KST"
+}

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#111111">
+<title>亚洲大学中文公告 · AJOU NOTICE</title>
+<meta name="description" content="亚洲大学一般大学院、外国留学生及研究生相关公告的中文收录。查看适用对象、办理流程、截止日期和官方原文。">
+<link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="notice.css">
+<script>try{const t=localStorage.getItem('ajouNoticeTheme');document.documentElement.classList.toggle('dark',t==='dark'||(!t&&matchMedia('(prefers-color-scheme:dark)').matches));}catch{}</script>
+<script defer src="data.js"></script><script defer src="core.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">跳到公告内容</a>
+<header class="site-header"><div class="wide-shell header-inner">
+ <a class="brand" href="./" aria-label="亚洲大学中文公告首页"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none"><path d="M9 5h14v22H9zM12 11h8m-8 5h8m-8 5h5M6 9v18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></span><span class="brand-copy"><strong>AJOU NOTICE</strong><small>亚洲大学 · 中文公告</small></span></a>
+ <div class="header-actions"><a class="menu-link" href="https://zhupoxixixi.github.io/ajou-menu/" target="_blank" rel="noopener noreferrer">食堂菜单 ↗</a><button id="theme" class="icon-button" aria-label="切换深浅色" title="切换深浅色">◐</button></div>
+</div></header>
+<main id="main" class="page-shell" tabindex="-1">
+ <section class="intro"><div class="eyebrow">AJOU UNIVERSITY / NOTICE ARCHIVE</div><h1>与你有关的校园公告</h1><p>外国人留学生 · 一般大学院 · 研究生活动</p><div class="update-row"><span class="update-dot"></span><span id="updated">正在读取公告…</span><button id="about" class="text-button">收录说明 ↗</button></div></section>
+ <aside class="project-notice"><p>官方公告的<strong>中文要点整理</strong>，保留原文与附件。先看适用对象，再看办理时间；每日自动检查，所有日期均为韩国时间。</p></aside>
+ <div id="stale" class="status-banner" hidden></div>
+ <section aria-label="收录概览" class="overview"><button data-quick="all"><strong id="total">—</strong><span>已收录</span></button><button data-quick="active"><strong id="active">—</strong><span>时间范围内</span></button><button data-quick="guide"><strong id="guides">—</strong><span>常用指南</span></button></section>
+ <section class="selection-panel" aria-label="公告筛选">
+  <div class="restaurant-tabs" id="audienceTabs" role="group" aria-label="适用范围"><button class="restaurant-button" data-tag="" aria-pressed="true">全部公告</button><button class="restaurant-button" data-tag="外国人" aria-pressed="false">外国人</button><button class="restaurant-button" data-tag="一般大学院" aria-pressed="false">一般大学院</button></div>
+  <label class="search-box"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="1.5"/><path d="m16 16 5 5" stroke="currentColor" stroke-width="1.5"/></svg><input id="search" type="search" placeholder="搜索中文、韩文、TOPIK、论文…" aria-label="搜索公告"></label>
+  <div class="window-tabs" id="topicTabs" role="group" aria-label="公告主题"></div>
+  <div class="filter-row"><label><span class="sr-only">公告时间状态</span><select id="status"><option value="">全部时间状态</option value="active">时间范围内</option><option value="upcoming">即将开始</option><option value="guide">常用指南</option><option value="ended">已截止 / 结束</option><option value="review">更新待复核</option></select></label><label><span class="sr-only">公告来源</span><select id="source"><option value="">全部官方来源</option></select></label><label><span class="sr-only">排序方式</span><select id="sort"><option value="priority">按近期事项</option><option value="latest">按发布时间</option></select></label></div>
+ </section>
+ <div class="list-heading"><h2 id="listTitle">公告收录</h2><span id="count" role="status" aria-live="polite"></span><button id="reset" class="text-button">重置筛选</button></div>
+ <div id="list"></div><button id="loadMore" class="load-more" hidden>显示更多公告</button>
+ <noscript><p>请启用 JavaScript 查看筛选与详情，也可下载 <a href="亚洲大学中文公告.md">中文公告文档</a>。</p></noscript>
+ <section class="source-section"><h2>直达官方公告板</h2><div id="sourceLinks"></div></section>
+ <footer class="site-footer"><p>非学校官方网站 · 按公开公告整理</p><p>“时间范围内”仅按公告日期判断，不代表资格审核通过或尚有名额。</p><a href="亚洲大学中文公告.md" download>下载中文 Markdown</a></footer>
+</main>
+<nav class="date-navigation" aria-label="公告导航"><div class="nav-stats"><div class="wide-shell nav-stats-inner"><p id="bottomMeta">官方来源 · 中文整理</p><p>Asia/Seoul · KST</p></div></div><div class="wide-shell notice-nav"><button class="nav-item" data-view="all" aria-pressed="true"><span aria-hidden="true">▤</span>公告</button><button class="nav-item" data-view="active" aria-pressed="false"><span aria-hidden="true">◷</span>近期</button><button class="nav-item" data-view="saved" aria-pressed="false"><span aria-hidden="true">☆</span><span id="savedLabel">收藏</span></button><a class="nav-item" href="亚洲大学中文公告.md" download><span aria-hidden="true">↓</span>导出</a></div></nav>
+<dialog id="detail" class="app-dialog notice-dialog" aria-labelledby="detailTitle"><div class="dialog-heading"><span class="eyebrow">AJOU NOTICE</span><button id="closeDetail" class="icon-button dialog-close" aria-label="关闭详情">✕</button></div><div id="detailBody"></div></dialog>
+<dialog id="aboutDialog" class="app-dialog notice-dialog" aria-labelledby="aboutTitle"><div class="dialog-heading"><h2 id="aboutTitle">收录范围与核验说明</h2><button id="closeAbout" class="icon-button dialog-close" aria-label="关闭说明">✕</button></div><div id="aboutBody" class="dialog-content"></div></dialog>
+<div id="toast" class="toast" role="status" hidden></div>
+</body></html>
