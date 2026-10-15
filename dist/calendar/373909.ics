@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:373909-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:申请 / 办理截止：AISA 优秀外国留学生奖学金（已
+ 截止）
+DESCRIPTION:适用对象：在韩国专科、大学或大学院就读的
+ 外国学生，包含语言研修生\n9 月 1—18 日申请；研究生
+ 属于公告列出的申请对象。\n中文要点，办理前请核对
+ 最新原文。\n官方原文：https://grad.ajou.ac.kr/gs_eng/community
+ /notice.do?mode=view&articleNo=373909\n原文未给具体时刻，本日
+ 历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373909
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

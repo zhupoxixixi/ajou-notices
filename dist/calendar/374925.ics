@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:374925-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:申请 / 办理截止：校内研究人员研究安全培训（
+ 本期已结束）
+DESCRIPTION:适用对象：教师及本科、研究生等参与校内研
+ 究者\nMOCA-MOOC 本期修读时间为 9 月 1—30 日。\n中文要
+ 点，办理前请核对最新原文。\n官方原文：https://grad.ajo
+ u.ac.kr/gs/community/notice.do?mode=view&articleNo=374925\n原文未给
+ 具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374925
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

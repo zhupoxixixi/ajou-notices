@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:375643-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:申请 / 办理截止：Turnitin 论文查重账号申请及结
+ 果提交
+DESCRIPTION:适用对象：2026 秋季提交学位论文、预计 2027 
+ 年 2 月毕业者\n账号申请至 11 月 13 日；必须使用学校
+ 邮箱，按规定提交完整论文与检测结果。\n中文要点，
+ 办理前请核对最新原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs/community/notice.do?mode=view&articleNo=375643\n原文未给具体
+ 时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375643
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

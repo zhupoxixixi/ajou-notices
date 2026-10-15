@@ -1,54 +1,135 @@
 {
-  "checkedAt": "2026-10-15T23:12:15.562623+09:00",
+  "checkedAt": "2026-10-16T03:57:29.212371+09:00",
   "model": "gpt-6-luna",
-  "scanned": 179,
-  "pages": 15,
-  "boards": 5,
-  "translated": 0,
-  "unchanged": 79,
-  "excluded": 2,
-  "skipped": 1,
-  "errors": [
+  "scanned": 523,
+  "pages": 36,
+  "boards": 10,
+  "translated": 2,
+  "unchanged": 291,
+  "excluded": 0,
+  "skipped": 0,
+  "errors": [],
+  "schedule": "每日 08:17、12:17、18:17 KST",
+  "sourceStatus": [
     {
-      "id": "369657",
-      "error": "ConnectTimeout"
+      "key": "graduate",
+      "name": "一般大学院",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do",
+      "pages": 2,
+      "scanned": 30,
+      "status": "ok",
+      "bounded": false,
+      "boundary": "known-page",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "376367",
-      "error": "ConnectTimeout"
+      "key": "international",
+      "name": "外国人留学生",
+      "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do",
+      "pages": 2,
+      "scanned": 23,
+      "status": "ok",
+      "bounded": false,
+      "boundary": "date-window",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "376256",
-      "error": "ConnectTimeout"
+      "key": "oia",
+      "name": "国际交流处",
+      "url": "https://www.ajou.ac.kr/oia/notice/notice.do",
+      "pages": 8,
+      "scanned": 83,
+      "status": "ok",
+      "bounded": true,
+      "boundary": "request-limit",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "375375",
-      "error": "ConnectTimeout"
+      "key": "university",
+      "name": "学校综合公告",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do",
+      "pages": 10,
+      "scanned": 105,
+      "status": "ok",
+      "bounded": true,
+      "boundary": "request-limit",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "375263",
-      "error": "ConnectTimeout"
+      "key": "graduate_en",
+      "name": "大学院英文公告",
+      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do",
+      "pages": 2,
+      "scanned": 27,
+      "status": "ok",
+      "bounded": false,
+      "boundary": "known-page",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "377439",
-      "error": "ConnectTimeout"
+      "key": "innovation",
+      "name": "大学院创新 / BK21",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do",
+      "pages": 2,
+      "scanned": 25,
+      "status": "ok",
+      "bounded": false,
+      "boundary": "known-page",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "377183",
-      "error": "ConnectTimeout"
+      "key": "scholarship",
+      "name": "奖学金公告",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do",
+      "pages": 2,
+      "scanned": 23,
+      "status": "ok",
+      "bounded": false,
+      "boundary": "known-page",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "376257",
-      "error": "ConnectTimeout"
+      "key": "library",
+      "name": "中央图书馆",
+      "url": "https://library.ajou.ac.kr/guide/bulletins/notice",
+      "pages": 5,
+      "scanned": 100,
+      "status": "ok",
+      "bounded": false,
+      "boundary": "date-window",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "376052",
-      "error": "ConnectTimeout"
+      "key": "academic_calendar",
+      "name": "大学院学事日历",
+      "url": "https://grad.ajou.ac.kr/gs/bachelor/schedule.do",
+      "pages": 1,
+      "scanned": 30,
+      "status": "ok",
+      "bounded": false,
+      "boundary": "academic-year",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     },
     {
-      "id": "375925",
-      "error": "ConnectTimeout"
+      "key": "college",
+      "name": "软件融合学院",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do",
+      "pages": 2,
+      "scanned": 23,
+      "status": "ok",
+      "bounded": false,
+      "boundary": "known-page",
+      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
     }
-  ],
-  "schedule": "每日 08:17、12:17、18:17 KST"
+  ]
 }

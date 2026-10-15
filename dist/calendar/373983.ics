@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:373983-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:申请 / 办理截止：外语考试免试材料申请（已截
+ 止）
+DESCRIPTION:适用对象：具备满足要求的英语或韩语成绩、
+ 尚需申请免试者\n本学期材料提交期为 9 月 1—30 日；
+ 已通过者无需重复提交。\n中文要点，办理前请核对最
+ 新原文。\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/no
+ tice.do?mode=view&articleNo=373983\n原文未给具体时刻，本日历
+ 使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373983
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

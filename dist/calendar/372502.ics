@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372502-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART:20260311T043000Z
+DTEND:20260311T060000Z
+SUMMARY:活动：海外学者讲座：区域公共管理制度研究
+DESCRIPTION:适用对象：本校大学院学生及相关教职员；未
+ 说明外国研究生或学科限制。\n邀请University of North Texas
+ 学者举办讲座，讨论公共政策与弱势群体服务的制度路
+ 径。\nAI 自动整理，重要日期请核对原文。\n官方原文
+ ：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=37250
+ 2
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372502
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

@@ -9,7 +9,8 @@ SYSTEM='''你是亚洲大学官方公告的简体中文编辑。用户消息中�
 保留英文专名、金额、时间、资格和必要韩文菜单名称。일반대학원译为一般大学院（普通研究生院）。韩文标题由程序保留，中文标题不重复整个原题。
 有海报时必须阅读海报；海报中的本科、国籍和截止限制优先于笼统标题。附件未提供正文时不得猜测内容。
 学校页面与附带主办方更新不同时明确差异，以明确标注延期的主办方页面为准。没有确切截止时刻只输出日期，不能杜撰17:00或23:59。不能把发布日期当截止日。日期均为韩国时间，仅用YYYY-MM-DD或YYYY-MM-DDTHH:MM；上下文不能确定年份时填null并说明。政策摘要不构成个案资格认定。原文截止日期早于开始日期时，不猜测笔误，把end设为null并在note说明。公告已写明一般大学院在读生且无国籍限制时，不额外杜撰外国研究生资格缺口。
-仅返回JSON对象：{"include":true或false,"reason":"筛选依据中文短句","title":"中文标题","tags":[从外国人、一般大学院、课程学务、论文科研、奖学资助、生活签证、招生学位、就业活动中选择],"audience":"对象及条件","summary":"80字内摘要","details":["要点1","要点2"],"kind":"deadline或event或guide","start":null,"end":null,"event":null,"endEvidence":"原文中支持end的逐字短句，没有则为空","note":"限制、冲突或缺口，没有则为空"}。
+start/end专用于申请或办理开始/截止；event/eventEnd专用于活动开始/结束，不把两组日期混用，不把公告展示结束日当申请截止日。eligibility为明确适用的confirmed，或缺少决定资格所需条件的uncertain；BK21限参与学生的必须写清。不能仅因未单列外国人而标uncertain。当前读者为一般大学院사이버보안학과（网络安全学科）的中国学生；其他学科专属毕业要求不能推定适用。
+仅返回JSON对象：{"include":true或false,"reason":"筛选依据中文短句","title":"中文标题","tags":[从外国人、一般大学院、课程学务、论文科研、奖学资助、生活签证、招生学位、就业活动中选择],"audience":"对象及条件","summary":"80字内摘要","details":["要点1","要点2"],"kind":"deadline或event或guide","eligibility":"confirmed或uncertain","start":null,"end":null,"event":null,"eventEnd":null,"endEvidence":"原文中支持end的逐字短句，没有则为空","eventEvidence":"原文中支持活动日期的逐字短句，没有则为空","note":"限制、冲突或缺口，没有则为空"}。
 include=false时其他字段可省略。details为2至6条，每条不超过180字。kind=guide仅用于长期制度参考，短期活动日期不明也不是guide。中文为摘要，不是逐字全文翻译。'''
 class TranslationError(RuntimeError):pass
 def valid_date(value):
@@ -27,8 +28,10 @@ def validate(payload,source):
     if not isinstance(payload.get('details'),list) or not 2<=len(payload['details'])<=6 or not all(isinstance(x,str) and x.strip() and len(x)<=450 for x in payload['details']):raise TranslationError('Invalid details')
     if not isinstance(payload.get('tags'),list) or not payload['tags'] or any(x not in TAGS for x in payload['tags']):raise TranslationError('Invalid categories')
     if payload.get('kind') not in ('deadline','event','guide'):raise TranslationError('Invalid date kind')
-    if any(not valid_date(payload.get(k)) for k in ('start','end','event')):raise TranslationError('Invalid ISO date')
-    if payload.get('start') and payload.get('end') and payload['start'][:10]>payload['end'][:10]:
+    if any(not valid_date(payload.get(k)) for k in ('start','end','event','eventEnd')):raise TranslationError('Invalid ISO date')
+    if payload.get('eligibility') not in (None,'confirmed','uncertain'):raise TranslationError('Invalid eligibility')
+    if payload.get('eventEnd') and (not payload.get('event') or payload['eventEnd']<payload['event']):raise TranslationError('Invalid event interval')
+    if payload.get('start') and payload.get('end') and dt.datetime.fromisoformat(payload['start'])>dt.datetime.fromisoformat(payload['end']+('T23:59:59' if 'T' not in payload['end'] else '')):
         payload['end']=None
         payload['note']=(payload.get('note') or '')+' 原文起止日期顺序存在冲突，截止日期待向学校确认，未据此判断仍可申请。'
     if payload.get('end') and not str(payload.get('endEvidence','')).strip():raise TranslationError('Missing date evidence')

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:375263-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20261007T050000Z
+SUMMARY:申请 / 办理截止：BK21 内容创作大赛“大家的 BK”
+ （已截止）
+DESCRIPTION:适用对象：AI 研究案例及短视频赛道面向第 4 
+ 阶段 BK21 参与人员等\n10 月 7 日 14:00 截止，包含 AI 研
+ 究案例、信息图、短视频和照片赛道。\n中文要点，办
+ 理前请核对最新原文。\n官方原文：https://grad.ajou.ac.kr/g
+ s/community/notice.do?mode=view&articleNo=375263
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375263
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

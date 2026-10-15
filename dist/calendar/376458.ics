@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:376458-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:申请 / 办理截止：秋季退课与学分放弃申请（已
+ 截止）
+DESCRIPTION:适用对象：需按学则申请退课或符合条件的 F 
+ 学分放弃者\n申请期为 9 月 22—28 日，填写附件交学科
+ 办公室。\n中文要点，办理前请核对最新原文。\n官方
+ 原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articl
+ eNo=376458\n原文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376458
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

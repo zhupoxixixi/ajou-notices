@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:370263-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T185254Z
+LAST-MODIFIED:20261015T185254Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:申请 / 办理截止：2026区块链Meetup Day第11期：提示
+ 词与氛围编程实作培训
+DESCRIPTION:适用对象：对区块链理论与实作培训感兴趣者
+ ；未注明学籍或国籍限制，研究生可报名，名额35人，
+ 先到先得。\n参加区块链与AI应用实作培训，内容包括Cl
+ aude Code开发环境及应用服务制作。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://www.ajou.ac.kr/sw/board
+ /notice.do?mode=view&articleNo=370263\n原文未给具体时刻，本日
+ 历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370263
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:370263-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T185254Z
+LAST-MODIFIED:20261015T185254Z
+DTSTART:20260704T010000Z
+DTEND:20260704T090000Z
+SUMMARY:活动：2026区块链Meetup Day第11期：提示词与氛围编
+ 程实作培训
+DESCRIPTION:适用对象：对区块链理论与实作培训感兴趣者
+ ；未注明学籍或国籍限制，研究生可报名，名额35人，
+ 先到先得。\n参加区块链与AI应用实作培训，内容包括Cl
+ aude Code开发环境及应用服务制作。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://www.ajou.ac.kr/sw/board
+ /notice.do?mode=view&articleNo=370263
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370263
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

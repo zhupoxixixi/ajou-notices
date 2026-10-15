@@ -1,5 +1,7 @@
 """Build offline-capable GitHub Pages assets from persistent Chinese summaries."""
-import json, shutil
+import json, shutil, hashlib, datetime as dt
+from calendar_export import calendar, events_for
+from crawl import BOARDS
 from pathlib import Path
 ROOT=Path(__file__).parent
 
@@ -14,11 +16,51 @@ def build():
         if other in records and primary in records:
             item=records[primary];alt=records.pop(other)
             item['extra']=[x for x in item.get('extra',[]) if x['url']!=alt['url']]+[{'label':'同一通知的英文版本','url':alt['url']}]
+            shared=item.get('otherSources',[])+alt.get('otherSources',[])+[{'key':alt['board'],'name':alt['source'],'url':alt['url']}]
+            item['otherSources']=list({x['url']:x for x in shared if x['url']!=item['url']}.values())
     data['items']=list(records.values())
+    old_sources={s['key']:s for s in data.get('sources',[])}
+    data['sources']=[{'key':key,'name':name,'url':url,**old_sources.get(key,{})} for key,(name,url) in BOARDS.items()]
+    data['referenceLinks']=[{'name':'网络安全学科官网','url':'https://security.ajou.ac.kr/'},{'name':'学院研究生综合考试要求','url':'https://www.ajou.ac.kr/sw/grad/comprehensive-examination.do'}]
     assert data['items'] and len({x['id'] for x in data['items']})==len(data['items'])
     dist=ROOT/'dist';dist.mkdir(exist_ok=True)
-    for name in ('index.html','styles.css','notice.css','app.js','core.js','favicon.svg','THIRD_PARTY_NOTICES.md'):
+    for name in ('index.html','styles.css','notice.css','app.js','core.js','favicon.svg','THIRD_PARTY_NOTICES.md','manifest.webmanifest','404.html'):
         shutil.copy2(ROOT/'src'/name,dist/name)
+    if (ROOT/'src/icons').exists():shutil.copytree(ROOT/'src/icons',dist/'icons',dirs_exist_ok=True)
+    caldir=dist/'calendar';caldir.mkdir(exist_ok=True)
+    for stale in caldir.glob('*.ics'):stale.unlink()
+    all_events=[]
+    history_path=ROOT/'data/calendar_state.json'
+    previous=json.loads(history_path.read_text(encoding='utf8')) if history_path.exists() else {}
+    history={}
+    for item in data['items']:
+        events=events_for(item,data.get('reviewedAt') or '2026-10-15')
+        if events:
+            for event in events:
+                uid=next(line[4:] for line in event if line.startswith('UID:'))
+                old=previous.get(uid,{})
+                fields=[line for line in event if not line.startswith(('DTSTAMP:','LAST-MODIFIED:','SEQUENCE:'))]
+                changed=old.get('fields')!=fields or old.get('cancelled',False)
+                sequence=old.get('sequence',0)+(1 if old and changed else 0)
+                event.insert(-1,'SEQUENCE:'+str(sequence))
+                history[uid]={'fields':fields,'sequence':sequence,'event':event,'cancelled':False}
+            all_events.extend(events);item['calendarFile']='calendar/'+item['id']+'.ics'
+            (caldir/(item['id']+'.ics')).write_bytes(calendar(events).encode('utf8'))
+        else:item.pop('calendarFile',None)
+    for uid,old in previous.items():
+        if uid in history:continue
+        event=[line for line in old['event'] if not line.startswith(('STATUS:','SEQUENCE:'))]
+        if not old.get('cancelled'):
+            modified=dt.datetime.now(dt.timezone.utc).strftime('%Y%m%dT%H%M%SZ')
+            event=[line.split(':',1)[0]+':'+modified if line.startswith(('DTSTAMP:','LAST-MODIFIED:')) else line for line in event]
+        sequence=old.get('sequence',0)+(0 if old.get('cancelled') else 1)
+        event[-1:-1]=['STATUS:CANCELLED','SEQUENCE:'+str(sequence)]
+        history[uid]={**old,'sequence':sequence,'event':event,'cancelled':True}
+        all_events.append(event)
+    history_path.write_text(json.dumps(history,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
+    (dist/'notices.ics').write_bytes(calendar(all_events).encode('utf8'))
+    version=hashlib.sha256(''.join((dist/name).read_text(encoding='utf8') for name in ('index.html','styles.css','notice.css','app.js','core.js')).encode()).hexdigest()[:12]
+    (dist/'sw.js').write_text((ROOT/'src/sw.js').read_text(encoding='utf8').replace('__VERSION__',version),encoding='utf8')
     serialized=json.dumps(data,ensure_ascii=False,indent=2)
     (dist/'notices.json').write_text(serialized+'\n',encoding='utf8')
     (dist/'data.js').write_text('window.AJOU_NOTICES = '+serialized+';\n',encoding='utf8')

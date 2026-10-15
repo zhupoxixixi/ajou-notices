@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:374882-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:申请 / 办理截止：Paan 硕博奖学金校内推荐（已截
+ 止）
+DESCRIPTION:适用对象：符合基金会条件并可按时提交成果
+ 的硕博在读生\n校内申请 9 月 22 日截止；生活费性质资
+ 助上限为 200 万韩元。\n中文要点，办理前请核对最新
+ 原文。\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do
+ ?mode=view&articleNo=374882\n原文未给具体时刻，本日历使用
+ 全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374882
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

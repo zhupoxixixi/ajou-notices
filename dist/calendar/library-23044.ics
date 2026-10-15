@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:library-23044-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T185254Z
+LAST-MODIFIED:20261015T185254Z
+DTSTART:20260916T010000Z
+DTEND:20260923T063000Z
+SUMMARY:活动：2026年9月研究能力提升系列讲座
+DESCRIPTION:适用对象：研究生；校内其他成员也可申请参
+ 加。\n四场在线讲座涵盖论文写作、生成式AI伦理、JCR
+ 期刊分析与Citeasy文献管理。\nAI 自动整理，重要日期请
+ 核对原文。\n官方原文：https://library.ajou.ac.kr/guide/bulleti
+ ns/notice/23044
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-library-23044
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:374886-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:申请 / 办理截止：前大学院与本科预修硕士课程
+ 学分认定（已截止）
+DESCRIPTION:适用对象：符合条件的新生、转学生及曾在本
+ 校本科预修硕士课者\n9 月 22 日前将申请表与成绩单交
+ 学科办公室。\n中文要点，办理前请核对最新原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&
+ articleNo=374886\n原文未给具体时刻，本日历使用全天事项
+ 。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374886
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

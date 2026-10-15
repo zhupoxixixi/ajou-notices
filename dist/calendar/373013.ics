@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:373013-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20260810T020000Z
+SUMMARY:申请 / 办理截止：K-STAR 科技人才签证推荐：2026 
+ 上半年批次
+DESCRIPTION:适用对象：符合学位阶段、研究能力及 GPA 条
+ 件的理工科外国研究生与博士后\n本批次已于 8 月 10 日
+  11:00 截止，保留条件供后续批次参考。\n中文要点，办
+ 理前请核对最新原文。\n官方原文：https://grad.ajou.ac.kr/g
+ s/community/notice.do?mode=view&articleNo=373013
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373013
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

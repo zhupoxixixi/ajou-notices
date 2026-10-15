@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:375153-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20260910T145900Z
+SUMMARY:申请 / 办理截止：2026 秋季综合考试申请（已截止
+ ）
+DESCRIPTION:适用对象：已取得至少 18 个专业课学分、GPA 
+ ≥ 3.0 并获导师推荐者\n9 月 8 日 09:00 至 9 月 10 日 23:59 
+ 申请，考试由学科在 10 月初安排。\n中文要点，办理前
+ 请核对最新原文。\n官方原文：https://grad.ajou.ac.kr/gs/comm
+ unity/notice.do?mode=view&articleNo=375153
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375153
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:calendar-dd0aae646035-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:申请 / 办理截止：第二学期硕博论文计划书提交
+DESCRIPTION:适用对象：一般大学院硕士、博士研究生；学
+ 科具体要求请以相关通知及院系说明为准。\n硕士、博
+ 士研究生须在指定期间提交第二学期论文计划书。\nAI 
+ 自动整理，重要日期请核对原文。\n官方原文：https://gr
+ ad.ajou.ac.kr/gs/bachelor/schedule.do\n原文未给具体时刻，本日
+ 历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-calendar-dd0aae646
+ 035
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

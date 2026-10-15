@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:375392-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20261001T010000Z
+DTEND:20261001T084000Z
+SUMMARY:活动：ISF 外国留学生职业博览会与升学论坛（已
+ 结束）
+DESCRIPTION:适用对象：对就业、创业和继续升学感兴趣的
+ 外国留学生\n10 月 1 日在世宗大学广开土会议厅 B2 举行
+ 。\n中文要点，办理前请核对最新原文。\n官方原文：ht
+ tps://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=375
+ 392
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375392
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

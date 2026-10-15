@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377134-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20261021T080000Z
+SUMMARY:申请 / 办理截止：2027 春季：硕士转硕博连读申请
+DESCRIPTION:适用对象：本校硕士在读、已完成至少一学期
+ 且获导师推荐者\n10 月 21 日 17:00 截止，将学位过程变
+ 更申请表和成绩单交至栗谷馆 305 室。\n中文要点，办
+ 理前请核对最新原文。\n官方原文：https://grad.ajou.ac.kr/g
+ s/community/notice.do?mode=view&articleNo=377134
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377134
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

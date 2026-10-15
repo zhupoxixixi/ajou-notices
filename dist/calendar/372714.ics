@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372714-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART:20260807T090000Z
+SUMMARY:申请 / 办理截止：2026年秋季学期英语课程申请
+DESCRIPTION:适用对象：一般大学院在读生、已完成全部必
+ 修课程者及ABD学生；休学学生和指定时期入学的药学院
+ 学生不符合资格。\n英语课程结业或提交有效英语成绩
+ ，可满足论文提交的英语资格要求；申请已于2026-08-07
+ 截止。\nAI 自动整理，重要日期请核对原文。\n官方原
+ 文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&artic
+ leNo=372714
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372714
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

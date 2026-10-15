@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:370613-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART:20260622T050000Z
+SUMMARY:申请 / 办理截止：2026 AI融合夏季学校（训练营）
+ 参加者招募
+DESCRIPTION:适用对象：一般大学院在读生及2026学年第二学
+ 期入学预定者；未限定国籍。\n招募参加AI融合夏季学
+ 校各级课程，申请截止为2026-06-22 14:00。\nAI 自动整理，
+ 重要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/g
+ s/bk21/bk21_bbs.do?mode=view&articleNo=370613
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:370613-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260827
+SUMMARY:活动：2026 AI融合夏季学校（训练营）参加者招募
+DESCRIPTION:适用对象：一般大学院在读生及2026学年第二学
+ 期入学预定者；未限定国籍。\n招募参加AI融合夏季学
+ 校各级课程，申请截止为2026-06-22 14:00。\nAI 自动整理，
+ 重要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/g
+ s/bk21/bk21_bbs.do?mode=view&articleNo=370613\n原文未给具体时刻
+ ，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

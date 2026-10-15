@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372439-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:申请 / 办理截止：结业生研究注册：缴费结束，
+ 类型更正至 10 月 26 日
+DESCRIPTION:适用对象：已完成课程、尚未获学位的结业研
+ 究生\n最终缴费期已于 10 月 14 日结束；注册类型误选
+ 者可按公告申请更正。\n中文要点，办理前请核对最新
+ 原文。\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notic
+ e.do?mode=view&articleNo=372439\n原文未给具体时刻，本日历使
+ 用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372439
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

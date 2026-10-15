@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377021-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20270129T060000Z
+SUMMARY:申请 / 办理截止：国际共同研究论文发表费资助
+DESCRIPTION:适用对象：2026 秋季已注册的研究生，含研究
+ 注册生；需符合作者与论文条件\n申请至 2027 年 1 月 29 
+ 日 15:00，按学科及期刊条件最高资助 300 万或 500 万韩
+ 元。\n中文要点，办理前请核对最新原文。\n官方原文
+ ：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=37
+ 7021
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377021
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

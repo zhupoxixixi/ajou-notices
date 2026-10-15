@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:376256-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:申请 / 办理截止：博士论文送审申请（已截止）
+DESCRIPTION:适用对象：预计 2027 年 2 月取得博士学位者\n9 
+ 月 28 日至 10 月 2 日申请并缴费；审查费 55 万韩元。\n
+ 中文要点，办理前请核对最新原文。\n官方原文：https:/
+ /grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376256\n原
+ 文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376256
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

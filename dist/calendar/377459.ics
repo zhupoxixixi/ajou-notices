@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377459-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20261030T090000Z
+SUMMARY:申请 / 办理截止：2026 秋季研究生期中课程意见调
+ 查
+DESCRIPTION:适用对象：本学期一般大学院课程的选课学生
+ ；研究课程除外\n10 月 30 日 18:00 前，通过 Portal 完成期
+ 中课程反馈。\n中文要点，办理前请核对最新原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&
+ articleNo=377459
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377459
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

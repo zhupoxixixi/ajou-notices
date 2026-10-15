@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377036-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART:20261007T050000Z
+SUMMARY:活动：AGI时代大学的危机与跃升机遇
+DESCRIPTION:适用对象：亚洲大学校内教师、职员及学生；
+ 研究生可参加。\n讲座探讨AGI发展对大学教育的影响及
+ 亚洲大学的新技术与新业务战略。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://www.ajou.ac.kr/kr/ajou/
+ notice.do?mode=view&articleNo=377036
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377036
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

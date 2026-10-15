@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377025-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART:20261204T080000Z
+SUMMARY:申请 / 办理截止：2026年度研究笔记竞赛通知
+DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读
+ 生及研究注册生；海报说明包括未参与BK21项目者。\n提
+ 交符合要求的研究笔记原件参加竞赛；须为2026-01-01后
+ 记录，且标明课题编号与管理编号。\nAI 自动整理，重
+ 要日期请核对原文。\n官方原文：https://www.ajou.ac.kr/kr/aj
+ ou/notice.do?mode=view&articleNo=377025
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377025
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

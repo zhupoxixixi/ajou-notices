@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:373055-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART:20260809T090000Z
+SUMMARY:申请 / 办理截止：2026学年度第二学期法学专门大
+ 学院TA招募
+DESCRIPTION:适用对象：大学院在读生；须符合TA奖学金发
+ 放条件，且上一学期修满4学分、GPA达3.5以上。新生及
+ 研究注册的第五学期学生可申请。\n招募约15名TA，时薪
+ 12\,000韩元；上一学期学分及成绩须达标，申请截止为20
+ 26-08-09 18:00。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=vi
+ ew&articleNo=373055
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373055
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372434-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:申请 / 办理截止：在读研究生秋季注册与缴费（
+ 最终期限已过）
+DESCRIPTION:适用对象：本次公告适用的在读生；2026 秋季
+ 新生另行处理\n最终缴费期为 10 月 12—14 日，本次期限
+ 已经结束。\n中文要点，办理前请核对最新原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view
+ &articleNo=372434\n原文未给具体时刻，本日历使用全天事
+ 项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372434
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377402-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20261022T145900Z
+SUMMARY:申请 / 办理截止：Ajou International Day 国际日招募志
+ 愿者
+DESCRIPTION:适用对象：对国际交流感兴趣、可与外国学生
+ 进行基本沟通的本校在读生\n10 月 22 日 23:59 截止；11 
+ 月 5 日与外国学生共同运营各国文化和美食摊位。\n中
+ 文要点，办理前请核对最新原文。\n官方原文：https://ww
+ w.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377402
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377402
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:377402-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20261105T020000Z
+SUMMARY:活动：Ajou International Day 国际日招募志愿者
+DESCRIPTION:适用对象：对国际交流感兴趣、可与外国学生
+ 进行基本沟通的本校在读生\n10 月 22 日 23:59 截止；11 
+ 月 5 日与外国学生共同运营各国文化和美食摊位。\n中
+ 文要点，办理前请核对最新原文。\n官方原文：https://ww
+ w.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377402
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377402
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

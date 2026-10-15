@@ -16,6 +16,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    outputs:
+      publish_ref: ${{ steps.commit.outputs.publish_ref }}
     env:
       PYTHONUNBUFFERED: '1'
       TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL || 'gpt-6-luna' }}
@@ -44,6 +46,7 @@ jobs:
       - name: Build current archive
         run: python -X utf8 build.py
       - name: Commit published summaries and incremental state
+        id: commit
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -52,6 +55,7 @@ jobs:
             git commit -m "Update notices $(TZ=Asia/Seoul date +%F-%H%M)"
             git push
           fi
+          echo "publish_ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -68,6 +72,44 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.update.outputs.publish_ref }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify published data, notify changes and report health
+        env:
+          ENABLE_NOTIFICATIONS: ${{ vars.ENABLE_NOTIFICATIONS || 'false' }}
+          ENABLE_HEALTHCHECKS: ${{ vars.ENABLE_HEALTHCHECKS || 'false' }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          HEALTHCHECK_PING_URL: ${{ secrets.HEALTHCHECK_PING_URL }}
+        run: python -X utf8 delivery.py publish
+      - name: Save notification receipts
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/delivery.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Record delivered notice changes"
+            git push origin HEAD:main
+          fi
+  report-failure:
+    if: always() && (needs.update.result == 'failure' || needs.deploy.result == 'failure')
+    needs: [update, deploy]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Report failure to external monitor when configured
+        env:
+          ENABLE_HEALTHCHECKS: ${{ vars.ENABLE_HEALTHCHECKS || 'false' }}
+          HEALTHCHECK_PING_URL: ${{ secrets.HEALTHCHECK_PING_URL }}
+        run: python -X utf8 delivery.py failure

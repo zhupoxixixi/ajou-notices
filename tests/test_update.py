@@ -23,6 +23,9 @@ class UpdateTests(unittest.TestCase):
     def test_conflicting_original_dates_are_not_guessed(self):
         result=self.decision();result['start']='2026-07-13';result['end']='2026-01-17'
         normalized=validate(result,self.notice());self.assertIsNone(normalized['end']);self.assertIn('冲突',normalized['note'])
+    def test_same_day_reverse_times_are_not_guessed(self):
+        result=self.decision();result.update(start='2026-10-21T18:00',end='2026-10-21T09:00')
+        self.assertIsNone(validate(result,self.notice())['end'])
     def test_embedded_poster_data_is_supported_without_network(self):
         import base64
         body=b'image-test-content';url='data:image/jpeg;base64,'+base64.b64encode(body).decode()

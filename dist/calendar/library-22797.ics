@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:library-22797-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T185254Z
+LAST-MODIFIED:20261015T185254Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:活动：JCR平台IP登录故障及恢复通知
+DESCRIPTION:适用对象：使用JCR的师生；已有注册账号者可
+ 正常使用。\nJCR的IP登录方式一度故障，服务已于2026-05-
+ 28 22:31恢复。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://library.ajou.ac.kr/guide/bulletins/notice/22797\n原
+ 文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-library-22797
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377101-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20261125T080000Z
+SUMMARY:申请 / 办理截止：2027 春季外国人硕博招生：线上
+ 与原件都要提交
+DESCRIPTION:适用对象：拟申请 2027 春季亚洲大学硕士、博
+ 士或硕博连读的外国申请人\n11 月 25 日 17:00 前完成在
+ 线申请及原件材料提交。\n中文要点，办理前请核对最
+ 新原文。\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/no
+ tice.do?mode=view&articleNo=377101
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377101
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

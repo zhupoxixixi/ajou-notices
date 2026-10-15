@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:library-23144-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T185254Z
+LAST-MODIFIED:20261015T185254Z
+DTSTART:20261007T050000Z
+DTEND:20261007T060000Z
+SUMMARY:活动：ICPSR海外定量资料使用培训
+DESCRIPTION:适用对象：教授、研究人员、大学院生等对海
+ 外定量资料感兴趣者；未见国籍限制。\n介绍ICPSR海外
+ 定量资料的检索与下载、问卷搜索及比较、论文和期刊
+ 等Publication检索。\nAI 自动整理，重要日期请核对原文
+ 。\n官方原文：https://library.ajou.ac.kr/guide/bulletins/notice/23
+ 144
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-library-23144
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

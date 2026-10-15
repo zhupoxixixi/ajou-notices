@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:374920-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:申请 / 办理截止：第9期大学（院）生气候环境领
+ 导力培训招募
+DESCRIPTION:适用对象：在韩国居住的大学（院）在校生及
+ 休学生；外国申请者须能够用韩语沟通。\n招募第9期气
+ 候环境领导力培训学员，主题为减少塑料生产与消费，
+ 培训免费。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&art
+ icleNo=374920\n原文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374920
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:374920-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261015T184338Z
+LAST-MODIFIED:20261015T184338Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20261205
+SUMMARY:活动：第9期大学（院）生气候环境领导力培训招
+ 募
+DESCRIPTION:适用对象：在韩国居住的大学（院）在校生及
+ 休学生；外国申请者须能够用韩语沟通。\n招募第9期气
+ 候环境领导力培训学员，主题为减少塑料生产与消费，
+ 培训免费。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&art
+ icleNo=374920\n原文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374920
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

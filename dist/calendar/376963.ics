@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:376963-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART:20261022T090000Z
+SUMMARY:申请 / 办理截止：外国人跆拳道节：报名已延至 1
+ 0 月 22 日
+DESCRIPTION:适用对象：会跆拳道或接受过训练的外国国籍
+ 参加者\n10 月 31 日在首尔国技院举行；主办方已将报名
+ 延长至 10 月 22 日 18:00。\n中文要点，办理前请核对最
+ 新原文。\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do
+ ?mode=view&articleNo=376963
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:376963-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261014T150000Z
+LAST-MODIFIED:20261014T150000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:活动：外国人跆拳道节：报名已延至 10 月 22 日
+DESCRIPTION:适用对象：会跆拳道或接受过训练的外国国籍
+ 参加者\n10 月 31 日在首尔国技院举行；主办方已将报名
+ 延长至 10 月 22 日 18:00。\n中文要点，办理前请核对最
+ 新原文。\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do
+ ?mode=view&articleNo=376963\n原文未给具体时刻，本日历使用
+ 全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
