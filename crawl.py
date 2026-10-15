@@ -15,7 +15,7 @@ BOARDS = {
 }
 
 def fetch(url):
-    r = requests.get(url, timeout=35, headers={'User-Agent': 'AjouNoticeArchive/1.0 (public academic notice reader)'})
+    r = requests.get(url, timeout=(8, 15), headers={'User-Agent': 'AjouNoticeArchive/1.0 (public academic notice reader)'})
     r.raise_for_status()
     r.encoding = 'utf-8'
     return r.text

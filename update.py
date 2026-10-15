@@ -70,6 +70,11 @@ def source_for(row,prior):
     if not source['body'] and not source['images']:source['unavailableReason']='官方页面无可读取正文、有效海报或可提取文本的PDF，未猜测内容。'
     return source
 def process(row,prior,state,seed,model,now):
+    minutes=int(os.environ.get('SOURCE_CACHE_MINUTES','0'))
+    if state and state.get('model')==model and minutes>0:
+        age=dt.datetime.fromisoformat(now)-dt.datetime.fromisoformat(state['checkedAt'])
+        if dt.timedelta(0)<=age<dt.timedelta(minutes=minutes):
+            return protect_scope(prior),state,'unchanged'
     source=source_for(row,prior);base=base_fingerprint(source);pictures=image_evidence(source.get('images',[]))
     key=digest({'base':base,'posters':[x['hash'] for x in pictures],'extra':source['extraText'],'model':model,'prompt':PROMPT_VERSION})
     record={k:source[k] for k in ('id','titleKo','url','source','board','published','attachments')};record['fetchedAt']=now
@@ -106,11 +111,15 @@ def run():
     for board,(_,url) in BOARDS.items():
         for page in range(3):
             try:
+                print(f'[listing] {board} page {page+1}',flush=True)
                 result=listing(fetch(url+f'?mode=list&articleLimit=10&article.offset={10*page}'),url,board)
                 if not result:raise ValueError('Empty official listing')
                 coverage.append({'board':board,'page':page,'count':len(result)})
                 for row in result:rows.setdefault(row['id'],row)
-            except Exception as e:errors.append({'board':board,'page':page,'error':type(e).__name__})
+            except Exception as e:
+                errors.append({'board':board,'page':page,'error':type(e).__name__})
+                print(f'[listing] {board} unavailable ({type(e).__name__}); retaining archive',flush=True)
+                break
             time.sleep(.2)
     if len({x['board'] for x in coverage})<3:raise RuntimeError('Most official boards failed; leaving published data unchanged')
     for ident,r in items.items():rows.setdefault(ident,{k:r[k] for k in ('id','board','source','titleKo','published','url')})
@@ -129,7 +138,9 @@ def run():
                 print(f'[{ident}] {action}',flush=True)
             except Exception as e:
                 failures+=1;stats['errors'].append({'id':ident,'error':type(e).__name__})
-                if ident in items:items[ident]={**items[ident],'fetchStatus':'stale','reviewNeeded':True}
+                if ident in items:
+                    from ai_translate import TranslationError
+                    items[ident]={**items[ident],'fetchStatus':'stale','reviewNeeded':isinstance(e,TranslationError) or items[ident].get('reviewNeeded',False)}
                 print(f'[{ident}] '+('retained previous data' if ident in items else 'not published')+f' ({type(e).__name__})',flush=True)
     if not stats['translated'] and not stats['unchanged']:raise RuntimeError('No successful source checks; leaving published data unchanged')
     archive={**seed,'items':list(items.values()),'scanned':len(rows),'pages':len(coverage),'checkedAt':now,'updatedAt':now,'automatic':True,'schedule':stats['schedule'],'translationModel':model,'errors':stats['errors'],'updateStats':{k:v for k,v in stats.items() if k!='errors'}}
