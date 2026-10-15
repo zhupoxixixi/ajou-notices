@@ -13,8 +13,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "international",
@@ -25,8 +25,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "oia",
@@ -37,8 +37,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "university",
@@ -49,8 +49,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "graduate_en",
@@ -61,8 +61,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "innovation",
@@ -73,8 +73,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "scholarship",
@@ -85,8 +85,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "library",
@@ -97,8 +97,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "academic_calendar",
@@ -109,8 +109,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
       "key": "college",
@@ -121,8 +121,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-      "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     }
   ],
   "errors": [],
@@ -7994,19 +7994,19 @@ window.AJOU_NOTICES = {
     }
   ],
   "pending": [],
-  "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-  "updatedAt": "2026-10-16T03:57:29.212371+09:00",
+  "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+  "updatedAt": "2026-10-16T04:02:33.399350+09:00",
   "automatic": true,
   "schedule": "每日 08:17、12:17、18:17 KST",
   "translationModel": "gpt-6-luna",
   "updateStats": {
-    "checkedAt": "2026-10-16T03:57:29.212371+09:00",
+    "checkedAt": "2026-10-16T04:02:33.399350+09:00",
     "model": "gpt-6-luna",
     "scanned": 523,
     "pages": 36,
     "boards": 10,
-    "translated": 2,
-    "unchanged": 291,
+    "translated": 0,
+    "unchanged": 293,
     "excluded": 0,
     "skipped": 0,
     "schedule": "每日 08:17、12:17、18:17 KST",
@@ -8020,8 +8020,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "international",
@@ -8032,8 +8032,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "date-window",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "oia",
@@ -8044,8 +8044,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": true,
         "boundary": "request-limit",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "university",
@@ -8056,8 +8056,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": true,
         "boundary": "request-limit",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "graduate_en",
@@ -8068,8 +8068,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "innovation",
@@ -8080,8 +8080,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "scholarship",
@@ -8092,8 +8092,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "library",
@@ -8104,8 +8104,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "date-window",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "academic_calendar",
@@ -8116,8 +8116,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "academic-year",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       },
       {
         "key": "college",
@@ -8128,8 +8128,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-16T03:57:29.212371+09:00",
-        "lastSuccessAt": "2026-10-16T03:57:29.212371+09:00"
+        "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+        "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
       }
     ]
   },
