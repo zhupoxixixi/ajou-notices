@@ -26,6 +26,6 @@ def build():
     lines=['# 亚洲大学中文公告',f"最近检查：{data.get('checkedAt',data['fetchedAt'])}（韩国时间）。中文为要点整理，AI自动整理不等于人工核验。",'']
     for r in data['items']:
         lines.extend([f"## {r['title']}",f"原题：{r['titleKo']}",f"来源：{r['source']} | 发布：{r['published']}",f"适用：{r['audience']}",r['summary'],*['- '+s for s in r['details']],f"补充：{r['note']}" if r.get('note') else '',f"[官方原文]({r['url']})",''])
-    (dist/'亚洲大学中文公告.md').write_text('\n\n'.join(lines),encoding='utf8')
+    (dist/'亚洲大学中文公告.md').write_text('\n\n'.join(lines).rstrip()+'\n',encoding='utf8')
     print('Built',len(data['items']),'notices')
 if __name__=='__main__':build()
