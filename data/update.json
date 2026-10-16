@@ -1,14 +1,183 @@
 {
-  "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+  "checkedAt": "2026-10-16T10:25:08.329532+09:00",
   "model": "gpt-6-luna",
-  "scanned": 523,
+  "scanned": 525,
   "pages": 36,
   "boards": 10,
-  "translated": 0,
-  "unchanged": 293,
-  "excluded": 0,
+  "translated": 1,
+  "unchanged": 165,
+  "excluded": 86,
   "skipped": 0,
-  "errors": [],
+  "errors": [
+    {
+      "id": "377425",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376367",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "369657",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375375",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375608",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375374",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "371987",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377523",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377556",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377541",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377437",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377338",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377306",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377125",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377121",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377105",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377025",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377101",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376257",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375923",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375920",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376052",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377232",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375647",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "365143",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "372514",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "372512",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377120",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376788",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375958",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377451",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "377358",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375849",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375097",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "372714",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "372508",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "370135",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "371838",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "371003",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "369587",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "369230",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "368971",
+      "error": "ConnectTimeout"
+    }
+  ],
   "schedule": "每日 08:17、12:17、18:17 KST",
   "sourceStatus": [
     {
@@ -17,10 +186,10 @@
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do",
       "pages": 2,
       "scanned": 30,
-      "status": "ok",
+      "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -32,8 +201,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
+      "lastSuccessAt": "2026-10-16T10:25:08.329532+09:00"
     },
     {
       "key": "oia",
@@ -41,10 +210,10 @@
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do",
       "pages": 8,
       "scanned": 83,
-      "status": "ok",
+      "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -53,10 +222,10 @@
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do",
       "pages": 10,
       "scanned": 105,
-      "status": "ok",
+      "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -65,10 +234,10 @@
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do",
       "pages": 2,
       "scanned": 27,
-      "status": "ok",
+      "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -77,10 +246,10 @@
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do",
       "pages": 2,
       "scanned": 25,
-      "status": "ok",
+      "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -89,10 +258,10 @@
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do",
       "pages": 2,
       "scanned": 23,
-      "status": "ok",
+      "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -104,8 +273,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
+      "lastSuccessAt": "2026-10-16T10:25:08.329532+09:00"
     },
     {
       "key": "academic_calendar",
@@ -116,8 +285,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
+      "lastSuccessAt": "2026-10-16T10:25:08.329532+09:00"
     },
     {
       "key": "college",
@@ -125,10 +294,10 @@
       "url": "https://www.ajou.ac.kr/sw/board/notice.do",
       "pages": 2,
       "scanned": 23,
-      "status": "ok",
+      "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-16T04:02:33.399350+09:00",
+      "checkedAt": "2026-10-16T10:25:08.329532+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     }
   ]
