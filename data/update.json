@@ -1,28 +1,32 @@
 {
-  "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+  "checkedAt": "2026-10-17T21:59:49.269710+09:00",
   "model": "gpt-6-luna",
   "scanned": 525,
   "pages": 36,
   "boards": 10,
   "translated": 0,
-  "unchanged": 151,
-  "excluded": 83,
+  "unchanged": 157,
+  "excluded": 79,
   "skipped": 0,
   "errors": [
-    {
-      "id": "377426",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377425",
-      "error": "ConnectTimeout"
-    },
     {
       "id": "369657",
       "error": "ConnectTimeout"
     },
     {
-      "id": "375800",
+      "id": "376367",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "376256",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375375",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375374",
       "error": "ConnectTimeout"
     },
     {
@@ -30,15 +34,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "375378",
+      "id": "371987",
       "error": "ConnectTimeout"
     },
     {
-      "id": "369355",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "376963",
+      "id": "363273",
       "error": "ConnectTimeout"
     },
     {
@@ -46,15 +46,7 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "364475",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "359877",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "353411",
+      "id": "362510",
       "error": "ConnectTimeout"
     },
     {
@@ -66,7 +58,7 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "377587",
+      "id": "373746",
       "error": "ConnectTimeout"
     },
     {
@@ -74,35 +66,31 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "377499",
+      "id": "377541",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377444",
+      "id": "377503",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377439",
+      "id": "377312",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377272",
+      "id": "377338",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377267",
+      "id": "377306",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377250",
+      "id": "377164",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377121",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377098",
+      "id": "377125",
       "error": "ConnectTimeout"
     },
     {
@@ -110,15 +98,15 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "360568",
+      "id": "377075",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377427",
+      "id": "377183",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377101",
+      "id": "376052",
       "error": "ConnectTimeout"
     },
     {
@@ -126,15 +114,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "375392",
+      "id": "375920",
       "error": "ConnectTimeout"
     },
     {
-      "id": "373908",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "364643",
+      "id": "377335",
       "error": "ConnectTimeout"
     },
     {
@@ -146,11 +130,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "372846",
+      "id": "366852",
       "error": "ConnectTimeout"
     },
     {
-      "id": "372512",
+      "id": "372514",
       "error": "ConnectTimeout"
     },
     {
@@ -158,15 +142,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "376957",
-      "error": "ConnectTimeout"
-    },
-    {
       "id": "376788",
       "error": "ConnectTimeout"
     },
     {
-      "id": "375962",
+      "id": "375971",
       "error": "ConnectTimeout"
     },
     {
@@ -174,7 +154,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "375958",
+      "id": "375827",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375792",
       "error": "ConnectTimeout"
     },
     {
@@ -182,8 +166,12 @@
       "error": "ConnectionError"
     },
     {
-      "id": "library-22872",
+      "id": "library-22770",
       "error": "ConnectionError"
+    },
+    {
+      "id": "377211",
+      "error": "ConnectTimeout"
     },
     {
       "id": "377210",
@@ -194,7 +182,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "376775",
+      "id": "375849",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "375097",
       "error": "ConnectTimeout"
     },
     {
@@ -202,19 +194,19 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "374809",
+      "id": "373013",
       "error": "ConnectTimeout"
     },
     {
-      "id": "374376",
+      "id": "372715",
       "error": "ConnectTimeout"
     },
     {
-      "id": "375263",
+      "id": "374920",
       "error": "ConnectTimeout"
     },
     {
-      "id": "372714",
+      "id": "372509",
       "error": "ConnectTimeout"
     },
     {
@@ -222,11 +214,7 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "372015",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "370135",
+      "id": "372502",
       "error": "ConnectTimeout"
     },
     {
@@ -250,15 +238,19 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "369587",
+      "id": "370263",
       "error": "ConnectTimeout"
     },
     {
-      "id": "369382",
+      "id": "369384",
       "error": "ConnectTimeout"
     },
     {
       "id": "369230",
+      "error": "ConnectTimeout"
+    },
+    {
+      "id": "368971",
       "error": "ConnectTimeout"
     }
   ],
@@ -273,7 +265,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -282,11 +274,11 @@
       "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do",
       "pages": 2,
       "scanned": 23,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
-      "lastSuccessAt": "2026-10-17T10:20:36.760222+09:00"
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
+      "lastSuccessAt": "2026-10-17T21:59:49.269710+09:00"
     },
     {
       "key": "oia",
@@ -297,7 +289,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -309,7 +301,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -321,7 +313,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -333,7 +325,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -345,7 +337,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -357,7 +349,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
       "lastSuccessAt": "2026-10-16T10:25:08.329532+09:00"
     },
     {
@@ -369,8 +361,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
-      "lastSuccessAt": "2026-10-17T16:51:29.377680+09:00"
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
+      "lastSuccessAt": "2026-10-17T21:59:49.269710+09:00"
     },
     {
       "key": "college",
@@ -381,7 +373,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-17T16:51:29.377680+09:00",
+      "checkedAt": "2026-10-17T21:59:49.269710+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     }
   ]
