@@ -2502,5 +2502,90 @@
       "END:VEVENT"
     ],
     "cancelled": false
+  },
+  "377658-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377658-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20261027",
+      "DTEND;VALUE=DATE:20261031",
+      "SUMMARY:活动：法律数据库线上使用培训",
+      "DESCRIPTION:适用对象：亚洲大学学生、研究生及教职员；可任选课程参加。\\n提供Westlaw及LAWnB法律数据库检索培训，线上实时进行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377658\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377658",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 0,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377658-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261019T085833Z",
+      "LAST-MODIFIED:20261019T085833Z",
+      "DTSTART;VALUE=DATE:20261027",
+      "DTEND;VALUE=DATE:20261031",
+      "SUMMARY:活动：法律数据库线上使用培训",
+      "DESCRIPTION:适用对象：亚洲大学学生、研究生及教职员；可任选课程参加。\\n提供Westlaw及LAWnB法律数据库检索培训，线上实时进行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377658\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377658",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:0",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "377617-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377617-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261022T145900Z",
+      "SUMMARY:申请 / 办理截止：2026 Ajou国际日：世界美食节与才艺表演招募",
+      "DESCRIPTION:适用对象：Ajou国际学生；可组队参加世界美食节或才艺表演，未注明研究生专属条件。\\n国际学生可报名展示本国美食文化或参加才艺表演；活动于2026-11-05举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377617",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377617",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 0,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377617-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261019T085833Z",
+      "LAST-MODIFIED:20261019T085833Z",
+      "DTSTART:20261022T145900Z",
+      "SUMMARY:申请 / 办理截止：2026 Ajou国际日：世界美食节与才艺表演招募",
+      "DESCRIPTION:适用对象：Ajou国际学生；可组队参加世界美食节或才艺表演，未注明研究生专属条件。\\n国际学生可报名展示本国美食文化或参加才艺表演；活动于2026-11-05举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377617",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377617",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:0",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "377617-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377617-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261105T020000Z",
+      "DTEND:20261105T080000Z",
+      "SUMMARY:活动：2026 Ajou国际日：世界美食节与才艺表演招募",
+      "DESCRIPTION:适用对象：Ajou国际学生；可组队参加世界美食节或才艺表演，未注明研究生专属条件。\\n国际学生可报名展示本国美食文化或参加才艺表演；活动于2026-11-05举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377617",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377617",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 0,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377617-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261019T085833Z",
+      "LAST-MODIFIED:20261019T085833Z",
+      "DTSTART:20261105T020000Z",
+      "DTEND:20261105T080000Z",
+      "SUMMARY:活动：2026 Ajou国际日：世界美食节与才艺表演招募",
+      "DESCRIPTION:适用对象：Ajou国际学生；可组队参加世界美食节或才艺表演，未注明研究生专属条件。\\n国际学生可报名展示本国美食文化或参加才艺表演；活动于2026-11-05举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377617",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377617",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:0",
+      "END:VEVENT"
+    ],
+    "cancelled": false
   }
 }
