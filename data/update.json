@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+  "checkedAt": "2026-10-20T01:30:06.324855+09:00",
   "model": "gpt-6-luna",
   "scanned": 526,
   "pages": 36,
   "boards": 10,
-  "translated": 6,
-  "unchanged": 155,
-  "excluded": 85,
+  "translated": 1,
+  "unchanged": 177,
+  "excluded": 93,
   "skipped": 0,
   "errors": [
     {
@@ -14,11 +14,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "376256",
+      "id": "369657",
       "error": "ConnectTimeout"
     },
     {
-      "id": "375375",
+      "id": "375800",
       "error": "ConnectTimeout"
     },
     {
@@ -26,7 +26,7 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "363642",
+      "id": "375375",
       "error": "ConnectTimeout"
     },
     {
@@ -34,11 +34,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "363273",
+      "id": "364475",
       "error": "ConnectTimeout"
     },
     {
-      "id": "353411",
+      "id": "353036",
       "error": "ConnectTimeout"
     },
     {
@@ -50,11 +50,7 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "377655",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377641",
+      "id": "377639",
       "error": "ConnectTimeout"
     },
     {
@@ -62,31 +58,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "377611",
+      "id": "377525",
       "error": "ConnectTimeout"
     },
     {
-      "id": "377551",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377541",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377503",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377338",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377262",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377164",
+      "id": "377250",
       "error": "ConnectTimeout"
     },
     {
@@ -98,19 +74,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "375925",
+      "id": "376052",
       "error": "ConnectTimeout"
     },
     {
-      "id": "375392",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "373342",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377335",
+      "id": "373535",
       "error": "ConnectTimeout"
     },
     {
@@ -118,23 +86,15 @@
       "error": "ConnectTimeout"
     },
     {
+      "id": "374776",
+      "error": "ConnectTimeout"
+    },
+    {
       "id": "372846",
       "error": "ConnectTimeout"
     },
     {
-      "id": "372514",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377612",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377176",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377120",
+      "id": "377668",
       "error": "ConnectTimeout"
     },
     {
@@ -146,27 +106,7 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "library-23082",
-      "error": "ConnectionError"
-    },
-    {
-      "id": "library-23063",
-      "error": "ConnectionError"
-    },
-    {
-      "id": "375935",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "library-22844",
-      "error": "ConnectionError"
-    },
-    {
-      "id": "library-23044",
-      "error": "ConnectionError"
-    },
-    {
-      "id": "library-22770",
+      "id": "library-22872",
       "error": "ConnectionError"
     },
     {
@@ -174,23 +114,7 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "377119",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "376905",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "376493",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "375085",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "371908",
+      "id": "375097",
       "error": "ConnectTimeout"
     },
     {
@@ -198,35 +122,11 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "372508",
+      "id": "375188",
       "error": "ConnectTimeout"
     },
     {
-      "id": "372509",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "372681",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "373008",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "373487",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "370270",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "370260",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "370263",
+      "id": "369889",
       "error": "ConnectTimeout"
     },
     {
@@ -234,7 +134,7 @@
       "error": "ConnectTimeout"
     },
     {
-      "id": "369230",
+      "id": "368971",
       "error": "ConnectTimeout"
     }
   ],
@@ -249,7 +149,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -261,8 +161,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
-      "lastSuccessAt": "2026-10-19T17:58:33.385087+09:00"
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
+      "lastSuccessAt": "2026-10-20T01:30:06.324855+09:00"
     },
     {
       "key": "oia",
@@ -273,7 +173,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -285,7 +185,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -297,7 +197,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -309,7 +209,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -321,7 +221,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     },
     {
@@ -333,7 +233,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
       "lastSuccessAt": "2026-10-19T10:19:36.978552+09:00"
     },
     {
@@ -345,8 +245,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
-      "lastSuccessAt": "2026-10-19T17:58:33.385087+09:00"
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
+      "lastSuccessAt": "2026-10-20T01:30:06.324855+09:00"
     },
     {
       "key": "college",
@@ -357,7 +257,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-19T17:58:33.385087+09:00",
+      "checkedAt": "2026-10-20T01:30:06.324855+09:00",
       "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
     }
   ]
