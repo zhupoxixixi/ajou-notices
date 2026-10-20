@@ -6,19 +6,18 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:377658-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261019T085833Z
-LAST-MODIFIED:20261019T085833Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261031
-SUMMARY:活动：法律数据库线上使用培训
-DESCRIPTION:适用对象：亚洲大学学生、研究生及教职员；
- 可任选课程参加。\n提供Westlaw及LAWnB法律数据库检索培
- 训，线上实时进行。\nAI 自动整理，重要日期请核对原
- 文。\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=vie
- w&articleNo=377658\n原文未给具体时刻，本日历使用全天事
- 项。
+DTSTAMP:20261020T083720Z
+LAST-MODIFIED:20261020T083720Z
+DTSTART:20261027T020000Z
+DTEND:20261030T024000Z
+SUMMARY:活动：法律数据库在线使用培训
+DESCRIPTION:适用对象：全体校内成员，包括本科生、研究
+ 生及教职员工；可按需选择课程单独报名。\n提供Westlaw
+  Classic及LAWnB线上培训，讲解法律信息检索与审阅方法
+ 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
+ tps://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377658
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377658
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR

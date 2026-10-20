@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:library-23207-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261020T083720Z
+LAST-MODIFIED:20261020T083720Z
+DTSTART:20261027T020000Z
+DTEND:20261030T024000Z
+SUMMARY:活动：2026年法律数据库使用培训
+DESCRIPTION:适用对象：全校成员，包括本科生、大学院生
+ 和教职员工；外国研究生可参加，培训以韩语进行。\n
+ 可分别报名参加Westlaw Classic或LAWnB线上培训，介绍法律
+ 资料检索与使用。\nAI 自动整理，重要日期请核对原文
+ 。\n官方原文：https://library.ajou.ac.kr/guide/bulletins/notice/23
+ 207
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-library-23207
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
