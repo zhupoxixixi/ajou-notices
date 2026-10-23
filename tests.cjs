@@ -24,3 +24,16 @@ assert(matches({...r,end:'2026-09-01'},{saved:true},['x'],at('2026-10-16T12:00:0
 assert(matches({...r,otherSources:[{key:'college'}]},{source:'college'},[]));
 assert.equal(require('./src/core.js').asTime('invalid'),null);
 console.log('6 additional checks passed: future events, closed applications, default archive, saved history, shared sources, invalid dates.');
+
+// A failed or truncated manual refresh must never replace the usable archive.
+const {validArchive}=require('./src/core.js');
+const snapshot={checkedAt:'2026-10-23T12:00:00+09:00',sources:[{key:'graduate',name:'大学院',url:'https://grad.ajou.ac.kr/'}],exclusions:[],items:[{...r,source:'大学院',board:'graduate',extra:[],attachments:[]}]};
+assert(validArchive(snapshot));
+assert(!validArchive({...snapshot,items:[]}));
+assert(!validArchive({...snapshot,checkedAt:'invalid'}));
+assert(!validArchive({...snapshot,items:[snapshot.items[0],snapshot.items[0]]}));
+assert(!validArchive({...snapshot,items:[{...snapshot.items[0],id:'<bad>'}]}));
+assert(!validArchive({...snapshot,items:[{...snapshot.items[0],details:null}]}));
+assert(!validArchive({...snapshot,items:[{...snapshot.items[0],attachments:[null]}]}));
+assert(!validArchive({...snapshot,sources:[null]}));
+console.log('8 refresh integrity checks passed: incomplete snapshots, invalid dates, duplicate IDs and malformed records.');

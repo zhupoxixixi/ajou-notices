@@ -25,6 +25,8 @@ jobs:
       SOURCE_CACHE_MINUTES: ${{ github.event_name == 'schedule' && '0' || '30' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -37,8 +39,23 @@ jobs:
         run: |
           node tests.cjs
           python -m unittest discover -s tests -p 'test_*.py'
+      - name: Decide whether sources need refreshing
+        id: scope
+        run: |
+          python - <<'PY'
+          import os, subprocess
+          refresh = os.environ['GITHUB_EVENT_NAME'] != 'push'
+          if not refresh:
+              result = subprocess.run(['git','diff','--name-only','HEAD^','HEAD'],capture_output=True,text=True)
+              source_files = {'update.py','ai_translate.py','crawl.py','public_sources.py','requirements.txt'}
+              refresh = result.returncode != 0 or bool(source_files.intersection(result.stdout.splitlines()))
+          with open(os.environ['GITHUB_OUTPUT'],'a') as output:
+              output.write('refresh='+str(refresh).lower()+'\n')
+          print('Refresh sources' if refresh else 'Publish UI using the retained archive; scheduled refreshes remain enabled')
+          PY
       - name: Refresh and translate changed notices
         id: refresh
+        if: steps.scope.outputs.refresh == 'true'
         continue-on-error: true
         env:
           TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}

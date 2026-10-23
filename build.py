@@ -24,9 +24,11 @@ def build():
     data['referenceLinks']=[{'name':'网络安全学科官网','url':'https://security.ajou.ac.kr/'},{'name':'学院研究生综合考试要求','url':'https://www.ajou.ac.kr/sw/grad/comprehensive-examination.do'}]
     assert data['items'] and len({x['id'] for x in data['items']})==len(data['items'])
     dist=ROOT/'dist';dist.mkdir(exist_ok=True)
-    for name in ('index.html','styles.css','notice.css','app.js','core.js','favicon.svg','THIRD_PARTY_NOTICES.md','manifest.webmanifest','404.html'):
+    assets=('index.html','styles.css','notice.css','app.js','core.js','appearance.js','background.js','contrast.js','favicon.svg','THIRD_PARTY_NOTICES.md','manifest.webmanifest','404.html')
+    for name in assets:
         shutil.copy2(ROOT/'src'/name,dist/name)
     if (ROOT/'src/icons').exists():shutil.copytree(ROOT/'src/icons',dist/'icons',dirs_exist_ok=True)
+    if (ROOT/'src/assets').exists():shutil.copytree(ROOT/'src/assets',dist/'assets',dirs_exist_ok=True)
     caldir=dist/'calendar';caldir.mkdir(exist_ok=True)
     for stale in caldir.glob('*.ics'):stale.unlink()
     all_events=[]
@@ -59,7 +61,13 @@ def build():
         all_events.append(event)
     history_path.write_text(json.dumps(history,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
     (dist/'notices.ics').write_bytes(calendar(all_events).encode('utf8'))
-    version=hashlib.sha256(''.join((dist/name).read_text(encoding='utf8') for name in ('index.html','styles.css','notice.css','app.js','core.js')).encode()).hexdigest()[:12]
+    digest=hashlib.sha256()
+    for name in assets:
+        digest.update((dist/name).read_bytes())
+    for asset in sorted((dist/'assets').rglob('*')) if (dist/'assets').exists() else []:
+        if asset.is_file():digest.update(asset.read_bytes())
+    digest.update((ROOT/'src/sw.js').read_bytes())
+    version=digest.hexdigest()[:12]
     (dist/'sw.js').write_text((ROOT/'src/sw.js').read_text(encoding='utf8').replace('__VERSION__',version),encoding='utf8')
     serialized=json.dumps(data,ensure_ascii=False,indent=2)
     (dist/'notices.json').write_text(serialized+'\n',encoding='utf8')
