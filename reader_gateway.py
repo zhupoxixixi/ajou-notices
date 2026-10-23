@@ -47,7 +47,7 @@ def _read(url):
         _pace()
         try:
             detail=parse_qs(urlsplit(url).query).get('mode',[''])[0]=='view' or '/guide/bulletins/notice/' in urlsplit(url).path
-            headers={'Accept':'application/json','X-Respond-With':'html+pageshot' if detail else 'html','X-No-Cache':'true','X-Timeout':'30'}
+            headers={'Accept':'application/json','X-Respond-With':'pageshot' if detail else 'html','X-No-Cache':'true','X-Timeout':'30'}
             if not detail:headers['X-Engine']='direct'
             response=requests.get(READER+url,headers=headers,timeout=(10,50),allow_redirects=False)
         except requests.RequestException as exc:
@@ -89,20 +89,33 @@ def fetch_html(url):
     if isinstance(result,GatewayError):raise result
     return result
 
+def _download_snapshot(url):
+    for attempt in range(3):
+        try:response=requests.get(url,timeout=(10,40),allow_redirects=False)
+        except requests.RequestException as exc:
+            if attempt<2:time.sleep(2**attempt);continue
+            raise GatewayError('Reader image network error: '+type(exc).__name__) from None
+        if response.status_code in (429,500,502,503,504) and attempt<2:
+            try:delay=min(30,max(3,float(response.headers.get('Retry-After','10'))))
+            except ValueError:delay=10
+            time.sleep(delay);continue
+        if response.status_code!=200 or not response.headers.get('Content-Type','').startswith('image/'):
+            raise GatewayError('Reader full-page image could not be downloaded (HTTP '+str(response.status_code)+')')
+        if len(response.content)>16*1024*1024:raise GatewayError('Reader full-page image exceeds size limit')
+        return response.content
+
 def snapshot_images(url):
     """Return every pixel of the official page in legible, overlapping tiles."""
     fetch_html(url)
     with _LOCK:shot=_SHOTS.get(url,'')
+    if not shot:raise GatewayError('Reader returned HTML without the requested full-page image')
     p=urlsplit(shot)
     if p.scheme!='https' or p.hostname!='storage.googleapis.com' or not p.path.startswith('/reader-6b7dc.appspot.com/ephemeral/'):
         raise GatewayError('Reader did not return a verified full-page image')
     try:
-        response=requests.get(shot,timeout=(10,40),allow_redirects=False)
-        if response.status_code!=200 or not response.headers.get('Content-Type','').startswith('image/'):
-            raise GatewayError('Reader full-page image could not be downloaded')
-        if len(response.content)>16*1024*1024:raise GatewayError('Reader full-page image exceeds size limit')
+        body=_download_snapshot(shot)
         from PIL import Image
-        picture=Image.open(io.BytesIO(response.content));picture.load()
+        picture=Image.open(io.BytesIO(body));picture.load()
         width,height=picture.size
         if not 320<=width<=2560 or height<100 or height>55040:raise GatewayError('Reader full-page image is outside the readable size limit')
         images=[];total=0
@@ -112,5 +125,4 @@ def snapshot_images(url):
             if len(images)>=32 or total>20*1024*1024:raise GatewayError('Reader full-page image cannot fit the complete vision input')
             images.append({'dataUrl':data,'hash':hashlib.sha256(body).hexdigest(),'pageSnapshot':True,'highDetail':True})
         return images
-    except requests.RequestException as exc:raise GatewayError('Reader image network error: '+type(exc).__name__) from None
     except (OSError,ValueError) as exc:raise GatewayError('Reader full-page image could not be decoded') from None

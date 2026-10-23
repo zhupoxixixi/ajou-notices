@@ -7,7 +7,7 @@ from source_gateway import GatewayError
 URL='https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=123'
 HTML='<html><div class="b-content-box"><p>学位论文要求</p><img src="/poster1.png"><img src="/poster2.png"><img src="/poster3.png"></div><a href="?mode=download&amp;articleNo=123&amp;attachNo=456">申请书.pdf</a></html>'
 class ReaderGatewayTests(unittest.TestCase):
-    def setUp(self):reader._CACHE.clear()
+    def setUp(self):reader._CACHE.clear();reader._SHOTS.clear()
     def response(self,**changes):
         p={'url':URL,'httpStatus':200,'html':HTML};p.update(changes)
         r=Mock(status_code=200,content=b'html');r.json.return_value={'code':200,'data':p};return r
@@ -19,7 +19,7 @@ class ReaderGatewayTests(unittest.TestCase):
         self.assertEqual(result['body'],'学位论文要求')
         headers=get.call_args.kwargs['headers']
         self.assertEqual(headers['X-No-Cache'],'true')
-        self.assertEqual(headers['X-Respond-With'],'html+pageshot')
+        self.assertEqual(headers['X-Respond-With'],'pageshot')
         self.assertNotIn('Authorization',headers)
         self.assertNotIn('not-for-reader',str(get.call_args))
     def test_reader_error_page_cannot_replace_official_source(self):
@@ -63,4 +63,21 @@ class ReaderGatewayTests(unittest.TestCase):
         reader._SHOTS[URL]='https://external.invalid/fake.png'
         with patch.object(reader,'fetch_html'),patch.object(reader.requests,'get') as get:
             with self.assertRaises(GatewayError):reader.snapshot_images(URL)
+        get.assert_not_called()
+
+    def test_snapshot_download_retries_network_and_transient_http_failures(self):
+        ok=Mock(status_code=200,content=b'image',headers={'Content-Type':'image/png'})
+        busy=Mock(status_code=503,headers={'Retry-After':'1'})
+        with patch.object(reader.time,'sleep'),patch.object(reader.requests,'get',side_effect=[reader.requests.Timeout(),busy,ok]) as get:
+            self.assertEqual(reader._download_snapshot('https://storage.googleapis.com/test'),b'image')
+        self.assertEqual(get.call_count,3)
+
+    def test_snapshot_download_preserves_permanent_failure(self):
+        with patch.object(reader.requests,'get',return_value=Mock(status_code=403,headers={})) as get:
+            with self.assertRaisesRegex(GatewayError,'HTTP 403'):reader._download_snapshot('https://storage.googleapis.com/test')
+        self.assertEqual(get.call_count,1)
+
+    def test_missing_snapshot_cannot_be_treated_as_readable_image(self):
+        with patch.object(reader,'fetch_html'),patch.object(reader.requests,'get') as get:
+            with self.assertRaisesRegex(GatewayError,'without the requested full-page image'):reader.snapshot_images(URL)
         get.assert_not_called()
