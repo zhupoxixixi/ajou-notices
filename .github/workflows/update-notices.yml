@@ -11,7 +11,7 @@ permissions:
   id-token: write
 concurrency:
   group: notices-update-deploy
-  cancel-in-progress: false
+  cancel-in-progress: ${{ github.event_name == 'push' && contains(github.event.head_commit.message, '[source-repair]') }}
 jobs:
   update:
     runs-on: ubuntu-latest
