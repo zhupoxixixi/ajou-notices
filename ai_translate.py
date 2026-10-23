@@ -16,8 +16,18 @@ class TranslationError(RuntimeError):pass
 def valid_date(value):
     if value is None:return True
     if not isinstance(value,str) or not re.fullmatch(r'\d{4}-\d{2}-\d{2}(T\d{2}:\d{2})?',value):return False
+    midnight=re.fullmatch(r'(\d{4}-\d{2}-\d{2})T24:00',value)
+    if midnight:
+        try:dt.date.fromisoformat(midnight.group(1))+dt.timedelta(days=1);return True
+        except (ValueError,OverflowError):return False
     try:dt.datetime.fromisoformat(value);return True
     except ValueError:return False
+def normalize_date(value):
+    """Normalize ISO's end-of-day 24:00 to next-day midnight across Python versions."""
+    midnight=re.fullmatch(r'(\d{4}-\d{2}-\d{2})T24:00',value) if isinstance(value,str) else None
+    if not midnight:return value
+    try:return (dt.date.fromisoformat(midnight.group(1))+dt.timedelta(days=1)).isoformat()+'T00:00'
+    except (ValueError,OverflowError):raise TranslationError('Invalid ISO date: '+value)
 def validate(payload,source):
     if not isinstance(payload,dict) or type(payload.get('include')) is not bool:raise TranslationError('Invalid inclusion decision')
     if not payload['include']:return {'include':False,'reason':str(payload.get('reason','未纳入收录'))[:300]}
@@ -28,7 +38,9 @@ def validate(payload,source):
     if not isinstance(payload.get('details'),list) or not 2<=len(payload['details'])<=6 or not all(isinstance(x,str) and x.strip() and len(x)<=450 for x in payload['details']):raise TranslationError('Invalid details')
     if not isinstance(payload.get('tags'),list) or not payload['tags'] or any(x not in TAGS for x in payload['tags']):raise TranslationError('Invalid categories')
     if payload.get('kind') not in ('deadline','event','guide'):raise TranslationError('Invalid date kind')
-    if any(not valid_date(payload.get(k)) for k in ('start','end','event','eventEnd')):raise TranslationError('Invalid ISO date')
+    for key in ('start','end','event','eventEnd'):
+        payload[key]=normalize_date(payload.get(key))
+        if not valid_date(payload.get(key)):raise TranslationError('Invalid ISO date in '+key)
     if payload.get('eligibility') not in (None,'confirmed','uncertain'):raise TranslationError('Invalid eligibility')
     if payload.get('eventEnd') and (not payload.get('event') or payload['eventEnd']<payload['event']):raise TranslationError('Invalid event interval')
     if payload.get('start') and payload.get('end') and dt.datetime.fromisoformat(payload['start'])>dt.datetime.fromisoformat(payload['end']+('T23:59:59' if 'T' not in payload['end'] else '')):
@@ -55,19 +67,55 @@ def translate_notice(source,*,api_key=None,endpoint=None,model=None):
     for image in source.get('images',[])[:4]:
         if image.get('dataUrl'):content.append({'type':'image_url','image_url':{'url':image['dataUrl']}})
     if len(source.get('images',[]))>4:content[0]['text']+='\n只提供前4张海报，必须在note注明未读取其余图片。'
-    payload={'model':model,'reasoning_effort':'none','messages':[{'role':'system','content':SYSTEM},{'role':'user','content':content}],'response_format':{'type':'json_object'}}
-    error='Translation request failed'
+    original_messages=[{'role':'system','content':SYSTEM},{'role':'user','content':content}]
+    payload={'model':model,'reasoning_effort':'none','messages':original_messages,'response_format':{'type':'json_object'}}
+    errors=[]
+    def corrective_messages(previous,problem):
+        if not isinstance(previous,str):previous=json.dumps(previous,ensure_ascii=False)
+        return original_messages+[{'role':'assistant','content':previous[:16000]},{'role':'user','content':('上一条回复未通过程序校验：'+problem+'。请根据原始公告修正，只返回符合系统要求的完整JSON对象；保留日期证据与资格限制，不要猜测日期或条件。')}]
+    def provider_error(response):
+        request_id=response.headers.get('x-request-id') or response.headers.get('request-id')
+        detail=''
+        try:
+            body=response.json()
+            info=body.get('error') if isinstance(body,dict) else None
+            if isinstance(info,dict):
+                detail=': '.join(str(x) for x in (info.get('code'),info.get('message')) if x)
+            elif isinstance(info,str):detail=info
+        except (ValueError,TypeError):pass
+        if key:detail=detail.replace(key,'[redacted]')
+        detail=re.sub(r'[\r\n\t]+',' ',detail)
+        suffix=(' — '+detail[:500]) if detail else ''
+        if request_id:suffix+=' (request id '+str(request_id)[:120]+')'
+        return suffix
     for attempt in range(3):
+        raw=''
         try:
             r=requests.post(endpoint,headers={'Authorization':'Bearer '+key},json=payload,timeout=(12,100))
-            if r.status_code in (429,500,502,503,504):error='Translation HTTP '+str(r.status_code)
-            elif not r.ok:raise TranslationError('Translation HTTP '+str(r.status_code))
+            if r.status_code in (429,500,502,503,504):
+                error='Translation HTTP '+str(r.status_code)+provider_error(r)
+                errors.append('attempt '+str(attempt+1)+': '+error)
+            elif not r.ok:raise TranslationError('Translation HTTP '+str(r.status_code)+provider_error(r))
             else:
                 try:
-                    text=r.json()['choices'][0]['message']['content'].strip()
+                    response=r.json()
+                    message=response['choices'][0]['message']
+                    raw=message.get('content')
+                    if isinstance(raw,list):raw=''.join(str(x.get('text','')) for x in raw if isinstance(x,dict))
+                    if not isinstance(raw,str):raise TypeError('message content is not text')
+                    text=raw.strip()
                     text=re.sub(r'^```(?:json)?\s*|\s*```$','',text)
-                    return validate(json.loads(text),source)
-                except (ValueError,KeyError,IndexError,TypeError,TranslationError) as e:error='Translation validation failed: '+(str(e) if isinstance(e,TranslationError) else type(e).__name__)
-        except requests.RequestException as e:error='Translation network error: '+type(e).__name__
+                    result=validate(json.loads(text),source)
+                    return result
+                except (ValueError,KeyError,IndexError,TypeError,TranslationError) as e:
+                    if isinstance(e,TranslationError):detail=str(e)
+                    elif isinstance(e,json.JSONDecodeError):detail='Invalid JSON: '+e.msg+' at line '+str(e.lineno)+', column '+str(e.colno)
+                    else:detail=type(e).__name__+': '+str(e)[:240]
+                    error='Translation validation failed: '+detail
+                    errors.append('attempt '+str(attempt+1)+': '+error)
+                    if attempt<2:payload['messages']=corrective_messages(raw,error)
+        except requests.RequestException as e:
+            error='Translation network error: '+type(e).__name__
+            errors.append('attempt '+str(attempt+1)+': '+error)
         if attempt<2:time.sleep(min(2**attempt,8))
-    raise TranslationError(error)
+    raise TranslationError('; '.join(errors) or 'Translation request failed without a response')

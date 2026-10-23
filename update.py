@@ -5,7 +5,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 import requests
-from crawl import BOARDS, listing, article, fetch, scan_board
+from crawl import BOARDS, listing, article, fetch, scan_board, session
 from ai_translate import translate_notice, DEFAULT_MODEL
 ROOT=Path(__file__).parent;KST=dt.timezone(dt.timedelta(hours=9));PROMPT_VERSION=2
 def read(path,default):
@@ -17,6 +17,13 @@ def digest(data):return hashlib.sha256(json.dumps(data,ensure_ascii=False,sort_k
 def base_fingerprint(r):return digest({k:r.get(k) for k in ('titleKo','published','body','images','attachments')})
 def allowed_url(url):
     p=urlparse(url);return p.scheme=='https' and (p.hostname in ('ajou.ac.kr','ksdcdb.kr') or (p.hostname or '').endswith('.ajou.ac.kr')) and not p.username
+
+def binary_resource(url,limit):
+    """Use the same bounded connection retries for posters/PDFs as for pages."""
+    response=session().get(url,timeout=(8,30),headers={'User-Agent':'AjouNoticeArchive/1.0 (public academic notice reader)'})
+    response.raise_for_status()
+    if len(response.content)>limit:raise ValueError('Official resource exceeds size limit')
+    return response
 def protect_scope(item):
     if item and item['id']=='373075':
         text='该公告工时表为本科口径，不能直接推定适用于硕博；研究生应另向学校和出入境确认。'
@@ -42,7 +49,7 @@ def image_evidence(images):
             header,encoded=image['url'].split(',',1);mime=header[5:].split(';')[0];body=base64.b64decode(encoded,validate=True)
         else:
             if not allowed_url(image['url']):raise ValueError('Untrusted image host')
-            r=requests.get(image['url'],timeout=30);r.raise_for_status();body=r.content;mime=r.headers.get('Content-Type','image/jpeg').split(';')[0]
+            r=binary_resource(image['url'],12*1024*1024);body=r.content;mime=r.headers.get('Content-Type','image/jpeg').split(';')[0]
         if len(body)>12*1024*1024:raise ValueError('Poster exceeds size limit')
         if not mime.startswith('image/'):raise ValueError('Poster is not an image')
         result.append({**image,'hash':hashlib.sha256(body).hexdigest(),'dataUrl':'data:'+mime+';base64,'+base64.b64encode(body).decode()})
@@ -50,11 +57,16 @@ def image_evidence(images):
 def source_for(row,prior):
     if row['board']=='library':
         from public_sources import LIBRARY,library_article
-        payload=json.loads(fetch('https://library.ajou.ac.kr/pyxis-api/1/bulletins/'+row['id'].split('-',1)[1]+'?includeContent=true'))
-        if not payload.get('success'):raise ValueError('Library detail failed')
-        detail=payload['data']
-        if detail.get('isPrivate') or detail.get('isPersonal'):raise ValueError('Non-public library notice')
-        source={**row,**library_article(detail),'extraText':''}
+        if row.get('body') or row.get('images'):
+            # The public includeContent list is authoritative too. Some listed
+            # notices reject the detail route even while publishing their body.
+            source={**row,'extraText':''}
+        else:
+            payload=json.loads(fetch('https://library.ajou.ac.kr/pyxis-api/1/bulletins/'+row['id'].split('-',1)[1]+'?includeContent=true'))
+            if not payload.get('success'):raise ValueError('Library detail failed')
+            detail=payload['data']
+            if detail.get('isPrivate') or detail.get('isPersonal'):raise ValueError('Non-public library notice')
+            source={**row,**library_article(detail),'extraText':''}
         images=source['images'];source['images']=[i for i in images if allowed_url(i['url']) or i['url'].startswith('data:image/')]
         source['unreadableImages']=len(images)-len(source['images'])
         if not source['body'] and not source['images']:source['unavailableReason']='图书馆公告无可读取正文或有效海报，未猜测内容。'
@@ -83,14 +95,22 @@ def source_for(row,prior):
         if pdf and allowed_url(pdf['url']):
             import io
             from pypdf import PdfReader
-            r=requests.get(pdf['url'],timeout=30);r.raise_for_status()
-            if len(r.content)>10*1024*1024:raise ValueError('PDF exceeds size limit')
-            reader=PdfReader(io.BytesIO(r.content));source['body']='\n'.join(p.extract_text() or '' for p in reader.pages[:12])
-    if not source['body'] and not source['images']:source['unavailableReason']='官方页面无可读取正文、有效海报或可提取文本的PDF，未猜测内容。'
+            r=binary_resource(pdf['url'],10*1024*1024)
+            reader=PdfReader(io.BytesIO(r.content));text='\n'.join(p.extract_text() or '' for p in reader.pages[:12])
+            # Scanned manuals may expose page numbers but no actual prose.
+            # Do not send those numbers to the model as if the PDF was read.
+            if len(re.findall(r'[A-Za-z\u4e00-\u9fff\uac00-\ud7a3]',text))>=30:
+                source['body']=text
+                if len(reader.pages)>12:source['extraText']+='\nPDF仅提取前12页，未读取其余页面。'
+            else:source['unavailableReason']='PDF为扫描件，未取得可核验正文，不能仅凭页码生成摘要。'
+    if not source['body'] and not source['images']:source.setdefault('unavailableReason','官方页面无可读取正文、有效海报或可提取文本的PDF，未猜测内容。')
     return source
+
+def needs_source_retry(state):
+    return state.get('action')=='skipped' or any(x in state.get('reason','') for x in ('无可读取','无法读取','扫描件','未取得可核验'))
 def process(row,prior,state,seed,model,now):
     minutes=int(os.environ.get('SOURCE_CACHE_MINUTES','0'))
-    if state and state.get('model')==model and minutes>0 and (not prior or prior.get('fetchStatus')!='stale') and not any(x in state.get('reason','') for x in ('无可读取','无法读取')):
+    if state and state.get('model')==model and minutes>0 and (not prior or prior.get('fetchStatus')!='stale') and not needs_source_retry(state):
         age=dt.datetime.fromisoformat(now)-dt.datetime.fromisoformat(state['checkedAt'])
         if dt.timedelta(0)<=age<dt.timedelta(minutes=minutes):
             cached={**prior,'otherSources':row.get('otherSources',prior.get('otherSources',[]))} if prior else None
@@ -103,10 +123,10 @@ def process(row,prior,state,seed,model,now):
     new_state={'fingerprint':key,'checkedAt':now,'sourceFingerprint':base,'model':model}
     if source.get('unavailableReason'):
         old={**prior,'reviewNeeded':True,'fetchStatus':'stale'} if prior else None
-        return old,{**new_state,'reason':source['unavailableReason']},'skipped'
+        return old,{**new_state,'reason':source['unavailableReason'],'action':'skipped'},'skipped'
     if prior and prior.get('editorial')=='auto' and any(s in (prior.get('note') or '') for s in ('中国公民不符合','中国申请人不符合','仅限韩国国籍')):
         return None,{**new_state,'reason':prior['note']},'excluded'
-    if not prior and state and state.get('sourceFingerprint')==base and state.get('reason') and '无法读取' not in state['reason'] and '无可读取' not in state['reason']:
+    if not prior and state and state.get('sourceFingerprint')==base and state.get('reason') and not needs_source_retry(state):
         return None,{**new_state,'reason':state['reason']},'excluded'
     if state and state.get('fingerprint')==key:return (protect_scope({**prior,**record,'lastCheckedAt':now,'fetchStatus':'ok','reviewNeeded':False}) if prior else None),{**state,**new_state},'unchanged'
     if seed and seed.get('reviewedFingerprint')==base:return {**seed,**record,'lastCheckedAt':now,'editorial':'human','fetchStatus':'ok'},new_state,'unchanged'
@@ -168,13 +188,15 @@ def run():
                 print(f'[{ident}] {action}',flush=True)
             except Exception as e:
                 failures+=1;stats['errors'].append({'id':ident,'error':type(e).__name__})
-                pending.append({'id':ident,'board':row['board'],'url':row['url'],'reason':type(e).__name__})
+                from ai_translate import TranslationError
+                reason=str(e)[:300] if isinstance(e,TranslationError) else type(e).__name__
+                stats['errors'][-1]['reason']=reason
+                pending.append({'id':ident,'board':row['board'],'url':row['url'],'reason':reason})
                 for health in coverage:
                     if health['key']==row['board'] and health['status']=='ok':health['status']='partial'
                 if ident in items:
-                    from ai_translate import TranslationError
                     items[ident]={**items[ident],'fetchStatus':'stale','reviewNeeded':isinstance(e,TranslationError) or items[ident].get('reviewNeeded',False)}
-                print(f'[{ident}] '+('retained previous data' if ident in items else 'not published')+f' ({type(e).__name__})',flush=True)
+                print(f'[{ident}] '+('retained previous data' if ident in items else 'not published')+f' ({reason})',flush=True)
     if not stats['translated'] and not stats['unchanged']:raise RuntimeError('No successful source checks; leaving published data unchanged')
     for health in coverage:
         if health['status']=='ok':health['lastSuccessAt']=now

@@ -11,8 +11,14 @@ CALENDAR='https://grad.ajou.ac.kr/gs/bachelor/schedule.do'
 
 def library_record(row):
     ident=str(row['id'])
-    return {'id':'library-'+ident,'nativeId':ident,'board':'library','source':'中央图书馆','titleKo':row['title'],'published':row['dateCreated'][:10],
+    record={'id':'library-'+ident,'nativeId':ident,'board':'library','source':'中央图书馆','titleKo':row['title'],'published':row['dateCreated'][:10],
             'pinned':False,'url':'https://library.ajou.ac.kr/guide/bulletins/notice/'+ident}
+    # The public listing already includes content when requested with
+    # includeContent=true. Preserve it as a fallback because the detail route
+    # can reject a still-listed bulletin with error.badRequest.
+    if 'content' in row:
+        record.update(library_article(row))
+    return record
 
 def library_article(row):
     body=BeautifulSoup(row.get('content') or '','html.parser')

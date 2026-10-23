@@ -1,191 +1,14 @@
 {
-  "checkedAt": "2026-10-20T17:37:20.553696+09:00",
+  "checkedAt": "2026-10-23T17:56:41.880214+09:00",
   "model": "gpt-6-luna",
-  "scanned": 526,
+  "scanned": 533,
   "pages": 36,
   "boards": 10,
-  "translated": 3,
-  "unchanged": 168,
-  "excluded": 88,
+  "translated": 1,
+  "unchanged": 317,
+  "excluded": 0,
   "skipped": 0,
-  "errors": [
-    {
-      "id": "377337",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "376367",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "376256",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "375608",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "298592",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "363644",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "363273",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "362510",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "353036",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "351693",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377708",
-      "error": "TranslationError"
-    },
-    {
-      "id": "377661",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377639",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377614",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377611",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377545",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377437",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377338",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377306",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "360568",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "376257",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "373483",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "373172",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "373850",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "373559",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "372512",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377668",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377176",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "375971",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "375962",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "library-23063",
-      "error": "ConnectionError"
-    },
-    {
-      "id": "library-23082",
-      "error": "ConnectionError"
-    },
-    {
-      "id": "377210",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "376494",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "376493",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "377036",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "372502",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "372015",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "372546",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "372220",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "371005",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "371003",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "369877",
-      "error": "ConnectTimeout"
-    },
-    {
-      "id": "369384",
-      "error": "ConnectTimeout"
-    }
-  ],
+  "errors": [],
   "schedule": "每日 08:17、12:17、18:17 KST",
   "sourceStatus": [
     {
@@ -193,12 +16,12 @@
       "name": "一般大学院",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do",
       "pages": 2,
-      "scanned": 28,
-      "status": "partial",
+      "scanned": 25,
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "international",
@@ -206,11 +29,11 @@
       "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do",
       "pages": 2,
       "scanned": 23,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-20T01:30:06.324855+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "oia",
@@ -218,11 +41,11 @@
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do",
       "pages": 8,
       "scanned": 83,
-      "status": "partial",
+      "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "university",
@@ -230,23 +53,23 @@
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do",
       "pages": 10,
       "scanned": 104,
-      "status": "partial",
+      "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "graduate_en",
       "name": "大学院英文公告",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do",
       "pages": 2,
-      "scanned": 26,
-      "status": "partial",
+      "scanned": 25,
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "innovation",
@@ -254,23 +77,23 @@
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do",
       "pages": 2,
       "scanned": 25,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "scholarship",
       "name": "奖学金公告",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do",
       "pages": 2,
-      "scanned": 23,
-      "status": "partial",
+      "scanned": 26,
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "library",
@@ -278,11 +101,11 @@
       "url": "https://library.ajou.ac.kr/guide/bulletins/notice",
       "pages": 5,
       "scanned": 100,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-19T10:19:36.978552+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "academic_calendar",
@@ -293,8 +116,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-20T17:37:20.553696+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
       "key": "college",
@@ -302,11 +125,11 @@
       "url": "https://www.ajou.ac.kr/sw/board/notice.do",
       "pages": 2,
       "scanned": 23,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-20T17:37:20.553696+09:00",
-      "lastSuccessAt": "2026-10-16T04:02:33.399350+09:00"
+      "checkedAt": "2026-10-23T17:56:41.880214+09:00",
+      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     }
   ]
 }

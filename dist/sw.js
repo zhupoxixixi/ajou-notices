@@ -1,6 +1,6 @@
 'use strict';
 importScripts('core.js');
-const CACHE='ajou-notices-5476daa4977c',BASE=new URL('./',self.location.href);
+const CACHE='ajou-notices-f793da3a2ff6',BASE=new URL('./',self.location.href);
 const FILES=['./','index.html','styles.css','notice.css','app.js','core.js','appearance.js','background.js','contrast.js','data.js','notices.json','manifest.webmanifest','favicon.svg','icons/icon-192.png','icons/icon-512.png','icons/apple-touch-icon.png','notices.ics','assets/default-background.svg'];
 self.addEventListener('install',event=>event.waitUntil((async()=>{const cache=await caches.open(CACHE);await cache.addAll(FILES.map(x=>new URL(x,BASE).href));await self.skipWaiting();})()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith('ajou-notices-')&&key!==CACHE)await caches.delete(key);await self.clients.claim();})()));

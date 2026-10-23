@@ -67,7 +67,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,te
 .site-header { padding-top: env(safe-area-inset-top); }
 .header-inner { display: flex; min-height: 68px; align-items: center; justify-content: space-between; gap: 12px; }
 .brand { display: inline-flex; flex: 0 0 auto; align-items: center; gap: 12px; margin-left: -8px; padding: 5px 8px; border-radius: 20px; background: var(--glass-tint); }
-.brand-mark { display: grid; width: 44px; height: 44px; flex: 0 0 auto; place-items: center; border: 2px solid #f7fff9; border-radius: 50%; color: #f7fff9; background: #116537; }
+.brand-mark { display: grid; width: 44px; height: 44px; flex: 0 0 auto; place-items: center; border: 1px solid #ffffff90; border-radius: 15px; color: #fff; background: linear-gradient(155deg,#31acff,#0088ff); box-shadow: inset 0 1px 1px #fff7,0 6px 16px #0088ff24; }
 .brand-mark svg { width: 29px; height: 29px; }
 .brand-copy { display: block; line-height: 1.35; }
 .brand strong { display: block; font-size: 13px; font-weight: 700; letter-spacing: .04em; }

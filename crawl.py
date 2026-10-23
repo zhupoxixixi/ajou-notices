@@ -26,7 +26,12 @@ _CLIENTS=threading.local()
 def session():
     if not hasattr(_CLIENTS,'session'):
         client=requests.Session()
-        client.mount('https://',HTTPAdapter(max_retries=Retry(total=2,connect=2,read=1,backoff_factor=.75,status_forcelist=(429,500,502,503,504),allowed_methods=('GET',))))
+        # Official pages occasionally stall during TLS connection setup. Keep
+        # retries bounded, with a short backoff, and let the final exception
+        # reach scan_board/source_for so failures remain visible and old data
+        # can be retained by the update pipeline.
+        retry=Retry(total=3,connect=3,read=2,backoff_factor=.5,status_forcelist=(429,500,502,503,504),allowed_methods=('GET',))
+        client.mount('https://',HTTPAdapter(max_retries=retry,pool_connections=10,pool_maxsize=4,pool_block=True))
         _CLIENTS.session=client
     return _CLIENTS.session
 
@@ -71,7 +76,7 @@ def article(html, url):
         **({'published': published['content'][:10]} if published else {'published':'-'.join(date_match.groups())} if date_match else {}),
         'body': body.get_text('\n', strip=True),
         'links': [{'label': a.get_text(' ', strip=True), 'url': urljoin(url,a['href'])} for a in body.select('a[href]') if a['href'].startswith(('http', '/', '?'))],
-        'attachments': [{'label': a.get_text(' ', strip=True), 'url': urljoin(url,a['href'])} for a in s.select('a[href*="mode=download"]')],
+        'attachments': [{'label': a.get_text(' ', strip=True), 'url': urljoin(url,a['href'])} for a in s.select('a[href*="mode=download"], a[href*="mode=file-download"]')],
         'images': [{'alt': i.get('alt', ''), 'url': urljoin(url, i['src'])} for i in body.select('img[src]')],
         'sha256': hashlib.sha256(html.encode()).hexdigest(),
     }

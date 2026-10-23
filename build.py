@@ -62,11 +62,15 @@ def build():
     history_path.write_text(json.dumps(history,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
     (dist/'notices.ics').write_bytes(calendar(all_events).encode('utf8'))
     digest=hashlib.sha256()
+    def asset_digest(path):
+        # Git normalizes text line endings; cache versions must agree on Windows and CI.
+        return path.read_bytes() if path.suffix.lower() in ('.png','.jpg','.jpeg','.webp') else path.read_text(encoding='utf8').encode('utf8')
     for name in assets:
-        digest.update((dist/name).read_bytes())
-    for asset in sorted((dist/'assets').rglob('*')) if (dist/'assets').exists() else []:
-        if asset.is_file():digest.update(asset.read_bytes())
-    digest.update((ROOT/'src/sw.js').read_bytes())
+        digest.update(asset_digest(dist/name))
+    for folder in ('assets','icons'):
+        for asset in sorted((dist/folder).rglob('*')) if (dist/folder).exists() else []:
+            if asset.is_file():digest.update(asset_digest(asset))
+    digest.update(asset_digest(ROOT/'src/sw.js'))
     version=digest.hexdigest()[:12]
     (dist/'sw.js').write_text((ROOT/'src/sw.js').read_text(encoding='utf8').replace('__VERSION__',version),encoding='utf8')
     serialized=json.dumps(data,ensure_ascii=False,indent=2)

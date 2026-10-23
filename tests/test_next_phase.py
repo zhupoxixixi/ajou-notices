@@ -1,24 +1,48 @@
 import datetime as dt
 import json
 import unittest
+import requests
 from unittest.mock import Mock,patch
-from crawl import BOARDS,listing,scan_board
-from public_sources import calendar_rows
+from crawl import BOARDS,article,listing,scan_board,session
+from public_sources import calendar_rows,library_record
 from calendar_export import events_for,calendar
 from delivery import changes,notify,fingerprint,healthy,heartbeat
 from update import source_for
 
 class SourceTests(unittest.TestCase):
+    def test_official_request_retries_are_bounded(self):
+        retry=session().get_adapter('https://').max_retries
+        self.assertEqual(retry.connect,3)
+        self.assertEqual(retry.read,2)
+        self.assertEqual(retry.backoff_factor,.5)
+        self.assertEqual(retry.total,3)
+
     def test_display_expiry_is_not_publication(self):
         html='<table><thead>공지마감일</thead><tr><td><a href="?mode=view&articleNo=1">학위논문</a></td><td class="b-date">2027-01-15</td></tr></table>'
         row=listing(html,BOARDS['graduate'][1],'graduate')[0]
         self.assertEqual(row['published'],'');self.assertEqual(row['displayUntil'],'2027-01-15')
+
+    def test_cms_file_download_attachment_is_extracted(self):
+        html='<div class="b-content-box"><img src="blob:https://www.ajou.ac.kr/unreadable"></div><a class="file-down-btn pdf" href="?mode=file-download&articleNo=377754&attachNo=335305">申请手册.pdf</a>'
+        result=article(html,'https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377754')
+        self.assertEqual(result['body'],'')
+        self.assertEqual(result['attachments'],[{'label':'申请手册.pdf','url':'https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=file-download&articleNo=377754&attachNo=335305'}])
     def test_request_limit_is_visible(self):
         def fetcher(url):
             page=int(url.split('article.offset=')[1])
             return '<table>'+''.join(f'<tr><td><a href="?mode=view&articleNo={page+i}">연구 {i}</a></td><td class="b-date">2026-10-16</td></tr>' for i in range(10))+'</table>'
         rows,state=scan_board('graduate',set(),dt.date(2026,10,16),fetcher=fetcher,max_pages=2)
         self.assertEqual(len(rows),20);self.assertTrue(state['bounded'])
+
+    def test_failed_later_page_keeps_scanned_records_and_marks_error(self):
+        def fetcher(url):
+            if 'article.offset=10' in url:raise requests.ConnectTimeout('temporary official host timeout')
+            return '<table>'+''.join(f'<tr><td><a href="?mode=view&articleNo={i}">研究 {i}</a></td><td class="b-date">2026-10-16</td></tr>' for i in range(10))+'</table>'
+        rows,state=scan_board('graduate',set(),dt.date(2026,10,16),fetcher=fetcher,max_pages=3)
+        self.assertEqual(len(rows),10)
+        self.assertEqual(state['pages'],1)
+        self.assertEqual(state['status'],'error')
+        self.assertEqual(state['error'],'ConnectTimeout')
     def test_calendar_vague_dates_and_next_year(self):
         html='<h4>2026학년도</h4><table class="ajou-gs-table"><tr><td>2학기</td><td>논문 제출</td><td>1.8.(금) ~ 1.15.(금)</td><td></td></tr><tr><td>학과 상담</td><td>10월 중</td><td></td></tr></table>'
         rows=calendar_rows(html)
@@ -33,6 +57,14 @@ class SourceTests(unittest.TestCase):
             result=source_for(row,None)
         self.assertEqual(get.call_args.args[0],'https://library.ajou.ac.kr/pyxis-api/1/bulletins/23188?includeContent=true')
         self.assertEqual(result['unreadableImages'],1);self.assertEqual(result['images'],[]);self.assertIn('研究',result['body'])
+
+    def test_library_list_embedded_content_is_preserved_for_detail_fallback(self):
+        row={'id':23063,'title':'学位论文数据库利用教育','dateCreated':'2026-09-08 09:49:07',
+             'content':'<p>公开列表中的正文</p><img src="/files/poster.png">'}
+        record=library_record(row)
+        self.assertEqual(record['id'],'library-23063')
+        self.assertIn('公开列表中的正文',record['body'])
+        self.assertEqual(record['images'][0]['url'],'https://library.ajou.ac.kr/files/poster.png')
 
 class CalendarTests(unittest.TestCase):
     def item(self):
