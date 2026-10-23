@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:calendar-55f7d04b6da4-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:申请 / 办理截止：第二学期外语考试（硕士、博
+ 士）申请
+DESCRIPTION:适用对象：硕士、博士研究生；具体申请资格
+ 及办理方式请查阅相关公告和学科通知。\n硕士、博士
+ 第二学期外语考试申请期为2027-01-14至2027-01-18。\nAI 自
+ 动整理，重要日期请核对原文。\n官方原文：https://grad.
+ ajou.ac.kr/gs/bachelor/schedule.do\n原文未给具体时刻，本日历
+ 使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-calendar-55f7d04b6
+ da4
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

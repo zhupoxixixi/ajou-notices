@@ -1,19 +1,19 @@
 {
-  "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+  "checkedAt": "2026-10-23T23:07:00.089619+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 532,
+  "scanned": 519,
   "pages": 36,
   "boards": 10,
-  "translated": 90,
-  "unchanged": 98,
-  "excluded": 128,
+  "translated": 201,
+  "unchanged": 20,
+  "excluded": 82,
   "skipped": 0,
   "errors": [
     {
-      "id": "372505",
-      "error": "GatewayError",
-      "reason": "Reader HTTP 422"
+      "id": "library-22878",
+      "error": "TranslationError",
+      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也"
     }
   ],
   "schedule": "每日 08:17、12:17、18:17 KST",
@@ -27,8 +27,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     },
     {
       "key": "international",
@@ -39,8 +39,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     },
     {
       "key": "oia",
@@ -51,8 +51,8 @@
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     },
     {
       "key": "university",
@@ -63,8 +63,8 @@
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     },
     {
       "key": "graduate_en",
@@ -75,8 +75,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     },
     {
       "key": "innovation",
@@ -84,11 +84,11 @@
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do",
       "pages": 2,
       "scanned": 25,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     },
     {
       "key": "scholarship",
@@ -99,8 +99,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     },
     {
       "key": "library",
@@ -108,10 +108,10 @@
       "url": "https://library.ajou.ac.kr/guide/bulletins/notice",
       "pages": 5,
       "scanned": 100,
-      "status": "ok",
+      "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
       "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
@@ -123,8 +123,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     },
     {
       "key": "college",
@@ -135,8 +135,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
     }
   ]
 }

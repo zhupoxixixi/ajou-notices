@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377658-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261031
+SUMMARY:活动：法律数据库使用培训（在线）
+DESCRIPTION:适用对象：亚洲大学全体成员，包括本科生、
+ 大学院生及教职员；研究生可参加，未说明国际学生资
+ 格限制。\nThomson Reuters在线讲解Westlaw及LAWnB法律数据库
+ 检索方法，可按需选择课程报名。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://www.ajou.ac.kr/kr/ajou/
+ notice.do?mode=view&articleNo=377658\n原文未给具体时刻，本日
+ 历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377658
+TRANSP:TRANSPARENT
+SEQUENCE:3
+END:VEVENT
+END:VCALENDAR

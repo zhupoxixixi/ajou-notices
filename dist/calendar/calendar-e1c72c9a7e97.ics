@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:calendar-e1c72c9a7e97-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:申请 / 办理截止：中秋假期（含补休日）
+DESCRIPTION:适用对象：一般大学院学生；具体安排以相关
+ 公告及学科通知为准。\n2026学年度一般大学院校历列出
+ 中秋假期，具体事项请查阅相关公告及学科通知。\nAI 
+ 自动整理，重要日期请核对原文。\n官方原文：https://gr
+ ad.ajou.ac.kr/gs/bachelor/schedule.do\n原文未给具体时刻，本日
+ 历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-calendar-e1c72c9a7
+ e97
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

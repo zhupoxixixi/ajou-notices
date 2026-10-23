@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:calendar-760544a34e5e-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:申请 / 办理截止：春节假期
+DESCRIPTION:适用对象：一般大学院师生；具体安排请查看
+ 相关公告及学科通知。\n2027年2月8日至9日为一般大学院
+ 春节假期。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/bachelor/schedule.do\n原文未
+ 给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-calendar-760544a34
+ e5e
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

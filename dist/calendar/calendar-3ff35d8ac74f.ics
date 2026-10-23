@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:calendar-3ff35d8ac74f-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:申请 / 办理截止：第二学期结课日
+DESCRIPTION:适用对象：一般大学院学生；未说明外国留学
+ 生适用条件。\n2026学年度第二学期结课日为12月21日。\n
+ AI 自动整理，重要日期请核对原文。\n官方原文：https:/
+ /grad.ajou.ac.kr/gs/bachelor/schedule.do\n原文未给具体时刻，本
+ 日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-calendar-3ff35d8ac
+ 74f
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

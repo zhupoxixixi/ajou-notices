@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377154-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261031
+SUMMARY:活动：中央图书馆10月学术信息利用培训安排
+DESCRIPTION:适用对象：大学成员；海报注明部分课程推荐
+ 研究生，另有课程明确面向国际学生。\n培训涵盖论文
+ 检索与写作、研究方法、数据库及AI工具使用；含国际
+ 学生专场。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo
+ =377154\n原文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377154
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:library-22844-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260626
+SUMMARY:活动：6月图书馆利用教育报名通知
+DESCRIPTION:适用对象：大学院生可参加“Citeasy利用方法”
+ 课程；其他课程对象及报名资格未详。\n6月图书馆培训
+ 涵盖统计分析、学术数据库与论文引用工具，含明确标
+ 注面向大学院生的Citeasy课程。\nAI 自动整理，重要日期
+ 请核对原文。\n官方原文：https://library.ajou.ac.kr/guide/bull
+ etins/notice/22844\n原文未给具体时刻，本日历使用全天事
+ 项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-library-22844
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

@@ -6,19 +6,19 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:calendar-98f210717bba-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261023T095523Z
-LAST-MODIFIED:20261023T095523Z
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:申请 / 办理截止：韩文日节假日安排
+SUMMARY:申请 / 办理截止：韩文日（公休日）
 DESCRIPTION:适用对象：一般大学院学生；公告未说明外国
- 留学生适用条件。\n2026年韩文日为10月9日，具体安排请
- 查看相关公告及学科通知。\nAI 自动整理，重要日期请
- 核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bachelor/sche
- dule.do\n原文未给具体时刻，本日历使用全天事项。
+ 留学生的具体适用条件。\n一般大学院2026学年度学事日
+ 历列明韩文日日期。\nAI 自动整理，重要日期请核对原
+ 文。\n官方原文：https://grad.ajou.ac.kr/gs/bachelor/schedule.do\n
+ 原文未给具体时刻，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-calendar-98f210717
  bba
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR

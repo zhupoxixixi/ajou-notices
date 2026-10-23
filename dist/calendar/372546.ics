@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372546-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:申请 / 办理截止：2026区块链见面会（BCMD）第17期
+ 培训招募
+DESCRIPTION:适用对象：对区块链理论与实作教育感兴趣者
+ ；限额35人，按先到先得录取。是否有面向外国研究生
+ 的特殊条件未说明。\n提供区块链概念、智能合约及简
+ 单DApp开发培训，需自备笔记本电脑。\nAI 自动整理，重
+ 要日期请核对原文。\n官方原文：https://www.ajou.ac.kr/sw/bo
+ ard/notice.do?mode=view&articleNo=372546\n原文未给具体时刻，本
+ 日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372546
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:372546-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART:20260808T010000Z
+DTEND:20260808T090000Z
+SUMMARY:活动：2026区块链见面会（BCMD）第17期培训招募
+DESCRIPTION:适用对象：对区块链理论与实作教育感兴趣者
+ ；限额35人，按先到先得录取。是否有面向外国研究生
+ 的特殊条件未说明。\n提供区块链概念、智能合约及简
+ 单DApp开发培训，需自备笔记本电脑。\nAI 自动整理，重
+ 要日期请核对原文。\n官方原文：https://www.ajou.ac.kr/sw/bo
+ ard/notice.do?mode=view&articleNo=372546
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372546
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

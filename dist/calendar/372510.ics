@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372510-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T140700Z
+LAST-MODIFIED:20261023T140700Z
+DTSTART:20260527T090000Z
+DTEND:20260527T100000Z
+SUMMARY:活动：做好迎接有趣时刻的准备：海外学者特邀
+ 讲座
+DESCRIPTION:适用对象：欢迎感兴趣的学生参加；未说明外
+ 国研究生资格限制。\nPurdue University 的 Yoon Yeo 教授将主
+ 讲“Be ready for the funny moment”。\nAI 自动整理，重要日
+ 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
+ 21_bbs.do?mode=view&articleNo=372510
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372510
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
