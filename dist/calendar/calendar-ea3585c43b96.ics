@@ -6,19 +6,19 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:calendar-ea3585c43b96-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261015T184338Z
-LAST-MODIFIED:20261015T184338Z
+DTSTAMP:20261023T095523Z
+LAST-MODIFIED:20261023T095523Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
-SUMMARY:申请 / 办理截止：2026学年度第一学期学位授予日
-DESCRIPTION:适用对象：一般大学院学生；具体事项以相关
- 公告及学科通知为准。\n2026学年度第一学期学位授予日
- 为2027-02-22。\nAI 自动整理，重要日期请核对原文。\n官
- 方原文：https://grad.ajou.ac.kr/gs/bachelor/schedule.do\n原文未
- 给具体时刻，本日历使用全天事项。
+SUMMARY:申请 / 办理截止：2026学年度前期学位授予日
+DESCRIPTION:适用对象：一般大学院学生；具体学位授予安
+ 排请确认相关公告及院系通知。\n2026学年度前期学位授
+ 予日为2027-02-22。\nAI 自动整理，重要日期请核对原文。
+ \n官方原文：https://grad.ajou.ac.kr/gs/bachelor/schedule.do\n原文
+ 未给具体时刻，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-calendar-ea3585c43
  b96
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
