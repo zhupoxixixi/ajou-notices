@@ -18,6 +18,7 @@ jobs:
     timeout-minutes: 30
     outputs:
       publish_ref: ${{ steps.commit.outputs.publish_ref }}
+      artifact_ready: ${{ steps.artifact.outcome }}
     env:
       PYTHONUNBUFFERED: '1'
       TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL || 'gpt-6-luna' }}
@@ -75,6 +76,7 @@ jobs:
           echo "publish_ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
+        id: artifact
         with:
           path: dist
       - name: Report a failed refresh
@@ -84,6 +86,7 @@ jobs:
           exit 1
   deploy:
     needs: update
+    if: always() && !cancelled() && needs.update.outputs.artifact_ready == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
