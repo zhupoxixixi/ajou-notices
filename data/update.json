@@ -1,984 +1,934 @@
 {
-  "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+  "checkedAt": "2026-10-23T19:39:45.983652+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 533,
+  "scanned": 532,
   "pages": 36,
   "boards": 10,
-  "translated": 69,
-  "unchanged": 20,
-  "excluded": 35,
+  "translated": 9,
+  "unchanged": 123,
+  "excluded": 1,
   "skipped": 0,
   "errors": [
     {
+      "id": "376506",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
       "id": "369657",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 604696a7-648f-4ff5-bfb3-fe3b81d295cb)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376934",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c6668137-fddf-494e-b198-3fa2c7f58a07)"
-    },
-    {
-      "id": "376506",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 78dc2180-5884-4893-b77b-5be693d177fe)"
-    },
-    {
-      "id": "377426",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id acab1c32-1622-473b-810c-c7bb4f6e87f3)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377425",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id e02b65c2-6d1d-490c-8ad6-04bfab1444af)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "377426",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377337",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 51c13ce3-b684-4844-9421-6045a1cac8c5)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376367",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id ec6319a7-3c7c-404a-a119-e24dbb1879da)"
-    },
-    {
-      "id": "376256",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 9318fffe-a8d0-4381-8f41-11fea28d24f7)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376054",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c273ec7a-6fab-4d47-8af7-53d2ca437d09)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "376256",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376048",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id fc41430d-70a4-46ee-9566-c152d9e7e7da)"
-    },
-    {
-      "id": "375924",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 94a66191-2e49-49dd-8a4c-90d0800004bf)"
-    },
-    {
-      "id": "375919",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id a1bc3bc0-49f8-42ad-b24b-920f0a4bc430)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375801",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id d72bd887-4f4a-46ac-8543-8e27a39da3fb)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "375924",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375800",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 6e9aa27e-f1d9-4229-93ae-de307a153507)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373219",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id a85b9795-067a-4fc2-891a-5b7c78b1b940)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "375919",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "298592",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 2d8e3759-a2a2-4347-84ed-1a9efee12337)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370527",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 9ec04f83-3d16-4f17-a886-651e79117bb6)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "369355",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id ca799f82-cbfe-4da5-9696-02199256061c)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376961",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 66101ba7-22a4-4a2a-8683-e2908f779724)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "371987",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 9c268e1e-1e4f-48e3-befc-57e3c533876e)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370987",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 49ae54bd-03d6-4462-8b5f-9810b18ce1e0)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377523",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id efdd8b06-45cd-44bf-bfb2-70c19bd86008)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373746",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 8240ca09-80b5-4d7c-8a30-dc8b8a0b606d)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377913",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 9c8cbd6c-7e6a-47aa-bb59-23f40a8ea1f8)"
-    },
-    {
-      "id": "376963",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 44417c95-2c43-4aa6-9a23-c0ca544e58a7)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377911",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id acdba719-697c-40c5-b612-8e4b4ab0e62f)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377908",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 58e18a37-3d35-4775-a950-36af97ca1d10)"
-    },
-    {
-      "id": "377896",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id cc555706-7d9f-4fba-a762-21dbe57ecd3e)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377906",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 64205c5a-aa04-4af1-b715-e9849ded1783)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "377896",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377872",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 750d5c43-d15d-44d5-b168-548cd3054c78)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377871",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 3e74888d-c095-4b19-9653-bfd0801cabc9)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377870",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id d9abb9ba-5ff9-4d11-8287-0d2c61bf7708)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377862",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id d4c91b59-26ef-4e3a-85fb-5230d47d74e3)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377852",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id e3278d95-a7b4-4c06-a6d2-803cbfb60dc6)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377843",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 2d54ff1b-8b0b-4af2-aaf7-6a7546f88487)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "376963",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377842",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 535cfc08-e0e2-49f4-b607-b5d713d66eed)"
-    },
-    {
-      "id": "377825",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 42a858d4-66bd-48d6-9228-2cf171cdca45)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377823",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id d270783d-eb8b-4a09-b297-13d2681d5993)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
-      "id": "377771",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id dae3651a-a23b-4750-98ac-255bb45c5f64)"
-    },
-    {
-      "id": "377770",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 82b12a32-0678-4b9b-9e57-2bd25a1992c5)"
+      "id": "377825",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377768",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 67bd02db-76ab-4d4b-9a55-cc44ff461d05)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "377770",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377761",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 1eeb2e28-8015-4fa2-b779-5443c57e21f5)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "377771",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377755",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 9a7e32f1-1980-4133-ad3c-788af9a769cf)"
-    },
-    {
-      "id": "377753",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 33d68d00-a222-48da-9091-0d75d312b874)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377750",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 96a4c1f3-dde1-49aa-bc7d-31daf873d886)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377741",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id aa6ea8a9-5088-477c-91a7-1dfa015469c3)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377732",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id be2e68a9-fcdd-41c1-b0b8-8192fbc41fe8)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377731",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id bf17bee3-844d-4e69-8e60-06636fe3fcb9)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377723",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 89f7eb9d-a878-445e-af3c-5f1ad1f2f341)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "377753",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377719",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id eb8e99c5-aeb5-49a7-b138-586ac7f03253)"
-    },
-    {
-      "id": "377672",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 240dd968-bb8f-4df4-9d7a-c2081b2c2906)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377664",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 24f88a72-6294-4476-8615-c940c9aecd62)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
-      "id": "377663",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 23bd4b05-765c-4469-b6a8-f7fc39731c2f)"
+      "id": "377672",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377661",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 5a53899f-d770-44ae-82eb-82b10ea1400c)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "377663",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377655",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 03eaf7e7-8d8c-45aa-bf16-7d2a3ab14f49)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377641",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 9a4538ec-946a-47ad-94fd-cb83a8eae28e)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377639",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 7f8ee1a2-deb2-4066-a922-9de990076d41)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377618",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id eda3de50-0317-437c-91c0-bd894b48adc7)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377614",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id f6016b54-404e-48cc-b5d5-8d852499bdc4)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377611",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id dd1e971b-9693-434c-9733-1fff100b7ce9)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377600",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 7748eaaf-7e78-486d-932c-edd605b91367)"
-    },
-    {
-      "id": "377658",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
-    },
-    {
-      "id": "377588",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 40356128-e7a0-4ff0-9201-3f4324fe6a91)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377594",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c7cc2682-ffb4-403f-8bd0-ab03dc120e77)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "377588",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377587",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id b0961093-f35c-4632-b0f4-735c1d99475e)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377556",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 4c6f5fd4-2629-48b4-89a2-b62cfd5936e5)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377551",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id e6991843-c05b-425d-83e3-c8fa933b2290)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377545",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id ae18e5e7-4a8f-4956-832d-080ae477e271)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377541",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 939ca4ee-11d6-44b8-a9cd-81dfad63a312)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377183",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 4bf90fe1-1aac-4899-b480-86a79504dcff)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "360568",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 6b5374e5-9074-43f8-adc6-0d3dc2846059)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377427",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 424e60da-18ad-4fd7-bd54-c89352bfbd1e)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377101",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id b0a3fb57-4f03-4f03-9430-1dc046a655e9)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376257",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 181295bb-86ee-4863-abcc-8b68c0efdaa1)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376052",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 52ed572f-01bc-43ab-8a3c-b3e2f7b4dcb5)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375925",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 4711f548-1dca-4c98-b3ab-060b70a53eb7)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375923",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id b116700e-f9e5-435f-923b-c1303e2bc7bf)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375920",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id f2e2b49e-2653-47cb-91be-be69ecbd246e)"
-    },
-    {
-      "id": "375392",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 64cfec94-6001-4873-a045-f9408d9d0c44)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373908",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 35b82e12-c5ca-42d5-a6bf-61f1bb318031)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
-      "id": "373535",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 40bc44c9-3fb0-4bcd-b70c-a9566501bd08)"
+      "id": "375392",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373483",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 001bfad3-8e29-4344-aa24-1fbdeeef8b79)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
-      "id": "373342",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 3a9db8cb-b008-44d7-a564-46405ae95c0a)"
+      "id": "373535",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373172",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id b1136cc9-41fb-44e9-b5a7-2c20dfb5e06d)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "373342",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377335",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c08291b6-aaba-4121-87db-a2f97ff92482)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "365143",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 0bc6ed5c-0923-4330-adfb-02c1f5cee827)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "364643",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id aa5f1f1b-be76-457f-b710-2c9c9e463911)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377232",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id b01c93d0-ecc5-43f9-8c65-03e8d30c8a10)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375647",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 15c7086b-22c6-4500-a8cb-06c3d40ad93e)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375261",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 4ec638cb-6e5d-4a58-8141-d25ba87a0e6d)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375247",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 945da478-6625-4a64-b76e-e0c7e7a4a2e6)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "374776",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 99f6f393-b01d-4693-8b88-ac23cd266d41)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373879",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 5c28f5e3-590a-40b9-9287-95c0e9b0815e)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373878",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 369474ca-51a1-49d4-8509-af32e2539552)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373850",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 7ba0346b-1ebb-47e4-93f6-85708cc9cd19)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373559",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 8d93e1ec-3fca-491a-9064-6d4fb58e9ded)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372846",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 3863ff3c-6feb-4232-b30b-c81d68bf6897)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372516",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 46b48eae-2905-4479-b182-88c6be75514b)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372514",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 56265369-d710-49fd-ab18-c5edb322a7e1)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372512",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id f1657af1-f400-4584-940d-b0d40f312692)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377860",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id cefdd4bb-67ba-4eab-a1da-e9f24419360c)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377730",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 92fe1117-fdd7-4c92-b84f-2edc9b549e69)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "366852",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c2c88db3-8c74-4bc4-9087-036f1c5263bc)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377873",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 424e516f-76c6-4d87-8270-1b3c115d3ee7)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377824",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 0d23dddc-1f25-4614-b59f-64b340f9d2dc)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377769",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 6f89857d-d077-4cea-9b11-00cf91909206)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377722",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id f68ba00d-ee7d-464a-a5ee-0a79192145b9)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377718",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 353e232f-65f7-40f6-9b62-45c08f1428c4)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377668",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 88b38017-b9d6-4dcc-a700-6af0732e55a6)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377613",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id fbdf7689-430e-45ae-bfc9-d4e277e4fdfe)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377612",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id dc041cfd-debe-4ed4-9273-15305f9698ae)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377470",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 62c7a6b9-49ec-4758-85fd-e72ebe4ff101)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377206",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 75142759-0c31-443d-9161-ac1f09d6f5b4)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377204",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id f00057c5-ac7d-45c3-a85b-32e64bc9e00a)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377176",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 4ef83dd8-6d2f-439a-9704-ec73390b4992)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377120",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 862fc36b-7abf-4819-a487-c825e71f2cbb)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377087",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 5d6c5265-ebdf-4ec5-970c-2806a188cb1b)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377085",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id d0d89572-f0a5-4227-aa9e-347d42018908)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376957",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 5ca73397-6eb4-449a-8c28-356be3d2f253)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376795",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id dc5e9937-bdc2-46d5-a0de-bd26016acc85)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376788",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 6f39b5c4-264e-42bc-9cdf-c2da03b69de6)"
-    },
-    {
-      "id": "library-23209",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
-    },
-    {
-      "id": "library-23144",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
-    },
-    {
-      "id": "library-23087",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
-    },
-    {
-      "id": "library-23082",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
-    },
-    {
-      "id": "library-23044",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
-    },
-    {
-      "id": "library-22937",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
-    },
-    {
-      "id": "library-23043",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "library-22878",
       "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
-    },
-    {
-      "id": "library-22872",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
+      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也"
     },
     {
       "id": "377451",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c30b9162-3c42-4d30-8792-12abb8a39016)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377358",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id bbcd0dc6-1fe5-4ce7-9fe5-492082ea0bd7)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372474",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 094cc435-da86-48bb-99c8-23fd7ec439c3)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377644",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 75335c84-6bcb-45b7-9e28-9f293c23527b)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377363",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 73a5e037-d67f-4753-afaf-2a0be860ef5e)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377211",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id a46b0157-3d00-4a0f-afd1-be1f69837e4c)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377210",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 88472213-6309-4fc4-a1c6-1797eb6aed56)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377119",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id fb0af715-6e7b-4415-be8f-cb3d033e9604)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376905",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 4b5242cc-448b-4544-bdac-9d00591d9334)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376775",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id a55ae659-c9a5-47b8-86e5-921459cdb9e1)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376494",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 02fdacfb-56a0-4cd3-aca9-c132df189cf6)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "376493",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 2651da6c-3dc2-4437-a488-d6f249561542)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375849",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 99c94bc5-9397-47f5-a1cf-94e0df039989)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375368",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 44d1bc31-af48-4518-9074-caf5f476080f)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375097",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id f645965f-00d8-4bd0-bda7-8aa11d649ee2)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375085",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 26d11502-8068-4d33-9dd2-1d5a4635d243)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "374809",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 22502f8c-2ff1-4780-9850-e8addc838766)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "374381",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 95951fdc-a2dd-4a02-9662-84d6a051761c)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "374376",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c55a0dd6-2a10-48a6-88cb-6b222cdd8eb2)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375378",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id b0c1cec7-3d51-4020-8e0b-96045b5ae89b)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "371908",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 6dc4a941-39d3-4bc1-ba78-d13a41b8024a)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372715",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 2e01c6a8-8e98-40ef-904d-f75d72467045)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375263",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 01301b34-8353-4cce-917e-f91c7da77855)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "374920",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c324621c-4cfa-458e-9047-4f15f8bbd1e6)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377499",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id faafccb5-f5e5-4a57-92f8-769c8e06765d)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377439",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 282e6604-5caa-4a93-8235-65c6e417b92d)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372714",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id becea8be-193f-4600-abda-812698abacd9)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377306",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 079dc458-4ca6-4189-879e-b6e5b94ce05c)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377025",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 1e3a7417-2aec-48b0-9ed7-5ff986576247)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "377036",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 15964436-0db7-4499-b4bf-a37c5be69df0)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372508",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 1c96b2f9-7e30-4f84-a35c-a1da50633bd3)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372509",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id f5854ef5-7cd3-45d6-a05e-dca550b59030)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372505",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 0d551603-9363-4bd3-890a-836a413e1e74)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372502",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 7134c77f-1234-4e2f-bc83-705c04af739d)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372015",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 5363f3db-d523-49bc-adad-fba622e84f75)"
-    },
-    {
-      "id": "377154",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 2: Translation validation failed: Poster reading not confirmed; retain previous summary; attempt 3: Translation validation failed: Poster reading not confirmed; retain previous summary"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370613",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 09aad797-96c4-412d-8bda-c6135116c3fa)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370135",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 81a0c1aa-693f-4108-b09a-65d1241dfbb3)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375337",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 0e21d898-4dc3-4c72-976b-e217738beed6)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "375188",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 9315a317-a2d9-4ce8-b45b-5aa7d201f997)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373008",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 5aa467a8-e839-4947-a6d8-d6ba9fbaff8b)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372681",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 66cb839c-b689-46fb-bcac-fb8cbe00e82c)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373809",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 20b7abca-5811-430b-be8b-b0b76859084a)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "373487",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 3f3db060-5cee-4d5c-8bf0-9a4ff321b20a)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372546",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 81358501-770d-4d1f-81cc-f3cb9c217848)"
-    },
-    {
-      "id": "372220",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 91ef6d7e-9e45-45df-8576-2811e264a826)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "372283",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id da31aa29-675a-4c3f-8142-2b0c54e1333f)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
-      "id": "371300",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c1f633aa-b213-4738-b27d-ebe5a7b6a3a6)"
+      "id": "372220",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "371838",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 7bb00ec9-f4af-4273-b636-b079e1c7437d)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
+    },
+    {
+      "id": "371300",
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "371005",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id e5715d63-8cce-4cc9-87e5-a9c1d012a584)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "371003",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 347201fd-f809-4075-88fe-134c500e05e4)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370926",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 19a1d9b8-ccf9-4adb-9a9d-61716886fefa)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370270",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id d41e47f2-3062-4d1d-abc3-aa8c64dced4d)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370260",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id ae4bb94e-4c52-401f-8d00-87a759d7fcee)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370263",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id f5ca2978-3dac-4a7b-a64f-fe75133a5c94)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370113",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 7cac17a8-fdd9-4384-a754-4b4e0f2843ee)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "370058",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 870f81d5-c3cc-4424-adb8-902d631c5939)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "369889",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 16feb4dd-3857-4a32-9285-9048a9730c32)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "369877",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 9788aae7-c4e1-4a47-a324-66ca9646469b)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "369587",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id c7619ccf-7a52-4d10-9433-ec4e50b6fa27)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "369384",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 103ccb7c-fc85-4635-af88-4675c55a0620)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "369382",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 85e075b3-2a19-4a41-8f1b-576f099476c6)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "369230",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id 3e4b2f4c-83ec-4c94-82f4-ea770f753bcb)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     },
     {
       "id": "368971",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 400 (request id eb5bc7c2-3d27-48fe-8a24-f37259069ed8)"
+      "error": "GatewayError",
+      "reason": "Reader did not return a verified full-page image"
     }
   ],
   "schedule": "每日 08:17、12:17、18:17 KST",
@@ -992,7 +942,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1004,7 +954,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1016,7 +966,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1028,7 +978,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1040,7 +990,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1052,7 +1002,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1064,7 +1014,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1076,7 +1026,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1088,8 +1038,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
-      "lastSuccessAt": "2026-10-23T18:55:23.961113+09:00"
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
+      "lastSuccessAt": "2026-10-23T19:39:45.983652+09:00"
     },
     {
       "key": "college",
@@ -1100,7 +1050,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T18:55:23.961113+09:00",
+      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     }
   ]

@@ -894,10 +894,11 @@
     "reason": "公告标题及海报明确标注仅限本科生，与一般大学院学务无关。"
   },
   "377154": {
-    "fingerprint": "780c3a48db58f039764f999bd1d01e2260655c0d6d882f30e6ab7c0a0caecb43",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "38eed836713bf35002d4bff5f198851107bef28af9ed17980f1b1bc0e51015a5",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "dbf35d8dec983ab81e82e423de7987f82aa6c0d012c57af316c97d8fd78ce2b5",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "377102": {
     "fingerprint": "bb686de19bbece76f1ce87516af57d3c814e2ea8ad7f128957e9edfbb92a3e2e",
@@ -2012,10 +2013,11 @@
     "transport": "api"
   },
   "library-23144": {
-    "fingerprint": "48a09455dd87b483eb202011d4126a8d0cfc5fd92c686f60e75fdc942764db3b",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "056ab86627f9b72d56831a5329ede870df3e0c4cc53c6b9dfeea82aa5c90c0c5",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "80045c77fb0a2d6a9ae9c1f3f629c389f69db5d8735dca3e20f72ddbdbfd370c",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "library-23063": {
     "fingerprint": "88d158b9f7104763d9b5b9a9ca6611d91e9f24225c4c01504e714102b81fd1d5",
@@ -2025,29 +2027,33 @@
     "transport": "api"
   },
   "library-23082": {
-    "fingerprint": "7ca813fcb2ed0d39e38e4640528717d825005d6012daceb80cf1d50028973537",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "6ca26939f4127e19b724d5b89a86a1ad9bbed912e506e2d2c92559235507c0a3",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "89e7d7c8c397cf05ee0c2d10b770224ee435448feda1b34557e2ecefd92fd15b",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "library-23044": {
-    "fingerprint": "2d71992f6b0e216346c78349e11efe83137a763cc3ba67d83ceee41b5011dfc7",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "ab18df163beebb25905cc8e2d0d22f2ac60890782de469f1d1f93a126400f4a2",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "1b21919170ddf9c0f89774b444400e835e6eed78e5c803a78908931adc084909",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "library-22937": {
-    "fingerprint": "ee2aab41c9a2d22af02a459a55bc4a6abaf3b81eadc14c23f8c501f633c0e436",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "63c21cd9eb6c3edbd57e37904834901b3818a6d5578ef6010ca64467cf9c93a7",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "51b498a45106522f977c48c46ad308691d8e79484701d97d7f6099b3d658964a",
     "model": "gpt-6-luna",
-    "reason": "活动面向会员机构教职员工，未明确包含一般大学院学生；与研究生学务或研究工作相关性不足。"
+    "transport": "api",
+    "reason": "公告面向会员机构教职员工，不属于外国研究生学务或研究生适用公告。"
   },
   "library-22872": {
-    "fingerprint": "47aeef2abbd317cf4df290c996f9e3ecb68ca3fbe2d08f80b6c92ceec046cd8e",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "40847e869306567faaf35ad646ad6bd36d4ef3435eb56b387f606a66a04895ea",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "27d05991d537d2e19314ddf79aa67c098aac484b2c00b024806dd5639878b0c7",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "library-22809": {
     "fingerprint": "d85aa38066fc48b868cc77e8ce38ffcc56b875d75c998dea5e72d7e8eb47d3bc",
@@ -2058,10 +2064,11 @@
     "reason": "公告面向新生图书馆教育参与者，属于一般宣传及问卷抽奖，与外国研究生学务或科研无直接关联。"
   },
   "library-23043": {
-    "fingerprint": "175ac6cb518e088dae88bebe48fd31ef3b634147fc699f1020e87cdb01e445a8",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "749b007af6e6b81a13bf14f1d2220a3381bcba4b59841fbbb5f27d4df20488cf",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "63eec6eb32e7fed6f824eae61995203f5b2786e2355ae87a5c78cdd91cee3f04",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "library-22797": {
     "fingerprint": "dac4a0b6d1a86d6e0a72e21d2d3b56f6a68937f073b5727d3229fa90d4ff4044",
@@ -2578,10 +2585,11 @@
     "model": "gpt-6-luna"
   },
   "library-23087": {
-    "fingerprint": "0ca1c8707b5b024d4d8a492202dc8f20bf98cd94b62fc2fb6d9c5b2bdc442f15",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "677299870709cd47833e1f9193cd6694429009048bde53103d586016d0a93ea1",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "997492e22d4bb100da4fee04634a008024aebfc3e17bc4f76470d5ecd50b0447",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "377551": {
     "fingerprint": "2443e01db36cff21b2f31fcdf1ac3860d136e176b858294273c1271a5973ced2",
@@ -2654,10 +2662,11 @@
     "reason": "海报限定参加对象为本校在校生（含休学、留学）、毕业生及当地青年，未明确包含一般大学院在读研究生；属于普通职业宣传。"
   },
   "377658": {
-    "fingerprint": "5cc23e315dc03a67cefe58b44f38c515b261e5a3e371a949993e21180e7456ad",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "2a97bd537a5719223f48289ac17185c5f1c4c997a8a3227fc9c9ab13a9be1bd2",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "fe5698e7a3558c26b29939ead2265618ae12c9b68ff529f4bc3090d060f4091b",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "377631": {
     "fingerprint": "ae09851aa168a759aa09242af2c6b488314c513fc580b62f9db10834298626a4",
@@ -2756,10 +2765,11 @@
     "reason": "海报明确要求韩国国籍的本校在读本科生，并排除大学院生；不适用于中国研究生。"
   },
   "library-23209": {
-    "fingerprint": "feba9bda832a48d99b6eedf7aec56087a8631169f7950e2d0d2136734177ca6b",
-    "checkedAt": "2026-10-23T17:47:33.290353+09:00",
+    "fingerprint": "d7fd643fc868588504f62013157cf89563505417f3f28f0018c7f73582f9e549",
+    "checkedAt": "2026-10-23T19:39:45.983652+09:00",
     "sourceFingerprint": "ff255c16d8e51add46ca96d81dbd04650f689cc7556382bb5b640b1423d149b7",
-    "model": "gpt-6-luna"
+    "model": "gpt-6-luna",
+    "transport": "api"
   },
   "377723": {
     "fingerprint": "7ac1b42cdbfff3931b83b5b7db91828a9d5409f69ff9c364e4fd8cfbc8a25f07",
