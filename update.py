@@ -49,7 +49,8 @@ def image_evidence(images):
             header,encoded=image['url'].split(',',1);mime=header[5:].split(';')[0];body=base64.b64decode(encoded,validate=True)
         else:
             if not allowed_url(image['url']):raise ValueError('Untrusted image host')
-            if os.environ.get('SOURCE_TRANSPORT')=='api' and urlparse(image['url']).hostname in ('www.ajou.ac.kr','grad.ajou.ac.kr','ajou.ac.kr'):
+            host=urlparse(image['url']).hostname or ''
+            if os.environ.get('SOURCE_TRANSPORT')=='api' and (host=='ajou.ac.kr' or host.endswith('.ajou.ac.kr')) and host!='library.ajou.ac.kr':
                 # The model gateway can read the official image remotely even
                 # when GitHub cannot reach that host. URL identity is not a
                 # content hash: process() must re-read these posters each run.

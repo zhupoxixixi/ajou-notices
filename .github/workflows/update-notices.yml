@@ -24,7 +24,6 @@ jobs:
       TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL || 'gpt-6-luna' }}
       TRANSLATE_API_ENDPOINT: ${{ vars.TRANSLATE_API_ENDPOINT || 'https://factchat-cloud.mindlogic.ai/v1/gateway' }}
       SOURCE_CACHE_MINUTES: ${{ github.event_name == 'schedule' && '0' || '30' }}
-      SOURCE_TRANSPORT: api
     steps:
       - uses: actions/checkout@v4
         with:
@@ -61,6 +60,7 @@ jobs:
         continue-on-error: true
         env:
           TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
+          SOURCE_TRANSPORT: api
         run: python -X utf8 update.py
       - name: Build current archive
         run: python -X utf8 build.py
