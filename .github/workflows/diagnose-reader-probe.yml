@@ -1,0 +1,64 @@
+name: Diagnose Reader HTML and page snapshots
+
+on:
+  push:
+    branches:
+      - diagnose-notice-sources-20261023
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install source reader dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Probe official HTML and full-page image reads
+        run: |
+          python - <<'PY'
+          import sys
+
+          from crawl import article
+          from reader_gateway import fetch_html, snapshot_images
+
+          expected_posters = {
+              'https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376934': 3,
+              'https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377911': 1,
+          }
+          failed = False
+          for url, expected in expected_posters.items():
+              try:
+                  html = fetch_html(url)
+                  posters = article(html, url).get('images', [])
+                  if len(posters) != expected:
+                      raise RuntimeError('official poster count does not match the verified page')
+                  tiles = snapshot_images(url)
+                  if not tiles:
+                      raise RuntimeError('page snapshot returned no image tiles')
+                  hashes = [tile['hash'] for tile in tiles]
+                  encoded_bytes = sum(len(tile['dataUrl'].encode('ascii')) for tile in tiles)
+                  if len(hashes) != len(tiles) or not all(hashes):
+                      raise RuntimeError('one or more image tiles have no content hash')
+                  print(
+                      '::notice title=Reader source probe::'
+                      f'URL={url}; HTML chars={len(html)}; posters={len(posters)}; '
+                      f'tiles={len(tiles)}; encoded_bytes={encoded_bytes}; '
+                      f'hash_count={len(hashes)}; unique_hashes={len(set(hashes))}'
+                  )
+              except Exception as exc:
+                  failed = True
+                  print(
+                      '::error title=Reader source probe::'
+                      f'URL={url}; failed={type(exc).__name__}'
+                  )
+          if failed:
+              sys.exit(1)
+          PY

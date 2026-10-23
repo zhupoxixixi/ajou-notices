@@ -11,18 +11,19 @@ permissions:
   id-token: write
 concurrency:
   group: notices-update-deploy
-  cancel-in-progress: false
+  cancel-in-progress: ${{ github.event_name == 'push' && contains(github.event.head_commit.message, '[source-repair]') }}
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     outputs:
       publish_ref: ${{ steps.commit.outputs.publish_ref }}
+      artifact_ready: ${{ steps.artifact.outcome }}
     env:
       PYTHONUNBUFFERED: '1'
       TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL || 'gpt-6-luna' }}
       TRANSLATE_API_ENDPOINT: ${{ vars.TRANSLATE_API_ENDPOINT || 'https://factchat-cloud.mindlogic.ai/v1/gateway' }}
-      SOURCE_CACHE_MINUTES: ${{ github.event_name == 'schedule' && '0' || '30' }}
+      SOURCE_CACHE_MINUTES: ${{ github.event_name == 'schedule' && '0' || '60' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -47,7 +48,7 @@ jobs:
           refresh = os.environ['GITHUB_EVENT_NAME'] != 'push'
           if not refresh:
               result = subprocess.run(['git','diff','--name-only','HEAD^','HEAD'],capture_output=True,text=True)
-              source_files = {'update.py','ai_translate.py','crawl.py','public_sources.py','requirements.txt'}
+              source_files = {'update.py','ai_translate.py','crawl.py','public_sources.py','source_gateway.py','reader_gateway.py','requirements.txt'}
               refresh = result.returncode != 0 or bool(source_files.intersection(result.stdout.splitlines()))
           with open(os.environ['GITHUB_OUTPUT'],'a') as output:
               output.write('refresh='+str(refresh).lower()+'\n')
@@ -59,6 +60,7 @@ jobs:
         continue-on-error: true
         env:
           TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
+          SOURCE_TRANSPORT: api
         run: python -X utf8 update.py
       - name: Build current archive
         run: python -X utf8 build.py
@@ -75,6 +77,7 @@ jobs:
           echo "publish_ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
+        id: artifact
         with:
           path: dist
       - name: Report a failed refresh
@@ -84,6 +87,7 @@ jobs:
           exit 1
   deploy:
     needs: update
+    if: always() && !cancelled() && needs.update.outputs.artifact_ready == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
