@@ -87,6 +87,26 @@ class GatewayMediaTests(unittest.TestCase):
         image=post.call_args.kwargs['json']['messages'][1]['content'][1]
         self.assertEqual(image['image_url']['detail'],'high')
 
+    def test_wide_poster_tiles_preserve_both_edges_and_are_all_sent(self):
+        import base64,io,update
+        from PIL import Image
+        original=Image.new('RGB',(3000,164),'white')
+        original.putpixel((0,0),(255,0,0));original.putpixel((2999,163),(0,0,255))
+        stream=io.BytesIO();original.save(stream,format='PNG')
+        response=Mock(content=stream.getvalue(),headers={'Content-Type':'image/png'})
+        with patch.object(update,'binary_resource',return_value=response):
+            tiles=update.image_evidence([{'url':'https://library.ajou.ac.kr/poster.png'}])
+        pictures=[Image.open(io.BytesIO(base64.b64decode(x['dataUrl'].split(',',1)[1]))) for x in tiles]
+        self.assertEqual(pictures[0].getpixel((0,0)),(255,0,0))
+        self.assertEqual(pictures[-1].getpixel((pictures[-1].width-1,163)),(0,0,255))
+        self.assertTrue(all(x['posterTile'] for x in tiles))
+        source=self.source(tiles);source['imageMode']='official-poster-tiles'
+        with patch('ai_translate.requests.post',return_value=self.success_response()) as post:
+            translate_notice(source,api_key='test-key',endpoint='https://gateway.invalid/v1')
+        images=[x for x in post.call_args.kwargs['json']['messages'][1]['content'] if x['type']=='image_url']
+        self.assertEqual(len(images),len(tiles))
+        self.assertGreater(len(images),4)
+
 
 if __name__ == '__main__':
     unittest.main()

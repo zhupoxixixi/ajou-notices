@@ -77,10 +77,12 @@ def translate_notice(source,*,api_key=None,endpoint=None,model=None):
     evidence['today']=dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).date().isoformat()
     evidence['attachmentNames']=[x['label'] for x in source.get('attachments',[])]
     snapshot=source.get('imageMode')=='official-page-snapshot'
+    poster_tiles=source.get('imageMode')=='official-poster-tiles'
     if snapshot:evidence['imageWarning']='图像是同一官方公告完整页面按从上到下顺序切分的连续片段，片段间有重叠。必须合并阅读本条公告的全部海报；导航、页脚、上一条/下一条公告及侧栏不属于本条正文，不能据此提取日期或资格。'
+    if poster_tiles:evidence['imageWarning']='超宽官方原图已按从左到右顺序切成连续片段，片段间有重叠；须合并阅读全部图像。所有片段覆盖原图的全部像素，文字未删减；片段不是额外活动或独立公告。'
     if source.get('unreadableImages'):evidence['imageWarning']='部分图片为失效blob URL，不可读取，不能据此声称已读完整海报。'
     content=[{'type':'text','text':json.dumps(evidence,ensure_ascii=False)}]
-    limit=32 if snapshot else 4
+    limit=32 if snapshot or poster_tiles else 4
     for image in source.get('images',[])[:limit]:
         if image.get('dataUrl'):
             content.append({'type':'image_url','image_url':{'url':image['dataUrl'],**({'detail':'high'} if image.get('highDetail') else {})}})
@@ -89,7 +91,7 @@ def translate_notice(source,*,api_key=None,endpoint=None,model=None):
             content.append({'type':'image_url','image_url':{'url':image['remoteUrl']}})
         else:raise TranslationError('Poster image data missing; not sent to the model')
     if len(source.get('images',[]))>limit:
-        if snapshot:raise TranslationError('Complete image evidence exceeds the input limit')
+        if snapshot or poster_tiles:raise TranslationError('Complete image evidence exceeds the input limit')
         content[0]['text']+='\n只提供前4张海报，必须在note注明未读取其余图片。'
     original_messages=[{'role':'system','content':SYSTEM},{'role':'user','content':content}]
     payload={'model':model,'reasoning_effort':'none','messages':original_messages,'response_format':{'type':'json_object'}}

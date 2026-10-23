@@ -1,5 +1,5 @@
 """Discover, recheck and translate notices; preserve previous results on failure."""
-import base64, datetime as dt, hashlib, json, os, re, time
+import base64, datetime as dt, hashlib, io, json, os, re, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urlparse
@@ -62,7 +62,21 @@ def image_evidence(images,*,page_url=None):
             r=binary_resource(image['url'],12*1024*1024);body=r.content;mime=r.headers.get('Content-Type','image/jpeg').split(';')[0]
         if len(body)>12*1024*1024:raise ValueError('Poster exceeds size limit')
         if not mime.startswith('image/'):raise ValueError('Poster is not an image')
-        result.append({**image,'hash':hashlib.sha256(body).hexdigest(),'dataUrl':'data:'+mime+';base64,'+base64.b64encode(body).decode(),'highDetail':True})
+        # Very wide screenshots can become unreadable when vision services fit
+        # the entire strip into one frame. Preserve every pixel in overlapping
+        # left-to-right tiles instead of discarding the small text.
+        from PIL import Image
+        try:picture=Image.open(io.BytesIO(body))
+        except OSError:picture=None
+        if picture and picture.width>1024 and picture.width>3*picture.height:
+            if picture.mode not in ('RGB','RGBA','L','P'):picture=picture.convert('RGB')
+            for left in range(0,picture.width,704):
+                stream=io.BytesIO();picture.crop((left,0,min(left+768,picture.width),picture.height)).save(stream,format='PNG')
+                tile=stream.getvalue()
+                result.append({**image,'hash':hashlib.sha256(tile).hexdigest(),'dataUrl':'data:image/png;base64,'+base64.b64encode(tile).decode(),'highDetail':True,'posterTile':True})
+        else:
+            result.append({**image,'hash':hashlib.sha256(body).hexdigest(),'dataUrl':'data:'+mime+';base64,'+base64.b64encode(body).decode(),'highDetail':True})
+        if len(result)>32 or sum(len(x['dataUrl']) for x in result)>20*1024*1024:raise ValueError('Complete poster image evidence exceeds the vision input limit')
     return result
 def source_for(row,prior):
     if row['board']=='library':
@@ -161,6 +175,7 @@ def process(row,prior,state,seed,model,now):
     poster_count=len(source.get('images',[]))
     source['images']=pictures
     if any(x.get('pageSnapshot') for x in pictures):source['imageMode']='official-page-snapshot'
+    elif any(x.get('posterTile') for x in pictures):source['imageMode']='official-poster-tiles'
     decision=translate_notice(source,model=model)
     if not decision['include']:
         new_state['reason']=decision['reason'];return None,new_state,'excluded'
@@ -168,7 +183,7 @@ def process(row,prior,state,seed,model,now):
         decision.update(start=source.get('calendarStart'),end=source.get('calendarEnd'),event=None,eventEnd=None,kind='deadline',endEvidence=source.get('calendarPeriod') if source.get('calendarEnd') else '')
         decision['note']=(decision.get('note') or '')+' 大学院通用学事日程，个人办理资格及学科细节以专项公告为准；日程可能调整。'
     item={**record,**{k:decision.get(k) for k in ('title','tags','audience','summary','details','start','end','event','eventEnd','kind','note','endEvidence','eventEvidence','eligibility')},'editorial':'auto','translationModel':model,'translatedAt':now,'lastCheckedAt':now,'fetchStatus':'ok','reviewNeeded':False,'evidence':'官方正文与海报，由 GPT-6 Luna 自动整理','extra':(prior or {}).get('extra',[])}
-    if poster_count>4 and not source.get('imageMode'):item['note']=(item.get('note') or '')+' 海报仅识别前4张，请对照完整原文。'
+    if poster_count>4 and source.get('imageMode')!='official-page-snapshot':item['note']=(item.get('note') or '')+' 海报仅识别前4张，请对照完整原文。'
     if source.get('unreadableImages'):item['note']=(item.get('note') or '')+' 官方页面含失效 blob 图片，以上内容仅依据可读取正文和附件。'
     return protect_scope(item),new_state,'translated'
 def run():
