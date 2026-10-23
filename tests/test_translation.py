@@ -47,6 +47,11 @@ class TranslationTests(unittest.TestCase):
         with self.assertRaisesRegex(TranslationError, 'Invalid ISO date in event'):
             validate(payload, self.source())
 
+    def test_generic_korean_title_suffix_is_translated_without_removing_names(self):
+        payload = {'include': True, 'title': '모두의 BK研究活动 안내', 'audience': '研究生', 'summary': '中文摘要',
+                   'details': ['第一条。', '第二条。'], 'tags': ['一般大学院'], 'kind': 'guide'}
+        self.assertEqual(validate(payload, self.source())['title'], '모두의 BK研究活动通知')
+
     def test_validation_retry_includes_corrective_feedback(self):
         malformed = Mock(status_code=200, ok=True)
         malformed.json.return_value = {'choices': [{'message': {'content': 'not-json'}}]}

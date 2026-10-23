@@ -40,9 +40,11 @@ class ReaderGatewayTests(unittest.TestCase):
         self.assertEqual(results[URL],HTML)
         self.assertIsInstance(results[bad],GatewayError)
     def test_retries_transient_errors_but_preserves_final_failure(self):
-        with patch.object(reader,'_pace'),patch.object(reader.time,'sleep'),patch.object(reader.requests,'get',return_value=Mock(status_code=503,headers={})) as get:
-            with self.assertRaisesRegex(GatewayError,'HTTP 503'):reader.fetch_html(URL)
-        self.assertEqual(get.call_count,3)
+        for status in (422,503):
+            reader._CACHE.clear()
+            with patch.object(reader,'_pace'),patch.object(reader.time,'sleep'),patch.object(reader.requests,'get',return_value=Mock(status_code=status,headers={})) as get:
+                with self.assertRaisesRegex(GatewayError,'HTTP '+str(status)):reader.fetch_html(URL)
+            self.assertEqual(get.call_count,3)
 
     def test_page_image_tiles_preserve_first_and_last_rows(self):
         import io,base64

@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import requests
 from crawl import BOARDS, listing, article, fetch, scan_board, session
 from ai_translate import translate_notice, DEFAULT_MODEL
-ROOT=Path(__file__).parent;KST=dt.timezone(dt.timedelta(hours=9));PROMPT_VERSION=3
+ROOT=Path(__file__).parent;KST=dt.timezone(dt.timedelta(hours=9));PROMPT_VERSION=4
 def read(path,default):
     try:return json.loads(path.read_text(encoding='utf8'))
     except FileNotFoundError:return default
@@ -131,7 +131,7 @@ def needs_source_retry(state):
 
 def cached_source(prior,state,model,now):
     minutes=int(os.environ.get('SOURCE_CACHE_MINUTES','0'))
-    if not state or state.get('model')!=model or minutes<=0 or needs_source_retry(state):return False
+    if not state or state.get('model')!=model or state.get('prompt')!=PROMPT_VERSION or minutes<=0 or needs_source_retry(state):return False
     if state.get('transport','direct')!=os.environ.get('SOURCE_TRANSPORT','direct'):return False
     if prior and prior.get('fetchStatus')=='stale':return False
     age=dt.datetime.fromisoformat(now)-dt.datetime.fromisoformat(state['checkedAt'])
@@ -146,7 +146,7 @@ def process(row,prior,state,seed,model,now):
     record={k:source[k] for k in ('id','titleKo','url','source','board','published','attachments')};record['fetchedAt']=now
     record['otherSources']=row.get('otherSources',[])
     record['displayUntil']=row.get('displayUntil')
-    new_state={'fingerprint':key,'checkedAt':now,'sourceFingerprint':base,'model':model,'transport':os.environ.get('SOURCE_TRANSPORT','direct')}
+    new_state={'fingerprint':key,'checkedAt':now,'sourceFingerprint':base,'model':model,'prompt':PROMPT_VERSION,'transport':os.environ.get('SOURCE_TRANSPORT','direct')}
     if source.get('unavailableReason'):
         old={**prior,'reviewNeeded':True,'fetchStatus':'stale'} if prior else None
         return old,{**new_state,'reason':source['unavailableReason'],'action':'skipped'},'skipped'

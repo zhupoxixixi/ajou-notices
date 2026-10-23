@@ -45,10 +45,16 @@ class ApiTransportTests(unittest.TestCase):
         self.assertEqual(api.call_count,2)
 
     def test_transport_change_invalidates_short_source_cache(self):
-        state={'model':'gpt-6-luna','checkedAt':self.now}
+        state={'model':'gpt-6-luna','prompt':update.PROMPT_VERSION,'checkedAt':self.now}
         with patch.dict('os.environ',{'SOURCE_CACHE_MINUTES':'30','SOURCE_TRANSPORT':'api'}):
             self.assertFalse(update.cached_source(None,state,'gpt-6-luna',self.now))
             self.assertTrue(update.cached_source(None,{**state,'transport':'api'},'gpt-6-luna',self.now))
+
+    def test_prompt_change_does_not_reuse_recent_source_decision(self):
+        state={'model':'gpt-6-luna','transport':'api','checkedAt':self.now,'prompt':update.PROMPT_VERSION-1}
+        with patch.dict('os.environ',{'SOURCE_CACHE_MINUTES':'30','SOURCE_TRANSPORT':'api'}):
+            self.assertFalse(update.cached_source(None,state,'gpt-6-luna',self.now))
+            self.assertFalse(update.cached_source(None,{k:v for k,v in state.items() if k!='prompt'},'gpt-6-luna',self.now))
 
 
 if __name__=='__main__':unittest.main()

@@ -53,7 +53,8 @@ def _read(url):
         except requests.RequestException as exc:
             if attempt<2:time.sleep(2**attempt);continue
             raise GatewayError('Reader network error: '+type(exc).__name__) from None
-        if response.status_code in (429,500,502,503,504) and attempt<2:
+        # Reader can transiently report 422 while the public origin is reachable.
+        if response.status_code in (422,429,500,502,503,504) and attempt<2:
             try:delay=min(30,max(3,float(response.headers.get('Retry-After','10'))))
             except ValueError:delay=10
             time.sleep(delay);continue
