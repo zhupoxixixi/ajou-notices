@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:373559-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T110502Z
+LAST-MODIFIED:20261023T110502Z
+DTSTART:20260818T013000Z
+DTEND:20260818T033000Z
+SUMMARY:活动：A-Career Insight Talk（2026）研究生研究型职业
+ 探索讲座
+DESCRIPTION:适用对象：对创业及技术商业化等感兴趣的校
+ 内一般大学院学生、博士后研究人员及其他校内成员；
+ 本科生也可参加。\n讲座探讨创业与个人发展，面向校
+ 内成员，未报名者也可参加。\nAI 自动整理，重要日期
+ 请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_
+ bbs.do?mode=view&articleNo=373559
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373559
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

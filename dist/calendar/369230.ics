@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:369230-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T110502Z
+LAST-MODIFIED:20261023T110502Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:申请 / 办理截止：第4届 AiRISE 创业创意竞赛报名
+DESCRIPTION:适用对象：2026-1学期在Ajou University在籍学生，
+ 含研究生；个人或团队。未明确外国留学生是否有额外
+ 条件。\n面向在籍学生（含研究生）的创业创意竞赛，
+ 设AI技术和创意赛道，优胜队伍可获奖金。\nAI 自动整
+ 理，重要日期请核对原文。\n官方原文：https://www.ajou.ac
+ .kr/sw/board/notice.do?mode=view&articleNo=369230\n原文未给具体时
+ 刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369230
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:369230-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T110502Z
+LAST-MODIFIED:20261023T110502Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260611
+SUMMARY:活动：第4届 AiRISE 创业创意竞赛报名
+DESCRIPTION:适用对象：2026-1学期在Ajou University在籍学生，
+ 含研究生；个人或团队。未明确外国留学生是否有额外
+ 条件。\n面向在籍学生（含研究生）的创业创意竞赛，
+ 设AI技术和创意赛道，优胜队伍可获奖金。\nAI 自动整
+ 理，重要日期请核对原文。\n官方原文：https://www.ajou.ac
+ .kr/sw/board/notice.do?mode=view&articleNo=369230\n原文未给具体时
+ 刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369230
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

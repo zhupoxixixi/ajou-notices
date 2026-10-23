@@ -1,934 +1,19 @@
 {
-  "checkedAt": "2026-10-23T19:39:45.983652+09:00",
+  "checkedAt": "2026-10-23T20:05:02.524134+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
   "scanned": 532,
   "pages": 36,
   "boards": 10,
-  "translated": 9,
-  "unchanged": 123,
-  "excluded": 1,
+  "translated": 90,
+  "unchanged": 98,
+  "excluded": 128,
   "skipped": 0,
   "errors": [
     {
-      "id": "376506",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "369657",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376934",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377425",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377426",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377337",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376367",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376054",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376256",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376048",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375801",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375924",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375800",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373219",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375919",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "298592",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370527",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "369355",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376961",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "371987",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370987",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377523",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373746",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377913",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377911",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377908",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377906",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377896",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377872",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377871",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377870",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377862",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377852",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377843",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376963",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377842",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377823",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377825",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377768",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377770",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377761",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377771",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377755",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377750",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377741",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377732",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377731",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377723",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377753",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377719",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377664",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377672",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377661",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377663",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377655",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377641",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377639",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377618",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377614",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377611",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377600",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377594",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377588",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377587",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377556",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377551",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377545",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377541",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377183",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "360568",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377427",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377101",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376257",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376052",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375925",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375923",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375920",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373908",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375392",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373483",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373535",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373172",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373342",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377335",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "365143",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "364643",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377232",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375647",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375261",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375247",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "374776",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373879",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373878",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373850",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373559",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372846",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372516",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372514",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372512",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377860",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377730",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "366852",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377873",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377824",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377769",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377722",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377718",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377668",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377613",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377612",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377470",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377206",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377204",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377176",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377120",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377087",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377085",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376957",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376795",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376788",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "library-22878",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也"
-    },
-    {
-      "id": "377451",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377358",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372474",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377644",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377363",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377211",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377210",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377119",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376905",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376775",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376494",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "376493",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375849",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375368",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375097",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375085",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "374809",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "374381",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "374376",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375378",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "371908",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372715",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375263",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "374920",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377499",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377439",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372714",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377306",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377025",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "377036",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372508",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372509",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
       "id": "372505",
       "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372502",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372015",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370613",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370135",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375337",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "375188",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373008",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372681",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373809",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "373487",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372546",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372283",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "372220",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "371838",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "371300",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "371005",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "371003",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370926",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370270",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370260",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370263",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370113",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "370058",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "369889",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "369877",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "369587",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "369384",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "369382",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "369230",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
-    },
-    {
-      "id": "368971",
-      "error": "GatewayError",
-      "reason": "Reader did not return a verified full-page image"
+      "reason": "Reader HTTP 422"
     }
   ],
   "schedule": "每日 08:17、12:17、18:17 KST",
@@ -939,11 +24,11 @@
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do",
       "pages": 2,
       "scanned": 25,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
       "key": "international",
@@ -951,11 +36,11 @@
       "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do",
       "pages": 2,
       "scanned": 23,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
       "key": "oia",
@@ -963,11 +48,11 @@
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do",
       "pages": 8,
       "scanned": 83,
-      "status": "partial",
+      "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
       "key": "university",
@@ -975,11 +60,11 @@
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do",
       "pages": 10,
       "scanned": 104,
-      "status": "partial",
+      "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
       "key": "graduate_en",
@@ -987,11 +72,11 @@
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do",
       "pages": 2,
       "scanned": 25,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
       "key": "innovation",
@@ -1002,7 +87,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
       "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
     },
     {
@@ -1011,11 +96,11 @@
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do",
       "pages": 2,
       "scanned": 26,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
       "key": "library",
@@ -1023,11 +108,11 @@
       "url": "https://library.ajou.ac.kr/guide/bulletins/notice",
       "pages": 5,
       "scanned": 100,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
       "key": "academic_calendar",
@@ -1038,8 +123,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T19:39:45.983652+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     },
     {
       "key": "college",
@@ -1047,11 +132,11 @@
       "url": "https://www.ajou.ac.kr/sw/board/notice.do",
       "pages": 2,
       "scanned": 23,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T19:39:45.983652+09:00",
-      "lastSuccessAt": "2026-10-23T17:56:41.880214+09:00"
+      "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
     }
   ]
 }

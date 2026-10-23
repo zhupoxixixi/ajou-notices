@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:376494-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T110502Z
+LAST-MODIFIED:20261023T110502Z
+DTSTART:20261011T010000Z
+DTEND:20261011T090000Z
+SUMMARY:活动：2026区块链Meetup Day（BCMD）第25期培训
+DESCRIPTION:适用对象：对区块链理论与实践培训感兴趣者
+ ；先到先得，限35人，未注明外国研究生资格限制。\n
+ 活动主题为零知识证明与区块链应用，含理论讲解及实
+ 践课程。\nAI 自动整理，重要日期请核对原文。\n官方
+ 原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=3
+ 76494
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376494
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
