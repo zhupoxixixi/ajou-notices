@@ -77,6 +77,16 @@ class GatewayMediaTests(unittest.TestCase):
         self.assertEqual(len(images),6)
         self.assertTrue(all(p['image_url']['detail']=='high' for p in images))
 
+    def test_small_text_image_uses_explicit_high_detail(self):
+        import update
+        png=Mock(content=b'png',headers={'Content-Type':'image/png'})
+        with patch.object(update,'binary_resource',return_value=png):
+            images=update.image_evidence([{'url':'https://library.ajou.ac.kr/poster.png'}])
+        with patch('ai_translate.requests.post',return_value=self.success_response()) as post:
+            translate_notice(self.source(images),api_key='test-key',endpoint='https://gateway.invalid/v1')
+        image=post.call_args.kwargs['json']['messages'][1]['content'][1]
+        self.assertEqual(image['image_url']['detail'],'high')
+
 
 if __name__ == '__main__':
     unittest.main()

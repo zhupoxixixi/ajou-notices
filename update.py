@@ -62,7 +62,7 @@ def image_evidence(images,*,page_url=None):
             r=binary_resource(image['url'],12*1024*1024);body=r.content;mime=r.headers.get('Content-Type','image/jpeg').split(';')[0]
         if len(body)>12*1024*1024:raise ValueError('Poster exceeds size limit')
         if not mime.startswith('image/'):raise ValueError('Poster is not an image')
-        result.append({**image,'hash':hashlib.sha256(body).hexdigest(),'dataUrl':'data:'+mime+';base64,'+base64.b64encode(body).decode()})
+        result.append({**image,'hash':hashlib.sha256(body).hexdigest(),'dataUrl':'data:'+mime+';base64,'+base64.b64encode(body).decode(),'highDetail':True})
     return result
 def source_for(row,prior):
     if row['board']=='library':

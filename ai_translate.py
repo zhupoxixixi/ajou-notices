@@ -40,7 +40,9 @@ def trusted_remote_image_url(value):
     except ValueError:return False
 def validate(payload,source):
     if not isinstance(payload,dict) or type(payload.get('include')) is not bool:raise TranslationError('Invalid inclusion decision')
-    if source.get('images') and payload.get('imagesReadable') is not True:raise TranslationError('Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。')
+    if source.get('images') and payload.get('imagesReadable') is not True:
+        flag=repr(payload.get('imagesReadable')) if 'imagesReadable' in payload else 'missing'
+        raise TranslationError('Poster reading not confirmed (imagesReadable='+flag+'): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。')
     if not payload['include']:return {'include':False,'reason':str(payload.get('reason','未纳入收录'))[:300]}
     if any(s in str(payload.get('note','')) for s in ('中国公民不符合','中国申请人不符合','仅限韩国国籍')):
         return {'include':False,'reason':payload['note']}
