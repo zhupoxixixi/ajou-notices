@@ -83,3 +83,32 @@ class ReaderGatewayTests(unittest.TestCase):
         with patch.object(reader,'fetch_html'),patch.object(reader.requests,'get') as get:
             with self.assertRaisesRegex(GatewayError,'without the requested full-page image'):reader.snapshot_images(URL)
         get.assert_not_called()
+
+    def png(self):
+        import io
+        from PIL import Image
+        stream=io.BytesIO();Image.new('RGB',(320,100),'white').save(stream,format='PNG')
+        return stream.getvalue()
+
+    def test_prefetched_html_without_pageshot_gets_one_refresh(self):
+        shot='https://storage.googleapis.com/reader-6b7dc.appspot.com/ephemeral/test?signature=test'
+        responses=[self.response(),self.response(pageshotUrl=shot)]
+        with patch.object(reader,'_pace'),patch.object(reader.requests,'get',side_effect=responses) as get,patch.object(reader,'_download_snapshot',return_value=self.png()):
+            reader.fetch_pages([URL])
+            tiles=reader.snapshot_images(URL)
+        self.assertEqual(get.call_count,2)
+        self.assertEqual(len(tiles),1)
+        self.assertTrue(tiles[0]['hash'])
+
+    def test_missing_pageshot_retry_is_not_cached_after_exhaustion(self):
+        shot='https://storage.googleapis.com/reader-6b7dc.appspot.com/ephemeral/test?signature=test'
+        responses=[self.response(),self.response(),self.response(pageshotUrl=shot)]
+        with patch.object(reader,'_pace'),patch.object(reader.requests,'get',side_effect=responses) as get,patch.object(reader,'_download_snapshot',return_value=self.png()):
+            reader.fetch_pages([URL])
+            with self.assertRaisesRegex(GatewayError,'without the requested full-page image'):
+                reader.snapshot_images(URL)
+            self.assertNotIn(URL,reader._CACHE)
+            self.assertNotIn(URL,reader._SHOTS)
+            tiles=reader.snapshot_images(URL)
+        self.assertEqual(get.call_count,3)
+        self.assertEqual(len(tiles),1)

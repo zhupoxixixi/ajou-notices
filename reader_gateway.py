@@ -109,7 +109,23 @@ def snapshot_images(url):
     """Return every pixel of the official page in legible, overlapping tiles."""
     fetch_html(url)
     with _LOCK:shot=_SHOTS.get(url,'')
-    if not shot:raise GatewayError('Reader returned HTML without the requested full-page image')
+    if not shot:
+        # HTML can arrive before Reader finishes producing its requested
+        # pageshot. Discard that partial response and make one bounded refresh.
+        with _LOCK:
+            _CACHE.pop(url,None);_SHOTS.pop(url,None)
+        try:fetch_html(url)
+        except GatewayError:
+            with _LOCK:
+                _CACHE.pop(url,None);_SHOTS.pop(url,None)
+            raise
+        with _LOCK:shot=_SHOTS.get(url,'')
+        if not shot:
+            # A missing pageshot is transient state, so do not let the HTML
+            # cache prevent another caller from retrying later in this run.
+            with _LOCK:
+                _CACHE.pop(url,None);_SHOTS.pop(url,None)
+            raise GatewayError('Reader returned HTML without the requested full-page image')
     p=urlsplit(shot)
     if p.scheme!='https' or p.hostname!='storage.googleapis.com' or not p.path.startswith('/reader-6b7dc.appspot.com/ephemeral/'):
         raise GatewayError('Reader did not return a verified full-page image')
