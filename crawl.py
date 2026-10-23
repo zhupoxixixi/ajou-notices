@@ -1,5 +1,5 @@
 """Bounded official-board crawl. No credentials; originals retained for review."""
-import argparse, datetime as dt, hashlib, json, re, time, threading
+import argparse, datetime as dt, hashlib, json, os, re, time, threading
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs
 import requests
@@ -36,6 +36,9 @@ def session():
     return _CLIENTS.session
 
 def fetch(url):
+    if os.environ.get('SOURCE_TRANSPORT')=='api' and '/pyxis-api/' not in url:
+        from reader_gateway import fetch_html
+        return fetch_html(url)
     r = session().get(url, timeout=(8, 15), headers={'User-Agent': 'AjouNoticeArchive/1.0 (public academic notice reader)'})
     r.raise_for_status()
     r.encoding = 'utf-8'
@@ -111,7 +114,7 @@ def scan_board(board, known, today, *, fetcher=None, max_pages=None):
             if len(ordinary)<10:
                 state['boundary']='last-page'; break
         except Exception as e:
-            state.update(status='error',error=type(e).__name__); break
+            state.update(status='error',error=type(e).__name__,reason=str(e)[:300]); break
     else:
         state.update(bounded=True,boundary='request-limit')
     state.update(pages=pages,scanned=len(records))
