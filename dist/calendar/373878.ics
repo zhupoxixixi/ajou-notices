@@ -6,19 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:373878-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261023T140700Z
-LAST-MODIFIED:20261023T140700Z
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
 DTSTART:20260819T020000Z
 DTEND:20260819T050000Z
 SUMMARY:活动：公共采购中的行政负担：海外学者特邀讲
  座
 DESCRIPTION:适用对象：本校大学院生及相关教职员；海报
- 未注明国籍限制。\nBK21海外学者特邀讲座，讨论公共采
- 购流程的复杂性如何阻碍组织竞标政府合同。\nAI 自动
- 整理，重要日期请核对原文。\n官方原文：https://grad.ajo
- u.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878
+ 未说明外国留学生参与资格的其他限制。\nBK21海外学者
+ 讲座探讨公共采购中的行政负担，含海外人士与大学院
+ 生座谈。\nAI 自动整理，重要日期请核对原文。\n官方
+ 原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo
+ =373878
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373878
 TRANSP:TRANSPARENT
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 END:VCALENDAR

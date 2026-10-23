@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372509-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
+DTSTART:20260519T080000Z
+DTEND:20260519T110000Z
+SUMMARY:活动：海外学者特邀讲座：共同体的创伤与恢复
+DESCRIPTION:适用对象：本校一般大学院研究生及相关教师
+ ；是否有其他参与条件未说明。\nBK21海外学者特邀讲座
+ ，主题涉及地方消失、超高龄社会灾害应对及日本灾害
+ 复兴经验。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articl
+ eNo=372509
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372509
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

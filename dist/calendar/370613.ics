@@ -6,37 +6,37 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:370613-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261023T140700Z
-LAST-MODIFIED:20261023T140700Z
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
 DTSTART:20260622T050000Z
-SUMMARY:申请 / 办理截止：2026 AI融合夏季学校（训练营）
+SUMMARY:申请 / 办理截止：2026 AI融合暑期学校（训练营）
  参与者招募
-DESCRIPTION:适用对象：一般大学院在读生、2026学年度第二
- 学期入学预定者；是否适用于外国研究生未明确。\nBK21
- 项目举办AI培训，设初级、中级和高级课程；可报名多
- 个课程，超额时另行选拔。\nAI 自动整理，重要日期请
- 核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs
- .do?mode=view&articleNo=370613
+DESCRIPTION:适用对象：一般大学院在读生及2026学年第二学
+ 期入学预定者；公告未说明外国研究生资格或国籍限制
+ 。\nBK21项目举办AI应用培训，设初级、中级和高级课程
+ ；可报名多个课程，超额时可能另行选拔。\nAI 自动整
+ 理，重要日期请核对原文。\n官方原文：https://grad.ajou.a
+ c.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
 TRANSP:TRANSPARENT
-SEQUENCE:2
+SEQUENCE:3
 END:VEVENT
 BEGIN:VEVENT
 UID:370613-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261023T140700Z
-LAST-MODIFIED:20261023T140700Z
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260827
-SUMMARY:活动：2026 AI融合夏季学校（训练营）参与者招募
-DESCRIPTION:适用对象：一般大学院在读生、2026学年度第二
- 学期入学预定者；是否适用于外国研究生未明确。\nBK21
- 项目举办AI培训，设初级、中级和高级课程；可报名多
- 个课程，超额时另行选拔。\nAI 自动整理，重要日期请
- 核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs
- .do?mode=view&articleNo=370613\n原文未给具体时刻，本日历使
- 用全天事项。
+SUMMARY:活动：2026 AI融合暑期学校（训练营）参与者招募
+DESCRIPTION:适用对象：一般大学院在读生及2026学年第二学
+ 期入学预定者；公告未说明外国研究生资格或国籍限制
+ 。\nBK21项目举办AI应用培训，设初级、中级和高级课程
+ ；可报名多个课程，超额时可能另行选拔。\nAI 自动整
+ 理，重要日期请核对原文。\n官方原文：https://grad.ajou.a
+ c.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613\n原文未给具体
+ 时刻，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
 TRANSP:TRANSPARENT
-SEQUENCE:2
+SEQUENCE:3
 END:VEVENT
 END:VCALENDAR

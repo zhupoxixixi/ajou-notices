@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377913-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
+DTSTART:20261029T040000Z
+DTEND:20261029T080000Z
+SUMMARY:活动：New Power Plasma招聘咨询会
+DESCRIPTION:适用对象：有意了解New Power Plasma招聘的求职者
+ ；招聘咨询会不设学历或国籍限制说明，具体岗位资格
+ 须另行确认。\nNew Power Plasma举办招聘咨询会，介绍研究
+ 职类及经营支持职类的随时招聘。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://www.ajou.ac.kr/kr/ajou/
+ notice.do?mode=view&articleNo=377913
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377913
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

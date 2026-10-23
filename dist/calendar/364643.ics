@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:364643-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:申请 / 办理截止：eDISC职业发展诊断「A-Career DNA(20
+ 26)」项目
+DESCRIPTION:适用对象：2026学年度一般大学院注册生；须使
+ 用 아주대학교 邮箱申请。外国研究生是否符合未明确
+ 。\n提供价值5万韩元的eDISC诊断及个人结果，另有可选
+ 职业发展咨询。\nAI 自动整理，重要日期请核对原文。\
+ n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&ar
+ ticleNo=364643\n原文未给具体时刻，本日历使用全天事项
+ 。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-364643
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

@@ -6,36 +6,38 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:369230-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261023T140700Z
-LAST-MODIFIED:20261023T140700Z
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:申请 / 办理截止：AiRISE创业创意竞赛
-DESCRIPTION:适用对象：2026-1学期在读的峨山大学学生，明
- 确包括大学院生；可个人或组队参加。\n峨山大学举办
- 第4届AiRISE创业创意竞赛，设AI技术与创意赛道，含奖金
+SUMMARY:申请 / 办理截止：第4届 AiRISE 创业创意竞赛
+DESCRIPTION:适用对象：2026-1学期在籍的亚洲大学学生，明
+ 确包含大学院学生；个人或团队参赛。外国研究生是否
+ 还需满足其他条件，公告未说明。\n面向2026-1学期在籍
+ 学生征集创业创意，设AI技术与创意赛道，并设有奖金
  。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
  tps://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\n原
  文未给具体时刻，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369230
 TRANSP:TRANSPARENT
-SEQUENCE:1
+SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
 UID:369230-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261023T140700Z
-LAST-MODIFIED:20261023T140700Z
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260611
-SUMMARY:活动：AiRISE创业创意竞赛
-DESCRIPTION:适用对象：2026-1学期在读的峨山大学学生，明
- 确包括大学院生；可个人或组队参加。\n峨山大学举办
- 第4届AiRISE创业创意竞赛，设AI技术与创意赛道，含奖金
+SUMMARY:活动：第4届 AiRISE 创业创意竞赛
+DESCRIPTION:适用对象：2026-1学期在籍的亚洲大学学生，明
+ 确包含大学院学生；个人或团队参赛。外国研究生是否
+ 还需满足其他条件，公告未说明。\n面向2026-1学期在籍
+ 学生征集创业创意，设AI技术与创意赛道，并设有奖金
  。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
  tps://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\n原
  文未给具体时刻，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369230
 TRANSP:TRANSPARENT
-SEQUENCE:1
+SEQUENCE:2
 END:VEVENT
 END:VCALENDAR

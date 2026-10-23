@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372514-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
+DTSTART:20260706T070000Z
+DTEND:20260706T103000Z
+SUMMARY:活动：气候危机时代自然灾害与社会应对海外学
+ 者专题讲座
+DESCRIPTION:适用对象：本校大学院生及相关教员；海报另
+ 列海外人士与大学院生交流环节，具体参与资格未详。
+ \n邀请日本京都大学教授讲授气候灾害与社会应对，并
+ 安排问答及海外人士与研究生交流。\nAI 自动整理，重
+ 要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/b
+ k21/bk21_bbs.do?mode=view&articleNo=372514
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372514
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

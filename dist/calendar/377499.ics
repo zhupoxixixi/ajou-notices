@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377499-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
+DTSTART:20261027T080000Z
+SUMMARY:活动：社会弱势群体法制度研究中心第16届研讨会
+DESCRIPTION:适用对象：研究员、教职员工及其他校内成员
+ 可自由参加；未明确外国研究生资格，亦未设国籍限制
+ 。\n举办关于超高龄与社会疏离时代法律问题的研讨会
+ ，介绍日本现状与挑战。\nAI 自动整理，重要日期请核
+ 对原文。\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mo
+ de=view&articleNo=377499
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377499
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
