@@ -42,7 +42,11 @@ def candidate(r,known,today):
         return bool(re.search(r'외국인|유학생|대학원|석사|박사|foreigner|international|global|A\.G\.A|festival|visa|한국어|장학|취업|채용',r['titleKo'],re.I))
     if r['board']=='library':return bool(re.search(r'학술|연구|논문|대학원|JCR|DB|데이터|Turnitin|학위|교육|전자자료|EndNote|JIF|ICPSR',r['titleKo'],re.I))
     return True
-def image_evidence(images):
+def image_evidence(images,*,page_url=None):
+    if os.environ.get('SOURCE_TRANSPORT')=='api' and any(((urlparse(i['url']).hostname or '')=='ajou.ac.kr' or (urlparse(i['url']).hostname or '').endswith('.ajou.ac.kr')) and urlparse(i['url']).hostname!='library.ajou.ac.kr' for i in images):
+        from reader_gateway import snapshot_images
+        if not page_url:raise ValueError('Official page URL required for complete image evidence')
+        return snapshot_images(page_url)
     result=[]
     for image in images[:4]:
         if image['url'].startswith('data:image/') and ';base64,' in image['url']:
@@ -54,8 +58,7 @@ def image_evidence(images):
                 # The model gateway can read the official image remotely even
                 # when GitHub cannot reach that host. URL identity is not a
                 # content hash: process() must re-read these posters each run.
-                result.append({**image,'remoteUrl':image['url']})
-                continue
+                raise ValueError('Official page snapshot required for this poster')
             r=binary_resource(image['url'],12*1024*1024);body=r.content;mime=r.headers.get('Content-Type','image/jpeg').split(';')[0]
         if len(body)>12*1024*1024:raise ValueError('Poster exceeds size limit')
         if not mime.startswith('image/'):raise ValueError('Poster is not an image')
@@ -137,8 +140,8 @@ def process(row,prior,state,seed,model,now):
     if cached_source(prior,state,model,now):
         cached={**prior,'otherSources':row.get('otherSources',prior.get('otherSources',[]))} if prior else None
         return protect_scope(cached),state,'unchanged'
-    source=source_for(row,prior);base=base_fingerprint(source);pictures=image_evidence(source.get('images',[]))
-    remote_posters=any(x.get('remoteUrl') for x in pictures)
+    source=source_for(row,prior);base=base_fingerprint(source);pictures=image_evidence(source.get('images',[]),page_url=source['url'])
+    remote_posters=any(x.get('remoteUrl') or x.get('pageSnapshot') for x in pictures)
     key=digest({'base':base,'posters':[x.get('hash') or {'remoteUrl':x['remoteUrl']} for x in pictures],'extra':source['extraText'],'model':model,'prompt':PROMPT_VERSION})
     record={k:source[k] for k in ('id','titleKo','url','source','board','published','attachments')};record['fetchedAt']=now
     record['otherSources']=row.get('otherSources',[])
@@ -157,6 +160,7 @@ def process(row,prior,state,seed,model,now):
         new_state['reason']='正文日期不在近期收录范围';return None,new_state,'excluded'
     poster_count=len(source.get('images',[]))
     source['images']=pictures
+    if any(x.get('pageSnapshot') for x in pictures):source['imageMode']='official-page-snapshot'
     decision=translate_notice(source,model=model)
     if not decision['include']:
         new_state['reason']=decision['reason'];return None,new_state,'excluded'
@@ -164,7 +168,7 @@ def process(row,prior,state,seed,model,now):
         decision.update(start=source.get('calendarStart'),end=source.get('calendarEnd'),event=None,eventEnd=None,kind='deadline',endEvidence=source.get('calendarPeriod') if source.get('calendarEnd') else '')
         decision['note']=(decision.get('note') or '')+' 大学院通用学事日程，个人办理资格及学科细节以专项公告为准；日程可能调整。'
     item={**record,**{k:decision.get(k) for k in ('title','tags','audience','summary','details','start','end','event','eventEnd','kind','note','endEvidence','eventEvidence','eligibility')},'editorial':'auto','translationModel':model,'translatedAt':now,'lastCheckedAt':now,'fetchStatus':'ok','reviewNeeded':False,'evidence':'官方正文与海报，由 GPT-6 Luna 自动整理','extra':(prior or {}).get('extra',[])}
-    if poster_count>4:item['note']=(item.get('note') or '')+' 海报仅识别前4张，请对照完整原文。'
+    if poster_count>4 and not source.get('imageMode'):item['note']=(item.get('note') or '')+' 海报仅识别前4张，请对照完整原文。'
     if source.get('unreadableImages'):item['note']=(item.get('note') or '')+' 官方页面含失效 blob 图片，以上内容仅依据可读取正文和附件。'
     return protect_scope(item),new_state,'translated'
 def run():

@@ -10,13 +10,14 @@ class ApiTransportTests(unittest.TestCase):
         self.decision={'include':True,'title':'研究生申请','audience':'研究生','summary':'提交申请','details':['准备材料。','按时提交。'],'tags':['一般大学院'],'kind':'deadline','start':'2026-10-15','end':'2026-10-21','event':None,'endEvidence':'2026.10.21','note':''}
         self.now='2026-10-23T18:00:00+09:00'
 
-    def test_api_mode_sends_official_poster_to_gateway_without_direct_download(self):
+    def test_api_mode_uses_complete_page_image_without_direct_poster_download(self):
         image={'url':'https://www.ajou.ac.kr/poster.png','alt':''}
-        with patch.dict('os.environ',{'SOURCE_TRANSPORT':'api'}),patch.object(update,'binary_resource') as download:
-            result=update.image_evidence([image])
+        with patch.dict('os.environ',{'SOURCE_TRANSPORT':'api'}),patch.object(update,'binary_resource') as download,patch('reader_gateway.snapshot_images',return_value=[{'pageSnapshot':True,'hash':'pixels','dataUrl':'data:image/png;base64,aQ=='}]) as snapshot:
+            result=update.image_evidence([image],page_url=self.source['url'])
         download.assert_not_called()
-        self.assertEqual(result[0]['remoteUrl'],image['url'])
-        self.assertNotIn('hash',result[0])
+        snapshot.assert_called_once_with(self.source['url'])
+        self.assertTrue(result[0]['pageSnapshot'])
+        self.assertEqual(result[0]['hash'],'pixels')
 
     def test_remote_poster_does_not_reuse_an_exclusion_with_same_url(self):
         image={'url':'https://www.ajou.ac.kr/poster.png','remoteUrl':'https://www.ajou.ac.kr/poster.png'}

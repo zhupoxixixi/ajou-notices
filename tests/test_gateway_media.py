@@ -67,6 +67,16 @@ class GatewayMediaTests(unittest.TestCase):
             with self.assertRaisesRegex(TranslationError,'Poster reading not confirmed'):
                 validate({'include':False,'imagesReadable':flag,'reason':'图片读不到'},self.source([{'remoteUrl':'https://www.ajou.ac.kr/poster.png'}]))
 
+    def test_complete_page_input_is_not_silently_truncated_at_four_tiles(self):
+        source=self.source([{'dataUrl':'data:image/png;base64,aQ==','highDetail':True} for _ in range(6)])
+        source['imageMode']='official-page-snapshot'
+        with patch('ai_translate.requests.post',return_value=self.success_response()) as post:
+            translate_notice(source,api_key='test-key',endpoint='https://gateway.invalid/v1')
+        parts=post.call_args.kwargs['json']['messages'][1]['content']
+        images=[p for p in parts if p['type']=='image_url']
+        self.assertEqual(len(images),6)
+        self.assertTrue(all(p['image_url']['detail']=='high' for p in images))
+
 
 if __name__ == '__main__':
     unittest.main()

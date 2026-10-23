@@ -23,7 +23,7 @@ jobs:
       PYTHONUNBUFFERED: '1'
       TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL || 'gpt-6-luna' }}
       TRANSLATE_API_ENDPOINT: ${{ vars.TRANSLATE_API_ENDPOINT || 'https://factchat-cloud.mindlogic.ai/v1/gateway' }}
-      SOURCE_CACHE_MINUTES: ${{ github.event_name == 'schedule' && '0' || '30' }}
+      SOURCE_CACHE_MINUTES: ${{ github.event_name == 'schedule' && '0' || '60' }}
     steps:
       - uses: actions/checkout@v4
         with:
