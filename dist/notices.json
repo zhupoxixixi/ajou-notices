@@ -1,7 +1,7 @@
 {
   "reviewedAt": "2026-10-15",
   "fetchedAt": "2026-10-15T15:04:09.524676+09:00",
-  "scanned": 519,
+  "scanned": 518,
   "pages": 36,
   "sources": [
     {
@@ -13,8 +13,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "international",
@@ -25,8 +25,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "oia",
@@ -37,8 +37,8 @@
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "university",
@@ -49,8 +49,8 @@
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "graduate_en",
@@ -61,8 +61,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "innovation",
@@ -73,8 +73,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "scholarship",
@@ -85,8 +85,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "library",
@@ -94,11 +94,11 @@
       "url": "https://library.ajou.ac.kr/guide/bulletins/notice",
       "pages": 5,
       "scanned": 100,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "academic_calendar",
@@ -109,8 +109,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
       "key": "college",
@@ -121,17 +121,11 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+      "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     }
   ],
-  "errors": [
-    {
-      "id": "library-22878",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也"
-    }
-  ],
+  "errors": [],
   "items": [
     {
       "id": "377459",
@@ -7007,36 +7001,37 @@
           "label": "2025 JCR 확인하기 [클릭]"
         }
       ],
-      "fetchedAt": "2026-10-23T20:05:02.524134+09:00",
+      "fetchedAt": "2026-10-23T23:55:32.438295+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "2025 JCR（2026年发布）更新说明",
+      "title": "2025年JCR（2026年发布）上线通知",
       "tags": [
+        "一般大学院",
         "论文科研"
       ],
-      "audience": "需查询期刊指标、研究成果或进行学术期刊评价的师生；校内IP可访问，校外需通过图书馆登录。",
-      "summary": "2025 JCR已更新，部分期刊指标仍可能在年末Reload后调整。",
+      "audience": "使用JCR进行论文投稿、研究成果确认或学术期刊评估的校内人员；数据库校内IP可访问。",
+      "summary": "2025年JCR已更新，部分期刊指标尚待处理或最终确认，后续可能变化。",
       "details": [
-        "2026-06-17更新的JCR提供基于2025年数据的2025 JCR；2026年数据预计在2027年版提供。",
-        "数据将在年末JCR Reload过程中最终确定，论文投稿、研究成果确认及期刊评价时，部分期刊指标可能变化。",
-        "标示为Forthcoming的期刊，其影响因子或其他指标所需数据仍在处理中；完成后可能于JCR Reload时提供指标。",
-        "校外访问路径：图书馆主页登录 → 资料检索 → 电子资源 → 电子期刊·DB·杂志·报纸 → J → JCR。"
+        "2026年6月17日更新，可查询基于2025年数据的2025 JCR；2026年数据预计于2027年JCR发布。",
+        "今年年底JCR Reload后数据将最终确定；部分期刊指标可能调整。",
+        "标注Forthcoming表示指标所需数据仍在处理中，完成后可能于JCR Reload提供指标。",
+        "仅可在校内IP范围访问；校外使用路径为图书馆网站登录后，通过“자료검색”进入电子资源并选择JCR。"
       ],
       "start": null,
       "end": null,
       "event": null,
       "eventEnd": null,
       "kind": "guide",
-      "note": "所附图像可读取，但失效图片可能未能完整提供；不能据此推断已读完整海报。 官方页面含失效 blob 图片，以上内容仅依据可读取正文和附件。",
+      "note": "海报图片可读取；JCR指标最终状态可能在今年年底Reload后确定。 官方页面含失效 blob 图片，以上内容仅依据可读取正文和附件。",
       "endEvidence": "",
-      "eventEvidence": "",
+      "eventEvidence": "2026년 6월 17일 Journal Citation Reports(JCR)가 업데이트되었습니다.",
       "eligibility": "confirmed",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-10-23T20:05:02.524134+09:00",
-      "lastCheckedAt": "2026-10-23T20:05:02.524134+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-10-23T23:55:32.438295+09:00",
+      "lastCheckedAt": "2026-10-23T23:55:32.438295+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -9915,29 +9910,22 @@
       "reviewedAt": "2026-10-23"
     }
   ],
-  "pending": [
-    {
-      "id": "library-22878",
-      "board": "library",
-      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/22878",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed: JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也"
-    }
-  ],
-  "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-  "updatedAt": "2026-10-23T23:07:00.089619+09:00",
+  "pending": [],
+  "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+  "updatedAt": "2026-10-23T23:55:32.438295+09:00",
   "automatic": true,
   "schedule": "每日 08:17、12:17、18:17 KST",
   "translationModel": "gpt-6-luna",
   "updateStats": {
-    "checkedAt": "2026-10-23T23:07:00.089619+09:00",
+    "checkedAt": "2026-10-23T23:55:32.438295+09:00",
     "model": "gpt-6-luna",
     "transport": "api",
-    "scanned": 519,
+    "scanned": 518,
     "pages": 36,
     "boards": 10,
-    "translated": 201,
-    "unchanged": 20,
-    "excluded": 82,
+    "translated": 1,
+    "unchanged": 302,
+    "excluded": 0,
     "skipped": 0,
     "schedule": "每日 08:17、12:17、18:17 KST",
     "sourceStatus": [
@@ -9950,8 +9938,8 @@
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "international",
@@ -9962,8 +9950,8 @@
         "status": "ok",
         "bounded": false,
         "boundary": "date-window",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "oia",
@@ -9974,8 +9962,8 @@
         "status": "ok",
         "bounded": true,
         "boundary": "request-limit",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "university",
@@ -9986,8 +9974,8 @@
         "status": "ok",
         "bounded": true,
         "boundary": "request-limit",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "graduate_en",
@@ -9998,8 +9986,8 @@
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "innovation",
@@ -10010,8 +9998,8 @@
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "scholarship",
@@ -10022,8 +10010,8 @@
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "library",
@@ -10031,11 +10019,11 @@
         "url": "https://library.ajou.ac.kr/guide/bulletins/notice",
         "pages": 5,
         "scanned": 100,
-        "status": "partial",
+        "status": "ok",
         "bounded": false,
         "boundary": "date-window",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T20:05:02.524134+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "academic_calendar",
@@ -10046,8 +10034,8 @@
         "status": "ok",
         "bounded": false,
         "boundary": "academic-year",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       },
       {
         "key": "college",
@@ -10058,8 +10046,8 @@
         "status": "ok",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-23T23:07:00.089619+09:00",
-        "lastSuccessAt": "2026-10-23T23:07:00.089619+09:00"
+        "checkedAt": "2026-10-23T23:55:32.438295+09:00",
+        "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
       }
     ]
   },

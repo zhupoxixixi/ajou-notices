@@ -2942,10 +2942,11 @@
     "reason": "项目面向ICT콤플렉스使用者中的求职新手开发者及低年资从业者，非一般大学院学务或研究工作公告。"
   },
   "library-22878": {
-    "fingerprint": "f3e105708755511ff9989888851ce0747a1f3e8f20dd8a78d510b9b9b443c1af",
-    "checkedAt": "2026-10-23T20:05:02.524134+09:00",
+    "fingerprint": "3a2ae188fadeb885016f575d44d0c4864d5f5761cf14b504229331c5658a9bb2",
+    "checkedAt": "2026-10-23T23:55:32.438295+09:00",
     "sourceFingerprint": "99693869ea86eac730929f8333a54eea149604540f586214bf4c75aef71fe563",
     "model": "gpt-6-luna",
+    "prompt": 4,
     "transport": "api"
   },
   "library-23087": {
