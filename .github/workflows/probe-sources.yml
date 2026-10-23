@@ -28,15 +28,18 @@ jobs:
           urls = {
               'graduate':'https://grad.ajou.ac.kr/gs/community/notice.do?mode=list&articleLimit=10',
               'university':'https://www.ajou.ac.kr/kr/ajou/notice.do?mode=list&articleLimit=10',
-              'library':'https://library.ajou.ac.kr/pyxis-api/1/bulletin-boards/1/bulletins?offset=0&max=1&includeContent=true'
+              'library':'https://library.ajou.ac.kr/pyxis-api/1/bulletin-boards/1/bulletins?offset=0&max=1&includeContent=true',
+              'graduate_http':'http://grad.ajou.ac.kr/gs/community/notice.do?mode=list&articleLimit=10',
+              'university_http':'http://www.ajou.ac.kr/kr/ajou/notice.do?mode=list&articleLimit=10',
+              'apex':'https://ajou.ac.kr/kr/ajou/notice.do?mode=list&articleLimit=10'
           }
           def probe(pair):
               name,url=pair; start=time.monotonic()
               try:
-                  r=requests.get(url,timeout=(6,12),headers={'User-Agent':'AjouNoticeArchive/1.0 (public academic notice reader)'})
+                  r=requests.get(url,timeout=(6,12),allow_redirects=False,headers={'User-Agent':'AjouNoticeArchive/1.0 (public academic notice reader)'})
                   r.raise_for_status()
                   valid=r.json().get('success') is True if name=='library' else 'articleNo=' in r.text
-                  return {'source':name,'valid':valid,'seconds':round(time.monotonic()-start,2),'status':r.status_code}
+                  return {'source':name,'valid':valid,'seconds':round(time.monotonic()-start,2),'status':r.status_code,'redirect':r.headers.get('Location')}
               except Exception as e:
                   return {'source':name,'valid':False,'seconds':round(time.monotonic()-start,2),'error':type(e).__name__}
           with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
