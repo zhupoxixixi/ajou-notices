@@ -156,7 +156,8 @@ def process(row,prior,state,seed,model,now):
         return protect_scope(cached),state,'unchanged'
     source=source_for(row,prior);base=base_fingerprint(source);pictures=image_evidence(source.get('images',[]),page_url=source['url'])
     remote_posters=any(x.get('remoteUrl') or x.get('pageSnapshot') for x in pictures)
-    key=digest({'base':base,'posters':[x.get('hash') or {'remoteUrl':x['remoteUrl']} for x in pictures],'extra':source['extraText'],'model':model,'prompt':PROMPT_VERSION})
+    unhashed_remote_posters=any((x.get('remoteUrl') or x.get('pageSnapshot')) and not x.get('hash') for x in pictures)
+    key=digest({'base':base,'posters':[x.get('hash') or {'remoteUrl':x.get('remoteUrl'),'pageSnapshot':bool(x.get('pageSnapshot'))} for x in pictures],'extra':source['extraText'],'model':model,'prompt':PROMPT_VERSION})
     record={k:source[k] for k in ('id','titleKo','url','source','board','published','attachments')};record['fetchedAt']=now
     record['otherSources']=row.get('otherSources',[])
     record['displayUntil']=row.get('displayUntil')
@@ -164,11 +165,11 @@ def process(row,prior,state,seed,model,now):
     if source.get('unavailableReason'):
         old={**prior,'reviewNeeded':True,'fetchStatus':'stale'} if prior else None
         return old,{**new_state,'reason':source['unavailableReason'],'action':'skipped'},'skipped'
-    if not remote_posters and state and state.get('fingerprint')==key and prior and prior.get('editorial')=='auto' and any(s in (prior.get('note') or '') for s in ('中国公民不符合','中国申请人不符合','仅限韩国国籍')):
+    if not unhashed_remote_posters and state and state.get('fingerprint')==key and prior and prior.get('editorial')=='auto' and any(s in (prior.get('note') or '') for s in ('中国公民不符合','中国申请人不符合','仅限韩国国籍')):
         return None,{**new_state,'reason':prior['note']},'excluded'
-    if not remote_posters and not prior and state and state.get('fingerprint')==key and state.get('reason') and not needs_source_retry(state):
+    if not unhashed_remote_posters and not prior and state and state.get('fingerprint')==key and state.get('reason') and not needs_source_retry(state):
         return None,{**new_state,'reason':state['reason']},'excluded'
-    if not remote_posters and state and state.get('fingerprint')==key:return (protect_scope({**prior,**record,'lastCheckedAt':now,'fetchStatus':'ok','reviewNeeded':False}) if prior else None),{**state,**new_state},'unchanged'
+    if not unhashed_remote_posters and state and state.get('fingerprint')==key:return (protect_scope({**prior,**record,'lastCheckedAt':now,'fetchStatus':'ok','reviewNeeded':False}) if prior else None),{**state,**new_state},'unchanged'
     if not remote_posters and seed and seed.get('reviewedFingerprint')==base:return {**seed,**record,'lastCheckedAt':now,'editorial':'human','fetchStatus':'ok'},new_state,'unchanged'
     if not prior and not candidate(source,set(),dt.date.fromisoformat(now[:10])):
         new_state['reason']='正文日期不在近期收录范围';return None,new_state,'excluded'
@@ -248,7 +249,8 @@ def run():
                 if ident in items:
                     items[ident]={**items[ident],'fetchStatus':'stale','reviewNeeded':isinstance(e,TranslationError) or items[ident].get('reviewNeeded',False)}
                 print(f'[{ident}] '+('retained previous data' if ident in items else 'not published')+f' ({reason})',flush=True)
-    if not stats['translated'] and not stats['unchanged']:raise RuntimeError('No successful source checks; leaving published data unchanged')
+    if tasks and not stats['translated'] and not stats['unchanged'] and not stats['excluded']:
+        raise RuntimeError('No successful source checks; leaving published data unchanged')
     for health in coverage:
         if health['status']=='ok':health['lastSuccessAt']=now
     archive={**seed,'items':list(items.values()),'sources':coverage,'pending':pending,'scanned':len(rows),'pages':stats['pages'],'checkedAt':now,'updatedAt':now,'automatic':True,'schedule':stats['schedule'],'translationModel':model,'errors':stats['errors'],'updateStats':{k:v for k,v in stats.items() if k!='errors'}}

@@ -41,15 +41,22 @@
   }
   // Reject incomplete snapshots before replacing the usable in-memory archive.
   function validArchive(data){
-    if(!data||!Array.isArray(data.items)||!data.items.length||!Array.isArray(data.sources)||!Array.isArray(data.exclusions))return false;
-    if(!Number.isFinite(Date.parse(data.checkedAt||data.fetchedAt)))return false;
+    if(!data||!Array.isArray(data.items)||!data.items.length||!Array.isArray(data.sources)||!data.sources.length||!Array.isArray(data.exclusions))return false;
+    if(!data.exclusions.every(x=>x&&typeof x.id==='string'&&typeof x.title==='string'&&typeof x.url==='string'&&typeof x.reason==='string'))return false;
+    const checkedAt=data.checkedAt||data.fetchedAt;
+    if(typeof checkedAt!=='string'||!Number.isFinite(Date.parse(checkedAt)))return false;
+    if(data.referenceLinks!==undefined&&(!Array.isArray(data.referenceLinks)||data.referenceLinks.some(x=>!x||typeof x.name!=='string'||typeof x.url!=='string')))return false;
     const ids=new Set();
-    return data.sources.every(s=>s&&['key','name','url'].every(k=>typeof s[k]==='string'))&&data.items.every(r=>{
+    return data.sources.every(s=>s&&['key','name','url'].every(k=>typeof s[k]==='string')&&/^[a-zA-Z0-9_-]+$/.test(s.key)&&
+      ['checkedAt','lastSuccessAt','status'].every(k=>s[k]===undefined||s[k]===null||typeof s[k]==='string'))&&data.items.every(r=>{
       if(!r||typeof r.id!=='string'||!/^[a-zA-Z0-9-]+$/.test(r.id)||ids.has(r.id))return false;
       ids.add(r.id);
       return ['title','titleKo','summary','audience','source','board'].every(k=>typeof r[k]==='string')&&
         ['tags','details'].every(k=>Array.isArray(r[k])&&r[k].every(x=>typeof x==='string'))&&
-        ['extra','attachments'].every(k=>Array.isArray(r[k])&&r[k].every(x=>x&&typeof x.url==='string'&&typeof x.label==='string'));
+        ['extra','attachments'].every(k=>Array.isArray(r[k])&&r[k].every(x=>x&&typeof x.url==='string'&&typeof x.label==='string'))&&
+        ['published','kind','url','start','end','event','eventEnd','eventEvidence','calendarFile','note','evidence','fetchedAt','lastCheckedAt','translatedAt','eligibility','editorial','fetchStatus']
+          .every(k=>r[k]===undefined||r[k]===null||typeof r[k]==='string')&&
+        (r.otherSources===undefined||Array.isArray(r.otherSources)&&r.otherSources.every(x=>x&&typeof x.key==='string'&&typeof x.name==='string'&&typeof x.url==='string'));
     });
   }
   const api={asTime,status,matches,sortItems,registrationClosed,validArchive};root.NoticeCore=api;if(typeof module!=='undefined')module.exports=api;

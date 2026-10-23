@@ -37,6 +37,26 @@ class ApiTransportTests(unittest.TestCase):
         self.assertEqual(action,'translated')
         self.assertEqual(result['editorial'],'auto')
 
+    def test_identical_hashed_page_snapshot_reuses_exclusion_after_refetch(self):
+        image={'pageSnapshot':True,'hash':'same-pixels','dataUrl':'data:image/png;base64,aQ==','highDetail':True}
+        self.source['images']=[image]
+        with patch.dict('os.environ',{'SOURCE_CACHE_MINUTES':'0'}),patch.object(update,'source_for',return_value=self.source) as source_for,patch.object(update,'image_evidence',return_value=[image]) as evidence,patch.object(update,'translate_notice',return_value={'include':False,'reason':'仅限本科生'}) as api:
+            _,state,_=update.process(self.source,None,None,None,'gpt-6-luna',self.now)
+            update.process(self.source,None,state,None,'gpt-6-luna',self.now)
+        self.assertEqual(source_for.call_count,2)
+        self.assertEqual(evidence.call_count,2)
+        self.assertEqual(api.call_count,1)
+
+    def test_hashed_page_snapshot_does_not_bypass_unverified_human_seed(self):
+        image={'pageSnapshot':True,'hash':'pixels','dataUrl':'data:image/png;base64,aQ==','highDetail':True}
+        self.source['images']=[image]
+        seed={**self.source,**self.decision,'reviewedFingerprint':update.base_fingerprint(self.source)}
+        with patch.dict('os.environ',{'SOURCE_CACHE_MINUTES':'0'}),patch.object(update,'source_for',return_value=self.source),patch.object(update,'image_evidence',return_value=[image]),patch.object(update,'translate_notice',return_value=self.decision) as api:
+            result,_,action=update.process(self.source,seed,None,seed,'gpt-6-luna',self.now)
+        api.assert_called_once()
+        self.assertEqual(action,'translated')
+        self.assertEqual(result['editorial'],'auto')
+
     def test_different_poster_bytes_invalidate_exclusion(self):
         state=None
         with patch.dict('os.environ',{'SOURCE_CACHE_MINUTES':'0'}),patch.object(update,'source_for',return_value=self.source),patch.object(update,'image_evidence',side_effect=[[{'hash':'old'}],[{'hash':'new'}]]),patch.object(update,'translate_notice',return_value={'include':False,'reason':'仅限本科生'}) as api:

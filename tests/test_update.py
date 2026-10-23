@@ -1,4 +1,5 @@
-import datetime as dt, unittest
+import datetime as dt, json, os, tempfile, unittest
+from pathlib import Path
 from unittest.mock import patch
 import update
 from ai_translate import validate, TranslationError
@@ -53,6 +54,58 @@ class UpdateTests(unittest.TestCase):
     def test_old_pinned_guide_remains_candidate(self):
         row={**self.notice(),'published':'2022-05-12','pinned':True}
         self.assertTrue(update.candidate(row,set(),dt.date(2026,10,15)))
+    def test_successful_exclusions_are_persisted_as_source_checks(self):
+        source=self.notice()
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder);(root/'data').mkdir()
+            (root/'data'/'seed.json').write_text(json.dumps({'items':[],'exclusions':[]}),encoding='utf8')
+            patches=(
+                patch.object(update,'ROOT',root),
+                patch.object(update,'BOARDS',{
+                    'graduate':('一般大学院','https://grad.ajou.ac.kr/gs/community/notice.do'),
+                    'university':('学校公告','https://www.ajou.ac.kr/kr/ajou/notice.do'),
+                    'oia':('国际处','https://www.ajou.ac.kr/oia/notice.do'),
+                }),
+                patch.object(update,'scan_board',side_effect=lambda board,*_: (
+                    [source] if board=='graduate' else [],
+                    {'key':board,'status':'ok','pages':1,'error':None},
+                )),
+                patch.object(update,'source_for',return_value={**source,'extraText':'','body':'official text','images':[],'attachments':[]}),
+                patch.object(update,'image_evidence',return_value=[]),
+                patch.object(update,'translate_notice',return_value={'include':False,'reason':'不符合收录范围'}),
+                patch.dict(os.environ,{'TRANSLATE_API_KEY':'test-placeholder','SOURCE_TRANSPORT':'direct','SOURCE_CACHE_MINUTES':'0'}),
+            )
+            with patches[0],patches[1],patches[2],patches[3],patches[4],patches[5],patches[6]:
+                archive=update.run()
+            state=json.loads((root/'data'/'state.json').read_text(encoding='utf8'))
+            stats=json.loads((root/'data'/'update.json').read_text(encoding='utf8'))
+        self.assertIn(source['id'],state)
+        self.assertEqual(state[source['id']]['reason'],'不符合收录范围')
+        self.assertEqual(stats['excluded'],1)
+        self.assertEqual(archive['updateStats']['excluded'],1)
+    def test_successful_empty_board_scans_are_recorded(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder);(root/'data').mkdir()
+            (root/'data'/'seed.json').write_text(json.dumps({'items':[],'exclusions':[]}),encoding='utf8')
+            boards={
+                'graduate':('一般大学院','https://grad.ajou.ac.kr/gs/community/notice.do'),
+                'university':('学校公告','https://www.ajou.ac.kr/kr/ajou/notice.do'),
+                'oia':('国际处','https://www.ajou.ac.kr/oia/notice.do'),
+            }
+            def empty_scan(board,*_):
+                return [],{'key':board,'status':'ok','pages':1,'error':None}
+            patches=(
+                patch.object(update,'ROOT',root),
+                patch.object(update,'BOARDS',boards),
+                patch.object(update,'scan_board',side_effect=empty_scan),
+                patch.dict(os.environ,{'TRANSLATE_API_KEY':'test-placeholder','SOURCE_TRANSPORT':'direct','SOURCE_CACHE_MINUTES':'0'}),
+            )
+            with patches[0],patches[1],patches[2],patches[3]:
+                archive=update.run()
+            stats=json.loads((root/'data'/'update.json').read_text(encoding='utf8'))
+        self.assertEqual(stats['boards'],3)
+        self.assertEqual(stats['scanned'],0)
+        self.assertEqual(len(archive['items']),0)
 class ResourceRecoveryTests(unittest.TestCase):
     def test_library_embedded_public_body_does_not_require_broken_detail_route(self):
         row={'id':'library-23063','board':'library','url':'https://library.ajou.ac.kr/guide/bulletins/notice/23063',

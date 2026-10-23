@@ -106,6 +106,7 @@ $('#refreshButton').onclick=async()=>{
  const status=$('#refreshStatus');status.hidden=false;
  if(!navigator.onLine){status.textContent='当前离线，保留已缓存公告。联网后再试。';return;}
  refreshing=true;$('#refreshButton').disabled=true;$('#refreshButton').setAttribute('aria-busy','true');status.textContent='正在检查已发布公告…';
+ const previousData=data;
  const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),15000);
  try{
   const response=await fetch('notices.json?refresh='+Date.now(),{cache:'no-store',signal:controller.signal});
@@ -117,7 +118,13 @@ $('#refreshButton').onclick=async()=>{
   if(currentId&&$('#detail').open)openDetail(currentId,false);
   status.textContent=changed?'已载入最新公告，筛选和收藏已保留。':'当前已是最新公告。';
   if('serviceWorker' in navigator)navigator.serviceWorker.getRegistration().then(r=>r?.update()).catch(()=>{});
- }catch{status.textContent='刷新未完成，已保留当前公告和筛选。请稍后重试。';}
+ }catch{
+  if(data!==previousData){
+   data=previousData;window.AJOU_NOTICES=previousData;
+   try{metadata();checkAge();render();offlineState();if(currentId&&$('#detail').open)openDetail(currentId,false);}catch{}
+  }
+  status.textContent='刷新未完成，已保留当前公告和筛选。请稍后重试。';
+ }
  finally{clearTimeout(timeout);refreshing=false;$('#refreshButton').disabled=false;$('#refreshButton').removeAttribute('aria-busy');}
 };
 
