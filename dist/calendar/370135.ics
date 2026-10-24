@@ -6,21 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:370135-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261024T081151Z
-LAST-MODIFIED:20261024T081151Z
+DTSTAMP:20261024T132215Z
+LAST-MODIFIED:20261024T132215Z
 DTSTART:20260626T020000Z
 DTEND:20260626T031000Z
-SUMMARY:活动：A-Career Insight Talk 2026：研究生研究基础职业
- 探索讲座
+SUMMARY:活动：A-Career Insight Talk 2026：研究生研究职业探索
+ 讲座
 DESCRIPTION:适用对象：本校大学院生、博士后研究人员及
- 其他感兴趣者；海报列出考虑研究生阶段后职业方向、
- 研究职业或海外大学院升学者等。外国留学生资格未单
- 独说明。\n围绕研究者职业发展、留学、研究主题与定
- 位策略的讲座，2026年6月26日举行。\nAI 自动整理，重要
- 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21
- /bk21_bbs.do?mode=view&articleNo=370135
+ 其他感兴趣者；本科生也可参加。外国留学生可否参加
+ 未明确。\n讲解研究者职业发展、留学、研究主题与定
+ 位策略，活动已于2026-06-26举行。\nAI 自动整理，重要日
+ 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
+ 21_bbs.do?mode=view&articleNo=370135
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370135
 TRANSP:TRANSPARENT
-SEQUENCE:6
+SEQUENCE:7
 END:VEVENT
 END:VCALENDAR

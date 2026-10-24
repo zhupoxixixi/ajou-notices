@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:373008-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261024T132215Z
+LAST-MODIFIED:20261024T132215Z
+DTSTART:20260830T090000Z
+SUMMARY:申请 / 办理截止：2026年下半年蔚山广域市大学（
+ 院）生学贷利息支援
+DESCRIPTION:适用对象：2017年以后获得韩国奖学财团学贷，
+ 且公告日时本人或直系亲属（父母或外祖父母）的居民
+ 登记地址在蔚山、并在韩国大学或大学院注册或休学者
+ ；研究生适用情况须符合上述条件。\n支援符合条件者2
+ 026年上半年韩国奖学财团学贷利息；申请须经蔚山市网
+ 站办理。\nAI 自动整理，重要日期请核对原文。\n官方
+ 原文：https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&
+ articleNo=373008
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373008
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

@@ -6,18 +6,18 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372509-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261024T081151Z
-LAST-MODIFIED:20261024T081151Z
+DTSTAMP:20261024T132215Z
+LAST-MODIFIED:20261024T132215Z
 DTSTART:20260519T080000Z
 DTEND:20260519T110000Z
-SUMMARY:活动：海外学者讲座：共同体的创伤与恢复
-DESCRIPTION:适用对象：本校一般大学院生及相关教职员；
- 国籍未作限制。\n邀请日本关西国际大学校长山田嘉之
- 树举办讲座，主题为地方消失与超高龄社会的灾害应对
- 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
- tps://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509
+SUMMARY:活动：海外学者专题讲座：共同体的创伤与恢复
+DESCRIPTION:适用对象：本校一般大学院学生及相关教员；
+ 海报未列国籍限制。\n海外学者讲座及交流活动，主题
+ 涉及灾害应对与安全社会。\nAI 自动整理，重要日期请
+ 核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs
+ .do?mode=view&articleNo=372509
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372509
 TRANSP:TRANSPARENT
-SEQUENCE:4
+SEQUENCE:5
 END:VEVENT
 END:VCALENDAR

@@ -1,7 +1,7 @@
 {
   "377021": {
     "fingerprint": "81f2f950a2a83136c136c44579ee1113db9bf594104970913d017899f4668d65",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6da1b5d19623c88808186753459c2221c608f4126dabbea671e05e4fcfa66496",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -9,23 +9,23 @@
   },
   "377134": {
     "fingerprint": "e9616bc1dc2fcb25f9ac9a7d3597f14d389081f8e4d54f4bf135b5962b519ae8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f811e88ad5020aee7e49961b2d46176d0619ce022bcce202f5f9047ba36dd377",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377337": {
-    "fingerprint": "55ff4777a4439700a3b0849adb431780e7bd71c764e63ff80f391c14277e6eb0",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "0fdddc0850f21914b9b86b3ac4e667fe1647333458e3ea205f39537424da3e21",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "afd553495ea47bb45c51f30156df6c7734d8a04cd03957fb6500c5a6ab562e8b",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376934": {
-    "fingerprint": "20ff6364d2261e17638be2fd473620d41ca99c85cb39af37601760490d8eb213",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "4aa1730af657ce2df6a82f7fb341a17244001c019426cd94372f2839e19115d4",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6b5cdc1a830eded46788cb8289b27e9e7160cb4f24f6c5c1e6423e1b82d8d51f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -33,7 +33,7 @@
   },
   "376967": {
     "fingerprint": "8d9cf109cbe448216819ec27e90c67606a3330453124e667b2622d3964d92855",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "dfe60c75e4ae1a7c37dcfda8611523ae246deb4a5773b9000c86a397d205e5d5",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -42,7 +42,7 @@
   },
   "375650": {
     "fingerprint": "c1848ae6fdddbfbf70238a0f70031718dee7c8de7876253153bd39a9ba15ca55",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "face4063a77e0ae5367820250be75120f8a141d44a53bf0023ff2a56f7367fd8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -50,7 +50,7 @@
   },
   "375643": {
     "fingerprint": "10b6d85037f4ede1f64e7b6be26a05e09f072bef7b26da719757ceb7f69a835c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5e182b2e1b4b39748b2fd430fab4f02f5e9468858adcbfecf2486e0d195f4950",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -58,7 +58,7 @@
   },
   "376965": {
     "fingerprint": "833c48cec88046e3d2873543d01a39ed693922bd387bfc02cba1e45ee69d4215",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "bebd142be1f53031db8bffcf7fb39976441323be1184c1fa2c248fea3cab83fc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -66,8 +66,8 @@
     "reason": "公告明确仅面向本校本科在读生申请学士—硕士衔接项目，不适用于已在读的研究生或外国留学生招生。"
   },
   "376506": {
-    "fingerprint": "ddde0a4450becdf9879abe189d36b1a009a55f22544d2bd48093e586b0b35284",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "0fc05f34febe47a8a0f627df48e30e9014181d07a5a66cb6bbd814b500560790",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "dd8d25a6561786a43bdd7227e3944b2f4fb90a1e536372a6e547dc6ce4ff57d6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -75,23 +75,23 @@
   },
   "377459": {
     "fingerprint": "9df47ce2935790f7abd893126a119ff4d56ee4f330533807fafdae480f7f2f8e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "50f1ff7bde646e2baa99e5eabfb8a923d876d64fce2dcfd5e585200791fc9120",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377426": {
-    "fingerprint": "f61023abcde53c029d5125adf3a72a73fbfe130559710dc415ebd94bdef2391d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "afcf8c648f2b22b3022e8cd584a009ac4d80dbe08ad22451eb3e27f6ef0405ea",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "149821ffc16edfb6bc2da54e5c96be27958e5c8feb5e2c8c4d82e6b6953b3cc4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377425": {
-    "fingerprint": "dcc57aab2289fbdd58a699d33aa9ddbcf2570586008ab43611b1218b70e67cb6",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "61f99e34c25795afb77153928ec92105df46804748e7f66b2a5a204536816308",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "4f9e91aefc72a7d4c397ec0a912262a9ed4bd44831d2120a5b4c7ed78f7a3106",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -99,15 +99,15 @@
   },
   "376458": {
     "fingerprint": "ff6e2589178decb0302457da5472ab8662c8e129046bf4fabe37cc1d0226ad26",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "cfb2d4dea70d936824fecaf8ebf14e19be0da5de3df302b2d458a2a5d1e1ece0",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "369657": {
-    "fingerprint": "5d6084413ab381911a4102f65be129903dae829e6459d62c347843d07015c97f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "0229e50869f9722d04f5a42ce2f914d49a1ac3c843999136f629651b95553547",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "8e4db721d524511e4b87f10f6be6ea78aff8c56862838238bb0ef5084b7120ab",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -115,15 +115,15 @@
   },
   "376516": {
     "fingerprint": "a592cbd0630271de4d376bad8aeed87f1e505c7557bb8945d3b6f5670279bc6e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "bc38f16b13fb7864f846665792375de9f98df9483bc58c80b863af3045ae8987",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376256": {
-    "fingerprint": "a342d95c488dfcf3051c10b203d1cf54572a3e84f1e47018d032ff3ae9f6a552",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "d599cbbe81494c50ec1c0fde75a95afe60d59bc1c3eda7b63c99851f3b61e83c",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3a253bbac32c274f5c346c663d84059760b6ccf31e6266da57276b3c920278dd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -131,32 +131,31 @@
   },
   "376193": {
     "fingerprint": "c5f9dfc65c19acebd5ca0d20755207952a39251b5eb181da61bad68b1636916f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "fa748efd9a3a11f50822862a6751abbb1dca8a2dbff3d987e17a11316e416786",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376054": {
-    "fingerprint": "d3ed76ff61a7db25ffcb537544fff161cd2574ec88cea50f391b46ceaa6d3783",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c3c818456ddb497ea29cadd63704d52231ca7dc994f2c5dc260a527705703f20",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "917a80b21588f0271c401d847f9dfe11d9c38bdde32ee02f5f69d1571a2ea447",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api",
-    "reason": "海报显示这是面向社会연대경제相关人士、公务员和研究人员等有兴趣者的社会 연대经济特讲，未体现与外国留学生、一般大学院学务或研究工作有直接关联。"
+    "transport": "api"
   },
   "376048": {
-    "fingerprint": "0443f177d2b79667046af120160fe905bf2dae1171fc1574d516a5d08fe5872d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "547ca2ef8c497441017ef0ded729552fc8eebb15e21583a0f63c702299e81801",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "11e73e94e837134fd4e5ceda366cc564ca3092a436dc32a98b4887e9d6cf4c92",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375924": {
-    "fingerprint": "3c71ce43fe21ca9f1c7514528cf140b3d7684b73a09d53c87c2cfeb3e2ff3ec5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c9873652d19cea70d44087cc4c9ff22478bb4ea938f6e3e0c95b3b9ebe5c5e56",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "990eee79b7fb42a6be7efe07e95570a593244919b927fd2612bedc3b3060d41f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -164,41 +163,41 @@
   },
   "376366": {
     "fingerprint": "1e2032c1f085861515fd5686e5461e6d4e3211ce1e27470e2904d108d428fb77",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "bd86f47a12cf07e7defaed36de7a49760fb5ced5cafd88bd4a0878e74d429815",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375919": {
-    "fingerprint": "fcd983c68031fa4b2ec743b2caeefdbe92d6ee61c73a0b84c2dc0c477d9b2207",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "944d2341af0707a1f25c776f6b9759841546cc372cdb80ea7d367aa00d2080f5",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e185d4eb16b0322e78e18d9aee90e1803d44d9c568f445cc13abd9e8c2172481",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报显示面向韩国国内居住的韩国及外国青年（18—39岁），属一般公众青年活动，未明确面向外国留学生或一般大学院学生；研究生资格不能推定。"
+    "reason": "海报面向居住在韩国的本国及外国青年（18至39岁），活动主题为文化交流及青年论坛；未显示与外国留学生、一般大学院或研究工作相关。"
   },
   "375801": {
-    "fingerprint": "ab5a0424011ec119ef4502fb3958f4cdb946f9fd009ce66cdd1bc61f7e920948",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "3952c4c5b8e0175adfd520d3e8347f21f8c46abe45011fb0eb300e497a6699a7",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "965bd29cb3256e9d99cb222c0e06f3f83bd95f756c639ee56d1cce012d0cb4cd",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375800": {
-    "fingerprint": "8856069aaa16fc0938bb4aef3bca5518d2ba9cd22dfa5d5af5bb972b304e3ab5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "99033150e6635afa69897f4e069f98ecdf4bca8098b7dd97337860fb2689bfc6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "82f007d8c89d1802010e243eb3b531747136cadb5d2b0cc7304203546d03ccb8",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "这是面向未就业青年、且要求培训期间全日制线下参与的就业培训项目；公告未说明一般大学院在读生是否符合在校生资格，无法确认与研究生学务或研究工作相关。"
+    "reason": "项目面向未就业青年，要求15至34岁（兵役者可放宽至39岁）、高中毕业以上且可全日制线下参与；公告未说明研究生是否符合，不能推定适用于本读者。"
   },
   "375378": {
-    "fingerprint": "fc01179c75a668cda5542ffe9dbae0b755a91d3b137545155746f3cd0322206d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "084d66f77c9a99e1152c4a3759c6c6434d9c583276c94c58e7d2d603fd7fc243",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9a32e746f4d7a88ff776b941f74f6315736457dd2e0dcf114ec41ef4afdb6ca9",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -233,8 +232,8 @@
     "reason": "资格考试为一般性国家认证考试公告，未体现与外国留学生、研究生学务或研究工作强相关。"
   },
   "375263": {
-    "fingerprint": "a165e6784a5539f195b8b4a96c3c23379727fb438de879fe0f1b5a4752820aa6",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "88d6a1eef1041c67b43bb45c7eb038603dd61ef80c86ef5f34ca7f89bb54cbd6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "ceef694d77566f237048af8c0221fd49a1b8658c71fa2cdd33765ce441da0709",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -242,7 +241,7 @@
   },
   "375153": {
     "fingerprint": "956fa3f583dfdf92a571c5d8cc2ea535647b4e6864b07cc4998d2020fe10bd7c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "16e754c63ae689a38677eb2c17db729d393142fc31b630c30855c29469b81caa",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -264,7 +263,7 @@
   },
   "374925": {
     "fingerprint": "7c121137751b2459df532db0f8af2d958511a17074737f4d8fa9edf88bc18ce1",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5c207721cc6571f91848aa6f25fc269165705a29090506c90f415058170164ed",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -272,7 +271,7 @@
   },
   "374886": {
     "fingerprint": "c118a894ea5040bba053eb330c5be591671f9f9c320b93c36d414007c33f00b2",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9476c7f344e9b92b223c3e76a26c8bb928b4c1f569b9ea0d465c1ee26a43e6ff",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -280,7 +279,7 @@
   },
   "374882": {
     "fingerprint": "79244cfac73c3aa23b2d822f8de7c0abf6d2ba452652b930f7158b184ae9821b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "10180c02ad667eece21e0b0fef6c6ab3060f12b43b08009279dfb4f151430ea0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -288,15 +287,15 @@
   },
   "374546": {
     "fingerprint": "cfd9b25ba509dce53bda8258d0b78cbce1320dc785dfd1818bd189f84926015c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "a883e5c89987f1ff6fb67e6aaa038e9a898ef94ddc9b694047a70f3ec76b3606",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "374920": {
-    "fingerprint": "14d1071e0ea6441d5b78be399f97465146ea93ff1b17a91a2bed3f2d2b4a9962",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "ec79267ffc68829200a42b3a8802f3e8667441b831514b7d7a08392e6acad0e8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3a734fcd2074832f6eb6d79669d7d9e16451b7394d9e865c6dcb49cd74b56b55",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -304,23 +303,23 @@
   },
   "373075": {
     "fingerprint": "97a286a958587d90cb5255b2d1c9e4d99adbc41cbf5b1bdbdeda6bd4f43c0a09",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "a9ddccf150f5a2f31dd3df754cbaaf849bf7574164ca8cb79d5a6e83d4d41df1",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373219": {
-    "fingerprint": "4796149d94c08eb4b1f0d0aee15be37dd7dbaf0de1e3ed533909cd31b10f4972",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a2d45ee61f9cff004450f32d9a879d1ec76dfc90c5975df040e43d249aca58e8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "c959fb27409817c102d779326268e9446eee3bf246b4e5b365baa3a53a8499e4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "369355": {
-    "fingerprint": "c2c1c173296aafed5bca7c4bccc1ef81d7a4319bc45839ffdc0c70d9084a0538",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "123cd95c01e2c0d166846a9c5ff557a0ce28fbee72862ca00b211fbe5514ccff",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6714d408f5bfdc351e7151e0662ca1b66b879321efa037e409c5f194b655a4e0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -328,66 +327,65 @@
   },
   "357927": {
     "fingerprint": "7e604c59aa86a1216cb4c0babf279b2dd327c810b6fd3304b1bc1358736e2ffc",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "583db157463dce5aa704026b82e7569096b46b7264f7d2d8ddb479c760722b46",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "298592": {
-    "fingerprint": "e4f844358f78b45581cfdc90e3af332ab634dde36a65ccca5bea8dc80e67a373",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "bb5a954a1d5fe1d2836741efcf1438136f1edc70602b3ecfd30bc9c31c9e8d45",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "53952ab74d35b5e4914ca62d8a7a1221f466c64d740a911af3d84f9d2ce64dff",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告明确仅面向本科课程外国留学生，研究生不在支持对象范围内。"
+    "reason": "公告明确限定为学部课程外国留学生，未涵盖研究生，按本科生专属项目排除。"
   },
   "376963": {
-    "fingerprint": "463f8646263c8d166c1585f3642327eeea1e6d961463f74dbd9e47b5a40beb77",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "ebcd6a7e3d05c7830ad56a188b4621b7861d25177458bb3e685264ba2140da74",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2018f70c8205b8868b709b8644f4a933309632dce9452f9251a3d4be66eee284",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "370527": {
-    "fingerprint": "eb31741b294c905f70b6478395e1467b67a543295e9da9445b1be0b1beb3ce4a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "15f9bdd78c4bb5697dac8d5ac0ce1ce3049b54e17b84e8346e007a595981431d",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "636bc0d8cd267604ba758ea764829bff75768ba3471653227eb4e1542131eedc",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376961": {
-    "fingerprint": "7706ea9397fe90316424864a5b4b1c0026a8d5af0bc5ca2534d5fda48451daf8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "8d8ca6854cf6a930c4a8585ba84f62b6d80c6f1c80d5ae8e6a751d9f875641a0",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "90a5ffb6e71b865b1769d8b3acf2afb7f6ddd0ed38df0d8b93433daddeb9d0be",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报内容仅为大邱炒年糕节的公众文化活动宣传，与外国留学生、一般大学院学务或研究工作无明确关联。"
+    "reason": "公告仅介绍面向公众的年糕炒年糕节庆活动，无外国留学生、一般大学院或研究生学务与科研相关内容。"
   },
   "371987": {
-    "fingerprint": "ac00d9b3041926f14c5701f2b9ea83161b9a2f59f23c7d9131202517bdba185d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "97d253caed68260565688a9abc0ed154d90d6429fa502892ba3d7fa9dfea7271",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "22ca42b66981cba2135fe1eac6aa1cb5acc8750d7c65214420b64389dd86fdcb",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api",
-    "reason": "公告是A.G.A.申请者的材料审核结果与面试安排，未说明与外国留学生、一般大学院或硕博学务及研究工作相关；不能据此推定研究生适用。"
+    "transport": "api"
   },
   "370987": {
-    "fingerprint": "e91d119f3eb04e46d8874368bb57827c05684baa575837bb5e665067be716bbc",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "79e04478fdd4c076cc8ef491688386aad9937c7ae0b612f999a52d3bd0583123",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "a2ed493a5a53aeccb0791c9004813f7cd76c88850ab7fa839f0cc11237b840fc",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377499": {
-    "fingerprint": "25e41aabdf587357e93bda6a3307fe2ddd168dc8d77f75af88a2cc010225a93b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "cb2f45e3fdd8a9377d45ec05e730f34f1522a8759dd73d400cbdabe626dd8e1a",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "59276f817efebe6a2a2d87538a27fe09836dfc00f8109f93c3f4479efa0de2c2",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -395,15 +393,15 @@
   },
   "377402": {
     "fingerprint": "693eaf5ea14deacd98b1d31376afd7b175d548e9a09d0190f11829a39c03e181",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2e769b19e71ca49a84c9d316f74682de245c01202f6c63c14afc749f28749556",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377439": {
-    "fingerprint": "4b0e5b3d755c4c5f7893deaa42451c4b7fc3d51fcdabc35467663496ce9cfaec",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "6b5885382f72f93b582b492f3d106ed958065495f4335303a9ff72572c50bda8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e9a11cc7579c4fc9f7f795270bfdf46713901a876328bc5849f34e306db23747",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -411,15 +409,15 @@
   },
   "377144": {
     "fingerprint": "ca7321e730ad8e5dfe4dc98a608cb17c75902beb121770735125704f09f42125",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "014ab4acab8068400629bbde1f986d2cb0398ac23e3f1d689dcd754fb0d51f57",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377183": {
-    "fingerprint": "da636533dbd996ad0560ec478ba298ae4eb341dd6534a4d567d7d6acf467538a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "06323486ecbf329244fc0e8b063bdb335256f8a1ba4239163fb968ab592618d2",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3a95500651b40efaf3c33b12a5a591d03519b07bead84983402bf9c14ae26649",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -427,7 +425,7 @@
   },
   "375652": {
     "fingerprint": "f26a23406f121fb127b0080f270f44d3eb56fc4e9f43e927f74c5623a3b7b1a0",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "4d3a43396ec7fc33bb566bc3ba5571c4cceb313f872a70a82538f31ab3dd874c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -435,7 +433,7 @@
   },
   "366197": {
     "fingerprint": "8ce631d912dba2c11c81286b124b3c23abecf29258bec5074e0be355e0eae5ab",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5ac49db84c08cb12e37f3ef812bfcb68e7be0dde1b315b0e73efefd79c04a4fd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -443,7 +441,7 @@
   },
   "197622": {
     "fingerprint": "eb280c12f617cd85fbedfcbdabe1e8a86e5e255ee901962f2502b7be36b552c7",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "1c9800551c11b07457a887838594fcef9fedfd5bded8338ecbe79923804a20e2",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -451,79 +449,80 @@
   },
   "375648": {
     "fingerprint": "6f61a170cd56a6055e00ba3b44beaa64aaa682bff23e681188f3e4a915fec88a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "c2c48e0ae79fd7b09f594d87c75f94c5b98b6b5c7059a50c856494f1fddb20cb",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377101": {
-    "fingerprint": "e5f9cdd1ae90b4715748935c8f1126c71d0210a9255cb5baac380d6954405ac0",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "e26a5cf1e74857c8ea63458ad98f7bb1176ea656438187d9dda432aa861c5767",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "90a3e8dd302bd9dd5f59c21dfd460c74a54b734a73db6ba25d05b4746093fbc3",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "360568": {
-    "fingerprint": "6e25c4ae1bdf04a03015411da34eecbe8e2548164b261ba6848cae81bb898acd",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "49e957bb9dc9cc6ca7d880c3636f5990fd9c190676dd6469ccb549cc41e52444",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "70f280c677994fd910975f16fbcf4605a7432972b22b4f59317a0830f911bdda",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377427": {
-    "fingerprint": "1aaeb0a749f993818e0d65ff4f3abe735160e4aba61aaf14fa8d17cfbebf456c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "45633f37fd00c655789b22a79bd0d0ed2e847c524e2e4e15f5c1ab97bf7bb7c9",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "86cc825cd94fd26853f2ce9e35fe66a73d08b35bc5515a5aae6af0ee877b8eb1",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376257": {
-    "fingerprint": "585cfe9b15d49e9c2e88c0d32c00c3c2dc74c23115dc82aa84f3f31818a163ac",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "e1c59ddab489d2c33ca070cdcc4535444e380b77de72e371d55734664104e285",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "a3e5ea98d110e7c75a94b620b45321d7d46a5df2a7a9e60d24680f3151064d1b",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376052": {
-    "fingerprint": "d803501f3fd7bd8e1bcc193681ebfb0fe42cb64270608a02ad7546333f6a5f2f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a79224de947b56d654359ae5d075805c9011dbf9e5390b3c6d864f5e3b2270fc",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "475317625939aa143fd30fbae64ca5be88228f0d6f5bcdec463e1adc69b8900b",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375923": {
-    "fingerprint": "9f20be5c0a8aeef04aee21805825f10f521b0d36a9dd8982fa5b9ebcc25979bd",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "bbd37d369ad39c45b8beb85eb5b1fb0784e6db1baf2dceaa0864caeb9f394b60",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6f0d38421b2595b059c54b25d29325aa98a813a6b8f1c6505669bfa7e5857149",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375925": {
-    "fingerprint": "fe3f4158ed2fdcd0bb00a488ef59ceb997313f6e4727fc219fdd6b5342d8917c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "deddea476e6054ec5b744c0f2035770c189018474ba0e93776a2491abb642028",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "541c1d7f03a182bfcd9c9eac9595638e26678c7b34a9ed8fdff5eb607333c652",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "reason": "海报仅介绍面向公众的2026 POHANG Global EXPO活动，未显示与外国留学生、一般大学院或研究生学务、科研的明确关联。"
   },
   "375392": {
-    "fingerprint": "8673ba9f8d9f91590520255952e2cc877bf9448468f59cf8c0ea4a041149cd36",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "63fe3e4d10634e179a45789dc01a61107ddc3d3947eb6a52feb855b229a48ba7",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "beba3ff25ebb3a1741b81b5e24464c7c9665439a686f0efd4efe03ab459ddf45",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375920": {
-    "fingerprint": "04f6a0e9460780f12533481637308485580119e0a43098c4dc3431fea57961eb",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "bf92fc4c7698dc6af079f5b4b64c6236fea6f0bfc96e66c3bc6020f3c07bad01",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0c24628a45a91fbb635c78ac774c93bc144097c9a932960194adef1c0cbc7cfe",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -531,7 +530,7 @@
   },
   "373983": {
     "fingerprint": "fccd64b568e27d357cf5941a54a7e8bbc59467f28f684a5c35e1161516f9c778",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "22fea3328ecbece002023854bad39bb9bb6f3909be3b4316477580a3d14e0d5b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -539,15 +538,15 @@
   },
   "373909": {
     "fingerprint": "64e93e52af43a6776f5875cd759ddb9a799a0cbcf960f3c34d9f003e86764070",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "75d54728cc1d27edc77e15225e3841e71bbb7eb334713ee9e2ec497091a824ea",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373908": {
-    "fingerprint": "d17ec3454b139d38d160df9820e4b1bd184f139ea75ed3206de982db89bc64ee",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "9e3a933b6f896e8ed065215a52b64d70e790b363d99c91ce22c0801a70fd4c21",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f9d63018fac1db5e214ad4ff3b6780c36d7e7a4712ea142056b110a42d69e4ec",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -555,7 +554,7 @@
   },
   "374887": {
     "fingerprint": "2f5fffd67d1365001601e68f5b445ef74223c7675cae6aab470c152b1f5c1b41",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "dfec4acbbc9807a3c479729cbd3e7c730fe5406ee44f8023987677de609f3ad8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -563,23 +562,23 @@
   },
   "375155": {
     "fingerprint": "d08002b1975e85302dd820a925d3462064ca81f0d1cb561f1795c222b90fa96b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e30107b452922f6b219488e7b9739e515980bab654e9358aedf02fcf7bab97d4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373342": {
-    "fingerprint": "843c913578ef44cdeefd47e30b8f8fefdff12875ba3e4265602ab6ea2d5829a2",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b35bb13010c67b4db3e2f1f97e136433acf1ad46ea20c862e73cf9ec2d0751c6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "7f6835187cb9d49ca13fa3d453f6f0b489386e8a4d8740b035195db412c4f1c8",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373483": {
-    "fingerprint": "7dafd0d87bc865f9ee2fa3bad68df327aa494b671c88bd47a6c2b74cb46372b2",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "03759d80e194080bf51a93f5b9a82860ae2cca8e31bf788bc815836b11f38cd0",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f16c7f4bede450c3a7dbd619357a380055abaf4ee8f8bcb9d1f5c494085ae50c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -587,7 +586,7 @@
   },
   "373311": {
     "fingerprint": "c92f717d883b70a02aae7f07c5d0030d5b601574749cd6335f30246b637e257b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0c974cd731112b3a22f68628b5f775ed52dab91bad3a171e4c27a47560b23a6e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -595,32 +594,32 @@
     "reason": "公告正文仅提示查看附件，未提供附件内容，无法确认课程对象、资格及日期；不能据标题推定其与外国研究生学务或研究工作相关。"
   },
   "373535": {
-    "fingerprint": "107fe2b9719d99887a3f25327b325923c50550dcb821ce97ffc336039a62583e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "9749f465ef6b2c6e77a646b342ea79386abe173343291d11f6dc4770671e8fdf",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "11f010d5eccbb80d1a750c2222c172be2270af52278867850f2b82cbfc6f5f8b",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372715": {
-    "fingerprint": "980f7ea482a70eab00181839382676fee3454255c4a6d3e7e1b39d1d6f399f4e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "20c287ea34f171d5ca84fc87728384356c182f76d2374d23c436ca437e48beb9",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "a1cf0f1f11eab4a30366c4d413a4977daa1c45e7c60bc13066b8e6ca2e15c50e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373172": {
-    "fingerprint": "e40b2d049ad0ca029f579917f8dcf2bc86efa457346f0c8f0b15728e31221360",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "1bbf302a2034a70d4e1c15a9545e6b43bdd5711561141226d7e6706782602f8a",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6ee16a72517064c4d60e824b6f06f9caddadd0e8b477857ad2da9ef3a3dfd036",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372714": {
-    "fingerprint": "81e652d7c1e944466f4a9ddf01ff606b49e6bc5da64332b2e46bae1c03c5f053",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "20aac38e552ef1c696a150d2b2486d8b7136c0a1657cd7738a14a91fa7df5493",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "44de00d7092f4d75cf7fb1610fd2abac874d445f6460814286b6a30e88e72b21",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -628,7 +627,7 @@
   },
   "372439": {
     "fingerprint": "c0c372f168bee92209b9d9952f1dbaec31b364dddf9f5038366c4ee16d2c501e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "a8f589fb273093bf8d9c0e37feebd040f31cfbb5d05886f60695ed933aa37361",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -636,7 +635,7 @@
   },
   "372434": {
     "fingerprint": "45bfc8924f538f8d91ec7856e990f2f49147e731aafff6547b16d435d9651c89",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "c71e5aeab9dd35a445dc1ac3b8fc0e64c97ea9beda092685cb81ff6b3e8188ae",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -644,7 +643,7 @@
   },
   "372629": {
     "fingerprint": "dad8982fac3401428c32524b73d64ad4953f06717f8dc3000403b2ef7e881291",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "ca9443064f5ec4161b8ca07a32b20913d7f014e17dec5aa99d513f440a59be3a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -652,15 +651,15 @@
   },
   "372921": {
     "fingerprint": "3725a583603c2a10379e736719830ba995bda72e9e64217536075e70515d30a3",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3846f45c0ccc49c3df533d8cdc6abb1d23d90e5252441f2793be880086644ec1",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "371908": {
-    "fingerprint": "d48afe8ad017c333ed2c2b75c66910d1469bc0a3b8197686d856f3fdcdfece7d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "2c40ada7fe60f2d56974eae8f0ae4eab8fb6392c9d5cd19cab9b956cfeb06697",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2c0f3458a5d7763603b81f8416af14715d17464d3ed463bc10b26a2c9f34a11e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -675,7 +674,7 @@
   },
   "373013": {
     "fingerprint": "85c11a0a6155b2fee1bd3484fffef7134555e28bdeb55a709ce7306738b9d5c9",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f2da2260fa8eea0f175ad39d498f76341d0fbb72c7d157102990b532ffd27619",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -690,15 +689,15 @@
   },
   "371875": {
     "fingerprint": "74ef30eb8ca600ba63fe43490bf4f295243532014fd5de1d679e66a2c7143958",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "fea79a05ebff662044a2b5bb7238809c803623100ebf54d4c6220a4a43506c94",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376367": {
-    "fingerprint": "e1080fc14a665161143ff024dd288df3a84253f0c9555e38b28bea3b5770085e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "845b5159c3b61ad93c60fb723681a0bd98d05ed15f11509ee913e4353efed8c6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "11eb126db6d805b683055526a8f138ab60a44e9f99f39108f417a8f927a2d752",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -713,7 +712,7 @@
   },
   "372872": {
     "fingerprint": "36f7f661cf9e85928a05def93d881ae98e1f57b337641afe0ea9dc656684e62e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "1b2ce1800a220a5043c97aa1a962fe8f11476f8107743a62246aa2c85491623a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -721,24 +720,24 @@
   },
   "377546": {
     "fingerprint": "7df8b7fcf708d770c6ef4f4fea23ba912a73da26b9413caad7eec8e641c7e41c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "03b10d82be046a4cd341e5a527231b889f0acfa50b9cecacfbad0c9cc1f1e5f3",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377545": {
-    "fingerprint": "41ef4e799ea44058c0f934c00db9e3a57586645f48c01d5a87e23ef712a642b9",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "5e3e32c13ad38c3127f5659b97d79741446b10d9d950354b710ccabfb98450f4",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "81f58148743747f3b725aa58012163f2312253527bbc27ed193a819d01136687",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确规定申请者须为“본교 학부 재학생”（本校本科在读生），不适用于一般大学院学生。"
+    "reason": "海报明确限定“本校本科在读生”，不符合当前读者的一般大学院研究生身份。"
   },
   "367101": {
-    "fingerprint": "d20b5c6586f9d767f382b998b79cb1837caebba68f39110f0f35e1ebe6b13d2e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "326d904902579b0bfea8ad3adbdacf57e3837374bf14143ae32bf6382be5ad1f",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "8000ffd356eda5a1a3424d6a5ec68c9f056e8db2f4e2e1ae573ffca1a12bf712",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -746,8 +745,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "364475": {
-    "fingerprint": "490cef5c9df66b085216ad732a0786a5fb080f6dcc23136d8cf819de80fb46db",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "d75d29717ac7916ffd10ada3a0e1bafe540ce496a821cf257b13d11dbcfcdf34",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "02538bd851721e6f216162cd8dd83f10780a3729f87881c2e41e6aac40c44722",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -755,8 +754,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "363644": {
-    "fingerprint": "2214451d1011afb9ee46521fb8ac00521a33eb980c919ad4a4ccf26f6afa2287",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "29089f294d8b22cb28bb12249dd3e91fcda51cf53e6ae4be6b34106219ceb3c1",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "67ba61557e9d3af50d4a466e42ad7b1e72f657d9beafd3895e8e565c0f4defc0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -764,8 +763,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "363642": {
-    "fingerprint": "336a847a5de9c2d1fd2eceb11e10516bcdd7355423b8b4f5b844c2e0c8f2bb61",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "1cec885a2c4923e2b9a403c392a2106bf22d0efdf1e8a4bf982fb19e32af37d5",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "64c2ba061a4363aa4f7f7874fa38ac6f54f224a70025b922101dcfcaa1482221",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -773,8 +772,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "365448": {
-    "fingerprint": "f3ba69ad456eefb1cf62b75f970c30be7a082650c70c36d2333797ae463b50f8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "284f7b4b0c33318cb2bdef56dedb01099e0c24224a2a53f9c5f58df2fe3f19bf",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "423895603e036bf52eb3315d4ccfefd0f6cf923ba13b5bcea3e1dd98a6b047c7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -782,8 +781,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "362510": {
-    "fingerprint": "68a6057ca85950740a60d542353767157a6d2e0b10651726dab93a27a24b62bf",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "563b7a284995cd09505cf3764eb4c90bfd44c81f97ef6d21608ecdfe34ed2a7a",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d3f7302713185741b97b3c61246199e87a4e9d19e198c59de5e5112fa50785c6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -791,8 +790,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "363273": {
-    "fingerprint": "a28635e2de58962949fc0f9dc0c568506e1526acc61b656c93b6235193259ce1",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b38b8de98eca5dc486cf7f316140c703cceba9303252f57025f65fb251dcd5f1",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6588687fa4695c7baa732edc380662da793e98e327f8ce05f25df45ede2ff492",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -800,8 +799,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "359877": {
-    "fingerprint": "3b07a87b1d2702ba63ebba09d32d846268195576f88a13285828d911f8e393ee",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "47fc26d2b43c01aaeea9931c9ae633fe9e795486866189eed9ad86ce933c64cd",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6f425d82988340dfffaad3d36a559a345bcc6a1896029e952977a98ba8da3177",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -809,8 +808,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "354727": {
-    "fingerprint": "0aec542be23a6032b5ae94102223c8de381e2d0cd9eada23548aba6d064b898f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "75c19272528a8c6b9ca5a44313ba5ba08d655489c362ba26bdf74bf2e0acacd8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0cb1719860da2481d835291670139014f92c13879f0c7d113b64dfcd44d3b26d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -818,8 +817,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "353411": {
-    "fingerprint": "307b61ca8d9597aaea94414b8168e20ff11c48449cdf74ded649103a4f7edcb1",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "f0b3cc8315108f70fab264345f1a5d83c4c07e8795b30bb159313969c86ca788",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "544fcf7875da006afb50b74f8f62df049b03de4d71e55649c0af424be279f93e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -827,8 +826,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "353410": {
-    "fingerprint": "4479d1af5eaf7818546b062330d795d85a7528e361816e829a7ffaf4cc2e0c5f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "d6dbd156e14ab405723a16266c373279f874216a1362b3d5327c2e5caa8a83d5",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5d17f76b7929c109fdd282320a451fb2202a4d3771cb7efb34d6347181289120",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -836,8 +835,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "355118": {
-    "fingerprint": "1a71e2529fc0bc46f030fdd13eb8feb4332cd3d5010dd1c62cb53a8c777378c7",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "76b33b5809dfb498ead4da8ab60c2bf7e6b8b382435a5c2a9a4bd4ebf2501a08",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "4a61ca4bc29da19c8b293b26c1ef0c29aa51adb8793c0e0ef83f0d7102e2eef8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -845,8 +844,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "351693": {
-    "fingerprint": "d7f42573fe189b64e23a20963645fef971f17f44428339309cde38a03ce0a1fc",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "9cf3f61fde19acf2355df9e658f536d976ffdbf2aba65675b84bf21b8b3193d9",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "063c2a3b9971d6b21a76480ac21be563a5e7293ff648acc95bb2d2bbc7a64db9",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -854,8 +853,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "352419": {
-    "fingerprint": "a1e856c99c28728055e0bd1a6997bfe04002aceedff184850f11ed7fd3c26c0a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a7b8b60b71119b7e5817b1003bceae6f4d006a45385528a439d94a282774488d",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "874f475ca9f9c750eb3f3e7a2e4adccad13bcbd3aa18fed347a6435b07e75c4d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -863,8 +862,8 @@
     "reason": "正文日期不在近期收录范围"
   },
   "353036": {
-    "fingerprint": "72fc412c9e051aab4a6aa1097e5737e1eabb3fe8841879ae02ebb6d9b4f5fc78",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "9a7d6bb8e85228346bfc8041803c09c6f751103e2503857390cc9bd43caf6ebb",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9760060f4a88832229140b8804b9ee991661451bcae59af56e0f019ee157271c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -872,31 +871,30 @@
     "reason": "正文日期不在近期收录范围"
   },
   "377523": {
-    "fingerprint": "361affb236bf8142006cd43c837addab7f5a9c1d0abcbffe7fcfcb0acdb729f2",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "056ae235b9479c5d0f44c4a94306cbf1b6e1f6fe4fd4ffb161a7e1870c838568",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "7a2744366306c473857b453c74fd9dcffe2ea8a6416bbe66a6f0a2f9df241362",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确标注仅限本科（학부）学生，研究生不在适用范围内。"
+    "reason": "海报明确标注为“[학부]”，对象仅为2026-2学期本科生，属于仅限本科的注册缴费公告。"
   },
   "373746": {
-    "fingerprint": "05f97ac2d06ca4e08cdfbd08e7e26eb05f6afc0e010620ded6342bc704d34ee5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "dfc5d6c517bf590e398c901b998e6579bc242d18ecef7a9ad697d5ef86b0ee6a",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "89bb05264edfd43e0c29f88d071bc5e62954121a4069559e09d38c4e495eb450",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告标题及海报明确标注本科/学士课程，内容为本科出勤与公假制度，不适用于一般大学院研究生。"
+    "reason": "标题明确标注“학부/학사과정”，正文及海报均为本科/学士课程出勤与 공결 办理规定，未见一般大学院或外国研究生适用依据。"
   },
   "377541": {
-    "fingerprint": "b19afa509b3d9e8f71d1f20715c1bf0afa1f75d1cb75a4dc45142337ba3974ec",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "9ee97065c1c48d455102437fbd1ea21f6bbe0cebd2c857627cf0314e30e2cfe6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5a7809e987157b022e8dd368ec1e1f38bfa9f428196a48aa7a3dfe105ca6e47d",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api",
-    "reason": "海报明确限定为准备公营/公共机构就业的Ajou大学在校生及毕业生，未明确包含外国留学生或一般大学院研究生。"
+    "transport": "api"
   },
   "377525": {
     "fingerprint": "040bff99a6918a822d7a0ec22afd358d178626ffcac60750d3d46ae144ee1dbe",
@@ -971,7 +969,7 @@
   },
   "377292": {
     "fingerprint": "ad8da77c55eaec4f908ed5991cdf2e283821056f2d995a94bc97a152c8b9fc1e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "a61f287549a36bc72b3da69e5d9f2f15eb5f304aa4a1afa28164d90f02098756",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1042,7 +1040,7 @@
   },
   "377154": {
     "fingerprint": "00280c691d4ed3c0d1d478dbca6063afeef5b27becb1611e707661b0e4059e4f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "dbf35d8dec983ab81e82e423de7987f82aa6c0d012c57af316c97d8fd78ce2b5",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1050,7 +1048,7 @@
   },
   "377102": {
     "fingerprint": "a23bb79b447db20c57ce1378e69a2e9e9ab767ba7cdd3e59c04e9d1c1f78b872",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6310bd1fffce0b37615e0ae4a6b3921643e43842f4818e92853fcb12f3fb306e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1113,8 +1111,8 @@
     "reason": "海报明确仅面向外国本科留学生（在读及毕业生），不适用于一般大学院学生。"
   },
   "377025": {
-    "fingerprint": "0290123660f0fac49e5fa34b856463d6a81db83a612f7bffacd6f14268f2fa31",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "5287ea6689d9bf787922b0d753a3b5134cb4224b502c871e2c9ad10fd767553d",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "bb17b44b4559bddd509b53bd7d315f56e9d5cdfe8d7eaa61687c4a7e9e0af879",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1138,23 +1136,23 @@
   },
   "377020": {
     "fingerprint": "9c66d566fb28d9530452b79b5f2526ddf14b157914551ed4be5c656b881e7315",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "cb01dc4aa5fbcef8ca5fcf61bbab7e7ba46807e58953b18b13a7a6005e79ac03",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377335": {
-    "fingerprint": "8a80a6119ca7874c68e65f695ede78529b25bfdfaf2422057b141039562ebfd1",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "3a6c88458e686dd537b50398c72cd4a975320b215a398b87367450f1eed79983",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "7fd12958261526a4184a0b4c5d3941b3b1810e34b5815e55ce4801396f31777c",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "365143": {
-    "fingerprint": "7b2bdf9751c1ae5867bd20a167f98884b3aa2fe11cdf236d2540501d048b1efe",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "99945c9b3e1ad025f8b278fe1ecf65b71b8779fadae21911780bce544edb66fd",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "c5e61e797dc385590ca1d9f9889f9bebce72b9fefc53182c21c4a46d3f4aa2c8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1162,15 +1160,15 @@
   },
   "377016": {
     "fingerprint": "4955191cf839912628132205bb642258c242ed08371ed92ed5784e84a4396086",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "a745d86682b54a6f6b866e15b873d26f6a88dff9fc32725a973f08e58179f58c",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "364643": {
-    "fingerprint": "5fcece350f7c4c274d7a355ec52eea35d6cd70b27406fc6a139119e8d2f7b7a8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b000661297bc861c951f6c4814e987274b4771246edc73af4abfccc7816c4e93",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "cf19043ef0d768f6fee6a22ee75fe55d5aa277b9a9e6a1ee555a92689a68f2e6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1178,23 +1176,23 @@
   },
   "364213": {
     "fingerprint": "d2319019c6d3a5d4cd0019b9bcb1787848d599d2416f539a0838c4a08bec2b09",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e9d953141cbc7a7796533bded5ebc2e6f35658cff1cc101d8a52afe691311f0b",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375647": {
-    "fingerprint": "71e2c53cd1fa36db0763543d4a34bef1041abf9625812454c8534576670454ec",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "9e26370e044b3f866883ee3386e705f3d54c3fc1bf8e35083b930180715d34ca",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9d529b2ba9f377a549f5461c61f224d7c04182c93f8f17266ee9c5e41a399c91",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377232": {
-    "fingerprint": "dd0efff6b21470c67d31cde564ca5c97c3eae499ab0153420f4d510f732942bf",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "260545af45d65167e3ef2fff066875f6602d66658682c243ea9e96ec28f77b62",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2b484f1365b3795667cf52446665b94fa81c0e595535afcbba292b3990a6e80f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1202,7 +1200,7 @@
   },
   "375590": {
     "fingerprint": "86aabbbe00ac0c6789dadfe91f76c2dc3485bf020a79485ca6160dc9ebc327d7",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "89d8d459b315e63fed14fc007ee78b4fd34960367091e6c8813553f4daffdb22",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1210,15 +1208,15 @@
   },
   "375471": {
     "fingerprint": "a95f6d26f8b478638179ac7fb275de0234ffae64819d84b0e51ab637c7d0c52a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9086becec9ad9e5223617d53f93d6ccfb8a85c9051582ee5a1d86b617beaba67",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375261": {
-    "fingerprint": "d6c6edfdf42decfeecc8ab4e9750fc643063da40b1cd22d586bbcfa7badc71d8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "d6ef88c9af850ceefa67ad94fc4b3a846b2ce42806ce105a0686f5f5211a4763",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5d5e6eb875bfb6f2f9454593fd446935179f5842a2137e86a41ccca7cb760b48",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1226,15 +1224,15 @@
   },
   "375246": {
     "fingerprint": "21a051b5e95b3948545f840f7e4152845c29e1a76472ba290c52e1dd5bb2ae53",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "dc2769470df5cf2adaa2c195396dfca6771906d22cb166a59fe38ceb49a65e2f",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375247": {
-    "fingerprint": "1f2f0f4f144e57bb9c69144f7599f5ab3629798f37868c93507c00a5428ef162",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c7b82f3fceeb78d82582ea573e33af593368e5a3f03566b9cf7849f6709998b6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "343573fd0e15b13897b197358dbd8e3cd283148034bfaad8d76a7c1b8da95ef8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1242,23 +1240,23 @@
   },
   "375175": {
     "fingerprint": "779adc3a1542765b5f3d6e576b73aaf83df9c13efe7382c95b67171380937e62",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e28757eebe2f6216b4af5c705f3473da841b83bad9563cc1a1dfe329259df31e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373879": {
-    "fingerprint": "36d0fda6d4f5b8e96d86baa6e0a6e832f650f8c3f2cd19c2a1363483f0a3fbdf",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "19daa0dde4be1452ca46ea47c785b5da5b3e11aed0a16c2bea8669a619b042d2",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2b819f7bd47139878e275f9d64f6d677b745a73a80572b257530a9c4858b661d",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373878": {
-    "fingerprint": "b6f33587e1b57b4522cdcc9d6e40ceb496ac232ba225125949da33f3d9d4bcfb",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "8f8507e012d6139a35ddd40cdaa239d1f4d96f609314826d677c3c197f092019",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3bdc50bac1a582f4bfbbd3de7d7f45a38f58aca9220453c03badef2500fefdd1",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1266,55 +1264,55 @@
   },
   "373877": {
     "fingerprint": "fc5c7e40a9a29ff6be890e0c50400970d6d0648f7b0ba6ad0d8566305c2f3516",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9af99797c46052dd1df517494251e16dc5a30e435bd83c3dcae2e0b8f532b5a6",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "374776": {
-    "fingerprint": "e2888764fedd3cc1e755d9ae84a3c67f26a1bfe3c46f2e4506b2e5c668a7ce0f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "e3b0680d1f21c8359c89790dc946485e2facf3646acbff125e80fd8d936ebbe5",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "956ab5870f8b0c5772d5a4f54352a6df9b496e5518b0d5e3de68ee99d47ba66c",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373850": {
-    "fingerprint": "f888e074183180a45c07e0ec51eaee1e33e0c2cdfca3d540e62c6f4b906a744a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "6eb051967f255f0a1d1597c7b21052a879a8740c14bb4684038413cfb91a2d59",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "8f451c22c98a5616b88f350bebe34b52a6eda36ca59d22c2cc7dda87e30048ee",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "373559": {
-    "fingerprint": "e264db2dc61184f3e2068cdf70b7f71dabbd16b6339fa541ff5410952ab00873",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "6bb1fa8d6ac4614108ed4c75d0282704eb6bc946bfd076a7e7dae69f60f06b90",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "220ebe457c3520f673ece0cdf0360df234cff68452e6b6f0f03048348036f3e4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372846": {
-    "fingerprint": "2012167614493c96351f22aee3570e59252bca4e8e92350ac887971fa3a0ef2c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "d4136f030d41a4b779fbbbbdbb706a9b8f52fd856be0437f2099195594e49394",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "200edfb07f1e4ef4a40eb53d25113e2ff66c67c0e74087abe3abfe56832780d0",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372516": {
-    "fingerprint": "4caebe87653a4d51159dfeabe135809fd0328b01877e61fe8eb3f90c9bf984ad",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "5e9e062be855b9a1eaa798b8f2c8cf1747b5af3f8d60f044908ccc78995053d8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9825e6c2a9338f62c4498cee79b7e8525fad32b2a6737de1f3fdbb2750c6290e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372514": {
-    "fingerprint": "92e55c63374165b8a5f7aaf01f71631cd6f76f9b59353cd2dcfcf15a59a3230c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b31053c3127061a833aff709c94a0ae3f5840671e7e97f6b6d231458d71d51e5",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d31629b1e423259b47168438efb243b8a1aaf07ffe0c18f218cd169fffd4895a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1322,15 +1320,15 @@
   },
   "372511": {
     "fingerprint": "e2377902e475c67a2199f5b3d54b9fed94292da91be4ed7881599300a41486d3",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e4606d539032a0bf81642266d956ccbc3bd1934eae541b8815435c5fb19a453a",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372512": {
-    "fingerprint": "c0854acbc21c19f8dce9197efb51ff97637608c8068abc11cfdb88440d739212",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c9de3efd902dec5ad3b125816d1abd590c3ded62f073e0e2186d9959139b28a9",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d6525b1ab4fef4e099b277c8c5ec11c388e09ac99f61aab7bc93a7a721e4ef1e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1338,7 +1336,7 @@
   },
   "372510": {
     "fingerprint": "cb7863bf1fe4025fa95983f6a894f3658390694a56f16c43965f3cfb0967cf5e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "967a77e485d2adc2b461ed0df3bd77f4a7305130f0b333a6d8a322bfeef42708",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1346,23 +1344,23 @@
   },
   "372507": {
     "fingerprint": "9c5ffbc8391ebfae52cc6ee6f1d39cd2165a3f7990099d8d8f75c6501a464f80",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "eda9d7abcdcd3de10fcf65b84feb7e12a55e06458d6a4a041bef3c08d3a3e836",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372508": {
-    "fingerprint": "3afbfd65cb4bd5e75e54b8e56558dd5668390f18cdb74e7c88973f904bf65e12",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "12da69191a61ad0a460340a62c14867488fd481d76be9f2c91166ea5a6aaad5e",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "c415ac63009edb7b2f497a48c98e83a5cc68535edf40e4d6a87ee8923318e0cb",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372509": {
-    "fingerprint": "468d591ce2e8990a8307ca3b0fedcce7bce8b768c28e3fa16cf348dea4ca57f4",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "e58a03e420d30cb1380edaf1a9eb2b71532a03dc80b5ac7214bde87baaa5c195",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "b20cb64f8f6071644c6ebc69d7f2a916b6fdfe6e6f580f79b4730bf350a378ef",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1370,7 +1368,7 @@
   },
   "372504": {
     "fingerprint": "dc336562d743aa3631add37da65df2f6d2f43e42f974698f237557cd48368934",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6a4054168597ae6f7b96e97523b9923f507bdb15ba628a9d2b9d4777deef88da",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1378,56 +1376,56 @@
   },
   "372503": {
     "fingerprint": "734f2f43ed5aa47c1d530aad4e760ad4a856cbbc736b6c3a72621d902720b676",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "28a5955302687097b346b2d3097720c5b5c206d6ee59088ca437c47ab1375bb1",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372505": {
-    "fingerprint": "8a2859546e5cb6737a607878535566bfc0af0a1bbfc1e73242e2bed3a389c8bf",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "915c39b669d07e656a9ef6df27ebc6c52086e34c07c54ec0d8b3e3a431ba92aa",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "741f0ec37f5c4d96046c091633aa8569f18fb6c44fdbd8632953b0f9cd894d75",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372502": {
-    "fingerprint": "d59e54b2149359b8ace85f2fcd08a71023315d4f28954c9cc6ee0675b58cc941",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "5a471e95fc4d9fa08de62c9e24bf89ef2a77e11feb54df920380f9ef55b6f2a6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d60ceb534ceb02d104e3bc7aa6012dd1818208a2dc71f17c764991148f653633",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "372015": {
-    "fingerprint": "b6a06e7b5d5ccba56eefe85008535dd8b1ff5282b2be10d02663d54fe634d946",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "799738000d1fb9bedc51f4b047325053f82d155d11c6ebb5f723687bce2000df",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "71aedeb1910daa054f68faddf69e825f69610c67512a56a71ab8bf255842aa61",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "370613": {
-    "fingerprint": "83154fd1f610250ec3160ff5b7bb76cabc1abdc9ddee49f1d04d7d19e5570928",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "1bb85203d034011eb64e9d1a1838f9e44ae34f7e86936f7cbb547c348f458c26",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "39ab1e3588cb6e91758d923bd53e5d599e8ec6900c0b1eb08c655a3e8c17404a",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "366852": {
-    "fingerprint": "c09b86f218862c03f67483e0fe58f9b638ff2997a712f995d7374b5cd73fede7",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "ee077a720e506fd70ff2c881d46fd3b854c6006393f65d98e14788be922e050e",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "4ce8ac7fc4f335f1369b2b10695a4d3be9306b744d419619b96e627a4429f222",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告针对国家勤工助学奖学金及本科生导师项目，原文明确列举的对象不包括一般大学院或硕博研究生，且内容与网络安全学科研究生学务无直接关联。"
+    "reason": "公告对象为国家勤工奖学金及大学生相关辅导项目；未体现一般大学院或外国研究生适用，属于范围不符。"
   },
   "370135": {
-    "fingerprint": "da25c0855589c9f56a9e35617ed7d19cc0843915070dd55953753f3ed5315bd9",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b618f165aa3a91e5be4125ab83a88ea0749efdac767c7a3aad79a68334dc56f8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "62d4134ac3528d552b597d82a2ecceaf08e3b43d34d6923f2b096d598547e7a2",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1435,108 +1433,108 @@
   },
   "214755": {
     "fingerprint": "3ff86e43eec7b85e78e2a479680e596dbff51881a979b6e735c47598a719108e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f476c81bd76c1d46956e1873be450994be4b2b07e09838cd154eac8bdf69a9c6",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377470": {
-    "fingerprint": "d984a436c38eeb39ca18ea5cb6d7c73bf83f6f65d2fe13d87db257e8148bae0d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "5096c5a0ae7b54a1bc19affbf2b8eef3e6a0d63e1a3870b5ed0f2121d3cbe6a2",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "b7db3e304d39cf938c18020fc5ff15ce8ffd38b35ab78ffe79477bfcff583921",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告为2026学年第二学期校内社会服务奖学金最终入选结果，列出的入选者均为本科年级，非研究生相关奖助公告。"
+    "reason": "这是校内社会服务奖学金最终获选名单及发放说明；名单明确列出本科院系与年级，未见研究生或外国留学生适用信息。"
   },
   "339252": {
     "fingerprint": "0c5c7cc5b60410fe502e189b1bbe942f61e82fc67b8a704a0ad91f358d2d2709",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "643c3dca412a814241a24370427789290b348e33f6749d0a3c5918b596c53042",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377206": {
-    "fingerprint": "caa6d121975c3b20cbc76fb9badf54ef8fbe9aeb763ade1043192c93976fe4b4",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b1b98a65c587f24cad21def5d35049381a8e6c1bfce97fcf934ba2fea3b162cd",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0ee89b50c0bfbf9bc6a838792c1bd3f07e739904b193e6cd0841c2ba95eba27c",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金仅面向国内四年制一般大学在读的 북한이탈청소년，且要求2027年第一学期为2、3或4年级；当前一般大学院中国学生不符合公告所列范围。"
+    "reason": "奖学金仅面向在韩国国内四年制大学就读的北韩脱离青少年，并限2027年第一学期成为二至四年级的本科生；不适用于中国留学生或研究生。"
   },
   "377204": {
-    "fingerprint": "e6a0e156a00f87603e9853cf2b9c983a3eb9a918a6f6e763c4354502cc26785a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "7d32c119f7830b6122ad87d2a22396e86dc52dda298b3153203e918f5bde35db",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f55101a522fe7c786988216f98c28d3b0b66384533df3f3991887e5ab163340e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金仅面向2027年第一学期大二、大三、大四在读本科生，排除研究生。"
+    "reason": "奖学金明确面向2027年第一学期在读的2、3、4年级大学生，要求拟进入一般大学院从事医生命科学研究；不面向当前研究生。"
   },
   "377176": {
-    "fingerprint": "41086fb52681ea870432f072e0c669700759a0663bb0aa12e2f66bda8d89a4f5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "ad65d6d98793de46182fb1c8458de7d9eb5431cebab02b6630f708e95f74bf5d",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "8d8a0f1bf371e87c18a6c531837b0e1a21b554e99bbcf4e5686488f7c23a14dd",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377087": {
-    "fingerprint": "332cab33e42d117f13b25df3fb5cba38d6020866e13760c213e263fd1defbd28",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "0b5608dd51e3cf3faa40838540f80d10a86348ce5a8e4c2673351bdd8ab3041e",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "8e21c18d881e20c66fcf7b7dd90d45099cc3b2bf27f5359dd897ea30b9714ef3",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确限定申请人为韩国国内四年制大学或2至3年制专门大学在校生，且资格须同时满足三项条件；外国研究生资格不适用或未列明。"
+    "reason": "奖学金明确要求国内四年制大学或两至三年制专门大学在校生，排除一般大学院研究生。"
   },
   "377120": {
-    "fingerprint": "ab99b4a163c44aafad5d546b2b5dcb72b2fa75b2b4bf362a876b05b9f68537bf",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "8cf7e627013e1b774601d95defd240b2eb2af8ba680c584689662792b1816302",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "870e9e3c1fdd7c30cd37e2425456077753c64d78849710ad7db001d6b4dc54c2",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告标题明确限定为本科生（학부생），海报中的贷款制度条件也主要针对本科生；不属于研究生相关公告。"
+    "reason": "公告标题明确限定学部生（本科生），海报也指向学部未注册学生补救注册及本科注册缴费；不属于外国研究生或一般大学院相关公告。"
   },
   "377085": {
-    "fingerprint": "5ff6504615bb4f520ed1c715ca14617d248692f15454f17ee5fe6a6afb9e06be",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "94e52067366ed82641c6cb7df911bca69baf629ac17db43d2be8f076c6ab3859",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9e371c03fe66d2a32a983be3111bddd577d6d2fc2d2f06c1e075bb9d6ec4cec0",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金明确面向韩国国内四年制大学二年级及以上在校生，并要求农业就业计划；不属于外国研究生或一般大学院资助公告。"
+    "reason": "海报明确要求国内四年制大学二年级第二学期以上在读，并限定农业就业意愿及成绩；不适用于一般大学院网络安全学科学生。"
   },
   "376957": {
-    "fingerprint": "163914a28139b3c9c39590e7c334b60cd29c3f2bbdf7da895f4f2517f8c708d7",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "48ec3f46ead1a65d37ce743b13abd9cac7086136dddb073bf74b53a5c03659f4",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "4e5cd3fb9090177b35a1323e0ec003e0c5c69d1f45dc0244cfd08d3a3e007d3f",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖助对象明确为“大学生”，且排除休学及既获学金者；未提及研究生或外国留学生，无法确认适用于一般大学院学生。"
+    "reason": "奖学金对象明确为大学生，排除赛博大学、在籍休学人员；未说明包含研究生或外国留学生，且申请资格仅限中位收入标准第5区间以内。"
   },
   "376795": {
-    "fingerprint": "7d3cba159ff92e93f5bbd14ed5e2a215185eab2458345dfe54a82eed0e9b84fd",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a1741c3f29c564015f64b241208db0d3151ed171134577539f51943f4b017ac0",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "55343ecfe54340500e1d1a7747f8cc556edbb607b20e185a87dbca764342fd40",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确限定为大学生（本科生）奖学金，属于仅限本科项目。"
+    "reason": "海报明确限定“大学生”，且申请条件要求本人或父母在大田连续居住满一年；未显示包含研究生，相关资格不适用于本次筛选。"
   },
   "376788": {
-    "fingerprint": "9e582724dc4ba62b2f4311b13b4515a816462b9721081da35450940ac153cad2",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "ea31b2ee8dcb259fac9655e831ba4dccef355abdf85a63b8c44e898ba744522b",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "c241a1f32aa51b111e2a9d8b859ddd182d2eb3eb27247fe6297d3919452a35f7",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金资格限定为居住在论山市的居民子女、论山市内高中在读生或国内正规大学新生等，不涉及一般大学院研究生。"
+    "reason": "奖学金仅面向在忠清南道论山市居住满一年者及其子女、论山市管内高中生或论山市管内大学新生等；未列一般大学院或研究生，范围不适用。"
   },
   "375971": {
     "fingerprint": "f7a273bd8949a03781ea6bb37bcb2d21075c6cffbd031392356423b17e5631cb",
@@ -1554,7 +1552,7 @@
   },
   "376668": {
     "fingerprint": "1ed9ff60a32c8d2fda15a6e9534582656ecafff4f79b33437eea9ab07a7815da",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "536b757d9b1cb1bdd8c329fc79c124565e25cd8638878936fa89d4d0d879c460",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1645,8 +1643,8 @@
     "reason": "奖学金资格明确限大学本科正规学期在读生，不适用于一般大学院研究生。"
   },
   "375337": {
-    "fingerprint": "a9ef646be4456c555b61b4e223b7115d052b7df9a0536d861261ec0bd7f8f6ef",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c4fea73e9211fe693970d8104cd6515cc78b6f0bb858578b8d4023f7f82dbf64",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9b07ae35ddbc401e05a0262b18f3efd089720c5ba858c971b1979d194882aabe",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1667,8 +1665,8 @@
     "reason": "仅面向本校在读生的短期本科校园勤工助学活动，未见与外国研究生学务或研究工作相关。"
   },
   "375188": {
-    "fingerprint": "b50ea53efe29900f7809ea348ee98bf43edd980fb97bd72e789c357bb2d0689c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "f4fd940016018ffe4b95faa149a8c375f9f79fd05bae90ed04a99a09d7890cff",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e56b5c108eb4c5bf410779238f83273bf9372255b03a03a479700ff50a4327f9",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1907,7 +1905,7 @@
   },
   "373055": {
     "fingerprint": "460d51292f4e28008a2c420548d1313a705012af74f11dd4567bb85cfee53780",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "283ac1371b8f22c615c65d1322d4cbe0767c5b08796431fa095ff8254180b08d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1928,8 +1926,8 @@
     "reason": "国家勤工助学奖学金的资格明确要求符合韩国国家奖学金相关条件，外国研究生及中国学生不适用或未列为对象；属于排除范围。"
   },
   "373008": {
-    "fingerprint": "d8e83fa5afac1aa46bfdeb86c332aeac936c4427f161d6413025d9837431705c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "fe2ba6512207446ef546d4d8c62a5d5be7f4b8eb8328624b6e7d5a426d9fae09",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "67bc503c3e801015065fbb0f3bfa65265a07ff14876f91db7cbf9a291f64210f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1981,7 +1979,7 @@
   },
   "372517": {
     "fingerprint": "209447fb98dcdf5a932a2c072203ed8afe9bfc6363fcf0b379596418a8ee2e11",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0e53c80614011187d397c8721cb59abe962fd30db3dfd2c2ba6bdbaf47edfcaa",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2038,7 +2036,7 @@
   },
   "calendar-a927f474f40a": {
     "fingerprint": "e6b746fe8a7e6bd076fe746f712376eaf98bbeec2207377f7e151f70ac24e482",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "fa1cd840fd6ab91d795d810505e3d7c9de88cdffcd30e15ab624b06c77ab5e64",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2046,7 +2044,7 @@
   },
   "calendar-e89ee0d7afe6": {
     "fingerprint": "8e54cdc47fd0074bcd847c04293666d067e27a77bc37e8710829b811c42d7c85",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9658b5fea612d87a402fe77ecd39e6066d1429615d8987a9e9e36fdd312f786a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2054,7 +2052,7 @@
   },
   "calendar-2a44e41b9351": {
     "fingerprint": "fa22944e45b809b9358e36a560d295b304c7d71dd83102c7e3ced7850dd4850f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "1930ff363a5e764bfe4037e2c435ebfa587030d22286408e1ff501bb9ea84db6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2062,7 +2060,7 @@
   },
   "calendar-894011d5661d": {
     "fingerprint": "b56527e314113aac422f2abb1c025d724e2fc1b33dc6b6834b940f70acf1a26e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "cc349a1b59a2110ef57057779c196e767002290dbe846f3c83a9b56d10d3156a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2070,7 +2068,7 @@
   },
   "calendar-dcade8cd24a5": {
     "fingerprint": "ac31e7ebc79a88f5cd1c3558dc1fd631f238649f26e979fea09e4e3d1dc3a732",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "dfb6bd2a265bf1afaaaacc8e9e3e8d47e9fd458055823ddf978822a66e612ac9",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2078,7 +2076,7 @@
   },
   "calendar-0e709bec7a62": {
     "fingerprint": "eea9f604703f3ea6a813a8bb1e231193fbf8345b0fec1e4dab4fd2f779df9d2c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6e89c812b68aa1924bcb2a3222c765c09dd1e507a56f1c36fda3954dfb94a8bc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2086,7 +2084,7 @@
   },
   "calendar-e1c72c9a7e97": {
     "fingerprint": "38302cfb80b924d7e6cb35de72dc92a42c8dae09fbf6a928ba4bb623eb203fe0",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6d1115791df231101162472dfdf07154537d549fb55b6658bbc772cc97a4208f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2094,7 +2092,7 @@
   },
   "calendar-331fc84090e5": {
     "fingerprint": "51a77085095012ed2a86d6d9e8465db4a293e9084d9e2dcfe232c17b9669df65",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e435ab775d3c9c94e1b8e0d8216c68721b0b067f894e5942af368229e10c96dd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2102,7 +2100,7 @@
   },
   "calendar-4ddc40c5ff57": {
     "fingerprint": "64849fb9f4d53810a307720bbbcd2af8649c336a88766ef4c7dfc7a67ccb725a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0e4c28b31dd6a0c258ba75cf84d045908b4379ae15cbbc95714c5dd77fc234c7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2110,7 +2108,7 @@
   },
   "calendar-8a5cf8a9c846": {
     "fingerprint": "9a8776f86030e733cd6c67905cd16857b3bfd1f02ddcd1c6acf590a1b7e22cb8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "aa486f5dbe4552cff8523a05fe130a4cd518638be71f6f465e2c065a9062dfaf",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2118,7 +2116,7 @@
   },
   "calendar-970e6fd01ca3": {
     "fingerprint": "47e52e57b9de5a77c21385c796fe5d191649804a1a62d92b37365b189ce21f3e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "ea248e5076561b67bad38ec4243d1a83f523470b7b5cde9198096e17d2e6c78c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2126,7 +2124,7 @@
   },
   "calendar-26d2aaea02cc": {
     "fingerprint": "e9137e1c9f628b3b4f68d1fdd3435bc83cef79c64967383ec80154f697a17598",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e603ce2c11374b0d13f9aa1351fb636f770eb8d8572678a025c6bcec07d02363",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2134,7 +2132,7 @@
   },
   "calendar-a43334e0564d": {
     "fingerprint": "7bb3239cd5998c9f10f334b13f38463f2836b59a6c94f92a955304571530ac69",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "22d85cd3fd96483146adfd66054504d08a3101225ac920058e22d17ae34ec0ad",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2142,7 +2140,7 @@
   },
   "calendar-98f210717bba": {
     "fingerprint": "af886b421f65fd55ac5caf4aa841025a8980f0582a18fd4bf4c9d8fbefb62c7c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "90341036797c9e40ff7899abe7e70830a949cbb71f1f4503ce31cf2b3844972d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2150,7 +2148,7 @@
   },
   "calendar-dd0aae646035": {
     "fingerprint": "18ca6e40b335cceb5cc22e9f273eb8a51781c57f157aee740dd72be1b8a759f5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "b722979b16aafab9d073221ec171406a4830d06f553d7ed00d288fcb62df4d26",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2158,7 +2156,7 @@
   },
   "calendar-7c915c0d9e52": {
     "fingerprint": "a27b1688cb5d8447f8fdfb8b38837cf75b6d6c362be97a17a01da333397926db",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "1168724500d101c4c8bdb4df19588782d131d5a97aee7e4817dd060ed5f9bfb4",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2166,7 +2164,7 @@
   },
   "calendar-3b2729ac3d5c": {
     "fingerprint": "b489ee739819a503aa60e4cad1d12e1c22dd7e1dc8c785513b0f323bb025f9c1",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "04673628aec6d12400f802f089d169a96f94831d91fd58a6daeea31e592dd4ae",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2174,7 +2172,7 @@
   },
   "calendar-38cbbfc9ef4e": {
     "fingerprint": "65189b64067e90a543976de821fc603fd9595e09bb3cd9913892ef6a99a74023",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "4efdd0a6c22549c2e96b5c7ef6d1d8b5c4958f54c5edcd47b91794682c9eeb24",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2182,7 +2180,7 @@
   },
   "calendar-390b9e52acd9": {
     "fingerprint": "92fdb8228a298ec56c83a49c98034b980e0bb18fd4004de7d2349ab3a33da22d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d14a91b3710cffc9633702027b429e225f8410a7f91cb02465218370565005ce",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2190,7 +2188,7 @@
   },
   "calendar-c74c5ddfde84": {
     "fingerprint": "b769f176061368f363cda2f34c84a1f8d323a9fa9733d7937f116919e51d7768",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d0a151e3e63475721e063cab83fa30e9b04d17aca9861aa26c9db0b4722b86fa",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2198,7 +2196,7 @@
   },
   "calendar-971b4d231960": {
     "fingerprint": "00159ddef9d191f63ce98fa62dbb2afc02f7f8821f39381ccca67dfbc62eec7d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5bb261b3814574d75e389bd0e8752c4701196cd24ddbbd264dac26fdfc6e04b8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2206,7 +2204,7 @@
   },
   "calendar-3ff35d8ac74f": {
     "fingerprint": "89331d3f6f03ec8eab5a6f955d09a8b4d7b8c4c5414e8d9c3242fbdcc3928ffe",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "34d510ca67931bc6f655dcae138be0579197b5b4ae05eaf68ec39d8d783c463f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2214,7 +2212,7 @@
   },
   "calendar-e493171fa4ce": {
     "fingerprint": "9426e0ccaf8a7b76f741aa612503acf4c23e701e64e376bb2f4dd150cf969c29",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "c90a5d6f24cdf904d8a6ae6767cab8e46d259c06a6f86a060565fadb4128ee69",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2223,7 +2221,7 @@
   },
   "calendar-41e5cda407fc": {
     "fingerprint": "1c1942332c93fc50bd8584ffa9056bf2772ee89ef3577fa94a8fb31cd9efb4cb",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "63619b3ab2e9b4a3946bdd5e760cf287b833396d6677dd7494a50e0211566a5d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2231,7 +2229,7 @@
   },
   "calendar-52961adc06ba": {
     "fingerprint": "6a0202ac07ff252e1d53a7f6b696956546d0edb1f968bd8df84a17f695584c3c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "befa26c57dcf9bf1c3048c57d27e131b0b7bd7786367b483d75f5bf6196d4986",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2239,7 +2237,7 @@
   },
   "calendar-31d299f8dec0": {
     "fingerprint": "0a20c00919c034899eb4d668e1840597251b6696b5c924e05b2dc4bb136883f5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "05ed688280285e68903cff05bd095585002b6d2dc2e765891f692894a01e8958",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2247,7 +2245,7 @@
   },
   "calendar-55f7d04b6da4": {
     "fingerprint": "e59af18db48bc1cb125127feb65c3ef7459cff44583cdae8be4039327c11b7ee",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0a52d4965b624c7363dac432985202e2d13f675a4235b69b107e03637f9e8e5b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2255,7 +2253,7 @@
   },
   "calendar-21e915392e39": {
     "fingerprint": "afb20f32a7ed50d8141cb5550e86039652a7d1ac0594f1fafa4190bcae9dfff6",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f9b692747d3c491459b90a5d3c7a3daeb48242973f35948daf66302b91fe5da2",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2263,7 +2261,7 @@
   },
   "calendar-760544a34e5e": {
     "fingerprint": "71c7b217fc750f5e30c431e54c48ebfc0807dcb17815e9c7877a2b10d4fb2221",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f08cc8b48e1c5c7ade4a6d45b8bd0520c538d597d4b11e13c8a98615147c452b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2271,7 +2269,7 @@
   },
   "calendar-ea3585c43b96": {
     "fingerprint": "337940110c5ae4adacd7ba5e4cf7918490fb28923142334653e9ebd5c8f28535",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "15005aa4d80aa61f444aa8a7ae5aab4d8b03bd8337331805ffd58927f38fff45",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2279,7 +2277,7 @@
   },
   "library-23188": {
     "fingerprint": "e61c43514c17945331c32122647d472aa0c032ab1b980a28ccac8cbb4132eb5f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "90e1982e82d7b9c112c854905d3ba7ca8441de8ccfb22c54b604ade00f9567ee",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2287,7 +2285,7 @@
   },
   "library-23144": {
     "fingerprint": "247bac2d8c71693b28b19de1570eb111da1e4821d8867f58df8eb4053d6eef17",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "80045c77fb0a2d6a9ae9c1f3f629c389f69db5d8735dca3e20f72ddbdbfd370c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2295,7 +2293,7 @@
   },
   "library-23063": {
     "fingerprint": "ac82a1cfb5201b224ee1c81941647421e7d8dab473756b75d46a49a5dee196d0",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3ca7c232262d2420a4eda143ad1884bcf6e92b05b61e35b02143eac0d93461b7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2303,7 +2301,7 @@
   },
   "library-23082": {
     "fingerprint": "478bf6661b43db194eda339d44cc96a04afb7895f8ab7068a049355144220f3d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "89e7d7c8c397cf05ee0c2d10b770224ee435448feda1b34557e2ecefd92fd15b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2311,7 +2309,7 @@
   },
   "library-23044": {
     "fingerprint": "b83c00e635f5fad78be5d2ef4939c1c0d538a0301d510020a3b7b49ed826023e",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "1b21919170ddf9c0f89774b444400e835e6eed78e5c803a78908931adc084909",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2319,7 +2317,7 @@
   },
   "library-22937": {
     "fingerprint": "f46309231148a7de40045714b05582b34dc43382cf62fe2140062ce45b1fa0e8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "51b498a45106522f977c48c46ad308691d8e79484701d97d7f6099b3d658964a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2328,7 +2326,7 @@
   },
   "library-22872": {
     "fingerprint": "6cc343b52036a343c6acb54346578095537368aa58aa0f7f18d021a32b5cd609",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "27d05991d537d2e19314ddf79aa67c098aac484b2c00b024806dd5639878b0c7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2336,7 +2334,7 @@
   },
   "library-22809": {
     "fingerprint": "7cf8543fcec43136919f62238637e8bf4132dab9f58f1dc86a4d929cfbb2d55b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6ccfa0c8fd5a02d4f425963574435dd6a759c5c451c69c4fc440a27b5a2bbe75",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2345,7 +2343,7 @@
   },
   "library-23043": {
     "fingerprint": "a5bcbb19923b8175f478798f26db48b0e68d20cc7cd7a47bc1086a7e6f078463",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "63eec6eb32e7fed6f824eae61995203f5b2786e2355ae87a5c78cdd91cee3f04",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2353,7 +2351,7 @@
   },
   "library-22797": {
     "fingerprint": "37411d9d82b8ba7216598064ab7c58eca33b5ec7e04720e4898887f7f44f24e3",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "42ec1f59adf8c03813fca0fdde147d711f7daf524c48748661dae037dcdda5fc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2361,7 +2359,7 @@
   },
   "library-22844": {
     "fingerprint": "2e39f7a8c10bf279de2a7660563679f934e79883afe249af808919f880859de9",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e6c70e12a7baefa4dde9b7e3bba030cec5e1b88c4b371c3fcc7bf559f1df8812",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2369,33 +2367,33 @@
   },
   "library-22770": {
     "fingerprint": "ae24bf47f7fe56c4cde89edf150504dc9c358ffa4f56988946905b7426923a8a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3407b25a949501bcc62d40463c02bf3fcbd0a77f9b034ea8e2f7e451d1b384cc",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377358": {
-    "fingerprint": "f5290363496dd6983dd04151cd69b01e0ac359d1a2ed7f351233433aeaa59062",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "29f88312a4b614472dcd99a62b27b7f448d5903c196bb1b1c1066a40cc432eb4",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6aaaa313d77d7eb15ff276760fe6e527787ea9eebc7412a253db0e383ff53fe2",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "活动面向SW中心大学参与学科在读生，范围限定于特定参与学科，未说明涵盖一般大学院或外国研究生；不推定适用于当前读者。"
+    "reason": "公告明确限定为SW중심대학参与学科在读生，并禁止与其他大学联合参赛；未说明一般大学院或外国研究生属于参与学科，不能推定符合。"
   },
   "377451": {
-    "fingerprint": "1f213920853af0cc2608dc97f7eff0158acdbc065f2baed1080fcf424a0c72d7",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "9ad9e8941533061a25dd29bf38a43abd68ca0032cf4d458204131a8fd084fe9a",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d8aa7f84d20664c60109c802c3edc4ad8849754bd6071abf373702f6700e8d8d",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告及海报将申请资格限定为特定年级在校生或符合年龄、毕业及就业条件的毕业生/青年，未明确包含一般大学院在读生或外国留学生。"
+    "reason": "海报及正文列明的校内申请对象仅为2027-1学期四年级本科生或超学期在读学生；毕业生及青年通道也未列明研究生在读者，且设有年龄、就业等限制。"
   },
   "377519": {
     "fingerprint": "d799e38e4b65a9257ef0066979caf8ce12f993354556ccf86960135a6c80ee59",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "82fe9bf871a882c37a40bdada8d135355d90f7c2f89eaa0b240dfa1fe3227125",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2403,42 +2401,41 @@
     "reason": "公告仅通知软件融合学院已选出的本科生提交确认书和护照复印件；名单均为本科年级，不涉及研究生学务或科研项目申请。"
   },
   "372474": {
-    "fingerprint": "6e11f67ab9b5618d8fa38cee1a2bbb252f8b6fd8f91a2a48a3c993660b7b2113",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "bfc4dd2495f531609b2f354bb83502520533aa967a5ecd828718203c7e3ad587",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "89b6d3bee1bf2c2563bf7f3b3602b5f210249e82c006ab543ab01a883de5a739",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377363": {
-    "fingerprint": "8069a0c8bcaffb5962b3634ac60df424aab80a02ed1525d8b894e04609336efa",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "721f8d5ac0f4af6150798c81778ed61743782bf3a12c10d750a779fac99a28cf",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "55fc8cf672c2a969bf4470d17d5b4342a31210760bc7a7ebb6bd3be1208bf0e7",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377210": {
-    "fingerprint": "2961e6f2159d98e7b1983391d1b3d96c215f123d54d28bdfeb77de09b548c4fc",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "7c8f509f2dc540e723180c2be4fc4b068c556e941830300d235d767b89387350",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d7a1f130604fe6221a4aaf65998e7da5768cc3cc441d5a540ba60e0a9b3c96db",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api",
-    "reason": "该公告是面向一般公众的区块链技术培训，未明确关联外国留学生、研究生学务或研究工作；海报未列研究生或留学生资格。"
+    "transport": "api"
   },
   "376905": {
-    "fingerprint": "bba43e3a7f2cf3b9517ffc091b939a6e3d7a9609ecad5cb33acc119d344bd0a8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "96955092fcc717163c4ff11939a3c3b1251a7b953b4a14460917005635c37d2d",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "25288c401d51520b89ff5e5d59655cf7bd2689d50e69d12b1e47f16e03403b4b",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报展示的是面向作品参展者及活动参与者的校园成果发表会与投票活动，没有明确外国留学生、一般大学院或硕博学务、研究工作的相关内容。"
+    "reason": "海报内容为AI融合Capstone设计竞赛成果发表会及作品展览，未显示与外国留学生、一般大学院或硕博学务研究直接相关。"
   },
   "377211": {
-    "fingerprint": "d9561130fcc8a7484e31468de57c120e4122b35810d6969c256d21a31b599449",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "2a426efdd23f927ce74287e638959b5c65794f56f0d832d63dd6d17f673404cf",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "23784b4f7367596db85e270342685e91fee6f667cff8e2808b8e3d4eaf28cc34",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2446,7 +2443,7 @@
   },
   "376786": {
     "fingerprint": "f34e554b8913b9a047eba07b57a4a73c5d782bf8bcf36a5ed893049b1db4c330",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "27721d99ca3bffe22f5af5b51a532e73e168da5addf1d2f73884f94d4cc5136a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2454,25 +2451,25 @@
     "reason": "公告明确仅招收数字媒体学科在读学生，且属于软件融合学院限定的本科生海外研修项目；不适用于当前读者的网络安全学科。"
   },
   "377119": {
-    "fingerprint": "1ef821e502bcdcb154504c727a9597678c849e8a557d1d55202f5342e21dcd25",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "209a8054714fa6084f0200d7ffb95398cd6abe3274c2e29ce849075c5eee3c57",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9d19b92f7193e051409fd3448028709bf961086ed0793c744fc4986e5b38e598",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376775": {
-    "fingerprint": "051ccad8ef51f757a18a148cc94165dfbd77f23a977f9ab253f83e25127186a1",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a52fcbbd93da41eae96810ef5dc49854650274789c77a2f3824ded47410f7e04",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "96068c77f5b6fa2e4c5a3d53e0e3a6d3a0993d0aa5a865e7924dd355cee3dca0",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "属于面向任何人的一般开发招聘联动黑客松，未明确与外国留学生、一般大学院或硕博学务研究工作相关；活动与报名日期已过。"
+    "reason": "这是面向一般公众的开发与招聘衔接黑客松，未体现外国留学生、一般大学院学务或研究工作的特定关联。"
   },
   "375891": {
     "fingerprint": "f8fc4cda7c66b991b1dd996996dfffc15098d2a26fc9dc4d24f50a8d17d2bbdc",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "b356ce10fb683dea5bf18c1ecfd79beb457b5075e326cd399b0e085a9e29aa80",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2480,16 +2477,16 @@
     "reason": "项目限定软件融合学院在读学生，未说明包含一般大学院学生；且属于学院学生海外考察项目。"
   },
   "376494": {
-    "fingerprint": "0046a5e811a8dee72f05086fa3cb312389a938ceea3f8f41bec124fd363d8351",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "909f2f60496e10b6cdccd9f9f85b2040d8d12c89c540d700225ea15151337137",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "1a1416f0b4da910ab29506ccc3c0d73d7960eb365811ab2c3f657a0a1ca560fd",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376493": {
-    "fingerprint": "20805dbdb4b6610a6a0e3b93c717ff4f12f20ddf4ad26e011b911d3cc35f0074",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "2ada6fa02a853b8cd19e8d4e955802ba30cf68fae377df68f95f977eed322522",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9f7be0105391f5bfcde3e5172f3bf64a8e9d4053a1d1d766923ebe49bcd0c7b6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2497,72 +2494,72 @@
   },
   "375546": {
     "fingerprint": "476e95b09d028a553d36e979b4469a8c054abe4cf9152fcbf5e0b33e814b08de",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d68061c9f84451b5fccfd5f39e4a34f25a1c6b583f1f2137d3e3f4688159c397",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375368": {
-    "fingerprint": "705b8d5b1497c450aebe35b60605c5094a068f74c8f803573906d10cc2dee741",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "dde6c5d9515db73ac662ec2d68e217cb7cdc7c9ebbba75646f52338b9a6bd3b1",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "10a3c9063ec308361d33d577e2dd67d1ffbb93e3ef5d7b0b8df5e946db58d0f7",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "这是面向AI캡스톤디자인课程的公开特讲，未说明与外国留学生、一般大学院或硕博学务科研相关。"
+    "reason": "AI캡스톤디자인 교과목 공개특강이며, 본문과 포스터 모두에서 대학원생·外国留学生 대상 여부未说明，且公告仅面向该课程相关群体；不属于明确面向外国留学生或一般大学院学务、研究的公告。"
   },
   "375849": {
-    "fingerprint": "6924bb06bf926409e217cb05902279914f42d46dc2a3fd79053e289770c7ea15",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b5ef9a16b7a8405be4900d608f2c30dac32cd51b11a9d9b9d07673314dddeef8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "85c11e4ddf41886f8271b1795fbf84d6d6aac3c2db76545e4b01cf01d2571684",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "reason": "面向希望进入航空航天企业的求职者，未说明与外国留学生、一般大学院或硕博研究工作相关；报名期已于2026-10-23结束。"
   },
   "375097": {
-    "fingerprint": "95b57ab99c3bbdfecb777d0a0a758b018b6081f40fd9f4a79f2fa20ed9dd1750",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "bf383f027abed302ab9fc38be2ae572504e0ab09abd4e90f4a5a100687fef050",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0b04bdeda21e513c9bf75d77281a85e377e0181f5ed4db0a215ec762a828047f",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报将对象限定为19至34岁青年，并列明大学生（休学者）、求职者及青年开发者等；未说明研究生或外国留学生适用，无法确认符合目标读者范围。"
+    "reason": "面向19至34岁青年，海报列明对象为大学生（休学者）、求职青年及青年开发者等，未明确一般大学院学生或外国留学生适用；活动主题虽涉及AI与公共服务，但公告资格范围不符合本筛选对象。"
   },
   "375085": {
-    "fingerprint": "e79cbf8f5852b8c247e76c43b6f416229e81d375f5361b46b8f6a728edf3aa5b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "92624c94614f3759b1eca703d28df3de706b586f9fd38d99e444fb1e255dea66",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e3c4504129da7f740bddc143c3b9410d4d8eac76884390da2fea1c73f9f8298a",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "374809": {
-    "fingerprint": "b57c13ae7753a238a7cee7bd7b81a06a8bdb685701db4c851ffecd0547e476e5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "f8c2ec33a72606287cdf46828eb5460f4c52882c24f17d2d76a61ee0b986cb5c",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f5f97234d60f1b268fd0b6264a524b1d1319fa4a5405dfde39e27dccfb4e925a",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告及海报均明确面向“大学生”参加者，属于学生限定的普通论坛活动；未说明包含一般大学院研究生，且内容与研究生学务、科研或外国留学生服务无独立关联。"
+    "reason": "公告与海报明确将奖励资格限定为“大学生 참가”;未说明研究生属于该范围，且论坛为面向一般公众的经济产业宣传活动，与外国留学生、研究生学务或研究工作无明确关联。"
   },
   "374381": {
-    "fingerprint": "8029d3c7337a6b2cfc409461f358d5f61a33b11cdfad574626f3ea09a424c514",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "f221f218db0e1fe01e566099e6b77db72647707057f4337ffaa57900fc2d170a",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "dfb4a15642d1f790bfe375b7f4c1764effedc27e2f09c0946f50b91659762ce3",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api",
-    "reason": "面向对区块链理论与实操感兴趣者的普通短期培训，未显示与外国留学生、一般大学院学务或硕博研究工作的明确关联。"
+    "transport": "api"
   },
   "374376": {
-    "fingerprint": "241c60ea6eeed5c687090983f95ae844b8c5f5a00a5c0bd648470c3df747f669",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "67902aeb9a227a7a53639b50d89e6c17938b2105dc162d3310082666a68e201d",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3be35aea14040403ff845dc76fc99814b0b9d40d9a79ac5143122c8c23df519a",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告与海报均明确限定“大学生”，且受众为15所入选AISW中心大学的学生；未表明适用于研究生，故排除。"
+    "reason": "公告和海报均明确面向大学生，未包含一般大学院或外国研究生；按对象范围排除。"
   },
   "374276": {
     "fingerprint": "592bc8d8b1f51b4a8e809982f1b6455d53232ce6b4dec4b9965fb2a50c365ec2",
@@ -2601,8 +2598,8 @@
     "reason": "项目明确仅面向软件融合学院二年级以上本科生，不适用于研究生。"
   },
   "373487": {
-    "fingerprint": "eb74eeee77d728c9f1dc8578aa3d2e43baa675c526a4365f287ed2f15370eb37",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "d634e194373fbc0dffa266dce30b5d43a8e9950294ada384f7734e9c9b29118b",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "460b672ea9c35abe77c2a454d6e03f783e3ab1b019a75dae6a653e3723c28346",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2661,8 +2658,8 @@
     "reason": "区块链教育活动面向一般公众，公告及海报未明确面向外国留学生或研究生；海报另显示报名截止日期已过。"
   },
   "372220": {
-    "fingerprint": "163212798c44c4be6c11f53f58407d457c66f88702b3cae23a6432dce0d80a01",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "af646f512f3b319999ec82027ee1246f7040ba1901c821a494b48aff16ac0bbf",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "01f8cde19da037d223146c50a4e7c6b162cc06da3727464d70aaedf7f000105d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2715,8 +2712,8 @@
     "reason": "虽接受国内外大学院在读或休学生，但属于面向大学生的广告竞赛，与研究生学务或科研工作无直接相关性。"
   },
   "371003": {
-    "fingerprint": "660fbd1fde778677eecab62b91ca5a3c0189230cf597d334624a7da5732580e5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b6b9b12c00694ccec06f7f33400a349bca7d114b65a6df7b94a895d9a3e9277c",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "de91a645f802f231694730f2efb5e033ae6cab53b09144b430b1d7163b159dbe",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2802,16 +2799,16 @@
     "reason": "面向对服务企划、PM岗位感兴趣者的一般职业体验竞赛，未体现与外国研究生学务或研究工作的明确关联。"
   },
   "370260": {
-    "fingerprint": "b783bbd75b0103dc4a94d219da7f575796642d6f11a4c24509920e8555b375ba",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "20559cc81f5374832640f2153d44f75b4a1bf1309b9cc292f4aff20f2a7af62b",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "e015d32d444415068a13f37a021df1bc504f7cdaca3cbda57323eecc2d55358f",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "370263": {
-    "fingerprint": "f61f13ddfa7bd6745df33cb7f41092b9bbaebdb355e3ae23717b3ada2dec5b69",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "becfa89b6b792d360029c07c60f9c2847cc726e8f76c47d2f20bf64a7ec47b65",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "df1a18dee69003c115ba0345918462843bd85cb3aca7568c2bd76a1c52cad1fe",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2825,16 +2822,16 @@
     "reason": "招收条件限京畿道居住者或京畿道内大学（院）学生，未明确包含中国留学生；且申请期为2025年，已过期。"
   },
   "370113": {
-    "fingerprint": "f024411d1b100d9155c7b58bfe47ed74af005dc2e56778fd658ba9f6e9c1a65d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "9238943a6e100771e73338adae5b4ea6adc6a6a4080e6a118201ed57aa71c0e6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "df8f1bd70cdf7e617947c3f526ebb8775a4eb32f20a4e99eaee368873686b26f",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "370058": {
-    "fingerprint": "5c26a3dd277a0f57512b1354c3068edc5640426a297db1b85e675796caf4c343",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "1e12ceb244c267a89904bc4b2d840056ad645366960291c3d61bd27020559090",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6b0443bbae2e3c1bf9b94e85271a205bd136d30ee08faa274fd1d8a6c6fb7a58",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2864,8 +2861,8 @@
     "reason": "普通企业招聘宣传，与外国留学生或一般大学院学务、研究工作无直接关联。"
   },
   "369877": {
-    "fingerprint": "d75c815763e6f2e0804dd7b9ad105b2b0b1d6af478592866be2ae82d710c6e37",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "aafdd5e2ddad067bf3ea09b1d9e5efa982939a85c75d8f8c9edceb0a87aec1e0",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "4449c593822e58cd7274e6854b82156e65706f748b5fefd17bf1a8e5f01605f0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2911,8 +2908,8 @@
     "reason": "面向青年的AI教育与黑客松项目，原文未明确与外国留学生、一般大学院或硕博研究相关。"
   },
   "369230": {
-    "fingerprint": "2d85864ef316777783345106ffc1421acdd3616c99aca95e6e94129f3d532f72",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "debea7713886f9450723d290d1b060b4fc46e62dbb0be331f1df889905f6525c",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "76a02bc30a6194f01c14d8fa438481b89eaa1e6311bd3cb749fbe47318d4263d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2949,7 +2946,7 @@
   },
   "library-22878": {
     "fingerprint": "3a2ae188fadeb885016f575d44d0c4864d5f5761cf14b504229331c5658a9bb2",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "99693869ea86eac730929f8333a54eea149604540f586214bf4c75aef71fe563",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2957,15 +2954,15 @@
   },
   "library-23087": {
     "fingerprint": "5f58cb8721f826e6b4e2c6bc5c9daa89a4809c7b11839ec4ef9ef7bab5ff1b39",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "997492e22d4bb100da4fee04634a008024aebfc3e17bc4f76470d5ecd50b0447",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377551": {
-    "fingerprint": "edc3f73ef8d23392ec6d048e7adefe75e8f8883767f329465c088d8bb19b6ad0",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a2122b5ffb206ad27833dae9aa89a39c4db52559b46f9031fae4aa4d6632ee85",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "ce00e8e252f0cbaedd67d6a1cee7ba805aefa78ea00e306bfa7b67ce48978b4e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2973,40 +2970,40 @@
   },
   "377582": {
     "fingerprint": "1c057ba46c3610cbb159c967dd27ef73e662d6fe24677e79c454f197d6551b5b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "c657a50a14b494c3071a48150b8afc394f85a69e6049fce0e241326638b610f4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377556": {
-    "fingerprint": "7a4a5946b3cfb42f0041b52cc4ed06f983fa9bba565586edb2a5252df3689ab1",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "980d206c6fe08180b6e69a01e9ae6c7d8871d568d59e76800c1e6ac56f628c0b",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "8698e51e622f5bd3bc491c37dae652eb14a804e918df91693e9428e847b3d5c6",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "这是面向对现场实习感兴趣的“整个在校生”的实习咨询活动；未说明是否包含外国研究生，且公告仅涉实习与就业咨询，不属于研究生学务或研究工作。"
+    "reason": "海报明确限于对现场实习感兴趣的全体在校生，未说明包含外国留学生或研究生；不推定一般大学院学生符合。"
   },
   "377588": {
-    "fingerprint": "a7e8bfd75e0de9c70848da41750c0ca64303d8e927ed81b7558e776385c24d4a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c62d64663e41c45475f052e36ae09e534889856458a2c1cd6554403f8c7d48ac",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0c5aadd7280f3dca78a1b6a588a1d406d268ca278cb230f6a0facdf75698efa6",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377587": {
-    "fingerprint": "099eb069f277066dcf022cc63fec587b6273110098c48f4f4869c2eb7d2e33d4",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "2c613c4f55aa42abdc22ca743e220b8ecfdda388480e145df248501a55786ab2",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9819f70680eb59b3c0b9fd8ef1aaa1a417c6a4a9d1f28e1fb2d61d76191cfbb2",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377594": {
-    "fingerprint": "e40f475de9a7ddbe9bdfb5a08d53e186a98193c2cbe1bf596ac485409d6a4843",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a75c3e5b13b91d2cd271f5bf7dbe5319ef7a538e9542a13410791d1473998231",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "ccf24ae098bb18f87cb123bb2e4310d8e4932e9c64fe30e7e938822b774ceef7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3014,33 +3011,32 @@
   },
   "377620": {
     "fingerprint": "b91a5c0deddb8fb8439fb44a0211af9ef1c22d1b120f645b8c8ff5d0ed36c783",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5d91367b802590be5e19c2ebe5f9f5db204af457933249287bb9fb38f63f4d06",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377663": {
-    "fingerprint": "f3324f005471fd8a7f6772404397456f8a9784b809e941556399c1abfe6e26c5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "131f1d857a54dca64c2d52e834275c44bd25cd75abc0061b3af78d3be9dbef3c",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3d9fad88c9b4e7154b44278125a27c7603b768f59adc97c7ef0641894dc5f77b",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api",
-    "reason": "公告是面向求职者的招聘信息分析讲座，未明确与外国留学生、一般大学院学务或研究工作相关。"
+    "transport": "api"
   },
   "377661": {
-    "fingerprint": "711c4161ad02e93618f1bfb5f043f3dca4d35e410f9976ceb1a2e08f247affc6",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "6cafd1f25d10938669d46885398d6fba1199be1ecec936009952eed7aed12ef8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f549043d1fc7467cfd93bdfbdeff284e5e591b799bc784033f5317f2fb059866",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确限定参加者为人文大学及国际学部所属在校生，未面向一般大学院或外国研究生；不符合研究生相关公告筛选范围。"
+    "reason": "冬校明确仅招收人文大学及国际学部所属在校生，未包含一般大学院或外国研究生适用资格。"
   },
   "377664": {
-    "fingerprint": "6225f8c91e7ce39f2167ad224b582d174cd2c79d06ee6f3163c5aea05d8b380d",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "2dbb433d5db4202fe6e78787f015a32ac3740ef79376eabac26dc0094bb06752",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9cc194be14e4d116a9d503e685fcb83aa8c31882b2a3ef51d34f968e842d6208",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3048,7 +3044,7 @@
   },
   "377658": {
     "fingerprint": "03f68d8a87c7f283a3836a6f1b32af893e327d7f56793b42f108282d61a44b1a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "fe5698e7a3558c26b29939ead2265618ae12c9b68ff529f4bc3090d060f4091b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3056,180 +3052,180 @@
   },
   "377631": {
     "fingerprint": "433f384a741a0a4b3806ad9f9b290706fbd106ea3be36db2cca961b796a66521",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "ca76d7bb2542329c276a2a53d6e8b0f88db37acdac437b33bb3908462d1e8662",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377639": {
-    "fingerprint": "5826c96e0d265a02ddc943bffdbb6007736589ca6d9ede2a68ae7b9d209c64ac",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "22019f1e7359a79b1d8f4796860a84039853b21b6ac004c7b3f82359563e47a9",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "eb83d4b099cc035ea841d1e8640be139287d05c6e955d0ecf2d2e56a06d99f9f",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确要求韩国国籍，且排除在外国大学就读的韩国籍学生；中国留学生不符合该项目资格。"
+    "reason": "海报明确仅招收持韩国国籍的大学 재학생，外国留学生不符合申请资格；并明确排除大学院生。"
   },
   "377617": {
     "fingerprint": "381ddbb61de33db483e52d42fc53133ede94acf95d09d5fc7d16f77c778b8b38",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "596c67da44f7c798d5e354b7a5cf21f400e78f7e6958f1bfec238984beb1585e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377618": {
-    "fingerprint": "60ed3555cb037be3aacef9d9288981185c9fe0a894209d1d3953e68fb55f701a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "96cb5f2dc1df5e032e757496e0bf12b0eb915663508f9a4ae6d1f03997cb4db9",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "eea170ec4bc4b6dcc3d5fa7475a6b61bfde693a65b360f40988cbfd09199f250",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告仅介绍中央图书馆艺术画廊新增懒人沙发及休息用途，未涉及外国留学生、研究生学务或研究工作。"
+    "reason": "公告介绍中央图书馆艺术画廊的休息设施，属于一般校园设施宣传，与留学生、研究生学务或科研工作无明确关联。"
   },
   "377600": {
-    "fingerprint": "06eebd6eaa6afff8bf23f949eeee363cb4ef1e5a185e912fca34dd66314acf74",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "8d6eaf5ed701d5d631c75b68c778f037ec03a20533ba036476d78b06d9fb6727",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "0d765bd33acbbbac567450b4f57c380e82a0cdc52280802e77537f604427b90d",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377613": {
-    "fingerprint": "7f681b5d8b7b819576404759fe98f29f338cd60848c6b3d535a8d671080c14bc",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "f874c1d239e11181d51f2a08a92bc29cbc7d62c844d080eb63f497e0841b7db6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "269ce599b06a96f55f29fc31225fc5dbd41a00bd18bdf43ce4083fa8871c303c",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确面向符合条件的大学生，并要求最终学年或毕业前一学年；未包含研究生，属于本科生奖学金项目。"
+    "reason": "海报明确限于大学本科生，并要求特定年级及居住、年龄等条件，不适用于一般大学院研究生。"
   },
   "library-23207": {
     "fingerprint": "c275294dd5e43c8c5b9424d4859be156f3ea3d2f57df65a95a3c890bbcaa9abd",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5aaacd10e94fa80ba8f7a3d9735648d885ca7074578e3a9a0da81092e69ab2ee",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377644": {
-    "fingerprint": "19b8b64544960cbb1b555cd08fc5264bc24f250c77f86cb731f2c0cceed7f202",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "345ea483d49277e1ba522bb8c968061b8fc7ad3325f8d8efafc804bd4b61f9bc",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "099dcbbb2036d00c9e6f5fa8e6cd084d1fbd242a37eb302b61cdfbd4fe4c49d1",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "区块链/NFT短期培训面向一般感兴趣者，原文未显示与外国留学生、一般大学院或硕博学务、研究工作的明确关联。"
+    "reason": "这是面向一般感兴趣人士的区块链教育活动，没有明确外国留学生、一般大学院、硕博学务或研究工作的关联。"
   },
   "377655": {
-    "fingerprint": "32645d27bd4a534664822b218200678234ee1639ea2c7d9aca592f0ef6866c62",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "6b652acd253d412953405d8ab0c04bacbd7f54338d0b17f0aff187806952fede",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "32c437e5926115cbf3abcd0376e853d8ae955f0fad4d7ac8ed7ea87d98d95f86",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "面向全体校园成员的指定吸烟区及禁烟提醒，未涉及外国留学生、研究生学务或研究工作。"
+    "reason": "公告面向全体校园成员，说明校园指定吸烟区及禁烟规定，未涉及外国留学生、研究生学务或研究工作。"
   },
   "377641": {
-    "fingerprint": "e7e8a89a836d69705868917f87a0569f8ab8009475b0c95d985029f0412f04fd",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "76c409299a22b57c5ab063d97ed0c7989f016880859bee874d36ed722943c1d7",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2eff8b9e59c89700e516f0608dc4ca7ed5c634f0d8531ab159ece0ec98f93f8e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377611": {
-    "fingerprint": "60981b2c40e3c315a3357fdeddc027c9ff55494098de59fb44b5cafc99110e35",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a68263805d49143b0ab09325d20a7c64651f39ab625b64e5028f57a8e10f98d7",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "6549d57f52619f711ac9dea9570af20bce9999a56885aeabc94a7953ed9bf29e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确限定为韩国国内四年制大学本科生2—3年级，研究生不在招募范围。"
+    "reason": "海报明确限定国内四年制大学本科生2至3年级，属于本科生专属奖学项目，不适用于研究生。"
   },
   "377612": {
-    "fingerprint": "80c8cd8e1f84add574a0609d64bd99a671e67a7cf3c89fd105c8b97ce1d25c5c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c41a30aad254388cc57f367dd19b19446dfdd353d7a20bc6dfad18112132e345",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "968b0a9e1144df0696fd32fb39d8749812619a151fbea4c053615676a375db2b",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确限定国内四年制大学本科生2至3年级，属于本科生专属项目。"
+    "reason": "海报明确限定为韩国国内四年制大学本科生二至三年级，硕博研究生不符合该资格范围。"
   },
   "377672": {
-    "fingerprint": "a4149f9b30dd8eeb3c359f49ef6c691935a382df3e2a242491c260fc44e52097",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "2fd46676eb1ddb8f76c09c25dc3852f0080141226a50f02134c0dc44b5003d30",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d5f2d8dd8efe03117ac352b0ceac8efd28e6cb7544f71433e9b588b5d92a4437",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377668": {
-    "fingerprint": "42db413de0dfe776ccac356ada233342033eabcfee4704e70e5f5f433d2fa0dd",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "61c5a3a00bf19d7998be4695e8d6a029d43c3b416c37c9eda64619a0cd641640",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "206add698a82a8b52a8f859cfbbeb4804d23798eed6f6795cfc118bdb4a1bffe",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告明确要求韩国国籍且限韩国籍在校生，并将大学院生列为排除对象；不符合当前中国研究生读者范围。"
+    "reason": "项目明确仅限持有韩国国籍的Ajou大学在校生，外国申请者不符合。"
   },
   "library-23209": {
     "fingerprint": "5dd227398595e311faf148f7d679ee0953f2538ea79fe56be5ebaec9528a7487",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "ff255c16d8e51add46ca96d81dbd04650f689cc7556382bb5b640b1423d149b7",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377723": {
-    "fingerprint": "e7fe386a33b8fe40cb263d57717ef16fff2e051a8eac124c9c7300bde4f0ae58",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "d50a526ecaabbad3c8ccc7c172fc92aacb0d31fe13e885f3df62305c81a367a0",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "54b10a65bdce8d0bd2f303bc18a8a5f498a1df5a23e6eb38889892b6b4f7e84c",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金明确要求2027年第一学期注册的三年级本科生，研究生不符合公告所列对象。"
+    "reason": "奖学金明确仅面向2027年注册本科三年级学生，且要求韩国国籍；不适用于中国研究生。"
   },
   "377719": {
-    "fingerprint": "6dcb45a609c177923504f4e49875d55fd0fba638dae2866dd3db2e56077b11c5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "56f31fb3ea35e86c9002266a441dad046468794e8a5d4be43c5cd2ae0aea4f0e",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d56d6d218b3827fb4b3fdc1c69b58424c3f1c344c04aa91deeb72043ea7995f3",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金仅面向韩国国籍本科生，明确不适用于中国研究生。"
+    "reason": "奖学金明确仅面向韩国国籍本科生，外国研究生不符合公告列明的资格范围。"
   },
   "377722": {
-    "fingerprint": "7ea3431ddd724f22e78f3341d292d208f54f6aa6c00b39d5d270e1254c77b8da",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "23b131375264610e1d4ed2d63f7b6f4d9041e8582421aa44ba26199dd2233b59",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "84dfd23fbf204b03c00a6b77e537a44fc3ac7f9838526aba2a2fd1bdb8850286",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金明确限2027学年注册大三学生，且要求韩国国籍总统奖章等特定资格；不适用于一般大学院研究生。"
+    "reason": "奖学金资格明确限定为2027学年度拟注册三年级本科生，且需满足本科阶段学分与成绩要求，不适用于一般大学院学生。"
   },
   "377718": {
-    "fingerprint": "89ac1b086565dcbed91465599a8f004a5679e7db78a868fd4b820ab8926c2083",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "6f25f9b879dca84f82153c8e01b325ebc42ea4ac784e946cde569c643f4a5ae1",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "035473f361ce548954f38dba1fdc9e0a591f1194d1adb8af9e7748d4eed523f4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金资格明确限韩国国籍本科生，排除外国研究生。"
+    "reason": "奖学金明确仅面向韩国国籍本科生，排除外国研究生。"
   },
   "377908": {
-    "fingerprint": "75a8eaf00d33ac4914b7e2f8ce68855fddb28e406722ce4e1a7183b705ceeb70",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "cbe93a25af210a53ef611af4a4b33a22223af9718f5114b54eab3af6c92f7e1e",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "786c98daae25c5767f85ba9b72e7c45c3a5939b85bd54c5847db0d2f784d12fe",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报仅列出公共机构招聘信息、招聘信息和就业经历，未提供具体岗位内容或与外国留学生、一般大学院学务或研究工作的明确关联。"
+    "reason": "海报仅为公职招聘信息、公开招聘信息及就业心得等分类入口，无研究生或外国留学生相关内容。"
   },
   "377874": {
     "fingerprint": "a4d050a1de8f822c8f155aaf1e2f7fd14ff457e10f15d444f3f0c130e29cc4c1",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "19258f1245de2fcdcdfb51d6735e7af164dad1ec3aee4a8396ce9e4642ff439b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3237,186 +3233,188 @@
     "reason": "奖学金要求2026-2学期在校生、修读学分及成绩达标，并符合家庭经济困难条件；原文未说明一般大学院学生是否适用，无法确认本读者符合资格。"
   },
   "377896": {
-    "fingerprint": "cbc55913719714a48e705cada01c2a8423da9041ba2234c5a72046e956d6fd2b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a6f3f4682b471abd5d789fafa4a4a61ecd6116ac298e848a2add87b388453787",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2ae8f2cf810bfd55b3124c5cbd6b179bd14c94f7cc9fd817c23178d6470fc3be",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377872": {
-    "fingerprint": "2a19e5d9c5fe90dd07c53308aba2d18fdb0ad61422882be5c80bcb5f7b5aacb2",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "82954fa5a6a44ed74efc7b1674325866af5e40f32c861ec3c46da93d337fe177",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "b180f83d741d48efc3c90cf25079d1372a31169ad592acccdd30177e19384786",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "该奖学金面向船员及其家属，资格限于特定船员家庭，并非外国留学生或一般大学院研究生普遍相关项目；附件正文未提供。"
+    "reason": "奖学金仅面向韩国船员家庭且申请条件涉及韩国户籍、收入与家庭关系等，未包含中国留学生。"
   },
   "377870": {
-    "fingerprint": "d1dab1c80c0ff7304829d3ee0b4037f0c2b74985685d2b6abba0bcd0ac94bb00",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "fab9e5ab5c0a53511eba5a762d2791c0495b9526c68e6cf94213b46f4b1b869b",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "16c33d48a0554b2f95f1e2ab4bc1d042f05b9586d7c2c5388eda4611425655a0",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确限定为具有韩国国籍的在校生，并排除研究生；与外国研究生无关。"
+    "reason": "公告明确要求韩国国籍及韩国在校生，且将大学院生列为排除对象；不适用于中国研究生。"
   },
   "377906": {
-    "fingerprint": "b94306c51a0189559501ac9fe29a75576038d272fc3900bbb015ce3dc8de2584",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "7e0b57203631c8fde17e5c1a59a80838c907cdffce4783fc09c6f4296cd6086a",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "db8e3908cba22edb44877aa3aa2dbd2ce3318d331e74420e530658589b1ac2f2",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377871": {
-    "fingerprint": "3b74cbcac7418a8ce249ec9693bb965ffcd3828e4d3303f9031b1f6428e5f403",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "bc92ee4afd51d885ee3ab24859ada6d5e88eaf4401902498b22dabaa73dd43f6",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "1e442c29180af6dce0032b365657431043bde4a9c775de30d73aa75f3c5c9fb0",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告为求职推荐招聘分析讲座及推荐招聘服务，未明确涉及外国留学生、一般大学院或硕博学务与研究工作。"
+    "reason": "面向求职者的一般就业推荐招聘分析讲座，未说明与外国留学生、一般大学院或研究生学务、科研工作的关联。"
   },
   "377862": {
-    "fingerprint": "bed74d4c37b5037f8cb28f7b02c8366eb89abcd892d23c29e54f97fa4efa54ca",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a2b4d778b8dd16a6df7d7b61b4f0651d6034c5270875d40b54712fc1be04ebc3",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3f8cab87cefe4f03a932b895d00a6cec08cdca5ea15116db1e0e59c0f2d093f0",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "标题明确限定为本科生（학부생），公告及海报中的贷款申请、执行对象均为本科生，不属于外国研究生或一般大学院公告。"
+    "reason": "标题明确限定为本科生，海报亦为学部学资贷款公告；不属于外国留学生或一般大学院相关项目。"
   },
   "377855": {
-    "fingerprint": "8270f3adba5c3c1f44b1119d1e4d9950dfcc22b6e290a1c8a3d4be686f769dc6",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "54b52310c29c3798a4268f0a6dd525a2b90ebfede60ca81efe7ee4f1c7499c3c",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2eeef944f307a23b85034944df9da0a64480fd9fac7543df4a13a9aeffa4e4ed",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377843": {
-    "fingerprint": "6c113e7d47c6801d36c0a0e57cc3bf106bfabd30d27c776277fcb94d4f8c922c",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "61022163bec4625906df013542248a0540e69426bc3c4fcc86a9791650dd390a",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "43114446611cb012a09be40398e81113fbe5e16c3e09c91c7e0597ad2434e4e4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告宣传校内冥想活动，未明确面向外国留学生或一般大学院，且与研究生学务、科研无独立相关性。"
+    "reason": "公告及海报内容为面向本校在读或在职成员的校园冥想活动，未明确面向外国留学生、一般大学院或硕博学务与研究工作。"
   },
   "377852": {
-    "fingerprint": "aa14b4895d362b7c4b8e4ace4b9628effad1948d6c9b28b74245f0cd74a81059",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "05eedbee7145d9110b6305b169faf94498c8115386c6528cfb3661c3456a3c14",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d9b18e06d1cf0b90a495a2305cc519072d9ffab6aac6ae19298e2a92f53eb6e3",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377842": {
-    "fingerprint": "07c51170b767822f4fb79d38b60d5a5a418ceeda9de918ce293562a87d129e77",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "cd223a05d65397fb4a8da10b8cbba28729e83bcd182a2ba02cd407ab603f8569",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "b9d024fc4f2ef03337570282a7e3f22f853ae4006be0d4aa7e5a4a205690cd87",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "reason": "志愿者资格明确限于积极参与的 아주대학교 재학생；公告未明确涵盖外国留学生或一般大学院研究生，且该限制不符合目标读者范围。"
   },
   "377823": {
-    "fingerprint": "8085792c791fe2b13ffc77783947fe6ac84763f34704475c151bec2baec54f4b",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "6e4b0bcf21b0c8b73597c20cf4cbe185682271c1e4dd020cf5d755ed56b0b7fb",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "4107153c3501137386948feb076db2be8cd62b50d01eaabf5c872951033e703f",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377771": {
-    "fingerprint": "29d13427c394dfa016aff0206d7014fa7a0f821f4f0e2d89c004b58220c611ab",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "f0c03d1e31a8bbf479432502c690deb51aadaf8ca723721f3904af3508cf2c85",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "48b4ddb1b47d4d1d376dd36d2f22a7eeeef5d84a055f47ca12898d9b9e934c63",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告仅介绍面向一般参观者的能源展会，未见与外国留学生或研究生学务、研究工作直接相关的项目。"
+    "reason": "一般公众可登记参观的能源展会，与外国留学生、研究生学务或研究工作无直接关联。"
   },
   "377825": {
-    "fingerprint": "e68726043c1a10c8b5704b706323553ad8f9d6dcc8963812190de1a68f09429a",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "a1e5883cf64a5eb657623fdf2cd86923fb6e25963fc5c312a182ca01a255e947",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "72c01230440ef7614384d4d1daaaff3bd2ea14633f7ed3153a82133ba05be719",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "reason": "该奖学金面向大学生，公告未明确包含研究生或外国留学生；不推定一般大学院留学生符合资格。"
   },
   "377768": {
-    "fingerprint": "b96257dd2344e1283cb1869444d0d1260a84b05b04faae5e5b9400bf60c46633",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "8ed052db9a465552a478212b4f7763858d222b4ca3ea89c2f501e3af7c01d77d",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "50a7365474d38b899c80cd4f7936e4c8bbb90292e009995f2d1049924690ee41",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确将申请资格限定为工程及能源领域相关专业的在校生，并标明名额为大学生和高中生，未包含研究生。"
+    "reason": "海报明确限定为大学生及高中生，未包含研究生；不符合研究生相关公告筛选范围。"
   },
   "377770": {
-    "fingerprint": "4a08b37c68e0d2e4f68304b06d71414e7b183edb097be1160fe0794d7aca51bd",
-    "checkedAt": "2026-10-24T10:38:46.952138+09:00",
+    "fingerprint": "4a2e300cbb495e7580c048532a8ec87144be36c0a55f2e2030b5b0ecd8b924c3",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "1db77e4c3697bc02e3c11db861a3b2ced4ff4cbedd3da43f2e860c172820b49e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377761": {
-    "fingerprint": "aa2367995115cafaa582cc8bdaf2e750c445ac6ef5c865d9a97ff5d3dc9ffa66",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "911e7f433cecf283d9a79ec24b286bae79322a4dc1927af7d6451927309883b8",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "b0e7b2cd0276911073125a28b9d3183be0588fb8f4201cc47e4fde3b31fd6e99",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确要求“本校学部在校生”，不面向一般大学院学生；资格限制优先于公告标题。"
+    "reason": "海报明确要求“본교 학부 재학생”（本校本科在读生），属于仅限本科的招募。"
   },
   "377755": {
-    "fingerprint": "a1ddd280b101b072e2051f38c7a046d2f9ec2acd54b899b60a640f037fe4ae34",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "45caa9c88c9c385014603f30165578451b4d8d94b8a2a43afa9d3696d1cdf89b",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "cb4b060244e2a0386a2e1d2b4e2cfb169130a5491bc52ad9a8d0ea0edd415c00",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告明确面向国家勤工奖学金申请学生，申请资格要求已确定2026学年度第2学期学资支持区间，未明确包含研究生或外国留学生，且不属于研究生学务、研究工作或外国留学生专属服务。"
+    "reason": "公告是韩国国家勤工奖学金申请，要求学费支持区间已确定；未说明外国研究生可申请，且资格面向学生但具体研究生范围不明，无法确认与外国研究生相关。"
   },
   "377753": {
-    "fingerprint": "a7818be6aca8edc86127cc6f78aa20bc72b80d8640e5cdb017d27a8cf6f329d5",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "678a4a01e3b88837533bdfdce27e52cb11af51e1ade32a2f1199db5616446bef",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f6fd9996746ab35af38324f1abbc17b4eea905c0ee93b69a476b10303831dce3",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377750": {
-    "fingerprint": "25a2330c43f9ae703ef10831d3e2e30bb72c31bee34c7a4da77693c4612ca1c8",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "1b4573159292f71ff2fccb4b3b0d36fdb868e19a53e0caa2d43a3fb336f6f495",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "768f49252bfb27bbedcb648c7a9c1b707109b31a74dcc8026553968a930d7c4f",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377741": {
-    "fingerprint": "531f139d191f31d9a036aa9e78d099bcb753a8c4c157dfcd9c386692b78c7131",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "946e4853a82bd937bdee88008c50ccbf09c72e467fb2f439b9b6d5b103f6d1ff",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "aea0ab96c1d957f9873b9c09b7b941d8fd86ed6313fcbbd012cee0bf19c70160",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377732": {
-    "fingerprint": "ae792bfbcfd8c9c63d7cc4b29532aa7dad4215749d2d8b30a42f6386f24dbbaf",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c411eff5d622f17f2d27dea28caf7b359e41988515b99514d3ed9c308c322d21",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f731ac8cb4cd9430c0554f1f7adbcfaeddc11d13ce6b426a50dc7eddf785bc3d",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告明确仅针对2026学年第二学期常规学期在校生，列出的考试及资格证项目不涉及一般大学院或外国留学生，研究生适用范围未获原文支持。"
+    "reason": "公告明确要求2026学年度第二学期正式学期在校生，且限定考试及资格考试奖学金；未说明适用于外国研究生，不能据此推定网络安全学科中国研究生符合。"
   },
   "377731": {
-    "fingerprint": "8c12b6fb5d03b30c8a8d3a722358fc3422bb50c7ac83fcf986dab81d667d3b52",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "7575569377da14e609696a975c8faadab8667e3b3dcb79691f8a2c678cc88da4",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "9f331b358ebce30c01117092f46d29b22693fe8e6793c908752ef3e1f31ee9fa",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3424,20 +3422,20 @@
   },
   "377708": {
     "fingerprint": "34884451c5c5b23c63a685f24ee296011fa58c46d281784397bfc9fa06ba2411",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "16d89cf1ec620f2aac3f5144b4a9efcc82801efb9f8bdd09fa39fb8471f2bc6e",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377614": {
-    "fingerprint": "0b3e69107d8f6788df9c4b85d5bfd89e18327d3fffe3abeb172c0476dc8fbd82",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "4421d1b2540cb366198c70e7723184ee4ecca518699831a5213cc8eaae3b4c17",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "229e4812aac1deca92fdfe269ee9bbacefaa17c17f8f022c2fe51430af86d619",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "海报明确限定对象为巨昌郡出身且符合条件的大学生，要求就读最终学年或其前一学年；不适用于一般大学院研究生。"
+    "reason": "公告海报明确仅面向符合条件的大学生，要求特定年级及居住、就读或家庭户籍条件；未包含研究生，属于本科生奖学金项目。"
   },
   "377754": {
     "fingerprint": "d33b4cb1f9af3547301ab175ad6c74b8c72c1cd87228a5e6e5d468616184e23c",
@@ -3447,16 +3445,17 @@
     "reason": "官方页面无可读取正文、有效海报或可提取文本的PDF，未猜测内容。"
   },
   "377730": {
-    "fingerprint": "f0f4efaae57e5eafb3ed61af5ced7575fa38f7337f12fee8ce439bfd4027bce6",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "7c2ce13510a2692b67c5efdd6452adac6d374cb4c1fe248f9d4ea7015c560f03",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "8742b53f30c238f20b7d5a72492883ac197215662b394d9dcf72f0cb64ea6289",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "reason": "该奖学金限2026学年度第二学期本科正规学期在籍生，资格明确排除研究生。"
   },
   "377875": {
     "fingerprint": "adad48ea970e07073dd415e3b0864493875f31558037e43c2b755533d683d3cf",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "3f8d9bc19165b94a6dfb30c0ee365c559b96ae193f40a1de47336dc47ca354d0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3464,35 +3463,35 @@
     "reason": "奖学金对象仅限定为2026-2学期在校生，并要求符合校内奖学金规定；公告未明确一般大学院或外国留学生资格。"
   },
   "377873": {
-    "fingerprint": "5f507152e3c82943d6067720c49de8d8733847671d87815e638520cbaf595264",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "905fd3f5ef99912149584ab38cb84e17c25608ac6b34dee1237b410bbe8d0d9d",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "630110f6d357cfeefb4cb9f438d86ac2bf0590b74e0212bdaf8011d5bccd189a",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金仅面向韩国船员家庭，外国中国学生不符合国籍及家庭资格范围。"
+    "reason": "奖学金明确面向船员家庭子女，且对象限高中生或大学生；未明确包含一般大学院研究生，按原文资格范围排除。"
   },
   "377860": {
-    "fingerprint": "e13d3d793eca98913b53d83cb5067d7a413e2e83245d74c6c0ab0ed97348fd41",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "f84a996be307fe34cbefc6702b10d316b49ccab7b0dda282aafe108df2b1b2f1",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "f2173dd1a7c785fadb78b7660bb595cc773a6030cd8c7c319ee998907b96e114",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "标题明确限定“학부생”（本科生）；公告及海报均为本科生学费贷款申请与执行 안내，不属于外国留学生或一般大学院相关公告。"
+    "reason": "标题明确限定为“学部生”，且海报贷款政策表将申请对象区分为学部与大学院，本公告所述救济登记贷款仅针对学部生。"
   },
   "377769": {
-    "fingerprint": "96cdf9663d87b7683fc7a4183554c2a5b0e734da6690c0c8339db964ada93b91",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "065244ff4d8877b57765b8a776d4c4fd0ed10b684061af93ff578df92de91f0f",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "62ca4c7f56ba0028856314e09f2cb85f00342129aa4fee2b2e4ea2da1ab36bea",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "奖学金明确仅面向大学生和高中生，且资格限定为工程及能源相关专业在校生，不适用于一般大学院研究生。"
+    "reason": "海报明确限定申请人为大学生或高中生，且要求工程、能源相关专业在校生；不属于一般大学院研究生项目。"
   },
   "377824": {
-    "fingerprint": "0aa68ba01ab0cf32b4d458e13abf6e864e7ca41920d79ad6ba20d4ef32c56384",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "b1d5e55f6321ec97bd4e95fcd4036e47c1c8b28c168f994390eb89400c024a02",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "45dd1b7a64746a8b9c6f41ed131dcf3f3b850f0095ef1ab057d7ea633e762955",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3500,7 +3499,7 @@
   },
   "library-23119": {
     "fingerprint": "f919775e0f191b18be29324dd93da3e3e4167aeeeb8d91d3d15b47ae7fcbe493",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "5f70bfca447443d85a8c82c6930bae06b95b804c186bbaa44b6eca735b4315bd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3508,19 +3507,20 @@
     "reason": "PressReader测验抽奖为一般性宣传活动，未体现与外国留学生、研究生学务或研究工作相关。"
   },
   "377911": {
-    "fingerprint": "bdacfc50c0df932a329dd6a04d95f4892915b75b9e434f6910d12b66772d652f",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "6ab0555ebfb54499d22ca4850288ddc40fae0e5a4c26f9377e47e60811cfdcb2",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "d2f82d709d48358c6185940f4c35c82df63dd5590a7379e73713399f82d941a0",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377913": {
-    "fingerprint": "75f708bd5454c7818cd5faaea56675f3beda861be852e8ef4f7b6948a3be38c6",
-    "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+    "fingerprint": "c4303e6fb2bf593ef80673f06068c68acc65c082118cd8403cdb343008f18c0e",
+    "checkedAt": "2026-10-24T22:22:15.477204+09:00",
     "sourceFingerprint": "2e4dbc2d3a2c74c49cc7a8c38bf88f3496af1d6453769e3a1c89ac83c9922d01",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "reason": "面向求职者的企业招聘咨询会，未明确与外国留学生或一般大学院学务、研究工作相关。"
   }
 }

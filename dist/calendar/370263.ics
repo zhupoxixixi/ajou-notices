@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:370263-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261024T132215Z
+LAST-MODIFIED:20261024T132215Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:申请 / 办理截止：2026区块链Meetup Day（BCMD）第11期
+ ：Vibe Coding
+DESCRIPTION:适用对象：对区块链理论与实践感兴趣者；不
+ 限国籍及学段，额满35人。\n体验Vibe Coding与AI辅助开发
+ ，包含讲座、实作及交流。\nAI 自动整理，重要日期请
+ 核对原文。\n官方原文：https://www.ajou.ac.kr/sw/board/notice.d
+ o?mode=view&articleNo=370263\n原文未给具体时刻，本日历使用
+ 全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370263
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+UID:370263-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261024T132215Z
+LAST-MODIFIED:20261024T132215Z
+DTSTART:20260704T010000Z
+DTEND:20260704T090000Z
+SUMMARY:活动：2026区块链Meetup Day（BCMD）第11期：Vibe Coding
+DESCRIPTION:适用对象：对区块链理论与实践感兴趣者；不
+ 限国籍及学段，额满35人。\n体验Vibe Coding与AI辅助开发
+ ，包含讲座、实作及交流。\nAI 自动整理，重要日期请
+ 核对原文。\n官方原文：https://www.ajou.ac.kr/sw/board/notice.d
+ o?mode=view&articleNo=370263
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370263
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

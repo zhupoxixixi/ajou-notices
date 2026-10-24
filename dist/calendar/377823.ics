@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377823-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261024T132215Z
+LAST-MODIFIED:20261024T132215Z
+DTSTART:20261028T073000Z
+DTEND:20261028T093000Z
+SUMMARY:活动：多山基础教育研究所学术讲座：数学证明
+ 方法的纯粹性
+DESCRIPTION:适用对象：Ajou University校内成员可自由参加；
+ 未说明研究生或外国留学生专属资格。\n多山基础教育
+ 研究所举办讲座，主题为数学证明方法的纯粹性，主讲
+ 人为Andrew Arana。\nAI 自动整理，重要日期请核对原文。\
+ n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&artic
+ leNo=377823
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377823
+TRANSP:TRANSPARENT
+SEQUENCE:4
+END:VEVENT
+END:VCALENDAR
