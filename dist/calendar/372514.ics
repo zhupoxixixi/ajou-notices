@@ -6,20 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372514-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261023T152857Z
-LAST-MODIFIED:20261023T152857Z
+DTSTAMP:20261024T013846Z
+LAST-MODIFIED:20261024T013846Z
 DTSTART:20260706T070000Z
 DTEND:20260706T103000Z
-SUMMARY:活动：气候危机时代自然灾害与社会应对海外学
- 者专题讲座
-DESCRIPTION:适用对象：本校大学院生及相关教员；海报另
- 列海外人士与大学院生交流环节，具体参与资格未详。
- \n邀请日本京都大学教授讲授气候灾害与社会应对，并
- 安排问答及海外人士与研究生交流。\nAI 自动整理，重
- 要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/b
- k21/bk21_bbs.do?mode=view&articleNo=372514
+SUMMARY:活动：海外学者特邀讲座：气候危机时代的自然
+ 灾害与社会应对
+DESCRIPTION:适用对象：本校大学院生及相关教师；活动包
+ 括海外留学生与大学院生座谈。\n邀请日本京都大学教
+ 授举办气候危机主题讲座，并安排问答及海外留学生与
+ 大学院生交流。\nAI 自动整理，重要日期请核对原文。\
+ n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&ar
+ ticleNo=372514
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372514
 TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR

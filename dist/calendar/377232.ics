@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377232-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261024T013846Z
+LAST-MODIFIED:20261024T013846Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:申请 / 办理截止：Wiley编辑研究能力提升讲座
+DESCRIPTION:适用对象：校内大学院生及博士后研究人员等
+ ；一对一研究推介名额有限，优先教师参与，学生能否
+ 参加该环节需确认。\nWiley编辑介绍相关期刊并举行研
+ 究推介讲座；预登记截至10月16日，讲座于10月27日举行
+ 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
+ tps://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377232\n
+ 原文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377232
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+UID:377232-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261024T013846Z
+LAST-MODIFIED:20261024T013846Z
+DTSTART:20261027T070000Z
+DTEND:20261027T085000Z
+SUMMARY:活动：Wiley编辑研究能力提升讲座
+DESCRIPTION:适用对象：校内大学院生及博士后研究人员等
+ ；一对一研究推介名额有限，优先教师参与，学生能否
+ 参加该环节需确认。\nWiley编辑介绍相关期刊并举行研
+ 究推介讲座；预登记截至10月16日，讲座于10月27日举行
+ 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
+ tps://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377232
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377232
+TRANSP:TRANSPARENT
+SEQUENCE:4
+END:VEVENT
+END:VCALENDAR

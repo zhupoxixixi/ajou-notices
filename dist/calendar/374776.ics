@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:374776-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261024T013846Z
+LAST-MODIFIED:20261024T013846Z
+DTSTART:20260910T010000Z
+DTEND:20260910T080000Z
+SUMMARY:活动：2026 Ajou 职业博览会
+DESCRIPTION:适用对象：准备SW·AI及IT、制造、生物等领域
+ 就业的大学（院）生，毕业生也可参加；外国研究生资
+ 格未单独说明。\n职业博览会提供企业及就业咨询、求
+ 职指导和职业形象服务。\nAI 自动整理，重要日期请核
+ 对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do
+ ?mode=view&articleNo=374776
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374776
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
