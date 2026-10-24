@@ -6,21 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:377335-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261024T013846Z
-LAST-MODIFIED:20261024T013846Z
+DTSTAMP:20261024T081151Z
+LAST-MODIFIED:20261024T081151Z
 DTSTART:20261026T070000Z
 DTEND:20261026T081000Z
-SUMMARY:活动：A-Career Insight Talk(2026)：生物行业研究生职
- 业探索讲座
-DESCRIPTION:适用对象：本校大学院生、博士后研究员等；
- 对讲座感兴趣者也可参加，学部生可参加。海报列出的
- 兴趣方向包括毕业后的职业规划、融合·跨学科研究及
- 研究职业。\n讲座介绍生物行业从研究到技术支持的职
- 业路径，提供现场参加者便当。\nAI 自动整理，重要日
- 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
- 21_bbs.do?mode=view&articleNo=377335
+SUMMARY:活动：A-Career Insight Talk（2026）：生物领域研究生
+ 职业探索讲座
+DESCRIPTION:适用对象：本校大学院生、博士后研究员及其
+ 他对讲座感兴趣者；本科生也可参加。外国研究生可否
+ 参加未单独说明。\n分享生物行业从研究到技术支持的
+ 职业路径，面向大学院生及博士后研究员。\nAI 自动整
+ 理，重要日期请核对原文。\n官方原文：https://grad.ajou.a
+ c.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377335
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335
 TRANSP:TRANSPARENT
-SEQUENCE:4
+SEQUENCE:5
 END:VEVENT
 END:VCALENDAR

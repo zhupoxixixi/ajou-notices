@@ -6,21 +6,21 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:373172-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261024T013846Z
-LAST-MODIFIED:20261024T013846Z
+DTSTAMP:20261024T081151Z
+LAST-MODIFIED:20261024T081151Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:申请 / 办理截止：2026韩国留学宣传短视频大赛
-DESCRIPTION:适用对象：在韩国大学就读的本科生、研究生
- （不限国籍）；或有韩国学习经历的国际毕业生。个人
- 或团队均可参加。\n以“My Journey\, Designed in Korea”为主
- 题制作短视频；提交截止日期为2026-09-15，含研究生参
- 赛资格。\nAI 自动整理，重要日期请核对原文。\n官方
- 原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&ar
- ticleNo=373172\n原文未给具体时刻，本日历使用全天事项
- 。
+SUMMARY:申请 / 办理截止：2026韩国留学宣传短视频竞赛
+DESCRIPTION:适用对象：在韩国大学就读的本科生及研究生
+ ，不限国籍；亦接受有韩国学习经历的国际毕业生。个
+ 人或团队均可参加。\n以“My Journey\, Designed in Korea”为
+ 主题制作并提交短视频；研究生可参加，申请期为2026-0
+ 7-29至2026-09-15。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=v
+ iew&articleNo=373172\n原文未给具体时刻，本日历使用全天
+ 事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172
 TRANSP:TRANSPARENT
-SEQUENCE:5
+SEQUENCE:6
 END:VEVENT
 END:VCALENDAR

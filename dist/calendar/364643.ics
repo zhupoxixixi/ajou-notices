@@ -6,20 +6,21 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:364643-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261024T013846Z
-LAST-MODIFIED:20261024T013846Z
+DTSTAMP:20261024T081151Z
+LAST-MODIFIED:20261024T081151Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:申请 / 办理截止：A-Career DNA（2026）职业发展诊断
  项目
 DESCRIPTION:适用对象：2026学年度一般大学院注册生；须使
- 用 @ajou.ac.kr 邮箱报名，先到先得。\n提供价值5万韩元
- 的 e-DISC 诊断及个人结果；另有名额有限的职业发展个
- 别咨询。\nAI 自动整理，重要日期请核对原文。\n官方
- 原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo
- =364643\n原文未给具体时刻，本日历使用全天事项。
+ 用아주대학교邮箱报名，是否限BK21参与学生未说明。\n
+ 提供e-DISC诊断费支持及职业发展个别咨询机会，名额约
+ 250人，先到先得。\nAI 自动整理，重要日期请核对原文
+ 。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=vie
+ w&articleNo=364643\n原文未给具体时刻，本日历使用全天事
+ 项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-364643
 TRANSP:TRANSPARENT
-SEQUENCE:1
+SEQUENCE:2
 END:VEVENT
 END:VCALENDAR

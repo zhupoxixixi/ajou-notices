@@ -1,17 +1,17 @@
 {
-  "checkedAt": "2026-10-24T10:38:46.952138+09:00",
+  "checkedAt": "2026-10-24T17:11:51.947581+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 518,
+  "scanned": 517,
   "pages": 36,
   "boards": 10,
-  "translated": 110,
+  "translated": 107,
   "unchanged": 105,
-  "excluded": 87,
+  "excluded": 89,
   "skipped": 0,
   "errors": [
     {
-      "id": "377852",
+      "id": "377770",
       "error": "TranslationError",
       "reason": "attempt 1: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReada"
     }
@@ -27,8 +27,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     },
     {
       "key": "international",
@@ -39,8 +39,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     },
     {
       "key": "oia",
@@ -51,8 +51,8 @@
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     },
     {
       "key": "university",
@@ -63,7 +63,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
       "lastSuccessAt": "2026-10-23T23:55:32.438295+09:00"
     },
     {
@@ -75,8 +75,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     },
     {
       "key": "innovation",
@@ -87,8 +87,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     },
     {
       "key": "scholarship",
@@ -99,8 +99,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     },
     {
       "key": "library",
@@ -111,8 +111,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     },
     {
       "key": "academic_calendar",
@@ -123,8 +123,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     },
     {
       "key": "college",
@@ -135,8 +135,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-24T10:38:46.952138+09:00",
-      "lastSuccessAt": "2026-10-24T10:38:46.952138+09:00"
+      "checkedAt": "2026-10-24T17:11:51.947581+09:00",
+      "lastSuccessAt": "2026-10-24T17:11:51.947581+09:00"
     }
   ]
 }

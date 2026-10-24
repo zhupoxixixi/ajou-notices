@@ -6,38 +6,37 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372015-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261024T013846Z
-LAST-MODIFIED:20261024T013846Z
+DTSTAMP:20261024T081151Z
+LAST-MODIFIED:20261024T081151Z
 DTSTART:20260720T020000Z
 SUMMARY:申请 / 办理截止：2026 Ajou X-Research Program融合研究
- 支持项目招募
-DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究
- 注册生；未注明国籍限制，其他具体资格条件未详。\n
- 支持团队或个人开展融合研究，按个人标准提供100万至
- 150万韩元研究经费。申请已截止，研究期仍在进行。\nA
- I 自动整理，重要日期请核对原文。\n官方原文：https://
- grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015
+ 参与者招募
+DESCRIPTION:适用对象：以2026学年为准的一般大学院在读生
+ 及研究注册生；包括未参与BK21项目者。国籍未作限制
+ 说明。\n支持团队或个人融合研究，研究执行经费为每
+ 人100万至150万韩元。\nAI 自动整理，重要日期请核对原
+ 文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=
+ view&articleNo=372015
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015
 TRANSP:TRANSPARENT
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 UID:372015-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261024T013846Z
-LAST-MODIFIED:20261024T013846Z
+DTSTAMP:20261024T081151Z
+LAST-MODIFIED:20261024T081151Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20270101
-SUMMARY:活动：2026 Ajou X-Research Program融合研究支持项目招
- 募
-DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究
- 注册生；未注明国籍限制，其他具体资格条件未详。\n
- 支持团队或个人开展融合研究，按个人标准提供100万至
- 150万韩元研究经费。申请已截止，研究期仍在进行。\nA
- I 自动整理，重要日期请核对原文。\n官方原文：https://
- grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015\n原文
- 未给具体时刻，本日历使用全天事项。
+SUMMARY:活动：2026 Ajou X-Research Program融合研究参与者招募
+DESCRIPTION:适用对象：以2026学年为准的一般大学院在读生
+ 及研究注册生；包括未参与BK21项目者。国籍未作限制
+ 说明。\n支持团队或个人融合研究，研究执行经费为每
+ 人100万至150万韩元。\nAI 自动整理，重要日期请核对原
+ 文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=
+ view&articleNo=372015\n原文未给具体时刻，本日历使用全天
+ 事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015
 TRANSP:TRANSPARENT
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372512-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261024T081151Z
+LAST-MODIFIED:20261024T081151Z
+DTSTART:20260708T063000Z
+DTEND:20260708T080000Z
+SUMMARY:活动：海外学者讲座：算法如何影响政策——人
+ 工智能与深度学习在多学科社会科学中的作用
+DESCRIPTION:适用对象：海报注明面向本校大学院生及相关
+ 教职员；未列国籍限制。\n邀请美国 University of Texas at D
+ allas 的 Kim Dohyung 教授举办讲座，并安排问答及交流。\n
+ AI 自动整理，重要日期请核对原文。\n官方原文：https:/
+ /grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372512
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372512
+TRANSP:TRANSPARENT
+SEQUENCE:4
+END:VEVENT
+END:VCALENDAR
