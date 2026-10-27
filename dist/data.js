@@ -1,7 +1,7 @@
 window.AJOU_NOTICES = {
   "reviewedAt": "2026-10-15",
   "fetchedAt": "2026-10-15T15:04:09.524676+09:00",
-  "scanned": 526,
+  "scanned": 531,
   "pages": 36,
   "sources": [
     {
@@ -13,7 +13,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -25,7 +25,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -37,7 +37,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -49,7 +49,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -61,7 +61,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -73,7 +73,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -81,11 +81,11 @@ window.AJOU_NOTICES = {
       "name": "奖学金公告",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do",
       "pages": 2,
-      "scanned": 26,
+      "scanned": 27,
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -97,8 +97,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
-      "lastSuccessAt": "2026-10-27T11:07:06.052139+09:00"
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
+      "lastSuccessAt": "2026-10-27T18:04:59.105196+09:00"
     },
     {
       "key": "academic_calendar",
@@ -109,8 +109,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
-      "lastSuccessAt": "2026-10-27T11:07:06.052139+09:00"
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
+      "lastSuccessAt": "2026-10-27T18:04:59.105196+09:00"
     },
     {
       "key": "college",
@@ -121,845 +121,835 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+      "checkedAt": "2026-10-27T18:04:59.105196+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     }
   ],
   "errors": [
     {
-      "id": "369657",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 43fc9544-279b-47bc-809a-2d880d125b92)"
-    },
-    {
       "id": "376934",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec54bd0c-bc6a-49de-a198-3c66760a8705)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d38700c2-3872-4ab5-bdaa-70b0aa9628e0)"
+    },
+    {
+      "id": "369657",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 714a9782-5679-46dc-a46f-2e302a304f92)"
     },
     {
       "id": "376506",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b587dfeb-6434-498b-a326-5c879c7b28f3)"
-    },
-    {
-      "id": "377926",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 594bbf38-d46a-4477-a362-b3316f51fc88)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 95cf3782-51bf-4bca-83a6-6b4ff95d6093)"
     },
     {
       "id": "377425",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 25b1d424-1e56-4cdf-ae72-268d2536eb3b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5d7445be-1b21-42de-af2f-4ac72d117312)"
+    },
+    {
+      "id": "377926",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a5d5e116-57c2-4267-8001-2336f7d6f7da)"
     },
     {
       "id": "377426",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 43549bb6-7696-4c0b-abe3-a10d6ca1614b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 503c4b18-2555-4bcb-a796-a593c64f9df8)"
     },
     {
       "id": "376256",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4e9e7c81-f832-4174-bd6d-cafbbac68e59)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 26b702b1-992d-47b1-bf75-9b806953502c)"
     },
     {
       "id": "377337",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 968bfa2f-87b9-4f7f-ae61-f96fc2b50377)"
-    },
-    {
-      "id": "376367",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 31ab2678-6c71-4eff-8efb-d444c4b1673f)"
-    },
-    {
-      "id": "376054",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2b145fcc-6061-4f4a-90a5-830e4a4beb18)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 328814dc-ec84-4e53-914c-fd28f8deab2b)"
     },
     {
       "id": "376048",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 22a189e7-568c-4620-848b-27bc7fa5e817)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5e8b9de5-1c34-4868-b06e-6fa8fa5103e1)"
+    },
+    {
+      "id": "376367",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 379c22e3-f84d-485d-991f-470941b5d7a5)"
+    },
+    {
+      "id": "376054",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1eaa6e3b-56f3-481e-8d9c-66263de1050c)"
     },
     {
       "id": "375924",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 987039d0-807a-4838-9589-a83ccd3e086a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2a18c10c-4d6b-467e-a44a-7e746568b49b)"
     },
     {
       "id": "375919",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a305b26f-bc4f-4185-8816-d2a65356d1dd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e1b53167-8a24-4a1c-9606-c6f77e574f61)"
     },
     {
       "id": "375801",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a48d9cd2-d1fb-4182-a250-53ef49dedfed)"
-    },
-    {
-      "id": "373219",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 76660913-3db3-474d-904f-78d49dcf7356)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 274efb01-b30d-4557-b5b6-474c39f22d8d)"
     },
     {
       "id": "298592",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e7030081-57d4-4e44-882f-a4c2371665f2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id db99603c-5d71-4cec-9430-a4dc0debafaf)"
+    },
+    {
+      "id": "373219",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 55f1a2f2-1df1-4e1d-99ea-735ea490251f)"
     },
     {
       "id": "370527",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 445efa8e-8a42-40df-9c6e-fde1532a7ed8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 99e058fe-1a52-4546-ae81-cc1f75b32777)"
     },
     {
       "id": "377619",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b8cbcd17-328a-4a63-ae3f-6be142dbe14b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 018f3ff4-91b6-434d-aaa8-4b25f33211dc)"
     },
     {
       "id": "369355",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0671b1ed-aa1b-457a-a2ac-415dd43fa6ad)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b4a00b54-f2c6-44a1-a79e-734604d4d78a)"
     },
     {
       "id": "377983",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e1ce3f05-e818-4c36-b5af-e04f2cf6a05b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id aa360ea0-26c8-4bc8-a53c-07241f0bb2ec)"
     },
     {
       "id": "376963",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ef861a7b-b71c-4e84-b14f-fbbd9a2db77d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e3619b1c-4693-4215-a742-34ce08a3659d)"
     },
     {
       "id": "371987",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6a637c45-178f-437a-92b5-8bcb11809946)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0f85b8d5-9a68-4631-b62d-a388687ac795)"
     },
     {
       "id": "376961",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c86fa887-a81d-4d4b-8957-a58b7c947113)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id bd6ec66c-5061-49c6-acf1-d392f4e8e131)"
     },
     {
       "id": "370987",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 287a2151-52fb-41e4-a841-ff60585dcfda)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5745bdb8-2116-4265-ace5-d629b29a671c)"
     },
     {
       "id": "377523",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e96a55d6-8b09-4faa-a78a-6ff78f8510d9)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 60618b0d-fb3d-48a3-8b88-a246cf502943)"
     },
     {
-      "id": "378021",
+      "id": "378090",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cc4c704c-e3a3-4192-a13a-aed69dcc6d88)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0dc051ce-8e39-484f-8678-a0554b7391c3)"
     },
     {
       "id": "373746",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07571048-6b69-4caf-8065-a2d545c9213b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 02623713-5c66-4f3e-9163-7d1ff1e8287c)"
+    },
+    {
+      "id": "378083",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ff095cc5-6524-41ea-8c39-59e33db4d23e)"
+    },
+    {
+      "id": "378040",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1e24d29f-15d0-4cae-b019-e976d96dd547)"
+    },
+    {
+      "id": "378071",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 26e69e0a-f76d-49d4-bf00-5441bfb60525)"
+    },
+    {
+      "id": "378021",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id beb17e93-f48d-45d6-b999-c9eeec380e73)"
     },
     {
       "id": "378018",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dccf4d1e-5a89-4875-bde9-cba3b4234135)"
-    },
-    {
-      "id": "378005",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5a54fb11-043a-4f48-a42e-2c7cb1d33f83)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 35954d27-c651-4563-b96c-3da63190f811)"
     },
     {
       "id": "378019",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 404d3327-3e72-4608-950e-97053c57f38c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b6427267-c29b-473d-b7a9-5074ef0525a0)"
     },
     {
       "id": "377999",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 28db4163-3e94-41bc-a1d8-ac6b927758a2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5e555a51-5415-409d-9d8a-16819495f421)"
+    },
+    {
+      "id": "378005",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d1a3814e-5821-4923-8732-fdd41e1bfcf4)"
     },
     {
       "id": "377970",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 34bbf9ee-f7c7-46c3-8730-5760ed8fa7a6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d3f19e3b-cb42-41a5-b868-c8c21e6bda45)"
     },
     {
       "id": "377967",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2cf8bb33-a7d1-4b82-9420-bf60db751dd8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 501be736-5baa-4ce8-bccd-1c88278811ba)"
     },
     {
       "id": "377966",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ee86b2cc-c1a9-4b8a-b79a-f73eee86f38a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ae05afa8-2919-4d34-ac4d-fcb5a2495b1e)"
     },
     {
       "id": "377941",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2d7abdb8-e2a2-4728-9974-5bf50a6f7000)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0f42519a-fcd3-4a7c-8b81-27ed560cd611)"
     },
     {
       "id": "377939",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1222ffed-4316-44b8-9234-c09207a04c2a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 002bdff0-4238-4753-9142-bbddc8e126cc)"
     },
     {
       "id": "377930",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 44506683-fa9c-419d-b563-c6b91015e4e3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2bb654d4-4a67-44fd-8656-f33fa17b5304)"
     },
     {
       "id": "377913",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6e4b7cf5-12be-4ee6-afe6-bc437dfb1b7b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0fdbeef6-48a6-4538-98a7-358633ca244d)"
     },
     {
       "id": "377911",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4a7d047a-25a2-4612-b839-e41b646efcec)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8c19938f-4a2e-490c-b27f-3754f85250b5)"
     },
     {
       "id": "377908",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8971cf22-9d66-4cfb-8375-ffda95f18f52)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e70bd0fc-eb73-486c-939a-771456b7e391)"
     },
     {
       "id": "377906",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6dd6cfc3-f072-4017-883d-c02d58af3cec)"
-    },
-    {
-      "id": "377896",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 59efcd60-e57f-40a6-bf5e-34c6ca59b7db)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 18c048ad-9d8c-4f4c-b919-9a436dee7145)"
     },
     {
       "id": "377872",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1ac42e98-17e9-44be-bdd9-215934d13d8c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0ced81c7-c726-402b-b91b-dc1341f4aee8)"
     },
     {
-      "id": "377870",
+      "id": "377896",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1e6c88f9-c121-4a90-a225-617467bd88f8)"
-    },
-    {
-      "id": "377862",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e3a55d41-0be1-46fe-8b65-e0fcfcf2fd28)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 606aad31-bf5a-415a-90a9-e1e722ca5c28)"
     },
     {
       "id": "377871",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0d9750d2-30e3-4a4b-992e-5c3bea45560c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e80e7dd2-2427-432f-a162-ee7245538abd)"
+    },
+    {
+      "id": "377870",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 205c80fe-c65b-4946-ad9c-cec5dcda468f)"
+    },
+    {
+      "id": "377862",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9553a90f-f8e1-414b-9ddf-3f2b7dafa507)"
     },
     {
       "id": "377855",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2248d6bf-5419-40a8-aaac-85660f69fa0b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d201e7d9-5dfa-42f6-b139-2aa32b6b4aef)"
     },
     {
       "id": "377852",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3d429a75-3bc3-4e51-ba91-16754f143328)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id eef73c49-d841-468e-8965-15a606e555cb)"
     },
     {
       "id": "377843",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 64231671-2d95-4731-9b64-0ab2ba5263f1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b23a2db8-e55f-4e4f-92ad-ecf034a3e0da)"
     },
     {
       "id": "377842",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a3f8c748-42ec-4398-b536-84d7a9ec3f94)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 492b4fbb-0609-489e-b324-fd6f9af470b8)"
     },
     {
       "id": "377825",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e0df377f-90dc-482c-9479-413c453de8cd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 88ba490f-748f-4bf4-b267-0e369ed772de)"
     },
     {
       "id": "377823",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9639ca7c-20bb-49d5-936d-d8cd46b86d68)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 72c1a29b-f70e-481a-add9-4db3cfc18959)"
     },
     {
       "id": "377802",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2d7a1845-77cd-48be-be31-7e2f5058c697)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e4075b58-fc59-4644-be59-2e97a910da5f)"
     },
     {
       "id": "377771",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2b35658e-ffea-4cac-a28e-8701e1a28ce7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1a41d884-fb26-471c-8c7f-4237032cb80a)"
     },
     {
       "id": "377770",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ba9587b5-eef1-4d6b-ae84-53a7281061fc)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id faffdeac-8574-4278-a234-e2966e165fc0)"
     },
     {
       "id": "377768",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a04b9206-ecf8-4156-9de9-17135cbd53c8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f1717208-dd06-45ad-8a3a-bb2296465aa5)"
     },
     {
       "id": "377761",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6aa5d036-c37e-45e7-a7bc-c122e0c5c40b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d61c2a4-1831-4cc3-a5d7-c0bbf790a9f8)"
     },
     {
       "id": "377755",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7b15a8a6-73a8-411a-baba-e934644f985c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6e7bf535-528c-4ea6-969f-98dedbb4815a)"
     },
     {
       "id": "377753",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fd21761e-7fdd-49f9-8f7a-ce982fdbed63)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c6cf0077-1770-4461-a9e4-00e3ed11810d)"
     },
     {
       "id": "377750",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0b2a520d-2312-4c53-9c98-9414d0571197)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2dc28913-1420-41e0-a0b7-c0997cb82779)"
     },
     {
       "id": "377741",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b91d29cb-5287-434d-a991-1c2fa048e8ed)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 640f40cc-3a26-4272-a4dc-03c90b0bc5cb)"
     },
     {
       "id": "377732",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 203a9f17-7a7b-4eb9-884c-9235b6ff0884)"
-    },
-    {
-      "id": "377731",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7ce51e52-d741-41e5-9095-06e447c4954f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 62dd65f9-0af8-4fb0-8100-a54e4672e777)"
     },
     {
       "id": "377723",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9c861b72-5057-42e3-a4b7-bdb694622c90)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id aee17f69-439d-4a7f-a052-3c9ffd39da0a)"
+    },
+    {
+      "id": "377731",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1a7d29e5-0c9f-4b90-81a7-08d8bbe6cc76)"
     },
     {
       "id": "377719",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 81a0a9d7-45fb-4a38-8609-290802903690)"
-    },
-    {
-      "id": "377672",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 380398e6-36b6-4361-b9ed-411b7e06490d)"
-    },
-    {
-      "id": "377664",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d513a387-1066-47e9-8f4f-47f987764d95)"
-    },
-    {
-      "id": "377663",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id da0a39d0-85e0-47c9-88d4-e3c92a4a403b)"
-    },
-    {
-      "id": "377661",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4c024bf5-cad9-42fa-a16f-8373b3b314cc)"
-    },
-    {
-      "id": "377655",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8e3c3006-a651-470a-b471-339525757417)"
-    },
-    {
-      "id": "377639",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 213c1a49-6c60-4a36-beb0-420a3dec20ae)"
-    },
-    {
-      "id": "377641",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0f3a675a-11cb-4259-9c8f-266b6e8d30f4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 41455a4c-3c05-44ab-8001-ce7d66b00573)"
     },
     {
       "id": "377183",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c1466761-31b4-4e04-ab6b-8168b896b756)"
-    },
-    {
-      "id": "377427",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2e6baf21-a060-414a-b31b-10a5ef33f578)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 72f883e3-898a-4bc2-b826-83e328c0f4fa)"
     },
     {
       "id": "360568",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5003dc87-bcd5-4d49-8752-4a84d8e5fec9)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f094ee45-f825-47f3-9e6c-3619c72f0dfc)"
+    },
+    {
+      "id": "377427",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fc8e905e-8afb-4452-acb7-a02b5568a8d0)"
     },
     {
       "id": "377101",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7e5d028a-937b-45c1-82b7-140629d66d3b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7a306ba7-1a65-41ad-83fc-74c32b5db06b)"
     },
     {
       "id": "376257",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2db9d22f-ebd2-4b2d-adde-befee3bf6765)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id be07c0e1-902b-4c37-9729-66a09a32967c)"
     },
     {
       "id": "375925",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 800facf1-e78c-4264-b9e8-fe9e033f64e3)"
-    },
-    {
-      "id": "376052",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 014fe589-68e5-421d-b040-80a6151383e5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8b9014bc-6c01-4ebf-a456-75c1f94e3d18)"
     },
     {
       "id": "375923",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7ba8ce47-5c5a-42f7-b1cb-e53f00a94ae1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d375854-8022-4ff6-9b21-77175f54e4a7)"
+    },
+    {
+      "id": "376052",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cdddfd67-8677-4274-9890-623fe3bd7b13)"
     },
     {
       "id": "375920",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0b944220-5c22-4f07-a58f-79fc4fdd8152)"
-    },
-    {
-      "id": "375392",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5a0530d2-ea9a-425b-a119-0d89e143d8e6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c8bce8d4-0d89-4aef-b703-71cd0afa670e)"
     },
     {
       "id": "373908",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id eda1b7b2-736c-4b6a-a14a-daf149b7a5a7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0ce23e05-e4f6-4b36-97ce-0290e9c4a74b)"
     },
     {
-      "id": "373535",
+      "id": "375392",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 56767c43-c151-45e6-9b18-b3f8e146fdda)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f57be96e-f6ee-4b4e-928f-585a744ec843)"
     },
     {
       "id": "373483",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 60b689f0-43eb-4e25-804e-55700b503e65)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f6d36fcb-54db-4460-82f5-276ef26dd8f7)"
     },
     {
       "id": "373342",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07e09f84-33ba-43b0-9ed7-5f2bd124d9ee)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8c865454-f9c3-4881-b4ed-7d7b6d3cea8e)"
+    },
+    {
+      "id": "373535",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b925895e-6c5b-40ee-92bc-dccd3108ab69)"
     },
     {
       "id": "373172",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1bfd7527-d8a0-4370-a5b3-aaf48343738d)"
-    },
-    {
-      "id": "365143",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 697dd76d-6367-46ff-8c1c-d7130b01c7b1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 673c655a-b966-4e09-88b1-3c74cdbdd06c)"
     },
     {
       "id": "364643",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d291e926-c77b-46af-858c-df1f8486e9bb)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5027fda7-9729-4ad3-8007-5c9b8930f3f1)"
     },
     {
-      "id": "377335",
+      "id": "365143",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1227c967-ee17-4f3b-a6df-57eee54b585f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 74d1ab54-6843-4dcc-ab95-c7f5e2b39932)"
     },
     {
       "id": "375647",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 809739d6-16b5-4902-8796-4c0b8d597a4f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 55946487-8bfc-4572-b4d0-af123b2e2e8f)"
     },
     {
       "id": "377232",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b2d2b54a-7479-460f-a076-522055a4a935)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4c03ca4b-a2a4-4a34-9970-ce7cf92746b1)"
+    },
+    {
+      "id": "377335",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 53675460-4ccc-4cdf-acf2-e88fadc60de5)"
     },
     {
       "id": "375247",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 66c4c1c9-1cc1-41c2-ab6b-0e28c68113f6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 36b9bd50-3ce4-493d-9827-c897e4f80d04)"
     },
     {
       "id": "374776",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6a23a81e-5ed4-474e-a515-25d967b86c5a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1b9f9fa8-2bdb-4c9b-9c03-88be98b20143)"
     },
     {
       "id": "375261",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8527360a-9492-4316-8b59-da8ccb7f24ce)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c288b932-e13f-4b15-a5e7-9d4901de7d30)"
     },
     {
       "id": "373879",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1fb3391e-2730-4816-b0b4-4c2f8fbc37dd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 39cd0b56-a1e2-49e6-860f-4c96475874ed)"
     },
     {
       "id": "373878",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 86aed09b-8d35-4b7d-abcf-1d105d1b1eb6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec1decdc-7946-4247-bb25-09567796e27e)"
     },
     {
       "id": "373850",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5bb15ccb-9aaa-466e-ae14-084e090b47af)"
-    },
-    {
-      "id": "372846",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 137a4ea2-860a-4544-a343-89078eaa26d4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6fb7a6dc-15ca-4691-becc-080101f16b05)"
     },
     {
       "id": "372516",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4400014a-050d-4e8e-a652-5a5d0277708a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5972da23-591a-4e5a-8a83-906672658b2c)"
+    },
+    {
+      "id": "372846",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b3d4bfb9-a6a3-4ee4-aa07-6b2f3eac6518)"
     },
     {
       "id": "373559",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 63deb73d-87bb-4191-bf5f-5edaaeceaa24)"
-    },
-    {
-      "id": "372514",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7fdc94f2-8c28-4d5c-9c2e-7fa5ed7dc06c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c9925f17-b2b2-484f-a2c4-74a5a4e02657)"
     },
     {
       "id": "372512",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c7532361-a9bc-4ec3-ae7d-247a35de91e5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0f04ce71-fb02-4988-9cf8-f0b685fd15f3)"
     },
     {
-      "id": "377860",
+      "id": "372514",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 318f2b44-d5aa-486e-893b-01134b4b30e1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3f3d60ae-aaa5-4b34-93fa-0bd1aabd2bc5)"
+    },
+    {
+      "id": "378058",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0d395a00-e7c2-4f46-a790-5fd673471188)"
     },
     {
       "id": "377730",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f7c85948-d962-439d-9b45-8419919a40a3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7106032d-eb22-40a8-9bf4-1f5255b33ba9)"
     },
     {
       "id": "366852",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0149f02d-a8aa-481a-beca-1c33cf93e1ad)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 305b760a-9b44-43d9-b4bd-d5352cced1b3)"
+    },
+    {
+      "id": "377860",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9af1aa80-e04e-4e0c-9a83-42b4902576d6)"
     },
     {
       "id": "377873",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cd75fcf8-f3ed-4025-8302-bcd304e96ee2)"
-    },
-    {
-      "id": "377824",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 10c0705d-5970-413a-99a7-a86f39d00538)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 74108e34-2f9f-4863-9d6e-af56cf41ba83)"
     },
     {
       "id": "377769",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 67e9ca54-533c-48fc-bf3b-0ab029c1cdd1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c6e9b782-eb67-4d78-afea-2c2fcc6950f7)"
+    },
+    {
+      "id": "377824",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5566dbd7-b4ae-4246-8d81-beabf99667a7)"
     },
     {
       "id": "377722",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d04322e6-6d3f-4338-8267-818271ef8ebd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 924783ea-a61b-49b1-af77-79976ff19dcf)"
     },
     {
       "id": "377718",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2d059417-1391-45f2-be44-5e30c21c93f5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dd962dca-c1c9-4bc9-8ebf-5e89e1efb5ce)"
     },
     {
       "id": "377668",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d435d751-1a26-4314-837b-a7d00de9c847)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fbb65e6f-6d4b-4335-81f2-073fb68f9add)"
     },
     {
       "id": "377613",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 76b0d7fc-5b01-4115-aea5-4b2f2f2ea9c8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 743b5266-1340-46df-8204-558c965ac194)"
     },
     {
       "id": "377612",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7b58c1ea-16c7-4300-b0b8-ad09bd654120)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e5430afc-37c5-484a-b7f9-8e799064b462)"
     },
     {
       "id": "377470",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 36825b38-1235-469f-b048-0cb8396e6d7c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 278e8a2b-35fd-4960-9eaf-dd9424e7d6a0)"
     },
     {
       "id": "377206",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8227c0b4-dffd-4e33-b81e-c9e4be9a87c2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fedc2f4f-baf2-4df7-b113-3a4bf4f91999)"
     },
     {
       "id": "377204",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8a9e3b4d-a612-4517-be01-ea30b0cb9975)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 38393124-a781-4dc2-a7fc-9e195c89a61a)"
     },
     {
       "id": "377176",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 40db43b1-b49e-40c0-b2c7-f199ae435211)"
-    },
-    {
-      "id": "377120",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07d34f52-5bbd-4db3-9df9-b024d5d9e7e2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fb70be70-78e3-4594-a74e-b01154c1a068)"
     },
     {
       "id": "377087",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 839b049b-bcde-414d-b06d-2738ec19d526)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dd30a225-62e5-473b-a6a4-dd83c081970f)"
+    },
+    {
+      "id": "377120",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b17003f2-c419-421d-9ee6-5ddbd9b1634a)"
     },
     {
       "id": "377085",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b12fa5e4-b3b8-4152-89c2-4284182b2017)"
-    },
-    {
-      "id": "376957",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9d1ce314-0787-479c-85cf-3ff409d095c1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5642ff4c-dc56-4030-bfeb-0e59123248be)"
     },
     {
       "id": "376795",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a031dd52-3098-4b07-bf57-1f2553c43497)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5f8717e7-d0d6-4729-9be3-4d72089815ed)"
+    },
+    {
+      "id": "376957",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1c796cbe-a1cc-44b5-b277-9c43386c61fb)"
     },
     {
       "id": "376788",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0b6c3a4f-8a4f-4b48-ab88-706028a7a726)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 05722900-a703-4642-b271-769e65635ad1)"
     },
     {
       "id": "377451",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2e84cf8a-3a42-4f8e-9bf1-14fdd5ed5fe4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d506b7a3-fd6a-4705-8b88-2ce1c640cb21)"
     },
     {
       "id": "377358",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5f9d1948-ed7f-49c1-bd44-44ff91bc9663)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9f37a815-763d-49e5-becb-65c39f961df4)"
     },
     {
       "id": "372474",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id afae93c1-dac5-40d7-93cb-35d78511e4f4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 00762530-55c4-473e-9e38-481332b0e45e)"
     },
     {
       "id": "377927",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cc9f01e6-32fa-4040-b0f4-9da6c6f7be29)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b458ea2d-3859-45e9-8589-4e40f3f2f82b)"
     },
     {
       "id": "377644",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fbc1d767-2ad5-494b-89ad-06f37979cb44)"
-    },
-    {
-      "id": "377363",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 921deea2-3bf7-4087-ab42-d5a6c7430303)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c2de2cb5-2e03-49e3-a2db-cdaf5dd426aa)"
     },
     {
       "id": "377211",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 74614a95-a51e-45ef-9976-9746966b3fb0)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 705c1b85-cfcd-40de-9049-c5170f985eed)"
     },
     {
-      "id": "377119",
+      "id": "377363",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f528b006-e8d9-447a-922d-deec2a5ad444)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b3aa1a28-55e1-4644-b1a0-3160c6f645d7)"
     },
     {
       "id": "377210",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f81e581d-dd58-4380-90b7-acbed66a7659)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 48e8130d-c93b-459d-b146-edb2ce363c97)"
     },
     {
       "id": "376905",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4b7860c0-4fb9-414c-8a35-5b82d5d4ce71)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id abd65ec8-8fa9-4745-be00-56cba27bfe31)"
     },
     {
       "id": "376775",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f3171c5b-d525-4ab3-bd90-264ae81f03ea)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ccda214e-c6ee-43d9-99c3-9c6f0363dca6)"
+    },
+    {
+      "id": "377119",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4a34e3d3-4c82-47a6-b7e7-6088affab3a7)"
     },
     {
       "id": "376494",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b0cbb7bf-1669-432f-9ab9-d90663372c64)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 54075527-668b-400d-a985-92e7f80573f7)"
     },
     {
       "id": "376493",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec910ef1-381c-4610-bfa8-298211384269)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 782e6521-abe5-46c2-a7a8-7dce4278823f)"
     },
     {
       "id": "375849",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7783f625-5cdc-4041-b388-5ee5f45dc4a4)"
-    },
-    {
-      "id": "375368",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 360c4a28-3001-424d-a189-32278b78940e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a6ae4463-45f9-4366-bca8-d93d0f44af23)"
     },
     {
       "id": "375097",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f3f38c19-70be-4460-af1a-bbb5611f66f6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9b3d5c7a-0463-4206-94fa-c023607b1d8d)"
+    },
+    {
+      "id": "375368",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5cfe65fd-2c3f-46e9-96e7-9240bc75dbea)"
     },
     {
       "id": "375085",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a5130ca8-911e-4553-a35f-05f56fb9338a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2ab6f8bc-2dd8-42f2-a050-10991c85aa97)"
     },
     {
       "id": "374809",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 82b0a8cb-1ec8-4ee3-b2f3-6719b1fd1adc)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3b1d89ec-0d10-4a3b-ad4f-f31cd2b726c8)"
     },
     {
       "id": "374381",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0cde1917-bf35-41c7-af55-6e08e480800f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 193d9807-7904-4555-a292-b00c20d0c85a)"
     },
     {
       "id": "375378",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cec4764b-d93a-4bb7-864b-efa31de93272)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 356e30b6-9d88-4b8e-8bb2-bb3fc5bbe4c0)"
     },
     {
       "id": "371908",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 77c37a73-30b6-4291-95ae-66a3ad122755)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 855b7439-fed1-4f9a-b6b5-179434676dec)"
     },
     {
       "id": "372715",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c7072928-8905-47fc-bb36-fd1c59b5bd48)"
-    },
-    {
-      "id": "377499",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 527c1781-ce76-4f42-8d5b-336bf36ab7d0)"
-    },
-    {
-      "id": "377439",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0be601bf-d912-4533-9116-d93d83f58964)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c0ec6123-337b-4243-978e-fa3cad5f868f)"
     },
     {
       "id": "375263",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1ca5f0a7-70b4-437f-b2bc-aa0ce22f005b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dba7788b-5f12-42a0-a2ce-49f5cb9d58f0)"
+    },
+    {
+      "id": "377439",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec47924a-d8ca-45d3-9b62-c756f8e8cbaa)"
+    },
+    {
+      "id": "377499",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 180f86be-6c5f-41de-82e0-5fef0787363b)"
     },
     {
       "id": "372714",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3d9e34a8-a987-4392-8196-02c56b76a0d8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 14e7c1ff-d04e-413c-80d2-106ddab2a8c2)"
     },
     {
       "id": "377025",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fe3912b0-7955-4c1f-815c-03f28d677f87)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3037658b-9b2d-4060-9155-3cef862f9d7b)"
     },
     {
       "id": "372508",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 61cf6596-9530-41ae-b7d8-664a424d864e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8cad8653-a65c-4805-a321-2120c755f3e6)"
     },
     {
       "id": "372509",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0dca5ad0-610d-43b0-87ee-1dad0249caab)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id beaea861-86cc-4541-ab73-136da0dea420)"
     },
     {
       "id": "372505",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8bae430f-84fa-45d8-b33f-a4a7d00cabe4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d1069680-17ce-46c9-8992-d0ff4822da1d)"
     },
     {
       "id": "372502",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f87f53dd-e7ac-49f6-b804-9db97c6aa66c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d1b775b-8a20-45d6-a40a-0a0a631296ea)"
     },
     {
       "id": "370613",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a4976ac1-8d33-4b7c-b8a1-c27709ecda0a)"
-    },
-    {
-      "id": "372015",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2308816d-3141-4462-aa82-cb892b656981)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 622b47ab-41b6-49eb-a88d-8dcaf1dbc15d)"
     },
     {
       "id": "370135",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b9fcf489-3217-4892-8e7b-8d710248d4f2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 06214aaf-7193-4d0f-bf37-36a54c126cdf)"
     },
     {
-      "id": "375337",
+      "id": "372015",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dc204f6e-ebf1-4af9-92fc-af9850af7d1b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e86e58ff-e3de-4c55-84a5-5ea889382665)"
     },
     {
       "id": "375188",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6f48dd44-f179-4e69-93f4-355ade361739)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 489a7c40-e16c-45e1-ae5c-4acde98b4f9e)"
+    },
+    {
+      "id": "375337",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 20165009-dbb2-4c5f-aaeb-c841ba9b4ceb)"
     },
     {
       "id": "373008",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c45b5864-58e1-4958-a8b4-a1cbcd9f5e3c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 360ee793-8d34-4c46-88d2-93a2e07c7a87)"
     },
     {
       "id": "372220",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9c751fbe-9816-4413-b0d5-99717937c959)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 51bc2adf-e255-47c1-9ad6-fcaa5eb050c0)"
     },
     {
       "id": "373487",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6314086b-5f2b-4544-897d-614ec17f9c8d)"
-    },
-    {
-      "id": "370260",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3e42f81f-9e7a-4202-99a9-9b879bdef386)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8308a020-2ff3-4293-a41b-80352ef75e7d)"
     },
     {
       "id": "371003",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 296282d8-7f78-49d1-b6c7-18d61d6bc535)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 84ed1a90-2980-4036-a08b-ca8fd51bffcd)"
     },
     {
-      "id": "370263",
+      "id": "370260",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e899986f-09e6-4ca1-999e-515c88a55bad)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4ed8fce7-c746-4b2c-84ff-384def749fe3)"
     },
     {
       "id": "370058",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 64ed359b-9e1e-4c3b-8572-5bcdbb4a76f4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b6d22c24-feae-4ae1-9e41-d839d2a9cf60)"
+    },
+    {
+      "id": "370263",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9aef442e-4f98-4a09-bd57-8d8113600ea4)"
     },
     {
       "id": "377658",
@@ -969,52 +959,72 @@ window.AJOU_NOTICES = {
     {
       "id": "369877",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 09dd9a11-cd91-4272-80f3-aaca45c7aab1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6fb24357-9b60-41e6-8b64-84bba27ef870)"
     },
     {
       "id": "369230",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 34f6bf71-e16d-4ffd-ae29-7d4de7907e9e)"
-    },
-    {
-      "id": "377588",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 891527a0-eca8-4264-a52e-edac0b9b1711)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 913d030d-7e44-4acc-8f71-ed96aec7f222)"
     },
     {
       "id": "377600",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 64195fef-48bd-4fb6-8fa1-bbff92b66ca1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3ddd39a6-2e76-4497-aa5d-96be6f4c7735)"
     },
     {
-      "id": "377587",
+      "id": "377588",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d0217bbe-85ec-4624-8c2b-8b2222a6c202)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b5b1e8c8-ee7f-48ee-af43-189a0066a460)"
     },
     {
       "id": "374920",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 75ab380b-86fa-4299-adba-8f5b79225d95)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e2a56424-1fae-4c75-8a80-b4d8209025f1)"
     },
     {
-      "id": "377594",
+      "id": "377587",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 66a3708b-f310-4c87-8854-bbee0057839d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 862981a4-53ee-4489-87e3-c5ff018b76e5)"
     },
     {
       "id": "370113",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 943392e1-a58f-478d-9732-b45c3b57dfe3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id bd65d9fa-9fbc-42e6-a97e-e12214be3b1d)"
+    },
+    {
+      "id": "377664",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 877c2d2d-890b-4c99-98db-d003586e233d)"
+    },
+    {
+      "id": "377672",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7f213985-e0f8-4468-9cfe-0189949395fe)"
+    },
+    {
+      "id": "377594",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dc89c6a8-6a02-426f-8a6e-c8acc0c58122)"
     },
     {
       "id": "377551",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a9566b1a-2824-47f5-9dde-d990189b14af)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d2109244-1c4d-4726-8e61-e88616c8ea6a)"
+    },
+    {
+      "id": "377663",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7c86fd25-5707-41cc-9144-38b3d010ba6f)"
+    },
+    {
+      "id": "377641",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c51bd3ab-f31f-4377-a1ef-aaeacbc1a3d6)"
     },
     {
       "id": "377541",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 95ece793-81ed-4768-a6b9-6cb2ffb97a64)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 935ebae4-4822-46e7-be81-cc19fafe8e0c)"
     }
   ],
   "items": [
@@ -1045,7 +1055,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-14",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "붙임1. 중간설문 매뉴얼(학생용).pdf",
@@ -1055,7 +1065,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/377459.ics"
@@ -1092,7 +1102,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-11",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "[붙임1-1] 2026-2학기 학위논문계획서 제출 안내.pdf",
@@ -1112,7 +1122,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/375650.ics"
@@ -1149,7 +1159,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-07",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "(한글) 2027 전기(정시) 석박사통합 학위과정변경 모집전형 안내문.pdf",
@@ -1181,7 +1191,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/377134.ics"
@@ -1215,7 +1225,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-06",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "붙임1. (BK21대학원혁신)국제공동연구 논문 게재비 지원 안내(2026).pdf",
@@ -1229,7 +1239,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/377021.ics"
@@ -1331,7 +1341,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-11",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "붙임1-1. 2026-2학기 논문표절예방시스템 사용 안내(국문).pdf",
@@ -1351,7 +1361,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/375643.ics"
@@ -1591,12 +1601,12 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-21",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [],
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1676,12 +1686,12 @@ window.AJOU_NOTICES = {
       "source": "学校综合公告",
       "board": "university",
       "published": "2026-10-13",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [],
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/377402.ics"
@@ -1715,7 +1725,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=download&articleNo=373075&attachNo=331155"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [
         {
           "key": "international",
@@ -1750,7 +1760,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1788,7 +1798,7 @@ window.AJOU_NOTICES = {
       "source": "外国人留学生",
       "board": "international",
       "published": "2025-11-05",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "2024 외국인건강보험 제도안내 리플렛-영문.pdf",
@@ -1806,7 +1816,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1836,7 +1846,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-04-02",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "(한국어)외국인 유학생을 위한 「성희롱·성폭력 SOS 가이드」.pdf",
@@ -1870,7 +1880,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -2094,7 +2104,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-07-30",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "2026학년도 1학기『K-STAR 비자트랙』우수인재 후보 선발 안내.pdf",
@@ -2116,7 +2126,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/373013.ics"
@@ -2191,12 +2201,12 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-07-21",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [],
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/372439.ics"
@@ -2228,12 +2238,12 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-07-21",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [],
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/372434.ics"
@@ -2264,7 +2274,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-28",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "[붙임1]_수강포기원(국문).hwp",
@@ -2278,7 +2288,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/376458.ics"
@@ -2378,7 +2388,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-07",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "(붙임2-1) 2026-2학기 대학원 종합시험 신청안내(학생용)(국문).pdf",
@@ -2394,7 +2404,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/375153.ics"
@@ -2431,7 +2441,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-02",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "[붙임1-1] 전적대학원 학점인정신청서(국문).hwp",
@@ -2455,7 +2465,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/374886.ics"
@@ -2488,7 +2498,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-08-21",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "붙임1-1. Information for exemption from foreign language test(학생 공고용).docx",
@@ -2502,7 +2512,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/373983.ics"
@@ -2534,7 +2544,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-08-20",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "[붙임1] 2026년 AISA(유실협) 우수장학 외국인 유학생 선발 안내 1부.pdf",
@@ -2544,7 +2554,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/373909.ics"
@@ -2816,7 +2826,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-03",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "[산학지원팀]연구자 대상 온라인 교육 MOCA-MOOC 수강매뉴얼.pdf",
@@ -2826,7 +2836,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/374925.ics"
@@ -2899,7 +2909,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2022-05-12",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "[2023 English Manual] Manual of Statutory Compulsory Education.pdf",
@@ -2909,7 +2919,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -2940,7 +2950,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-02",
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "attachments": [
         {
           "label": "2026-2학기(후기) 파안장학문화재단법인 장학생 선발 안내 및 관련 양식.pdf",
@@ -2950,7 +2960,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/374882.ics"
@@ -2968,7 +2978,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=376366&attachNo=334027"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 KRIVET学术会议举办通知",
@@ -2996,7 +3006,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3070,7 +3080,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=374546&attachNo=332468"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年第一届 LuvD 论文奖",
@@ -3099,7 +3109,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3356,7 +3366,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=372629&attachNo=330562"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年秋季学期选课及学业要求",
@@ -3386,7 +3396,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3430,7 +3440,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=372921&attachNo=330983"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年秋季一般大学院新生学号及校园证件办理",
@@ -3460,7 +3470,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3484,7 +3494,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=371875&attachNo=329741"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年秋季学期学位论文提交资格恢复申请",
@@ -3513,7 +3523,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3527,7 +3537,7 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-07-29",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "国际STEM研究生与研究人员调查",
@@ -3557,7 +3567,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3571,7 +3581,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-12",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年秋季学期 ACAT 考试监考人员招募",
@@ -3601,7 +3611,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3615,7 +3625,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-07",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "中央图书馆10月学术信息利用培训安排",
@@ -3645,7 +3655,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3660,7 +3670,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-07",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年大学教授学习与创新调查研究助理招聘",
@@ -3690,7 +3700,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3760,7 +3770,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-06",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026-2学期 AI素养课程期中考试研究生监考招募",
@@ -3788,7 +3798,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3910,7 +3920,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=download&articleNo=377016&attachNo=334585"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年国际共同研究论文发表费资助",
@@ -3940,7 +3950,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4005,7 +4015,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=download&articleNo=364213&attachNo=331320"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年度BK21大学院创新支持项目",
@@ -4034,7 +4044,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4133,7 +4143,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-11",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "理工科研究生职业规划专题培训",
@@ -4162,7 +4172,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4181,7 +4191,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=download&articleNo=375471&attachNo=333181"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "A-Scholar-Share 研究与经验分享计划：生成式AI研究应用案例征集",
@@ -4210,7 +4220,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-24T00:28:57.610339+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4274,7 +4284,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-08",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者专题讲座：从高维混沌到形状——非靶向挥发性分析的拓扑数据分析",
@@ -4302,7 +4312,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4358,7 +4368,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-07",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二届 A-3MT Competition 最终结果公告",
@@ -4386,7 +4396,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4483,7 +4493,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-08-19",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "协作式问题解决研究：从智能物件到智能思维",
@@ -4510,7 +4520,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4787,7 +4797,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者专题讲座：肺间质巨噬细胞与肺部免疫稳态",
@@ -4814,7 +4824,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4870,7 +4880,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "做好迎接有趣时刻的准备：海外学者特邀讲座",
@@ -4898,7 +4908,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4913,7 +4923,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者讲座：现代社会中主体与他者关系的危机",
@@ -4940,7 +4950,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5038,7 +5048,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "沟通、不平等与共同体：跨学科视角专题讲座",
@@ -5065,7 +5075,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5079,7 +5089,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者讲座：Phenikaa University的ALD研究介绍",
@@ -5107,7 +5117,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5357,7 +5367,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=file-download&articleNo=339252&attachNo=299463"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "申请校外奖学金推荐信办理指南",
@@ -5384,7 +5394,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5492,7 +5502,7 @@ window.AJOU_NOTICES = {
       "board": "scholarship",
       "published": "2026-07-31",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年度第二学期法学专业研究生助教招募",
@@ -5522,7 +5532,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5589,7 +5599,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=file-download&articleNo=372517&attachNo=330411"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "国际大学院勤工助学奖学金招聘",
@@ -5619,7 +5629,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5633,7 +5643,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第一学期导师及指导委员会申请",
@@ -5659,7 +5669,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5673,7 +5683,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2025学年度后期一般大学院招生（定期）",
@@ -5700,7 +5710,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5714,7 +5724,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期导师及指导委员会申请",
@@ -5740,7 +5750,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5754,7 +5764,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期外语考试免除申请期",
@@ -5780,7 +5790,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5794,7 +5804,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第一学期硕博综合考试日",
@@ -5820,7 +5830,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5834,7 +5844,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期退课／放弃学分办理期",
@@ -5861,7 +5871,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5875,7 +5885,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期课程日数四分之一节点",
@@ -5901,7 +5911,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5916,7 +5926,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2027学年度前期一般大学院招生（常规批次）",
@@ -5943,7 +5953,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5957,7 +5967,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期博士学位论文提交及审查费缴纳",
@@ -5984,7 +5994,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5999,7 +6009,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期综合考试日（硕士、博士）",
@@ -6025,7 +6035,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6039,7 +6049,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期硕博论文计划书提交",
@@ -6066,7 +6076,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6080,7 +6090,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期教学日数过半",
@@ -6106,7 +6116,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6120,7 +6130,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期硕士学位论文提交及审查费缴纳",
@@ -6147,7 +6157,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6162,7 +6172,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期课程日数达到四分之三",
@@ -6188,7 +6198,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6202,7 +6212,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期课程评价期间",
@@ -6228,7 +6238,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6243,7 +6253,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期成绩录入与提交",
@@ -6269,7 +6279,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6283,7 +6293,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期硕士、博士最终论文审查结果提交截止日",
@@ -6310,7 +6320,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6324,7 +6334,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期结课日",
@@ -6350,7 +6360,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6365,7 +6375,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期学位论文（硕士、博士）在线提交",
@@ -6392,7 +6402,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6406,7 +6416,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "学位论文提交资格恢复申请",
@@ -6434,7 +6444,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6448,7 +6458,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期外语考试（硕士、博士）申请",
@@ -6475,7 +6485,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6490,7 +6500,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年度春季学位授予日",
@@ -6516,7 +6526,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6531,7 +6541,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期外语考试（硕士、博士）",
@@ -6557,7 +6567,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6581,7 +6591,7 @@ window.AJOU_NOTICES = {
           "label": "[Journal Citation Reports]"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2025年JCR（2026版）最终确认通知",
@@ -6608,7 +6618,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6631,7 +6641,7 @@ window.AJOU_NOTICES = {
           "label": "📝 신청폼 작성하기"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "ICPSR海外量化资料使用培训",
@@ -6659,7 +6669,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6679,7 +6689,7 @@ window.AJOU_NOTICES = {
           "label": ""
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "新兴研究者国际论文发表策略线上研讨会",
@@ -6707,7 +6717,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6726,7 +6736,7 @@ window.AJOU_NOTICES = {
           "label": ""
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "面向研究生的 Reaxys 专题讲座",
@@ -6754,7 +6764,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6785,7 +6795,7 @@ window.AJOU_NOTICES = {
           "label": "교육 신청하기 →"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "中央图书馆2026年9月科研能力提升研讨会",
@@ -6813,7 +6823,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-24T00:28:57.610339+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6833,7 +6843,7 @@ window.AJOU_NOTICES = {
           "label": "제출전 점검사항"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年8月硕博毕业生学位论文数字文件提交指南",
@@ -6862,7 +6872,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6881,7 +6891,7 @@ window.AJOU_NOTICES = {
           "label": ""
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "9月图书馆利用教育申请通知",
@@ -6910,7 +6920,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6924,7 +6934,7 @@ window.AJOU_NOTICES = {
       "board": "library",
       "published": "2026-05-28",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "JCR 平台 IP 登录故障及服务恢复通知",
@@ -6951,7 +6961,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6971,7 +6981,7 @@ window.AJOU_NOTICES = {
           "label": ""
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "6月图书馆利用教育报名通知",
@@ -6999,7 +7009,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7019,7 +7029,7 @@ window.AJOU_NOTICES = {
           "label": ""
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "Wips On 专利检索数据库使用培训",
@@ -7048,7 +7058,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7157,7 +7167,7 @@ window.AJOU_NOTICES = {
       "board": "college",
       "published": "2026-09-11",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "TmaxTibero研发岗位招聘",
@@ -7185,7 +7195,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7642,7 +7652,7 @@ window.AJOU_NOTICES = {
           "label": "2025 JCR 확인하기 [클릭]"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2025年JCR（2026年发布）上线通知",
@@ -7670,7 +7680,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:55:32.438295+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7717,7 +7727,7 @@ window.AJOU_NOTICES = {
           "label": "신청하기"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年第二学期 KSDC DB/ICPSR 使用培训",
@@ -7745,7 +7755,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-24T00:28:57.610339+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7759,7 +7769,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-10-19",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年第二学期校费借款分期偿还安排",
@@ -7788,7 +7798,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7846,7 +7856,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-19",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "ACAT考试监考及进行TA招募（申请延期）",
@@ -7876,7 +7886,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7890,7 +7900,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-19",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 Ajou国际日：世界美食节与才艺表演招募",
@@ -7920,7 +7930,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7990,7 +8000,7 @@ window.AJOU_NOTICES = {
           "label": "신청 바로가기"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年法律数据库使用培训",
@@ -8019,7 +8029,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8043,7 +8053,7 @@ window.AJOU_NOTICES = {
           "label": "SciVal 접속 및 계정 생성 안내 보기 ↗"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "SciVal研究趋势分析培训与挑战赛2026",
@@ -8070,7 +8080,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8179,7 +8189,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-20",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "SciVal研究趋势分析培训与挑战赛2026",
@@ -8206,7 +8216,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8237,7 +8247,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=376516&attachNo=334163"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年韩国消防产业技术院正式员工招聘",
@@ -8264,7 +8274,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8278,7 +8288,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "开天节替代休息日",
@@ -8304,7 +8314,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8319,7 +8329,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "韩文日（公休日）",
@@ -8345,7 +8355,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9071,7 +9081,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-16",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 Ajou International Day 志愿者招募",
@@ -9099,7 +9109,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9169,7 +9179,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=file-download&articleNo=377546&attachNo=335112"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "国际冬季学校短期勤学奖学生招募",
@@ -9198,7 +9208,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9254,7 +9264,7 @@ window.AJOU_NOTICES = {
       "board": "scholarship",
       "published": "2023-05-16",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "奖学金与学费贷款综合指南",
@@ -9284,7 +9294,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9307,7 +9317,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=file-download&articleNo=376668&attachNo=334308"
         }
       ],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年第二学期“바르게/1-1-1 캠페인”奖学金申请",
@@ -9335,7 +9345,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9349,7 +9359,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "中秋假期（含补休日）",
@@ -9375,7 +9385,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9390,7 +9400,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "开天节",
@@ -9416,7 +9426,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9430,7 +9440,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "元旦",
@@ -9456,7 +9466,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9471,7 +9481,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-10-27T11:07:06.052139+09:00",
+      "fetchedAt": "2026-10-27T18:04:59.105196+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "春节假期",
@@ -9497,7 +9507,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-10-27T11:07:06.052139+09:00",
+      "lastCheckedAt": "2026-10-27T18:04:59.105196+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10407,1006 +10417,994 @@ window.AJOU_NOTICES = {
   ],
   "pending": [
     {
-      "id": "369657",
-      "board": "graduate",
-      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=369657",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 43fc9544-279b-47bc-809a-2d880d125b92)"
-    },
-    {
       "id": "376934",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376934",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec54bd0c-bc6a-49de-a198-3c66760a8705)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d38700c2-3872-4ab5-bdaa-70b0aa9628e0)"
+    },
+    {
+      "id": "369657",
+      "board": "graduate",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=369657",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 714a9782-5679-46dc-a46f-2e302a304f92)"
     },
     {
       "id": "376506",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376506",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b587dfeb-6434-498b-a326-5c879c7b28f3)"
-    },
-    {
-      "id": "377926",
-      "board": "graduate",
-      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377926",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 594bbf38-d46a-4477-a362-b3316f51fc88)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 95cf3782-51bf-4bca-83a6-6b4ff95d6093)"
     },
     {
       "id": "377425",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377425",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 25b1d424-1e56-4cdf-ae72-268d2536eb3b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5d7445be-1b21-42de-af2f-4ac72d117312)"
+    },
+    {
+      "id": "377926",
+      "board": "graduate",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377926",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a5d5e116-57c2-4267-8001-2336f7d6f7da)"
     },
     {
       "id": "377426",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377426",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 43549bb6-7696-4c0b-abe3-a10d6ca1614b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 503c4b18-2555-4bcb-a796-a593c64f9df8)"
     },
     {
       "id": "376256",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376256",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4e9e7c81-f832-4174-bd6d-cafbbac68e59)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 26b702b1-992d-47b1-bf75-9b806953502c)"
     },
     {
       "id": "377337",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377337",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 968bfa2f-87b9-4f7f-ae61-f96fc2b50377)"
-    },
-    {
-      "id": "376367",
-      "board": "graduate",
-      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 31ab2678-6c71-4eff-8efb-d444c4b1673f)"
-    },
-    {
-      "id": "376054",
-      "board": "graduate",
-      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376054",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2b145fcc-6061-4f4a-90a5-830e4a4beb18)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 328814dc-ec84-4e53-914c-fd28f8deab2b)"
     },
     {
       "id": "376048",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376048",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 22a189e7-568c-4620-848b-27bc7fa5e817)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5e8b9de5-1c34-4868-b06e-6fa8fa5103e1)"
+    },
+    {
+      "id": "376367",
+      "board": "graduate",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 379c22e3-f84d-485d-991f-470941b5d7a5)"
+    },
+    {
+      "id": "376054",
+      "board": "graduate",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376054",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1eaa6e3b-56f3-481e-8d9c-66263de1050c)"
     },
     {
       "id": "375924",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375924",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 987039d0-807a-4838-9589-a83ccd3e086a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2a18c10c-4d6b-467e-a44a-7e746568b49b)"
     },
     {
       "id": "375919",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375919",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a305b26f-bc4f-4185-8816-d2a65356d1dd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e1b53167-8a24-4a1c-9606-c6f77e574f61)"
     },
     {
       "id": "375801",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a48d9cd2-d1fb-4182-a250-53ef49dedfed)"
-    },
-    {
-      "id": "373219",
-      "board": "international",
-      "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=373219",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 76660913-3db3-474d-904f-78d49dcf7356)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 274efb01-b30d-4557-b5b6-474c39f22d8d)"
     },
     {
       "id": "298592",
       "board": "international",
       "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=298592",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e7030081-57d4-4e44-882f-a4c2371665f2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id db99603c-5d71-4cec-9430-a4dc0debafaf)"
+    },
+    {
+      "id": "373219",
+      "board": "international",
+      "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=373219",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 55f1a2f2-1df1-4e1d-99ea-735ea490251f)"
     },
     {
       "id": "370527",
       "board": "international",
       "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=370527",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 445efa8e-8a42-40df-9c6e-fde1532a7ed8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 99e058fe-1a52-4546-ae81-cc1f75b32777)"
     },
     {
       "id": "377619",
       "board": "oia",
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=377619",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b8cbcd17-328a-4a63-ae3f-6be142dbe14b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 018f3ff4-91b6-434d-aaa8-4b25f33211dc)"
     },
     {
       "id": "369355",
       "board": "international",
       "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=369355",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0671b1ed-aa1b-457a-a2ac-415dd43fa6ad)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b4a00b54-f2c6-44a1-a79e-734604d4d78a)"
     },
     {
       "id": "377983",
       "board": "oia",
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=377983",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e1ce3f05-e818-4c36-b5af-e04f2cf6a05b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id aa360ea0-26c8-4bc8-a53c-07241f0bb2ec)"
     },
     {
       "id": "376963",
       "board": "oia",
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ef861a7b-b71c-4e84-b14f-fbbd9a2db77d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e3619b1c-4693-4215-a742-34ce08a3659d)"
     },
     {
       "id": "371987",
       "board": "oia",
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=371987",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6a637c45-178f-437a-92b5-8bcb11809946)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0f85b8d5-9a68-4631-b62d-a388687ac795)"
     },
     {
       "id": "376961",
       "board": "oia",
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376961",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c86fa887-a81d-4d4b-8957-a58b7c947113)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id bd6ec66c-5061-49c6-acf1-d392f4e8e131)"
     },
     {
       "id": "370987",
       "board": "oia",
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=370987",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 287a2151-52fb-41e4-a841-ff60585dcfda)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5745bdb8-2116-4265-ace5-d629b29a671c)"
     },
     {
       "id": "377523",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377523",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e96a55d6-8b09-4faa-a78a-6ff78f8510d9)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 60618b0d-fb3d-48a3-8b88-a246cf502943)"
     },
     {
-      "id": "378021",
+      "id": "378090",
       "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378021",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cc4c704c-e3a3-4192-a13a-aed69dcc6d88)"
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378090",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0dc051ce-8e39-484f-8678-a0554b7391c3)"
     },
     {
       "id": "373746",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=373746",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07571048-6b69-4caf-8065-a2d545c9213b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 02623713-5c66-4f3e-9163-7d1ff1e8287c)"
+    },
+    {
+      "id": "378083",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378083",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ff095cc5-6524-41ea-8c39-59e33db4d23e)"
+    },
+    {
+      "id": "378040",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378040",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1e24d29f-15d0-4cae-b019-e976d96dd547)"
+    },
+    {
+      "id": "378071",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378071",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 26e69e0a-f76d-49d4-bf00-5441bfb60525)"
+    },
+    {
+      "id": "378021",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378021",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id beb17e93-f48d-45d6-b999-c9eeec380e73)"
     },
     {
       "id": "378018",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378018",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dccf4d1e-5a89-4875-bde9-cba3b4234135)"
-    },
-    {
-      "id": "378005",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378005",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5a54fb11-043a-4f48-a42e-2c7cb1d33f83)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 35954d27-c651-4563-b96c-3da63190f811)"
     },
     {
       "id": "378019",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378019",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 404d3327-3e72-4608-950e-97053c57f38c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b6427267-c29b-473d-b7a9-5074ef0525a0)"
     },
     {
       "id": "377999",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377999",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 28db4163-3e94-41bc-a1d8-ac6b927758a2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5e555a51-5415-409d-9d8a-16819495f421)"
+    },
+    {
+      "id": "378005",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378005",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d1a3814e-5821-4923-8732-fdd41e1bfcf4)"
     },
     {
       "id": "377970",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377970",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 34bbf9ee-f7c7-46c3-8730-5760ed8fa7a6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d3f19e3b-cb42-41a5-b868-c8c21e6bda45)"
     },
     {
       "id": "377967",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2cf8bb33-a7d1-4b82-9420-bf60db751dd8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 501be736-5baa-4ce8-bccd-1c88278811ba)"
     },
     {
       "id": "377966",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377966",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ee86b2cc-c1a9-4b8a-b79a-f73eee86f38a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ae05afa8-2919-4d34-ac4d-fcb5a2495b1e)"
     },
     {
       "id": "377941",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377941",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2d7abdb8-e2a2-4728-9974-5bf50a6f7000)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0f42519a-fcd3-4a7c-8b81-27ed560cd611)"
     },
     {
       "id": "377939",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377939",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1222ffed-4316-44b8-9234-c09207a04c2a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 002bdff0-4238-4753-9142-bbddc8e126cc)"
     },
     {
       "id": "377930",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377930",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 44506683-fa9c-419d-b563-c6b91015e4e3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2bb654d4-4a67-44fd-8656-f33fa17b5304)"
     },
     {
       "id": "377913",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377913",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6e4b7cf5-12be-4ee6-afe6-bc437dfb1b7b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0fdbeef6-48a6-4538-98a7-358633ca244d)"
     },
     {
       "id": "377911",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377911",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4a7d047a-25a2-4612-b839-e41b646efcec)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8c19938f-4a2e-490c-b27f-3754f85250b5)"
     },
     {
       "id": "377908",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377908",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8971cf22-9d66-4cfb-8375-ffda95f18f52)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e70bd0fc-eb73-486c-939a-771456b7e391)"
     },
     {
       "id": "377906",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377906",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6dd6cfc3-f072-4017-883d-c02d58af3cec)"
-    },
-    {
-      "id": "377896",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377896",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 59efcd60-e57f-40a6-bf5e-34c6ca59b7db)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 18c048ad-9d8c-4f4c-b919-9a436dee7145)"
     },
     {
       "id": "377872",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377872",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1ac42e98-17e9-44be-bdd9-215934d13d8c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0ced81c7-c726-402b-b91b-dc1341f4aee8)"
     },
     {
-      "id": "377870",
+      "id": "377896",
       "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377870",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1e6c88f9-c121-4a90-a225-617467bd88f8)"
-    },
-    {
-      "id": "377862",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377862",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e3a55d41-0be1-46fe-8b65-e0fcfcf2fd28)"
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377896",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 606aad31-bf5a-415a-90a9-e1e722ca5c28)"
     },
     {
       "id": "377871",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377871",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0d9750d2-30e3-4a4b-992e-5c3bea45560c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e80e7dd2-2427-432f-a162-ee7245538abd)"
+    },
+    {
+      "id": "377870",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377870",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 205c80fe-c65b-4946-ad9c-cec5dcda468f)"
+    },
+    {
+      "id": "377862",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377862",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9553a90f-f8e1-414b-9ddf-3f2b7dafa507)"
     },
     {
       "id": "377855",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377855",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2248d6bf-5419-40a8-aaac-85660f69fa0b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d201e7d9-5dfa-42f6-b139-2aa32b6b4aef)"
     },
     {
       "id": "377852",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377852",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3d429a75-3bc3-4e51-ba91-16754f143328)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id eef73c49-d841-468e-8965-15a606e555cb)"
     },
     {
       "id": "377843",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377843",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 64231671-2d95-4731-9b64-0ab2ba5263f1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b23a2db8-e55f-4e4f-92ad-ecf034a3e0da)"
     },
     {
       "id": "377842",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377842",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a3f8c748-42ec-4398-b536-84d7a9ec3f94)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 492b4fbb-0609-489e-b324-fd6f9af470b8)"
     },
     {
       "id": "377825",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377825",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e0df377f-90dc-482c-9479-413c453de8cd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 88ba490f-748f-4bf4-b267-0e369ed772de)"
     },
     {
       "id": "377823",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377823",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9639ca7c-20bb-49d5-936d-d8cd46b86d68)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 72c1a29b-f70e-481a-add9-4db3cfc18959)"
     },
     {
       "id": "377802",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377802",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2d7a1845-77cd-48be-be31-7e2f5058c697)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e4075b58-fc59-4644-be59-2e97a910da5f)"
     },
     {
       "id": "377771",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377771",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2b35658e-ffea-4cac-a28e-8701e1a28ce7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1a41d884-fb26-471c-8c7f-4237032cb80a)"
     },
     {
       "id": "377770",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377770",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ba9587b5-eef1-4d6b-ae84-53a7281061fc)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id faffdeac-8574-4278-a234-e2966e165fc0)"
     },
     {
       "id": "377768",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377768",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a04b9206-ecf8-4156-9de9-17135cbd53c8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f1717208-dd06-45ad-8a3a-bb2296465aa5)"
     },
     {
       "id": "377761",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377761",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6aa5d036-c37e-45e7-a7bc-c122e0c5c40b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d61c2a4-1831-4cc3-a5d7-c0bbf790a9f8)"
     },
     {
       "id": "377755",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377755",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7b15a8a6-73a8-411a-baba-e934644f985c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6e7bf535-528c-4ea6-969f-98dedbb4815a)"
     },
     {
       "id": "377753",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377753",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fd21761e-7fdd-49f9-8f7a-ce982fdbed63)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c6cf0077-1770-4461-a9e4-00e3ed11810d)"
     },
     {
       "id": "377750",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377750",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0b2a520d-2312-4c53-9c98-9414d0571197)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2dc28913-1420-41e0-a0b7-c0997cb82779)"
     },
     {
       "id": "377741",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377741",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b91d29cb-5287-434d-a991-1c2fa048e8ed)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 640f40cc-3a26-4272-a4dc-03c90b0bc5cb)"
     },
     {
       "id": "377732",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377732",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 203a9f17-7a7b-4eb9-884c-9235b6ff0884)"
-    },
-    {
-      "id": "377731",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377731",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7ce51e52-d741-41e5-9095-06e447c4954f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 62dd65f9-0af8-4fb0-8100-a54e4672e777)"
     },
     {
       "id": "377723",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377723",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9c861b72-5057-42e3-a4b7-bdb694622c90)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id aee17f69-439d-4a7f-a052-3c9ffd39da0a)"
+    },
+    {
+      "id": "377731",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377731",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1a7d29e5-0c9f-4b90-81a7-08d8bbe6cc76)"
     },
     {
       "id": "377719",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377719",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 81a0a9d7-45fb-4a38-8609-290802903690)"
-    },
-    {
-      "id": "377672",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377672",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 380398e6-36b6-4361-b9ed-411b7e06490d)"
-    },
-    {
-      "id": "377664",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377664",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d513a387-1066-47e9-8f4f-47f987764d95)"
-    },
-    {
-      "id": "377663",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377663",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id da0a39d0-85e0-47c9-88d4-e3c92a4a403b)"
-    },
-    {
-      "id": "377661",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377661",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4c024bf5-cad9-42fa-a16f-8373b3b314cc)"
-    },
-    {
-      "id": "377655",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377655",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8e3c3006-a651-470a-b471-339525757417)"
-    },
-    {
-      "id": "377639",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377639",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 213c1a49-6c60-4a36-beb0-420a3dec20ae)"
-    },
-    {
-      "id": "377641",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377641",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0f3a675a-11cb-4259-9c8f-266b6e8d30f4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 41455a4c-3c05-44ab-8001-ce7d66b00573)"
     },
     {
       "id": "377183",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=377183",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c1466761-31b4-4e04-ab6b-8168b896b756)"
-    },
-    {
-      "id": "377427",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=377427",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2e6baf21-a060-414a-b31b-10a5ef33f578)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 72f883e3-898a-4bc2-b826-83e328c0f4fa)"
     },
     {
       "id": "360568",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=360568",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5003dc87-bcd5-4d49-8752-4a84d8e5fec9)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f094ee45-f825-47f3-9e6c-3619c72f0dfc)"
+    },
+    {
+      "id": "377427",
+      "board": "graduate_en",
+      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=377427",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fc8e905e-8afb-4452-acb7-a02b5568a8d0)"
     },
     {
       "id": "377101",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=377101",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7e5d028a-937b-45c1-82b7-140629d66d3b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7a306ba7-1a65-41ad-83fc-74c32b5db06b)"
     },
     {
       "id": "376257",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=376257",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2db9d22f-ebd2-4b2d-adde-befee3bf6765)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id be07c0e1-902b-4c37-9729-66a09a32967c)"
     },
     {
       "id": "375925",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=375925",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 800facf1-e78c-4264-b9e8-fe9e033f64e3)"
-    },
-    {
-      "id": "376052",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=376052",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 014fe589-68e5-421d-b040-80a6151383e5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8b9014bc-6c01-4ebf-a456-75c1f94e3d18)"
     },
     {
       "id": "375923",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=375923",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7ba8ce47-5c5a-42f7-b1cb-e53f00a94ae1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d375854-8022-4ff6-9b21-77175f54e4a7)"
+    },
+    {
+      "id": "376052",
+      "board": "graduate_en",
+      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=376052",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cdddfd67-8677-4274-9890-623fe3bd7b13)"
     },
     {
       "id": "375920",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=375920",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0b944220-5c22-4f07-a58f-79fc4fdd8152)"
-    },
-    {
-      "id": "375392",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=375392",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5a0530d2-ea9a-425b-a119-0d89e143d8e6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c8bce8d4-0d89-4aef-b703-71cd0afa670e)"
     },
     {
       "id": "373908",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373908",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id eda1b7b2-736c-4b6a-a14a-daf149b7a5a7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0ce23e05-e4f6-4b36-97ce-0290e9c4a74b)"
     },
     {
-      "id": "373535",
+      "id": "375392",
       "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373535",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 56767c43-c151-45e6-9b18-b3f8e146fdda)"
+      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=375392",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f57be96e-f6ee-4b4e-928f-585a744ec843)"
     },
     {
       "id": "373483",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373483",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 60b689f0-43eb-4e25-804e-55700b503e65)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f6d36fcb-54db-4460-82f5-276ef26dd8f7)"
     },
     {
       "id": "373342",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373342",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07e09f84-33ba-43b0-9ed7-5f2bd124d9ee)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8c865454-f9c3-4881-b4ed-7d7b6d3cea8e)"
+    },
+    {
+      "id": "373535",
+      "board": "graduate_en",
+      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373535",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b925895e-6c5b-40ee-92bc-dccd3108ab69)"
     },
     {
       "id": "373172",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1bfd7527-d8a0-4370-a5b3-aaf48343738d)"
-    },
-    {
-      "id": "365143",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=365143",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 697dd76d-6367-46ff-8c1c-d7130b01c7b1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 673c655a-b966-4e09-88b1-3c74cdbdd06c)"
     },
     {
       "id": "364643",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=364643",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d291e926-c77b-46af-858c-df1f8486e9bb)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5027fda7-9729-4ad3-8007-5c9b8930f3f1)"
     },
     {
-      "id": "377335",
+      "id": "365143",
       "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377335",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1227c967-ee17-4f3b-a6df-57eee54b585f)"
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=365143",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 74d1ab54-6843-4dcc-ab95-c7f5e2b39932)"
     },
     {
       "id": "375647",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=375647",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 809739d6-16b5-4902-8796-4c0b8d597a4f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 55946487-8bfc-4572-b4d0-af123b2e2e8f)"
     },
     {
       "id": "377232",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377232",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b2d2b54a-7479-460f-a076-522055a4a935)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4c03ca4b-a2a4-4a34-9970-ce7cf92746b1)"
+    },
+    {
+      "id": "377335",
+      "board": "innovation",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377335",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 53675460-4ccc-4cdf-acf2-e88fadc60de5)"
     },
     {
       "id": "375247",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=375247",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 66c4c1c9-1cc1-41c2-ab6b-0e28c68113f6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 36b9bd50-3ce4-493d-9827-c897e4f80d04)"
     },
     {
       "id": "374776",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=374776",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6a23a81e-5ed4-474e-a515-25d967b86c5a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1b9f9fa8-2bdb-4c9b-9c03-88be98b20143)"
     },
     {
       "id": "375261",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=375261",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8527360a-9492-4316-8b59-da8ccb7f24ce)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c288b932-e13f-4b15-a5e7-9d4901de7d30)"
     },
     {
       "id": "373879",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373879",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1fb3391e-2730-4816-b0b4-4c2f8fbc37dd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 39cd0b56-a1e2-49e6-860f-4c96475874ed)"
     },
     {
       "id": "373878",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 86aed09b-8d35-4b7d-abcf-1d105d1b1eb6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec1decdc-7946-4247-bb25-09567796e27e)"
     },
     {
       "id": "373850",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373850",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5bb15ccb-9aaa-466e-ae14-084e090b47af)"
-    },
-    {
-      "id": "372846",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 137a4ea2-860a-4544-a343-89078eaa26d4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6fb7a6dc-15ca-4691-becc-080101f16b05)"
     },
     {
       "id": "372516",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372516",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4400014a-050d-4e8e-a652-5a5d0277708a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5972da23-591a-4e5a-8a83-906672658b2c)"
+    },
+    {
+      "id": "372846",
+      "board": "innovation",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b3d4bfb9-a6a3-4ee4-aa07-6b2f3eac6518)"
     },
     {
       "id": "373559",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373559",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 63deb73d-87bb-4191-bf5f-5edaaeceaa24)"
-    },
-    {
-      "id": "372514",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372514",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7fdc94f2-8c28-4d5c-9c2e-7fa5ed7dc06c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c9925f17-b2b2-484f-a2c4-74a5a4e02657)"
     },
     {
       "id": "372512",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372512",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c7532361-a9bc-4ec3-ae7d-247a35de91e5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0f04ce71-fb02-4988-9cf8-f0b685fd15f3)"
     },
     {
-      "id": "377860",
+      "id": "372514",
+      "board": "innovation",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372514",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3f3d60ae-aaa5-4b34-93fa-0bd1aabd2bc5)"
+    },
+    {
+      "id": "378058",
       "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377860",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 318f2b44-d5aa-486e-893b-01134b4b30e1)"
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=378058",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0d395a00-e7c2-4f46-a790-5fd673471188)"
     },
     {
       "id": "377730",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377730",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f7c85948-d962-439d-9b45-8419919a40a3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7106032d-eb22-40a8-9bf4-1f5255b33ba9)"
     },
     {
       "id": "366852",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=366852",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0149f02d-a8aa-481a-beca-1c33cf93e1ad)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 305b760a-9b44-43d9-b4bd-d5352cced1b3)"
+    },
+    {
+      "id": "377860",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377860",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9af1aa80-e04e-4e0c-9a83-42b4902576d6)"
     },
     {
       "id": "377873",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377873",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cd75fcf8-f3ed-4025-8302-bcd304e96ee2)"
-    },
-    {
-      "id": "377824",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377824",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 10c0705d-5970-413a-99a7-a86f39d00538)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 74108e34-2f9f-4863-9d6e-af56cf41ba83)"
     },
     {
       "id": "377769",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377769",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 67e9ca54-533c-48fc-bf3b-0ab029c1cdd1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c6e9b782-eb67-4d78-afea-2c2fcc6950f7)"
+    },
+    {
+      "id": "377824",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377824",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5566dbd7-b4ae-4246-8d81-beabf99667a7)"
     },
     {
       "id": "377722",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377722",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d04322e6-6d3f-4338-8267-818271ef8ebd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 924783ea-a61b-49b1-af77-79976ff19dcf)"
     },
     {
       "id": "377718",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377718",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2d059417-1391-45f2-be44-5e30c21c93f5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dd962dca-c1c9-4bc9-8ebf-5e89e1efb5ce)"
     },
     {
       "id": "377668",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377668",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d435d751-1a26-4314-837b-a7d00de9c847)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fbb65e6f-6d4b-4335-81f2-073fb68f9add)"
     },
     {
       "id": "377613",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377613",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 76b0d7fc-5b01-4115-aea5-4b2f2f2ea9c8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 743b5266-1340-46df-8204-558c965ac194)"
     },
     {
       "id": "377612",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377612",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7b58c1ea-16c7-4300-b0b8-ad09bd654120)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e5430afc-37c5-484a-b7f9-8e799064b462)"
     },
     {
       "id": "377470",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377470",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 36825b38-1235-469f-b048-0cb8396e6d7c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 278e8a2b-35fd-4960-9eaf-dd9424e7d6a0)"
     },
     {
       "id": "377206",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377206",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8227c0b4-dffd-4e33-b81e-c9e4be9a87c2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fedc2f4f-baf2-4df7-b113-3a4bf4f91999)"
     },
     {
       "id": "377204",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377204",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8a9e3b4d-a612-4517-be01-ea30b0cb9975)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 38393124-a781-4dc2-a7fc-9e195c89a61a)"
     },
     {
       "id": "377176",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377176",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 40db43b1-b49e-40c0-b2c7-f199ae435211)"
-    },
-    {
-      "id": "377120",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377120",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07d34f52-5bbd-4db3-9df9-b024d5d9e7e2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fb70be70-78e3-4594-a74e-b01154c1a068)"
     },
     {
       "id": "377087",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377087",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 839b049b-bcde-414d-b06d-2738ec19d526)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dd30a225-62e5-473b-a6a4-dd83c081970f)"
+    },
+    {
+      "id": "377120",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377120",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b17003f2-c419-421d-9ee6-5ddbd9b1634a)"
     },
     {
       "id": "377085",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377085",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b12fa5e4-b3b8-4152-89c2-4284182b2017)"
-    },
-    {
-      "id": "376957",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=376957",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9d1ce314-0787-479c-85cf-3ff409d095c1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5642ff4c-dc56-4030-bfeb-0e59123248be)"
     },
     {
       "id": "376795",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=376795",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a031dd52-3098-4b07-bf57-1f2553c43497)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5f8717e7-d0d6-4729-9be3-4d72089815ed)"
+    },
+    {
+      "id": "376957",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=376957",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1c796cbe-a1cc-44b5-b277-9c43386c61fb)"
     },
     {
       "id": "376788",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=376788",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0b6c3a4f-8a4f-4b48-ab88-706028a7a726)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 05722900-a703-4642-b271-769e65635ad1)"
     },
     {
       "id": "377451",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377451",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2e84cf8a-3a42-4f8e-9bf1-14fdd5ed5fe4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d506b7a3-fd6a-4705-8b88-2ce1c640cb21)"
     },
     {
       "id": "377358",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377358",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5f9d1948-ed7f-49c1-bd44-44ff91bc9663)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9f37a815-763d-49e5-becb-65c39f961df4)"
     },
     {
       "id": "372474",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=372474",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id afae93c1-dac5-40d7-93cb-35d78511e4f4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 00762530-55c4-473e-9e38-481332b0e45e)"
     },
     {
       "id": "377927",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377927",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cc9f01e6-32fa-4040-b0f4-9da6c6f7be29)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b458ea2d-3859-45e9-8589-4e40f3f2f82b)"
     },
     {
       "id": "377644",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377644",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fbc1d767-2ad5-494b-89ad-06f37979cb44)"
-    },
-    {
-      "id": "377363",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377363",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 921deea2-3bf7-4087-ab42-d5a6c7430303)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c2de2cb5-2e03-49e3-a2db-cdaf5dd426aa)"
     },
     {
       "id": "377211",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377211",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 74614a95-a51e-45ef-9976-9746966b3fb0)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 705c1b85-cfcd-40de-9049-c5170f985eed)"
     },
     {
-      "id": "377119",
+      "id": "377363",
       "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f528b006-e8d9-447a-922d-deec2a5ad444)"
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377363",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b3aa1a28-55e1-4644-b1a0-3160c6f645d7)"
     },
     {
       "id": "377210",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377210",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f81e581d-dd58-4380-90b7-acbed66a7659)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 48e8130d-c93b-459d-b146-edb2ce363c97)"
     },
     {
       "id": "376905",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=376905",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4b7860c0-4fb9-414c-8a35-5b82d5d4ce71)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id abd65ec8-8fa9-4745-be00-56cba27bfe31)"
     },
     {
       "id": "376775",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=376775",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f3171c5b-d525-4ab3-bd90-264ae81f03ea)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ccda214e-c6ee-43d9-99c3-9c6f0363dca6)"
+    },
+    {
+      "id": "377119",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4a34e3d3-4c82-47a6-b7e7-6088affab3a7)"
     },
     {
       "id": "376494",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=376494",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b0cbb7bf-1669-432f-9ab9-d90663372c64)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 54075527-668b-400d-a985-92e7f80573f7)"
     },
     {
       "id": "376493",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=376493",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec910ef1-381c-4610-bfa8-298211384269)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 782e6521-abe5-46c2-a7a8-7dce4278823f)"
     },
     {
       "id": "375849",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375849",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7783f625-5cdc-4041-b388-5ee5f45dc4a4)"
-    },
-    {
-      "id": "375368",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375368",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 360c4a28-3001-424d-a189-32278b78940e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a6ae4463-45f9-4366-bca8-d93d0f44af23)"
     },
     {
       "id": "375097",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375097",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f3f38c19-70be-4460-af1a-bbb5611f66f6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9b3d5c7a-0463-4206-94fa-c023607b1d8d)"
+    },
+    {
+      "id": "375368",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375368",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5cfe65fd-2c3f-46e9-96e7-9240bc75dbea)"
     },
     {
       "id": "375085",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375085",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a5130ca8-911e-4553-a35f-05f56fb9338a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2ab6f8bc-2dd8-42f2-a050-10991c85aa97)"
     },
     {
       "id": "374809",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=374809",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 82b0a8cb-1ec8-4ee3-b2f3-6719b1fd1adc)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3b1d89ec-0d10-4a3b-ad4f-f31cd2b726c8)"
     },
     {
       "id": "374381",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=374381",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0cde1917-bf35-41c7-af55-6e08e480800f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 193d9807-7904-4555-a292-b00c20d0c85a)"
     },
     {
       "id": "375378",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375378",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cec4764b-d93a-4bb7-864b-efa31de93272)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 356e30b6-9d88-4b8e-8bb2-bb3fc5bbe4c0)"
     },
     {
       "id": "371908",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=371908",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 77c37a73-30b6-4291-95ae-66a3ad122755)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 855b7439-fed1-4f9a-b6b5-179434676dec)"
     },
     {
       "id": "372715",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372715",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c7072928-8905-47fc-bb36-fd1c59b5bd48)"
-    },
-    {
-      "id": "377499",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377499",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 527c1781-ce76-4f42-8d5b-336bf36ab7d0)"
-    },
-    {
-      "id": "377439",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377439",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0be601bf-d912-4533-9116-d93d83f58964)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c0ec6123-337b-4243-978e-fa3cad5f868f)"
     },
     {
       "id": "375263",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375263",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1ca5f0a7-70b4-437f-b2bc-aa0ce22f005b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dba7788b-5f12-42a0-a2ce-49f5cb9d58f0)"
+    },
+    {
+      "id": "377439",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377439",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec47924a-d8ca-45d3-9b62-c756f8e8cbaa)"
+    },
+    {
+      "id": "377499",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377499",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 180f86be-6c5f-41de-82e0-5fef0787363b)"
     },
     {
       "id": "372714",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372714",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3d9e34a8-a987-4392-8196-02c56b76a0d8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 14e7c1ff-d04e-413c-80d2-106ddab2a8c2)"
     },
     {
       "id": "377025",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377025",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fe3912b0-7955-4c1f-815c-03f28d677f87)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3037658b-9b2d-4060-9155-3cef862f9d7b)"
     },
     {
       "id": "372508",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372508",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 61cf6596-9530-41ae-b7d8-664a424d864e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8cad8653-a65c-4805-a321-2120c755f3e6)"
     },
     {
       "id": "372509",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0dca5ad0-610d-43b0-87ee-1dad0249caab)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id beaea861-86cc-4541-ab73-136da0dea420)"
     },
     {
       "id": "372505",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372505",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8bae430f-84fa-45d8-b33f-a4a7d00cabe4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d1069680-17ce-46c9-8992-d0ff4822da1d)"
     },
     {
       "id": "372502",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372502",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f87f53dd-e7ac-49f6-b804-9db97c6aa66c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d1b775b-8a20-45d6-a40a-0a0a631296ea)"
     },
     {
       "id": "370613",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a4976ac1-8d33-4b7c-b8a1-c27709ecda0a)"
-    },
-    {
-      "id": "372015",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2308816d-3141-4462-aa82-cb892b656981)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 622b47ab-41b6-49eb-a88d-8dcaf1dbc15d)"
     },
     {
       "id": "370135",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370135",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b9fcf489-3217-4892-8e7b-8d710248d4f2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 06214aaf-7193-4d0f-bf37-36a54c126cdf)"
     },
     {
-      "id": "375337",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=375337",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dc204f6e-ebf1-4af9-92fc-af9850af7d1b)"
+      "id": "372015",
+      "board": "innovation",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e86e58ff-e3de-4c55-84a5-5ea889382665)"
     },
     {
       "id": "375188",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=375188",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6f48dd44-f179-4e69-93f4-355ade361739)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 489a7c40-e16c-45e1-ae5c-4acde98b4f9e)"
+    },
+    {
+      "id": "375337",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=375337",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 20165009-dbb2-4c5f-aaeb-c841ba9b4ceb)"
     },
     {
       "id": "373008",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=373008",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c45b5864-58e1-4958-a8b4-a1cbcd9f5e3c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 360ee793-8d34-4c46-88d2-93a2e07c7a87)"
     },
     {
       "id": "372220",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=372220",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9c751fbe-9816-4413-b0d5-99717937c959)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 51bc2adf-e255-47c1-9ad6-fcaa5eb050c0)"
     },
     {
       "id": "373487",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=373487",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6314086b-5f2b-4544-897d-614ec17f9c8d)"
-    },
-    {
-      "id": "370260",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=370260",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3e42f81f-9e7a-4202-99a9-9b879bdef386)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8308a020-2ff3-4293-a41b-80352ef75e7d)"
     },
     {
       "id": "371003",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=371003",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 296282d8-7f78-49d1-b6c7-18d61d6bc535)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 84ed1a90-2980-4036-a08b-ca8fd51bffcd)"
     },
     {
-      "id": "370263",
+      "id": "370260",
       "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=370263",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e899986f-09e6-4ca1-999e-515c88a55bad)"
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=370260",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4ed8fce7-c746-4b2c-84ff-384def749fe3)"
     },
     {
       "id": "370058",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=370058",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 64ed359b-9e1e-4c3b-8572-5bcdbb4a76f4)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b6d22c24-feae-4ae1-9e41-d839d2a9cf60)"
+    },
+    {
+      "id": "370263",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=370263",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9aef442e-4f98-4a09-bd57-8d8113600ea4)"
     },
     {
       "id": "377658",
@@ -11418,73 +11416,97 @@ window.AJOU_NOTICES = {
       "id": "369877",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 09dd9a11-cd91-4272-80f3-aaca45c7aab1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6fb24357-9b60-41e6-8b64-84bba27ef870)"
     },
     {
       "id": "369230",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 34f6bf71-e16d-4ffd-ae29-7d4de7907e9e)"
-    },
-    {
-      "id": "377588",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377588",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 891527a0-eca8-4264-a52e-edac0b9b1711)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 913d030d-7e44-4acc-8f71-ed96aec7f222)"
     },
     {
       "id": "377600",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377600",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 64195fef-48bd-4fb6-8fa1-bbff92b66ca1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3ddd39a6-2e76-4497-aa5d-96be6f4c7735)"
     },
     {
-      "id": "377587",
+      "id": "377588",
       "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377587",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d0217bbe-85ec-4624-8c2b-8b2222a6c202)"
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377588",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b5b1e8c8-ee7f-48ee-af43-189a0066a460)"
     },
     {
       "id": "374920",
       "board": "graduate",
       "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 75ab380b-86fa-4299-adba-8f5b79225d95)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e2a56424-1fae-4c75-8a80-b4d8209025f1)"
     },
     {
-      "id": "377594",
+      "id": "377587",
       "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377594",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 66a3708b-f310-4c87-8854-bbee0057839d)"
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377587",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 862981a4-53ee-4489-87e3-c5ff018b76e5)"
     },
     {
       "id": "370113",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=370113",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 943392e1-a58f-478d-9732-b45c3b57dfe3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id bd65d9fa-9fbc-42e6-a97e-e12214be3b1d)"
+    },
+    {
+      "id": "377664",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377664",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 877c2d2d-890b-4c99-98db-d003586e233d)"
+    },
+    {
+      "id": "377672",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377672",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7f213985-e0f8-4468-9cfe-0189949395fe)"
+    },
+    {
+      "id": "377594",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377594",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dc89c6a8-6a02-426f-8a6e-c8acc0c58122)"
     },
     {
       "id": "377551",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377551",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a9566b1a-2824-47f5-9dde-d990189b14af)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d2109244-1c4d-4726-8e61-e88616c8ea6a)"
+    },
+    {
+      "id": "377663",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377663",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7c86fd25-5707-41cc-9144-38b3d010ba6f)"
+    },
+    {
+      "id": "377641",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377641",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c51bd3ab-f31f-4377-a1ef-aaeacbc1a3d6)"
     },
     {
       "id": "377541",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377541",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 95ece793-81ed-4768-a6b9-6cb2ffb97a64)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 935ebae4-4822-46e7-be81-cc19fafe8e0c)"
     }
   ],
-  "checkedAt": "2026-10-27T11:07:06.052139+09:00",
-  "updatedAt": "2026-10-27T11:07:06.052139+09:00",
+  "checkedAt": "2026-10-27T18:04:59.105196+09:00",
+  "updatedAt": "2026-10-27T18:04:59.105196+09:00",
   "automatic": true,
   "schedule": "每日 08:17、12:17、18:17 KST",
   "translationModel": "gpt-6-luna",
   "updateStats": {
-    "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+    "checkedAt": "2026-10-27T18:04:59.105196+09:00",
     "model": "gpt-6-luna",
     "transport": "api",
-    "scanned": 526,
+    "scanned": 531,
     "pages": 36,
     "boards": 10,
     "translated": 0,
@@ -11502,7 +11524,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       },
       {
@@ -11514,7 +11536,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "date-window",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       },
       {
@@ -11526,7 +11548,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": true,
         "boundary": "request-limit",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       },
       {
@@ -11538,7 +11560,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": true,
         "boundary": "request-limit",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       },
       {
@@ -11550,7 +11572,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       },
       {
@@ -11562,7 +11584,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       },
       {
@@ -11570,11 +11592,11 @@ window.AJOU_NOTICES = {
         "name": "奖学金公告",
         "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do",
         "pages": 2,
-        "scanned": 26,
+        "scanned": 27,
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       },
       {
@@ -11586,8 +11608,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "date-window",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
-        "lastSuccessAt": "2026-10-27T11:07:06.052139+09:00"
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
+        "lastSuccessAt": "2026-10-27T18:04:59.105196+09:00"
       },
       {
         "key": "academic_calendar",
@@ -11598,8 +11620,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "academic-year",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
-        "lastSuccessAt": "2026-10-27T11:07:06.052139+09:00"
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
+        "lastSuccessAt": "2026-10-27T18:04:59.105196+09:00"
       },
       {
         "key": "college",
@@ -11610,7 +11632,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-10-27T11:07:06.052139+09:00",
+        "checkedAt": "2026-10-27T18:04:59.105196+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       }
     ]
