@@ -1,839 +1,979 @@
 {
-  "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+  "checkedAt": "2026-10-28T11:20:05.978571+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 531,
+  "scanned": 546,
   "pages": 36,
   "boards": 10,
   "translated": 0,
-  "unchanged": 104,
-  "excluded": 27,
+  "unchanged": 90,
+  "excluded": 24,
   "skipped": 0,
   "errors": [
     {
-      "id": "376934",
+      "id": "369657",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a79477a1-ebc2-4d3a-bfa2-396e3a2b1959)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4eb6b9b6-ff7a-4b34-9553-c85e13428ebf)"
     },
     {
       "id": "376506",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d5ac19a2-ba65-49e5-9772-8a2fdbd82fd9)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fc84ca18-490f-4448-9461-5ab8d787e07d)"
     },
     {
-      "id": "369657",
+      "id": "376934",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7b806ab8-93b7-4def-b818-00d2e2515e8a)"
-    },
-    {
-      "id": "377926",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d56cac94-7c03-476a-ac57-7f8e8b634f63)"
-    },
-    {
-      "id": "377426",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6273f58f-217c-4996-ad6c-f59a81262520)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0d19378d-d88c-45bf-8303-2b1cc9a5c271)"
     },
     {
       "id": "377425",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2dc4a980-cd86-461c-904b-6e7f1f36e612)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 92b3ac40-6dee-4dc2-890e-d6adc89de182)"
+    },
+    {
+      "id": "377926",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 59d27ea5-ac67-4f37-a510-fda7116dbe60)"
+    },
+    {
+      "id": "377426",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e909c83a-fbe5-4ed3-9468-b82a05afabb1)"
     },
     {
       "id": "376256",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b4d51db5-3e86-4792-ae83-034dcd95507c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 84a40f52-0996-4e6b-9d36-6c6175bf6de9)"
     },
     {
       "id": "377337",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8b090e72-23f7-4f15-9c86-2c6e44c60703)"
-    },
-    {
-      "id": "376048",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c4b6763b-4c99-4d71-9249-60bba589d72a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3abaf301-dc90-487d-8b31-ded52ce880d0)"
     },
     {
       "id": "376367",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c16bf8cd-05ba-464c-92e3-47d78ace2758)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ec8d7386-0b88-41bc-a311-0f8d6b74963c)"
+    },
+    {
+      "id": "376048",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 52c993a8-4822-4e28-8a76-012a967ba5e3)"
     },
     {
       "id": "376054",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 47292c97-0fdc-4527-9999-4b5df0ebd359)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id acc19652-d433-4a22-99b3-f55d8f0eb1a2)"
     },
     {
       "id": "375924",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0a4be5dc-42dd-4d87-b2db-5f7d513dc398)"
-    },
-    {
-      "id": "375801",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0939f0cd-8e83-40f4-b03c-7cadd5199f1e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id de826f89-18f7-4b20-bc64-db96c43374cd)"
     },
     {
       "id": "375919",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 96492c45-f37a-4ee8-ba89-cd1f7f567011)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c689c56c-2299-4d1d-bc4e-2fd6b7970b91)"
+    },
+    {
+      "id": "375801",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5e50571c-41bd-42ec-99c7-b4619102ad91)"
     },
     {
       "id": "373219",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0e320a1c-1a44-4fe5-b505-b9f37f89eb3d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6c5b0365-b714-408f-a88a-aba5cfacf091)"
     },
     {
       "id": "298592",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b97b113f-39b2-4465-923c-b6a92bcce24f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6f1d4dd7-eb25-49d5-90e5-6437bf79e108)"
     },
     {
       "id": "370527",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 66cc0820-3798-4998-96ea-10e0c5b4600b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 29b47b7b-901e-4700-8a34-ec05e1bf5afa)"
     },
     {
       "id": "377619",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 097636ab-02de-4615-8e30-fb72bad15891)"
-    },
-    {
-      "id": "377983",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id be64e160-6e6c-4420-86d2-ade8f47b64d6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6fa558b0-b107-4db2-a0cf-6698201bf3a8)"
     },
     {
       "id": "369355",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a770694d-ea8a-4bae-9462-4011a8f0d7ae)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 59c3bd08-661a-45c1-93a9-d375df4fc6f7)"
+    },
+    {
+      "id": "377983",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3caee280-acb7-4f08-b695-446d2aba616d)"
     },
     {
       "id": "376963",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c902693c-c1d0-4096-a31d-dc2b930efc20)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fe87be5a-daf3-41bb-821d-38953bbf5168)"
     },
     {
       "id": "371987",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a85fdae7-045b-4976-b26b-4e240910da21)"
-    },
-    {
-      "id": "370987",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e1c7379b-8e58-4772-8890-0069ab580108)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ff2fac9d-8ca4-485d-b4d8-7343ce74d3d4)"
     },
     {
       "id": "376961",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c80207f9-2faa-48e2-9347-05428005ecbe)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1b701d32-57d9-4653-8419-2ad9d2ff4098)"
+    },
+    {
+      "id": "370987",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 93a44c71-c295-40ac-8282-dd2027b10986)"
     },
     {
       "id": "377523",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d85062b0-b93e-4edc-a7c5-c3fce2fcab69)"
-    },
-    {
-      "id": "378090",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e5e908f9-629e-427e-8a3a-f72818e3ccf8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 436092c5-b8c1-4098-9923-bb8015b4a30e)"
     },
     {
       "id": "373746",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2bdc79e2-2ffb-4950-8110-685d1c01f96b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 45d06a6f-6fce-4dbb-9c92-4b1634e4cfe0)"
+    },
+    {
+      "id": "378129",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d7dd22c0-4da5-4771-88bb-c4dcfb0eb1b2)"
+    },
+    {
+      "id": "378098",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0fedf79d-94ad-4f94-9263-f68eeeef3c8a)"
+    },
+    {
+      "id": "378094",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4ec0a99d-ff9e-4060-baa1-2f683bf66b56)"
+    },
+    {
+      "id": "378125",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6d1d323e-c29f-4415-89f0-f55e9aa8e6a8)"
+    },
+    {
+      "id": "378090",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cdacf584-c163-461c-b769-c297386e6bb9)"
     },
     {
       "id": "378083",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 53b289e3-9538-46a4-adf7-de0ad92f4c71)"
-    },
-    {
-      "id": "378040",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a3243cf8-9213-47a3-8752-e09af8d03b4c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 69b3c981-e209-4565-a0f8-dd4cb8c9ce4a)"
     },
     {
       "id": "378071",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id bcc0a99b-1df9-47e9-a0d1-809ac9dfc43f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c366bf85-3cee-4d1d-8401-7a44cd831a34)"
+    },
+    {
+      "id": "378040",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2aca1a87-527d-4134-a7d4-dc45912dc029)"
     },
     {
       "id": "378021",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d82c1a4-d9cd-4944-ade8-807d90e7eaef)"
-    },
-    {
-      "id": "378018",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c6e72335-bb15-4694-b85e-41ff44bd0a18)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 17cf1e78-df42-405e-bd64-eadc197305a2)"
     },
     {
       "id": "378019",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07e5ddc8-0921-411e-8518-2c803154c719)"
-    },
-    {
-      "id": "378005",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7a939500-d812-4819-8cf2-a3a66e228f62)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a60b37df-64a6-4b8b-8e53-3d39f30e2146)"
     },
     {
       "id": "377999",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b330ddb9-107e-4b07-8005-4334f90116cb)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e008d39c-d59a-4b8c-8b04-36614da81e6c)"
     },
     {
       "id": "377970",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 58a09f21-45db-438c-97cb-f18e060bbdba)"
-    },
-    {
-      "id": "377967",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a990458b-7807-4a2b-99df-853a155773da)"
-    },
-    {
-      "id": "377966",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e7a38106-c17b-4122-ac85-81c020cd6d12)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ba0bf723-555d-46a2-b755-f1636cde2b59)"
     },
     {
       "id": "377941",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 556b50b0-2c28-45b6-8deb-9137d0e56ef9)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b3cafe8a-2034-4731-8a8e-55a969a29207)"
+    },
+    {
+      "id": "377966",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 67e03eff-e84e-4c12-863d-937433865e80)"
+    },
+    {
+      "id": "377967",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c3c5477c-dd57-473f-824b-7cfd7f40b7ed)"
     },
     {
       "id": "377939",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9bbdf29e-7ff0-4432-b08e-a32d1a15cec0)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 60ad27a2-de5e-425f-9de1-90ea72b7c0bf)"
     },
     {
       "id": "377930",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e7d587cd-a679-4b3e-b4e9-b1c9a4260a33)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b10dffb5-6973-4d70-b79e-de1bc09477b0)"
     },
     {
       "id": "377913",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d9446b0d-5ac5-4f1e-bf80-6d66ea1d16ff)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 26c08106-0b16-49d8-a4bc-d755c8d4f27a)"
     },
     {
       "id": "377911",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e452a723-bb83-4d92-97c9-716ce92738ee)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1c744c43-2051-4336-b7b5-62e29a92515d)"
     },
     {
       "id": "377908",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 28d48905-43c2-4d8d-8f24-4754ecff039d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d48d3ff-680d-4dc0-be2c-710a65b0c747)"
     },
     {
       "id": "377906",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0e42570d-77d0-4a93-8a82-278e324a4195)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8b9c0bdc-618b-4607-9d9f-be486fd2d70d)"
     },
     {
       "id": "377872",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 32717b02-1428-470b-8f98-e615a27b8e27)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5b20fbca-6e73-4608-830c-e57468c8344c)"
     },
     {
       "id": "377896",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 16c618ee-226f-4af4-aa35-8732d8357557)"
-    },
-    {
-      "id": "377870",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 378912b0-0eed-41e3-9f9d-540da8dacb27)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c4ab0e2e-0668-47c9-9c18-0380087bff3c)"
     },
     {
       "id": "377871",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5bd7fcab-6454-4c4f-b103-4471dfcb4047)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 266c82fe-f7ca-4332-b8ae-7d027fcab51d)"
+    },
+    {
+      "id": "377870",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6f4dd62c-fbf7-4583-823c-f1b919141ca8)"
     },
     {
       "id": "377862",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4970ed97-e3c9-4491-97ba-7d9aeeccae4a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f749d436-b6ed-4ab7-805f-9c5af2489c9e)"
     },
     {
       "id": "377855",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 17b0c298-64f4-4cef-ad61-c9d10c1a5c6f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d214110-25d4-4038-aecd-df4d59141c42)"
     },
     {
       "id": "377852",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c58d7855-78f7-4ff6-9b31-02c72b4db312)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5bd53242-b496-40bb-b39d-5da51a018be3)"
     },
     {
       "id": "377843",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 240a518b-2cd1-4f9d-a048-f850d3b641b7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6cb0b4b4-bb9e-4c61-a3d1-ac7ef9ad7173)"
     },
     {
       "id": "377842",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 948187b9-a260-49a0-ba4b-3735cbf339b9)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 63f8cc0e-ace9-404d-962b-c8b0cb209b40)"
     },
     {
       "id": "377825",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fb4947d2-bd3b-481e-8d77-cb5895d1fe07)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 630d749b-c256-48cf-b502-a1fec46826a7)"
     },
     {
       "id": "377823",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 91994471-6c1b-4c13-95f1-7845c7baa71b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 498cdcf0-780d-4493-afbf-4f4f15e2f1bf)"
     },
     {
       "id": "377802",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a63e2c86-7bd8-44c1-99ce-ef144e37e23d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 57c2acb2-ba11-45aa-a9a7-30908207bc6c)"
     },
     {
       "id": "377771",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f22660ae-584c-4d21-94b4-fdf82430454f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 02c2cde7-a60d-4d85-b784-d2ead0426def)"
     },
     {
       "id": "377770",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 189e4802-c204-4d1c-b990-017072fc369f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0e482a6a-d6a6-4479-8da5-f628e626fa64)"
     },
     {
       "id": "377768",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3df27545-0df5-4205-a90e-30a2500aabf0)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 700e35c4-966e-4055-8678-839d94cdb7e1)"
     },
     {
       "id": "377761",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 65ebfc45-c541-481f-bad3-9cfab9561c75)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1b1e68cc-8c23-4bde-a694-dc3fb4eaeb3b)"
     },
     {
       "id": "377755",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a674af20-8e13-4586-ae64-bc8fb28b80f3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 51f4ef7e-156c-4516-a1a7-2071dad9903c)"
     },
     {
       "id": "377753",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id daf5835e-75bf-45b1-a524-dc592a7f4235)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 15418e07-c522-48ae-a400-e28cd470c78d)"
     },
     {
       "id": "377750",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 23576a9c-ca21-4d26-abf5-0dfb16605f56)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ac27dbee-e6b0-4bf4-8609-a2437a5e746e)"
     },
     {
       "id": "377741",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4b98b7e3-86ed-4ce7-8f96-0749ba24f06a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c73f662b-6cc0-4d41-90a6-2ca7102715e5)"
     },
     {
       "id": "377732",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6c0c04fe-de13-48c6-8e95-cb4666540968)"
-    },
-    {
-      "id": "377731",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id eef14399-7c95-42b8-ae0f-5819191e351e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8f731e87-2a1b-41e3-9cfe-f1c09884d87a)"
     },
     {
       "id": "377723",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5133f085-f618-4dda-a80b-9b211b0b1fb7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c75a1ffb-e3c8-4ce9-b56f-1e6bf73b20db)"
+    },
+    {
+      "id": "377731",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 65767d34-c69f-463b-bedf-43dc08b0c1ae)"
     },
     {
       "id": "377719",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c8616904-db64-4f4c-8ad3-dbe4e4a056fa)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8b0f84a1-6636-4f76-97e2-2e704112ed80)"
     },
     {
       "id": "377183",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1cd52b79-97de-459a-a5ee-11b4f94a353e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2190a47b-8fdb-4121-937f-49300b45a6c8)"
     },
     {
       "id": "360568",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4b89b911-b0fe-4fef-8e46-f3f1895f1928)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5f2ab414-255e-4118-adce-7cb8e36b9f1b)"
     },
     {
       "id": "377427",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e12c9729-5357-4041-aa5e-815b4d40b123)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fc5d91a1-5095-4a05-8efc-6772a3a73f56)"
     },
     {
       "id": "377101",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 885ac0ec-66ba-407b-b775-4d108ba79b8f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 13d70143-9e62-48e6-920d-08157d18adff)"
     },
     {
       "id": "376257",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ffbe65a1-d16c-4f18-887a-a70790db7581)"
-    },
-    {
-      "id": "375925",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0b9c0b2c-358b-46de-9b45-23471f7f1ba6)"
-    },
-    {
-      "id": "375923",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d95f76d7-0e1a-4768-8c80-5f5bad37ece5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1e92fd25-5bc1-4991-bd8b-073133a03d36)"
     },
     {
       "id": "376052",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e76f50d5-dcf7-458e-b9d8-2b150ecb44f1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a26b7a71-111f-4088-a3ea-20f7a5138af6)"
+    },
+    {
+      "id": "375923",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cf10a0f3-214e-4410-8385-029b7996254f)"
+    },
+    {
+      "id": "375925",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2c687516-43f1-4cb7-964e-a9a26d39a79a)"
     },
     {
       "id": "375920",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a4e2a6e9-773c-4428-9c2f-26804d2e336c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9a6fcc48-1c9a-4635-b76c-44ab5f9c5512)"
     },
     {
       "id": "373908",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 97dab76c-5d7e-47ec-88f2-a04109bf01e3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id af721463-0a5b-4de7-b30d-78d73d5a8dcf)"
     },
     {
       "id": "375392",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7b8073c0-234a-4258-ba0a-d441c71a3ea0)"
-    },
-    {
-      "id": "373483",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 37292ee7-21f8-41d7-a271-0746ac310f84)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6f39e9d4-8c41-4f98-86aa-51b9601d3616)"
     },
     {
       "id": "373535",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 45df3d56-8704-472a-a267-185d7621071c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 58747c80-efdf-4983-ac32-87776ae47be9)"
+    },
+    {
+      "id": "373483",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2489cf25-7707-4f0e-b249-60a30701c511)"
     },
     {
       "id": "373342",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8e5f5963-0987-4e38-9e5f-a5d082c29a07)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6f73bb28-fe28-43c4-afdf-cf4eaa6b3cbe)"
     },
     {
       "id": "373172",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 43cc153b-2b48-4b8d-99f2-97c1da17f805)"
-    },
-    {
-      "id": "364643",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9456713e-7bbb-4c22-8912-50740991dd08)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5d93afe0-a1c5-49e2-a66d-3e187c1db59a)"
     },
     {
       "id": "365143",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0ddb53df-7123-475e-8db1-7497b71624ee)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0967496e-f5c2-491b-a3da-3a3938ca9368)"
     },
     {
-      "id": "377232",
+      "id": "364643",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e45714ee-8620-4ab0-8b53-b4e96fbfe6b2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 46d876d2-bbec-4d69-9bda-ca8808861fa1)"
     },
     {
       "id": "375647",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fdec0b52-d883-461f-bc92-f71181cc4fd5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c9500b5c-6d06-49c0-a0a5-a7cd960a0413)"
     },
     {
       "id": "377335",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 60a1ab33-1c5d-406f-8d09-3bd30f9c3964)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ccdbe8fe-0dc4-41e8-a788-708ae35d4822)"
+    },
+    {
+      "id": "377232",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id df621da1-5ffe-4e60-8104-e5a863d0509d)"
     },
     {
       "id": "375247",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3cf0e850-ec49-4ed3-bbc4-b29216dd55d3)"
-    },
-    {
-      "id": "375261",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b80dc0d3-cf7c-4d81-a7b2-d81294701cf9)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8fd2b50e-8b58-43f9-8090-6dfc7d690178)"
     },
     {
       "id": "374776",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7d835d63-1720-4453-bf93-b265ece3fa37)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 81791cc2-58b8-4259-be88-feeb34f27d4f)"
+    },
+    {
+      "id": "375261",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 51926a11-4a48-406d-890e-a0ba121990db)"
     },
     {
       "id": "373879",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9246a2ec-6b33-491f-8872-99af4c609527)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dc917c37-829a-4efb-b1ac-d0c022503997)"
     },
     {
       "id": "373878",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 195a0b1c-a564-4629-8db4-5a70f19bebbe)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 76afc80c-6518-4ebe-afff-6690abf9716b)"
     },
     {
       "id": "373850",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f2f88c84-0320-4afe-a2e7-6903437e6030)"
-    },
-    {
-      "id": "372516",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8388449d-e156-4c68-b498-0f32c1938ebe)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 148b1139-4c2e-4a66-9870-d0d688ea053c)"
     },
     {
       "id": "372846",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2214f193-84bb-42ae-befc-5734b5fbe4cf)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d93f2b96-dcb4-4f41-8777-39bd1de02f8e)"
     },
     {
       "id": "373559",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f5fafb62-d4ca-474d-a5dc-e495a09367ba)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 393ef282-4ba6-440c-8cd3-036fced21e32)"
+    },
+    {
+      "id": "372516",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 487d780e-a63f-4709-ad0f-63c7f3ceeaef)"
     },
     {
       "id": "372512",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 016c7460-0dce-448a-8f97-32f581e239c4)"
-    },
-    {
-      "id": "378058",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b62fa126-399c-40fc-8556-fa6888f25cff)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 47a4f914-5666-4a59-91b8-d8805734a3d0)"
     },
     {
       "id": "372514",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 533ceda0-b06d-47d2-abca-0608aee60ddd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 68b9ddd0-f045-4d9d-9e5d-35662892ebcb)"
     },
     {
-      "id": "366852",
+      "id": "378058",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e96d626b-c582-452e-87ba-fb9060868543)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2fafdddd-dcdc-4b80-bb97-3e43bdd7c91a)"
     },
     {
       "id": "377730",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 55c04177-f8be-425c-abd5-38ef172a1b13)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c33498de-d08e-4b9a-b7a0-c6a9cc4b5bfc)"
     },
     {
       "id": "377860",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 366f329d-a710-4b50-bfa4-a05ce50bfe31)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 64ebc5ca-7d14-455b-a12a-99579ab6e47a)"
     },
     {
-      "id": "377769",
+      "id": "366852",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 30da8b08-9a5c-43c8-ad91-342d06d53db5)"
-    },
-    {
-      "id": "377824",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d7a8e5d0-0d8c-4af5-9897-c46262942f43)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 849a0aed-85b0-43f6-b137-05259092a247)"
     },
     {
       "id": "377873",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9def07f0-101f-4ce0-9904-0d25f558a3d7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a52ea289-082f-422b-a977-e15b3918cca2)"
+    },
+    {
+      "id": "377824",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e9df9cf3-905a-487d-b949-e0377dbac45c)"
+    },
+    {
+      "id": "377769",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c7e3d0c4-0830-43ff-994c-10a3386f9da4)"
     },
     {
       "id": "377722",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c7f756af-8d19-4dae-b253-b52cae8bf977)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fe02b31d-7a02-4188-b912-7f8ac12226e1)"
     },
     {
       "id": "377718",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id daf7912a-aad6-4652-8007-98d9215a5f0c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 73217850-fc5e-4935-ad5c-95488dcf52e1)"
     },
     {
       "id": "377668",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 99eb12c3-9998-494f-a72f-4d58d979183a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 30124965-1e0f-4f69-a943-31cd9d0b4712)"
     },
     {
       "id": "377613",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e8c9bc90-aa33-4461-ad2f-c532c1a342e2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id de4993ec-ec3f-4e82-8761-7815e94edcff)"
     },
     {
       "id": "377612",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b25c2b6f-abc1-4620-a2c2-c45dc9f170c8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 539394e3-825c-42ad-b4d0-5c73d6f6a9d5)"
     },
     {
       "id": "377470",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6b6afa90-b243-4e68-8857-fd3e74d51d37)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 81ac5f54-32e7-4b59-9c3c-47587f900e19)"
     },
     {
       "id": "377206",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a236bb4f-6c25-41af-a59c-57a364b3c50d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fc0eeec7-fd3a-45d9-ab92-1352abcb4974)"
     },
     {
       "id": "377204",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id df2beb8b-8e12-44c0-89b1-b43b90db2a7a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 89208b9d-4ea4-4db8-b0af-12499bf91983)"
     },
     {
       "id": "377176",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7a861a00-e3bf-4ff6-a86b-356592477653)"
-    },
-    {
-      "id": "377120",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 87cfbaba-dd92-4f49-be82-4801c07f60d0)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 18286b88-877c-4d7c-8bc9-1d503e6b3edb)"
     },
     {
       "id": "377087",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e85d4be0-04c0-49b2-97d7-4a2079e2841b)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4dead8cd-85d8-4f3b-8ec6-7eb1552dde8e)"
+    },
+    {
+      "id": "377120",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c02fca0d-f47b-4dde-9965-6133d5db59c4)"
     },
     {
       "id": "377085",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dc7ff693-ac01-428b-9306-3ce80269c5d0)"
-    },
-    {
-      "id": "376795",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 06fc60c3-6c06-44d4-ae49-29c23f8507e2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1183482a-cd06-4eda-9277-d5ad99a75aae)"
     },
     {
       "id": "376957",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2370b7ca-a407-4615-9369-d5710dac9bd3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5fc213c1-f266-456f-8318-d3abdbda8917)"
+    },
+    {
+      "id": "376795",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c0246189-9dcd-46e6-8414-7ac6b36d85e1)"
+    },
+    {
+      "id": "library-t4hefl3jjociazez",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 81870e4a-2810-4a89-8673-99039ebeac44)"
     },
     {
       "id": "376788",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 08c275d7-caed-4b88-bfe2-d49712c237a3)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4462b7c9-9b6f-4e82-9e87-5e6f80f8ab3c)"
+    },
+    {
+      "id": "library-pacbr6quv0exz8yu",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a50819ff-2e16-48ea-8785-723594a9a529)"
+    },
+    {
+      "id": "library-u7f8la6ejjpj5yk0",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8adbf28f-d3fb-46b8-9905-27b6e325b0e9)"
+    },
+    {
+      "id": "library-gqjzwz7kwasttzbx",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0905b863-c49a-4c29-b049-646dcf31a3a7)"
+    },
+    {
+      "id": "library-ttyrj7tsv3qcthii",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7a997d0f-20c3-49ee-b65c-9c9582998137)"
+    },
+    {
+      "id": "library-ci9r6thfqdm7z8dy",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f6081049-8f89-4549-9836-46fdc4613e52)"
+    },
+    {
+      "id": "library-9teze3zbezag91it",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6c968f2b-1ca1-49ef-9e82-7df024bcb7fc)"
+    },
+    {
+      "id": "library-2ya2ubh0ana3fl5b",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a5a9d8f6-6620-49dd-bd04-37513a4f65b5)"
+    },
+    {
+      "id": "library-zvkqka1xtsr7b56k",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8347d9f8-087c-42eb-aa15-aec0926f0e78)"
+    },
+    {
+      "id": "library-ux0bddg7qlxeaxdn",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ea96f703-1a4f-4642-b738-7e2b446eb0b7)"
+    },
+    {
+      "id": "library-sk6v5tb3pqp1zssb",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 020b908b-c0c6-4df3-853d-151981d33ab4)"
+    },
+    {
+      "id": "library-8u0jb439c5vly2g7",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f860b0ae-993b-4e23-8e15-8fa154701177)"
+    },
+    {
+      "id": "library-k767us31617n3pvm",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fbfb0b9e-f472-413b-8f03-27046bffa440)"
     },
     {
       "id": "377451",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f0fd0b4a-c458-46e0-8957-703100c8e115)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 98e798ff-a3d1-4f6a-a07a-5432020d2cc2)"
+    },
+    {
+      "id": "library-rsj81irpl9rz9rsp",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 6c13311b-8830-4100-bf3d-9218d791adbc)"
+    },
+    {
+      "id": "library-7nkaawyryrviccw3",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3944f33f-a752-4082-b9c0-d254857ce293)"
     },
     {
       "id": "377358",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ada8c3b3-d1f3-498c-aa03-0e9570f4b262)"
-    },
-    {
-      "id": "372474",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f1b25ab7-c86f-4ee1-86cc-471a014c8804)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 99763cca-ac88-4976-b9f8-19c348e713de)"
     },
     {
       "id": "377927",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fd9fe78b-e1f1-420a-b326-5712cb28b6ce)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id de51bd74-09a4-4b42-8e86-03d4a3ae03da)"
     },
     {
       "id": "377644",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id dcc9d17b-22a3-4bca-a23e-8fae832f6dea)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b5c30a61-ca7e-4069-9ffa-b91d72f983ee)"
     },
     {
       "id": "377363",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9bf00e0f-d200-4c14-a1c5-913547b61651)"
-    },
-    {
-      "id": "377210",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fe2d921a-53d5-49ad-b0b1-0866d8123624)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a7e26168-3f4c-469b-8c55-9da400a7a077)"
     },
     {
       "id": "377211",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id bacb2821-8f1f-46b8-9cab-e5198ad10992)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7eca33ea-d169-4dbe-a9f1-5a689bf33329)"
     },
     {
-      "id": "377119",
+      "id": "377210",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1205c40d-652e-4ec3-a4c7-c967d1413214)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8839bd6b-5a2d-40f5-b8a5-031d5fad2b66)"
     },
     {
       "id": "376905",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7ca77c86-efc2-462d-9f2a-7b7feb87f0d7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 18e4af07-6f77-41ea-a16b-71324ce2f9c7)"
+    },
+    {
+      "id": "377119",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5e409010-20b5-48ec-9f69-3ab75e88435d)"
     },
     {
       "id": "376775",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c4eeac1a-f943-4ba1-b5b5-81f83a9fd82d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d5fe242-efe6-4ac1-8ee0-cbaa9036f7ad)"
     },
     {
       "id": "376494",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b7f45394-7958-4882-a785-1637ca7df842)"
-    },
-    {
-      "id": "375849",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c793a208-ff49-4658-8cba-1b42e7cf25b6)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f55e0f9f-d177-4345-970d-73ba8cd46f4d)"
     },
     {
       "id": "376493",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c5778e5e-d569-4128-bf51-ea668fa50d3d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3fac49a7-267e-4dd6-82ad-ff19864a25b0)"
     },
     {
-      "id": "375368",
+      "id": "375849",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 71a4760a-f839-4517-a3db-996d5d46fbc5)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2f1d7e0b-9d0d-46fa-9619-7ebe2eb0befd)"
     },
     {
       "id": "375097",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a389f09d-7852-482a-a519-d99be1eed1f1)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 682a96aa-9d15-464d-adfe-0fd23c1fbb60)"
     },
     {
-      "id": "375085",
+      "id": "375368",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 775be32c-7392-47c0-a935-211aac1625ad)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a044e9a2-d2fb-49ac-95b8-3df614fe71bd)"
     },
     {
       "id": "374809",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9f68bf64-4a2c-4123-960c-f321ec88ba77)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3671332c-dac8-4d62-aa32-75e8f4c2eb87)"
+    },
+    {
+      "id": "375085",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1bc08828-8ec5-49d7-8fb6-c37330737376)"
     },
     {
       "id": "374381",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 938f2d7f-df09-42bb-baf8-d45a4b81780e)"
-    },
-    {
-      "id": "375378",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 121e46b8-23d0-4f41-9838-86f02a359614)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 42d41865-70db-4185-bf6c-92e5e4f24a64)"
     },
     {
       "id": "371908",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0ce2a2c9-f47a-49b9-838a-f4c8633d0590)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0c64945e-b067-4a9e-b129-3e29e2c715e2)"
+    },
+    {
+      "id": "375378",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5b687a82-f8aa-4335-a7e7-e1fae96d8164)"
     },
     {
       "id": "372715",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 246e7d34-d413-4555-9e4e-d781191cbf25)"
-    },
-    {
-      "id": "375263",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 538413f1-c4f7-40f4-bf4e-30d573b1b7a0)"
-    },
-    {
-      "id": "377499",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 28ae3d62-5e5c-4c75-8390-62c5d75e02a7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cdd9af2b-0ed0-4a0e-a6c9-0675be2d6dc0)"
     },
     {
       "id": "377439",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e7903218-bf56-4004-aebf-1efff18b1632)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8eec2452-f91c-4167-8d8f-7678bd3007ab)"
+    },
+    {
+      "id": "375263",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8e670079-4f6d-46b0-b9bb-55786e909e04)"
+    },
+    {
+      "id": "377499",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 626816fb-aa70-4c20-9968-06a6285e95fd)"
     },
     {
       "id": "372714",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f5aff1bf-1d4b-4aa0-921f-e077bd906b8f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 464b441e-2423-4735-a3e0-e02978b78746)"
     },
     {
       "id": "377025",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cb0bec4e-44e4-44eb-9c72-823067d63b55)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07bd601a-e0cd-4509-83cc-83299fc57841)"
     },
     {
       "id": "372508",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id bd80c717-a63a-4cf9-b2d2-6e78ab6709bd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 881eabeb-c3b2-4de3-91ca-10fc6728abbf)"
     },
     {
       "id": "372509",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9e0039a3-6858-49c8-9741-fdfd0515fa9e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2dff63f1-ffd2-4169-8e0c-a849afcf184d)"
     },
     {
       "id": "372505",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id efd79538-467d-48b8-8664-b097e41eafc8)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b2517d50-42e8-4f20-8cfe-abdbf135d033)"
     },
     {
       "id": "372502",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8fbecc8b-adcb-4f4a-9f49-0556279c7da2)"
-    },
-    {
-      "id": "370613",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1a0acbc1-d069-4c22-8051-e239d7fe2294)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 22e03bec-95e2-47ef-9cb9-243f9309d581)"
     },
     {
       "id": "372015",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1b1ef634-2319-4ab5-b4b1-9e22fe3ab372)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1a31b823-5383-453d-a10e-e9f6667a35a6)"
+    },
+    {
+      "id": "370613",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f162006a-ffa6-4e5d-b8b4-fec0a932d2bc)"
     },
     {
       "id": "370135",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 130bb837-7af7-4dd4-b601-f8cf9f69d939)"
-    },
-    {
-      "id": "375188",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 913bc449-0002-4aaa-96a4-866d0355e6b0)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8574355d-881b-4834-bdca-c51f0171fe61)"
     },
     {
       "id": "375337",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8decb218-d910-475f-9113-aa16c9117b25)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 10f302d9-bc92-46a8-b9be-0d3e2cc65e14)"
+    },
+    {
+      "id": "375188",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 33cd6d10-194c-445e-bb06-15443d0fa624)"
+    },
+    {
+      "id": "library-23188",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23063",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23144",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23082",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23044",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-22872",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23043",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-22797",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-22844",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-22770",
+      "error": "ValueError",
+      "reason": "ValueError"
     },
     {
       "id": "373008",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c617b7f1-56eb-4a1e-a2c2-961bedc49034)"
-    },
-    {
-      "id": "373487",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 25dd0611-8395-4182-b2d1-c2b43a6c4fac)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 559e3425-f5d0-4f11-8f97-622116255c10)"
     },
     {
       "id": "372220",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 06b3f2a6-a776-41a1-8051-1294528d3f04)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e22328ee-d997-481b-89b7-786b80b79068)"
+    },
+    {
+      "id": "373487",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5cd04e47-6c67-4d96-a0c0-ade8bd7ca957)"
     },
     {
       "id": "371003",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 083d9cc7-52ea-4acd-a09a-935a9058c2ca)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 29e43395-aef1-4efd-a60a-a7604bbe4761)"
     },
     {
       "id": "370260",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ac37ac41-7cef-4458-a656-9702313b6f51)"
-    },
-    {
-      "id": "370058",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3ed9cf5e-4c7b-4e48-9a88-5b5bdb9e5efd)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 95ea2a83-b6b6-46bf-bcb4-8c939c3d9b03)"
     },
     {
       "id": "370263",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f52826c4-a055-40c5-8845-8e33e3738638)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7d49c269-9e99-46c9-b17f-22b7f83860de)"
+    },
+    {
+      "id": "370058",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b4853f5a-1496-4907-97c3-97e6b2fcf424)"
+    },
+    {
+      "id": "library-22878",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23087",
+      "error": "ValueError",
+      "reason": "ValueError"
     },
     {
       "id": "377658",
@@ -843,72 +983,87 @@
     {
       "id": "369877",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 471d5587-c3d4-4316-9275-2b45a104ef16)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 95be7d76-6484-43f3-9431-dfd27c181f20)"
+    },
+    {
+      "id": "library-23207",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23209",
+      "error": "ValueError",
+      "reason": "ValueError"
     },
     {
       "id": "369230",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 60278e25-5773-4a28-b741-e400cb596dec)"
-    },
-    {
-      "id": "377600",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id eb814281-2504-4817-ba6c-ee372015623c)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b12bb043-65cd-4330-b457-e65587f0e2f8)"
     },
     {
       "id": "377588",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3dcff49d-0b0d-4605-94da-18053aa20db2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c925eee7-16b8-45b9-ae36-2752acd17ae0)"
+    },
+    {
+      "id": "377600",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 56e13221-2c64-49ce-8301-f974be9c5889)"
     },
     {
       "id": "374920",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9a795fd3-4df2-4c44-a963-57829fffac81)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cb300400-71a8-496f-af40-941c7187d293)"
     },
     {
       "id": "377587",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b190454a-2a22-4f2e-928b-7542e8c43be0)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5578cbdb-d3c6-4fcd-ac00-0d947cadcd62)"
     },
     {
       "id": "370113",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id e6df62a7-b338-46d6-8a8b-4581d9eeb140)"
-    },
-    {
-      "id": "377664",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fc413564-b27b-47e5-9bbd-3169dc509baa)"
-    },
-    {
-      "id": "377672",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 544a9815-5f97-482f-9146-f69561f01780)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4d4f94d2-cab7-4a4b-97e6-2663f378f0a9)"
     },
     {
       "id": "377594",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7de1d0ef-f388-4f00-9f91-370b07e9ea1e)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c92d59c7-e4cd-49f2-bc30-9aab5ae519d6)"
+    },
+    {
+      "id": "377672",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f7d28205-1924-4649-bd50-9d50394dd3c7)"
+    },
+    {
+      "id": "377664",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f80d8956-bb9d-43ac-b128-f95fd00a18ef)"
     },
     {
       "id": "377551",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id df2998a1-efd5-4730-a929-f2a5e67e16f7)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 76e1ba79-d499-4af7-a674-c0eb01e070ca)"
+    },
+    {
+      "id": "372474",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id faca7710-4d26-422b-9766-787d34f80ff9)"
     },
     {
       "id": "377641",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 396207c4-d485-45b4-b4c7-d56b39ab864f)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b2537238-8700-4075-aa4c-79626dc09b50)"
     },
     {
       "id": "377663",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ea50328b-7053-406d-b19d-4ea18b0e51cc)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3a5fc14b-d40c-46b5-aec5-5daf523c7d33)"
     },
     {
       "id": "377541",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9bef3c59-1ed8-4df5-9011-093a5512e948)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5bb68961-498b-4424-a7bb-3b24eb218b8f)"
     }
   ],
   "schedule": "每日 08:17、12:17、18:17 KST",
@@ -922,7 +1077,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -934,7 +1089,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -946,7 +1101,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -958,7 +1113,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -970,7 +1125,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -982,7 +1137,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -994,7 +1149,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -1003,10 +1158,10 @@
       "url": "https://library.ajou.ac.kr/guide/bulletins/notice",
       "pages": 5,
       "scanned": 100,
-      "status": "ok",
+      "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
     },
     {
@@ -1018,19 +1173,19 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
-      "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
+      "lastSuccessAt": "2026-10-28T11:20:05.978571+09:00"
     },
     {
       "key": "college",
       "name": "软件融合学院",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do",
       "pages": 2,
-      "scanned": 23,
+      "scanned": 22,
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-10-28T00:23:52.135254+09:00",
+      "checkedAt": "2026-10-28T11:20:05.978571+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     }
   ]
