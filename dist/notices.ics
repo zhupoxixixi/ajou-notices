@@ -363,6 +363,22 @@ TRANSP:TRANSPARENT
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
+UID:375471-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261023T152857Z
+LAST-MODIFIED:20261023T152857Z
+DTSTART:20261016T080000Z
+SUMMARY:申请 / 办理截止：A-Scholar-Share 研究与经验分享计
+ 划：生成式AI研究应用案例征集
+DESCRIPTION:适用对象：一般大学院在读生及研究注册生；
+ 原文未列国籍限制。\n征集研究过程中使用生成式AI工
+ 具的案例，优秀案例可获最高100万韩元稿酬。\nAI 自动
+ 整理，重要日期请核对原文。\n官方原文：https://grad.ajo
+ u.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=375471
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375471
+TRANSP:TRANSPARENT
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
 UID:372510-event@ajou-notices.zhupoxixixi.github.io
 DTSTAMP:20261023T140700Z
 LAST-MODIFIED:20261023T140700Z
@@ -715,23 +731,6 @@ URL:https://zhupoxixixi.github.io/ajou-notices/#notice-calendar-760544a34
  e5e
 TRANSP:TRANSPARENT
 SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
-UID:375471-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261030T030804Z
-LAST-MODIFIED:20261030T030804Z
-DTSTART:20261016T080000Z
-SUMMARY:申请 / 办理截止：A-Scholar-Share 研究与经验分享计
- 划：生成式AI研究应用案例征集
-DESCRIPTION:适用对象：一般大学院在读生及研究注册生；
- 原文未列国籍限制。\n征集研究过程中使用生成式AI工
- 具的案例，优秀案例可获最高100万韩元稿酬。\nAI 自动
- 整理，重要日期请核对原文。\n官方原文：https://grad.ajo
- u.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=375471
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375471
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 UID:376506-deadline@ajou-notices.zhupoxixixi.github.io
