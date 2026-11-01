@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372512-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261101T103234Z
+LAST-MODIFIED:20261101T103234Z
+DTSTART:20260708T063000Z
+DTEND:20260708T080000Z
+SUMMARY:活动：从算法到政策：多学科社会科学中的人工
+ 智能与深度学习建模作用
+DESCRIPTION:适用对象：本校大学院生及相关教职人员；海
+ 报未说明外国研究生的具体参与条件。\nBK21邀请Universit
+ y of Texas at Dallas金度亨教授举办人工智能与深度学习建
+ 模研讨会，并安排问答及交流。\nAI 自动整理，重要日
+ 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
+ 21_bbs.do?mode=view&articleNo=372512
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372512
+TRANSP:TRANSPARENT
+SEQUENCE:6
+END:VEVENT
+END:VCALENDAR

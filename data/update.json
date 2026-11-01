@@ -1,22 +1,32 @@
 {
-  "checkedAt": "2026-11-01T11:16:41.064361+09:00",
+  "checkedAt": "2026-11-01T19:32:34.960260+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 558,
+  "scanned": 555,
   "pages": 36,
   "boards": 10,
-  "translated": 148,
-  "unchanged": 90,
-  "excluded": 74,
+  "translated": 125,
+  "unchanged": 106,
+  "excluded": 76,
   "skipped": 0,
   "errors": [
     {
-      "id": "378181",
+      "id": "377983",
+      "error": "TranslationError",
+      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReada"
+    },
+    {
+      "id": "378202",
       "error": "TranslationError",
       "reason": "attempt 1: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReada"
     },
     {
       "id": "library-23188",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -37,11 +47,6 @@
     },
     {
       "id": "library-22872",
-      "error": "ValueError",
-      "reason": "ValueError"
-    },
-    {
-      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -94,6 +99,11 @@
       "id": "377588",
       "error": "GatewayError",
       "reason": "Reader could not retrieve the official page successfully"
+    },
+    {
+      "id": "377770",
+      "error": "TranslationError",
+      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReada"
     }
   ],
   "schedule": "每日 08:17、12:17、18:17 KST",
@@ -107,8 +117,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
     },
     {
       "key": "international",
@@ -119,8 +129,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
     },
     {
       "key": "oia",
@@ -128,10 +138,10 @@
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do",
       "pages": 8,
       "scanned": 83,
-      "status": "ok",
+      "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
       "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
     },
     {
@@ -143,7 +153,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -155,8 +165,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
     },
     {
       "key": "innovation",
@@ -167,8 +177,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
     },
     {
       "key": "scholarship",
@@ -179,8 +189,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
     },
     {
       "key": "library",
@@ -191,7 +201,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
       "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
     },
     {
@@ -203,8 +213,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
     },
     {
       "key": "college",
@@ -215,8 +225,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
+      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
     }
   ]
 }
