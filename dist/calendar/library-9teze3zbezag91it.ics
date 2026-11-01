@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:library-9teze3zbezag91it-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261101T021641Z
+LAST-MODIFIED:20261101T021641Z
+DTSTART:20260916T010000Z
+DTEND:20260923T063000Z
+SUMMARY:活动：2026年9月研究能力提升研讨会
+DESCRIPTION:适用对象：研究生；本科生、教师、研究人员
+ 等校内成员也可申请。\n中央图书馆举办4场线上研究与
+ 论文写作讲座，涵盖论文写作、生成式AI伦理、期刊选
+ 择和文献管理工具。\nAI 自动整理，重要日期请核对原
+ 文。\n官方原文：https://library.ajou.ac.kr/guide/bulletins/notice
+ /9teze3zbezag91it
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-library-9teze3zbez
+ ag91it
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

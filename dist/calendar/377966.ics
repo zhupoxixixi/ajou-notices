@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377966-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261101T021641Z
+LAST-MODIFIED:20261101T021641Z
+DTSTART:20261028T050000Z
+SUMMARY:申请 / 办理截止：2026学年图书馆现场实习咨询会
+ 预约通知
+DESCRIPTION:适用对象：Ajou全体在校生中对现场实习感兴趣
+ 者；中国研究生可关注，但外国研究生资格未单独说明
+ 。\n可与产学教授进行1对1现场实习及就业咨询；活动
+ 于2026-11-03至11-04举行。\nAI 自动整理，重要日期请核对
+ 原文。\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=
+ view&articleNo=377966
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377966
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:377966-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261101T021641Z
+LAST-MODIFIED:20261101T021641Z
+DTSTART:20261103T010000Z
+DTEND:20261104T080000Z
+SUMMARY:活动：2026学年图书馆现场实习咨询会预约通知
+DESCRIPTION:适用对象：Ajou全体在校生中对现场实习感兴趣
+ 者；中国研究生可关注，但外国研究生资格未单独说明
+ 。\n可与产学教授进行1对1现场实习及就业咨询；活动
+ 于2026-11-03至11-04举行。\nAI 自动整理，重要日期请核对
+ 原文。\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=
+ view&articleNo=377966
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377966
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

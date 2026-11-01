@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:376963-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261101T021641Z
+LAST-MODIFIED:20261101T021641Z
+DTSTART:20261015T090000Z
+SUMMARY:申请 / 办理截止：2026外国人跆拳道展示节
+DESCRIPTION:适用对象：练习或完成过跆拳道训练的外国国
+ 籍人士；外国研究生是否符合其他具体要求未说明。\n
+ 外国人跆拳道展示节及韩国传统文化体验活动于2026-10-3
+ 1在国技院举行。\nAI 自动整理，重要日期请核对原文。
+ \n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&a
+ rticleNo=376963
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963
+TRANSP:TRANSPARENT
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+UID:376963-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261101T021641Z
+LAST-MODIFIED:20261101T021641Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:活动：2026外国人跆拳道展示节
+DESCRIPTION:适用对象：练习或完成过跆拳道训练的外国国
+ 籍人士；外国研究生是否符合其他具体要求未说明。\n
+ 外国人跆拳道展示节及韩国传统文化体验活动于2026-10-3
+ 1在国技院举行。\nAI 自动整理，重要日期请核对原文。
+ \n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&a
+ rticleNo=376963\n原文未给具体时刻，本日历使用全天事项
+ 。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963
+TRANSP:TRANSPARENT
+SEQUENCE:4
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:378283-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261101T021641Z
+LAST-MODIFIED:20261101T021641Z
+DTSTART:20261111T040000Z
+DTEND:20261111T073000Z
+SUMMARY:活动：BK21 K-3MT Competition全国决赛通知
+DESCRIPTION:适用对象：对BK21 K-3MT Competition感兴趣的任何人
+ ；一般大学院学生可参加，外国研究生资格未单独说明
+ 。\n全国决赛展示大学院生研究的3分钟英语演讲，设现
+ 场人气奖投票及多项奖金。\nAI 自动整理，重要日期请
+ 核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs
+ .do?mode=view&articleNo=378283
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378283
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
