@@ -1,32 +1,27 @@
 {
-  "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+  "checkedAt": "2026-11-02T11:33:56.309822+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
   "scanned": 555,
   "pages": 36,
   "boards": 10,
-  "translated": 125,
-  "unchanged": 106,
-  "excluded": 76,
+  "translated": 129,
+  "unchanged": 105,
+  "excluded": 74,
   "skipped": 0,
   "errors": [
     {
-      "id": "377983",
+      "id": "377970",
       "error": "TranslationError",
       "reason": "attempt 1: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReada"
     },
     {
-      "id": "378202",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReada"
-    },
-    {
-      "id": "library-23188",
+      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
     {
-      "id": "library-23144",
+      "id": "library-23188",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -76,14 +71,14 @@
       "reason": "ValueError"
     },
     {
-      "id": "library-23087",
-      "error": "ValueError",
-      "reason": "ValueError"
-    },
-    {
       "id": "377658",
       "error": "GatewayError",
       "reason": "Reader could not retrieve the official page successfully"
+    },
+    {
+      "id": "library-23087",
+      "error": "ValueError",
+      "reason": "ValueError"
     },
     {
       "id": "library-23207",
@@ -101,9 +96,9 @@
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "377770",
-      "error": "TranslationError",
-      "reason": "attempt 1: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReada"
+      "id": "378296",
+      "error": "GatewayError",
+      "reason": "Reader could not retrieve the official page successfully"
     }
   ],
   "schedule": "每日 08:17、12:17、18:17 KST",
@@ -117,8 +112,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
-      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
+      "lastSuccessAt": "2026-11-02T11:33:56.309822+09:00"
     },
     {
       "key": "international",
@@ -129,8 +124,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
-      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
+      "lastSuccessAt": "2026-11-02T11:33:56.309822+09:00"
     },
     {
       "key": "oia",
@@ -138,22 +133,22 @@
       "url": "https://www.ajou.ac.kr/oia/notice/notice.do",
       "pages": 8,
       "scanned": 83,
-      "status": "partial",
+      "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
-      "lastSuccessAt": "2026-11-01T11:16:41.064361+09:00"
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
+      "lastSuccessAt": "2026-11-02T11:33:56.309822+09:00"
     },
     {
       "key": "university",
       "name": "学校综合公告",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do",
       "pages": 10,
-      "scanned": 103,
+      "scanned": 104,
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -165,8 +160,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
-      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
+      "lastSuccessAt": "2026-11-02T11:33:56.309822+09:00"
     },
     {
       "key": "innovation",
@@ -177,20 +172,20 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
-      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
+      "lastSuccessAt": "2026-11-02T11:33:56.309822+09:00"
     },
     {
       "key": "scholarship",
       "name": "奖学金公告",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do",
       "pages": 2,
-      "scanned": 26,
+      "scanned": 25,
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
-      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
+      "lastSuccessAt": "2026-11-02T11:33:56.309822+09:00"
     },
     {
       "key": "library",
@@ -201,7 +196,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
       "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
     },
     {
@@ -209,12 +204,12 @@
       "name": "大学院学事日历",
       "url": "https://grad.ajou.ac.kr/gs/bachelor/schedule.do",
       "pages": 1,
-      "scanned": 26,
+      "scanned": 25,
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
-      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
+      "lastSuccessAt": "2026-11-02T11:33:56.309822+09:00"
     },
     {
       "key": "college",
@@ -225,8 +220,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-01T19:32:34.960260+09:00",
-      "lastSuccessAt": "2026-11-01T19:32:34.960260+09:00"
+      "checkedAt": "2026-11-02T11:33:56.309822+09:00",
+      "lastSuccessAt": "2026-11-02T11:33:56.309822+09:00"
     }
   ]
 }

@@ -6,21 +6,21 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:376934-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261101T103234Z
-LAST-MODIFIED:20261101T103234Z
+DTSTAMP:20261102T023356Z
+LAST-MODIFIED:20261102T023356Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:申请 / 办理截止：2026学年度前学期硕士学位论文
- 审查申请提交指南
-DESCRIPTION:适用对象：预计于2027年2月毕业的一般大学院
- 硕士生。公告未说明外国留学生是否有额外条件。\n说
- 明硕士学位论文审查申请、费用、材料资格及审查和论
- 文提交日程。\nAI 自动整理，重要日期请核对原文。\n
- 官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&
- articleNo=376934\n原文未给具体时刻，本日历使用全天事项
- 。
+ 审查申请及提交指南
+DESCRIPTION:适用对象：一般大学院硕士课程，预计于2027年
+ 2月毕业者；外国研究生资格未另行说明，具体适用条
+ 件须向所属学科确认。\n说明硕士论文审查申请、审查
+ 费、资格材料及审查与最终论文提交时间。\nAI 自动整
+ 理，重要日期请核对原文。\n官方原文：https://grad.ajou.a
+ c.kr/gs/community/notice.do?mode=view&articleNo=376934\n原文未给具
+ 体时刻，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376934
 TRANSP:TRANSPARENT
-SEQUENCE:7
+SEQUENCE:8
 END:VEVENT
 END:VCALENDAR

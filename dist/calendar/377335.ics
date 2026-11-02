@@ -6,21 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:377335-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261101T103234Z
-LAST-MODIFIED:20261101T103234Z
+DTSTAMP:20261102T023356Z
+LAST-MODIFIED:20261102T023356Z
 DTSTART:20261026T070000Z
 DTEND:20261026T081000Z
-SUMMARY:活动：A-Career Insight Talk（2026）：生物领域研究生
- 职业探索讲座
-DESCRIPTION:适用对象：本校一般大学院学生及博士后研究
- 员等；对讲座感兴趣者也可参加，本科生亦可参与。未
- 明确外国研究生资格。\n介绍生物行业从研究到技术支
- 持的职业路径，讲者为 DAON BioSciences Inc. 技术支持团队
- 负责人。\nAI 自动整理，重要日期请核对原文。\n官方
- 原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo
- =377335
+SUMMARY:活动：A-Career Insight Talk（2026）：生物行业职业探
+ 索特讲
+DESCRIPTION:适用对象：本校大学院生、博士后研究员及其
+ 他对讲座感兴趣者；本科生也可参加。未说明外国留学
+ 生资格限制。\n介绍生物行业研究及技术支持职业路径
+ ，分享研究工作转向产业实践的经验。\nAI 自动整理，
+ 重要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/g
+ s/bk21/bk21_bbs.do?mode=view&articleNo=377335
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335
 TRANSP:TRANSPARENT
-SEQUENCE:9
+SEQUENCE:10
 END:VEVENT
 END:VCALENDAR

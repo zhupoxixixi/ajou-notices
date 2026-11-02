@@ -6,42 +6,42 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:376256-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261101T103234Z
-LAST-MODIFIED:20261101T103234Z
+DTSTAMP:20261102T023356Z
+LAST-MODIFIED:20261102T023356Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:申请 / 办理截止：2026学年度第一学期博士学位论
- 文审查申请提交指南
-DESCRIPTION:适用对象：2027年2月博士毕业预定者；外国研
- 究生资格未另作限制说明。申请者须满足博士课程修业
- 、论文指导及学科论文发表等条件。\n博士学位论文审
- 查申请于2026-09-28至2026-10-02提交；论文审查及结果、学
- 位论文线上提交另有安排。\nAI 自动整理，重要日期请
- 核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/community/not
- ice.do?mode=view&articleNo=376256\n原文未给具体时刻，本日历
- 使用全天事项。
+SUMMARY:申请 / 办理截止：2026学年度前期博士学位论文审
+ 查申请及提交指南（预计2027年2月毕业）
+DESCRIPTION:适用对象：预计2027年2月毕业的一般大学院博
+ 士课程学生；须满足博士学位论文审查申请资格及学科
+ 要求，公告未作国籍限制说明。\n说明博士论文审查申
+ 请、资格、费用及材料提交安排；申请期已过，审查及
+ 电子论文提交仍按公告日期进行。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/comm
+ unity/notice.do?mode=view&articleNo=376256\n原文未给具体时刻，
+ 本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376256
 TRANSP:TRANSPARENT
-SEQUENCE:9
+SEQUENCE:10
 END:VEVENT
 BEGIN:VEVENT
 UID:376256-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261101T103234Z
-LAST-MODIFIED:20261101T103234Z
+DTSTAMP:20261102T023356Z
+LAST-MODIFIED:20261102T023356Z
 DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261205
-SUMMARY:活动：2026学年度第一学期博士学位论文审查申请
- 提交指南
-DESCRIPTION:适用对象：2027年2月博士毕业预定者；外国研
- 究生资格未另作限制说明。申请者须满足博士课程修业
- 、论文指导及学科论文发表等条件。\n博士学位论文审
- 查申请于2026-09-28至2026-10-02提交；论文审查及结果、学
- 位论文线上提交另有安排。\nAI 自动整理，重要日期请
- 核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/community/not
- ice.do?mode=view&articleNo=376256\n原文未给具体时刻，本日历
- 使用全天事项。
+DTEND;VALUE=DATE:20270116
+SUMMARY:活动：2026学年度前期博士学位论文审查申请及提
+ 交指南（预计2027年2月毕业）
+DESCRIPTION:适用对象：预计2027年2月毕业的一般大学院博
+ 士课程学生；须满足博士学位论文审查申请资格及学科
+ 要求，公告未作国籍限制说明。\n说明博士论文审查申
+ 请、资格、费用及材料提交安排；申请期已过，审查及
+ 电子论文提交仍按公告日期进行。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/comm
+ unity/notice.do?mode=view&articleNo=376256\n原文未给具体时刻，
+ 本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376256
 TRANSP:TRANSPARENT
-SEQUENCE:4
+SEQUENCE:5
 END:VEVENT
 END:VCALENDAR

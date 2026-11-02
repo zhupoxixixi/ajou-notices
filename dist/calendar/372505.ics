@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372505-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261102T023356Z
+LAST-MODIFIED:20261102T023356Z
+DTSTART:20260506T030000Z
+DTEND:20260506T043000Z
+SUMMARY:活动：参与式与视觉研究方法及研究伦理海外学
+ 者讲座
+DESCRIPTION:适用对象：本校大学院生及相关教员等约30人
+ ；外国学生是否可参加未单独说明，海报未列国籍限制
+ 。\n邀请Middlesex University教授举办研究方法与研究伦理
+ 讲座，并安排问答及海外人士与大学院生座谈。\nAI 自
+ 动整理，重要日期请核对原文。\n官方原文：https://grad.
+ ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372505
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372505
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

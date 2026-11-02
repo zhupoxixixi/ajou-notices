@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377101-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261102T023356Z
+LAST-MODIFIED:20261102T023356Z
+DTSTART:20261125T080000Z
+SUMMARY:申请 / 办理截止：2027年春季外国人研究生招生在
+ 线申请
+DESCRIPTION:适用对象：申请Ajou University 2027年春季硕士、
+ 博士或硕博连读项目的申请人；各院系具体资格要求可
+ 能不同，须查阅招生指南。\n硕士、博士及硕博连读申
+ 请与原件提交均须在2026-11-25 17:00前完成。\nAI 自动整理
+ ，重要日期请核对原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs_eng/community/notice.do?mode=view&articleNo=377101
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377101
+TRANSP:TRANSPARENT
+SEQUENCE:4
+END:VEVENT
+END:VCALENDAR
