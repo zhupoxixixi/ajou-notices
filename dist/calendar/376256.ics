@@ -6,42 +6,21 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:376256-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261102T023356Z
-LAST-MODIFIED:20261102T023356Z
+DTSTAMP:20261102T111632Z
+LAST-MODIFIED:20261102T111632Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:申请 / 办理截止：2026学年度前期博士学位论文审
- 查申请及提交指南（预计2027年2月毕业）
-DESCRIPTION:适用对象：预计2027年2月毕业的一般大学院博
- 士课程学生；须满足博士学位论文审查申请资格及学科
- 要求，公告未作国籍限制说明。\n说明博士论文审查申
- 请、资格、费用及材料提交安排；申请期已过，审查及
- 电子论文提交仍按公告日期进行。\nAI 自动整理，重要
- 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/comm
- unity/notice.do?mode=view&articleNo=376256\n原文未给具体时刻，
- 本日历使用全天事项。
+SUMMARY:申请 / 办理截止：2026学年度前学期博士学位论文
+ 审查申请指南
+DESCRIPTION:适用对象：预计于2027年2月毕业的一般大学院
+ 博士生；需满足博士课程修读、论文指导、考试及论文
+ 发表等资格条件。\n说明博士论文审查申请资格、材料
+ 、费用及审查与论文提交日程。\nAI 自动整理，重要日
+ 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/communi
+ ty/notice.do?mode=view&articleNo=376256\n原文未给具体时刻，本
+ 日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376256
 TRANSP:TRANSPARENT
-SEQUENCE:10
-END:VEVENT
-BEGIN:VEVENT
-UID:376256-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261102T023356Z
-LAST-MODIFIED:20261102T023356Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20270116
-SUMMARY:活动：2026学年度前期博士学位论文审查申请及提
- 交指南（预计2027年2月毕业）
-DESCRIPTION:适用对象：预计2027年2月毕业的一般大学院博
- 士课程学生；须满足博士学位论文审查申请资格及学科
- 要求，公告未作国籍限制说明。\n说明博士论文审查申
- 请、资格、费用及材料提交安排；申请期已过，审查及
- 电子论文提交仍按公告日期进行。\nAI 自动整理，重要
- 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/comm
- unity/notice.do?mode=view&articleNo=376256\n原文未给具体时刻，
- 本日历使用全天事项。
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376256
-TRANSP:TRANSPARENT
-SEQUENCE:5
+SEQUENCE:11
 END:VEVENT
 END:VCALENDAR

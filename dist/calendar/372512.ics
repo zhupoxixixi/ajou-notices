@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372512-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261102T111632Z
+LAST-MODIFIED:20261102T111632Z
+DTSTART:20260708T063000Z
+DTEND:20260708T080000Z
+SUMMARY:活动：从算法到政策：多学科社会科学中的人工
+ 智能与深度学习建模
+DESCRIPTION:适用对象：本校大学院生及相关教职员；海报
+ 未注明国籍限制，外国研究生资格按此范围适用。\nBK21
+ 海外学者特邀讲座，探讨人工智能与深度学习建模在多
+ 学科社会科学中的作用。\nAI 自动整理，重要日期请核
+ 对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do
+ ?mode=view&articleNo=372512
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372512
+TRANSP:TRANSPARENT
+SEQUENCE:8
+END:VEVENT
+END:VCALENDAR

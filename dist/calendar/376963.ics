@@ -6,35 +6,36 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:376963-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261102T023356Z
-LAST-MODIFIED:20261102T023356Z
+DTSTAMP:20261102T111632Z
+LAST-MODIFIED:20261102T111632Z
 DTSTART:20261015T090000Z
 SUMMARY:申请 / 办理截止：2026外国人跆拳道表演节
-DESCRIPTION:适用对象：外国籍跆拳道练习者或曾接受跆拳
- 道训练者；公告未说明外国研究生是否另有条件。\n外
- 国人跆拳道表演节于国技院举办，并设韩国传统文化体
- 验活动。\nAI 自动整理，重要日期请核对原文。\n官方
- 原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo
- =376963
+DESCRIPTION:适用对象：练习过跆拳道或完成跆拳道训练的
+ 外国人；未限定在校生身份或国籍。\n外国人跆拳道表
+ 演节于2026-10-31在国技院举行，含韩国传统文化体验活
+ 动。线上报名已截止。\nAI 自动整理，重要日期请核对
+ 原文。\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mo
+ de=view&articleNo=376963
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963
 TRANSP:TRANSPARENT
-SEQUENCE:6
+SEQUENCE:7
 END:VEVENT
 BEGIN:VEVENT
 UID:376963-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261102T023356Z
-LAST-MODIFIED:20261102T023356Z
+DTSTAMP:20261102T111632Z
+LAST-MODIFIED:20261102T111632Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:活动：2026外国人跆拳道表演节
-DESCRIPTION:适用对象：外国籍跆拳道练习者或曾接受跆拳
- 道训练者；公告未说明外国研究生是否另有条件。\n外
- 国人跆拳道表演节于国技院举办，并设韩国传统文化体
- 验活动。\nAI 自动整理，重要日期请核对原文。\n官方
- 原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo
- =376963\n原文未给具体时刻，本日历使用全天事项。
+DESCRIPTION:适用对象：练习过跆拳道或完成跆拳道训练的
+ 外国人；未限定在校生身份或国籍。\n外国人跆拳道表
+ 演节于2026-10-31在国技院举行，含韩国传统文化体验活
+ 动。线上报名已截止。\nAI 自动整理，重要日期请核对
+ 原文。\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mo
+ de=view&articleNo=376963\n原文未给具体时刻，本日历使用全
+ 天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963
 TRANSP:TRANSPARENT
-SEQUENCE:6
+SEQUENCE:7
 END:VEVENT
 END:VCALENDAR
