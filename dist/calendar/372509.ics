@@ -6,18 +6,19 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372509-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T035715Z
-LAST-MODIFIED:20261103T035715Z
+DTSTAMP:20261103T170631Z
+LAST-MODIFIED:20261103T170631Z
 DTSTART:20260519T080000Z
 DTEND:20260519T110000Z
-SUMMARY:活动：海外学者特邀讲座：共同体的伤痛与复原
+SUMMARY:活动：海外学者专题讲座：共同体的创伤与复原
 DESCRIPTION:适用对象：本校一般大学院学生及相关教职员
- ；海报未另列外国留学生资格。\n围绕灾害应对与社会
- 复原的特邀讲座，并安排问答及海外人士与研究生交流
- 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
- tps://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509
+ ；海报未列明国籍限制。\n海外学者专题讲座，主题涉
+ 及灾害应对与社会记忆，并安排问答及海外人士与研究
+ 生交流。\nAI 自动整理，重要日期请核对原文。\n官方
+ 原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo
+ =372509
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372509
 TRANSP:TRANSPARENT
-SEQUENCE:11
+SEQUENCE:12
 END:VEVENT
 END:VCALENDAR

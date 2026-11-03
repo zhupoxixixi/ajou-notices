@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:376054-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T170631Z
+LAST-MODIFIED:20261103T170631Z
+DTSTART:20260914T060000Z
+DTEND:20260914T080000Z
+SUMMARY:活动：社会连带经济专家讲座
+DESCRIPTION:适用对象：社会连带经济相关人士、公务员、
+ 研究人员及其他感兴趣者；未说明外国研究生专属资格
+ 。\n行政安全部邀请Luigino Bruni教授举办社会连带经济专
+ 家讲座及交流活动。\nAI 自动整理，重要日期请核对原
+ 文。\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mo
+ de=view&articleNo=376054
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376054
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

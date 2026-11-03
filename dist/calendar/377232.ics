@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377232-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T170631Z
+LAST-MODIFIED:20261103T170631Z
+DTSTART:20261027T070000Z
+DTEND:20261027T085000Z
+SUMMARY:活动：与编辑面对面：Wiley编辑研究能力提升讲座
+DESCRIPTION:适用对象：大学院生、博士后研究人员及校内
+ 成员；一对一研究推介名额有限，教师优先。外国研究
+ 生资格未单独说明。\nWiley编辑介绍期刊并提供研究推
+ 介交流，活动已于2026-10-27举行。\nAI 自动整理，重要日
+ 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
+ 21_bbs.do?mode=view&articleNo=377232
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377232
+TRANSP:TRANSPARENT
+SEQUENCE:8
+END:VEVENT
+END:VCALENDAR

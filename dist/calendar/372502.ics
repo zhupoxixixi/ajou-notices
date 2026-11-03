@@ -6,20 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372502-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T035715Z
-LAST-MODIFIED:20261103T035715Z
+DTSTAMP:20261103T170631Z
+LAST-MODIFIED:20261103T170631Z
 DTSTART:20260311T043000Z
 DTEND:20260311T060000Z
-SUMMARY:活动：海外学者专题讲座：全球社会变化与公共
- 政策案例的研究方法
-DESCRIPTION:适用对象：本校大学院生及相关教职员；未说
- 明外国研究生是否有额外条件。\n邀请University of North Te
- xas教授举办专题讲座，主题为脆弱群体服务的制度路径
- ，并安排海外人士与大学院生座谈。\nAI 自动整理，重
- 要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/b
- k21/bk21_bbs.do?mode=view&articleNo=372502
+SUMMARY:活动：海外学者邀请讲座：区域公共管理制度研
+ 究
+DESCRIPTION:适用对象：本校大学院生及相关教职员；未注
+ 明外国研究生资格限制。\n邀请University of North Texas学者
+ 讲授脆弱群体公共服务制度路径，并安排外国人士与研
+ 究生座谈。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articl
+ eNo=372502
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372502
 TRANSP:TRANSPARENT
-SEQUENCE:11
+SEQUENCE:12
 END:VEVENT
 END:VCALENDAR

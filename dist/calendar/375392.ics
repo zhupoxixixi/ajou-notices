@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:375392-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T170631Z
+LAST-MODIFIED:20261103T170631Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:活动：第8届ISF 2026秋季国际学生职业博览会与论
+ 坛
+DESCRIPTION:适用对象：国际学生；海报未说明一般大学院
+ 学生是否另有资格限制。\n面向国际学生的职业博览会
+ 及高等教育论坛，涵盖就业、创业和升学。\nAI 自动整
+ 理，重要日期请核对原文。\n官方原文：https://grad.ajou.a
+ c.kr/gs_eng/community/notice.do?mode=view&articleNo=375392\n原文未给
+ 具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375392
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

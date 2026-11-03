@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:378317-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T170631Z
+LAST-MODIFIED:20261103T170631Z
+DTSTART:20261105T020000Z
+DTEND:20261105T080000Z
+SUMMARY:活动：参加2026 Ajou International Day问卷活动领取咖
+ 啡与华夫饼券
+DESCRIPTION:适用对象：在校生均可参加，未限定本科或国
+ 籍；研究生及外国留学生可参加，按先到先得限200人。
+ \n11月5日到Gawon Madang国际交流团队摊位扫码完成问卷，
+ 可现场领取咖啡和华夫饼兑换券。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://www.ajou.ac.kr/kr/ajou/
+ notice.do?mode=view&articleNo=378317
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378317
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

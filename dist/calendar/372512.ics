@@ -6,20 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372512-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T035715Z
-LAST-MODIFIED:20261103T035715Z
+DTSTAMP:20261103T170631Z
+LAST-MODIFIED:20261103T170631Z
 DTSTART:20260708T063000Z
 DTEND:20260708T080000Z
-SUMMARY:活动：算法到政策：多学科社会科学中的人工智
- 能与深度学习建模
+SUMMARY:活动：从算法到政策：多学科社会科学中的人工
+ 智能与深度学习建模
 DESCRIPTION:适用对象：本校大学院生及相关教职员；海报
- 未说明外国留学生资格，不能据此认定具体申请资格。
- \nBK21海外学者邀请讲座，介绍人工智能与深度学习模型
- 在多学科社会科学中的作用，并设问答及交流环节。\nA
- I 自动整理，重要日期请核对原文。\n官方原文：https://
- grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372512
+ 未说明国籍限制。\n邀请University of Texas at Dallas教授Kim D
+ ohyung，探讨人工智能与深度学习建模在多学科社会科学
+ 中的作用。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articl
+ eNo=372512
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372512
 TRANSP:TRANSPARENT
-SEQUENCE:9
+SEQUENCE:10
 END:VEVENT
 END:VCALENDAR

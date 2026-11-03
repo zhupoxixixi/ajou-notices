@@ -6,37 +6,19 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:370527-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T035715Z
-LAST-MODIFIED:20261103T035715Z
+DTSTAMP:20261103T170631Z
+LAST-MODIFIED:20261103T170631Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:申请 / 办理截止：2026年第一学期暑假韩语写作辅
- 导申请
-DESCRIPTION:适用对象：面向所有留学生；未明确说明是否
- 包括一般大学院学生。\n暑假期间提供韩语学习与写作
- 辅导，可自由选择课程时段。\nAI 自动整理，重要日期
- 请核对原文。\n官方原文：https://www.ajou.ac.kr/iadmissions/li
- fe/lifenotice.do?mode=view&articleNo=370527\n原文未给具体时刻，
- 本日历使用全天事项。
+SUMMARY:申请 / 办理截止：2026年暑假韩语写作辅导申请
+DESCRIPTION:适用对象：所有外国留学生；其他参与资格未
+ 说明。\n暑假期间提供韩语写作辅导，并练习韩语听说
+ 读写；通过Google表单申请。\nAI 自动整理，重要日期请
+ 核对原文。\n官方原文：https://www.ajou.ac.kr/iadmissions/life/
+ lifenotice.do?mode=view&articleNo=370527\n原文未给具体时刻，本
+ 日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370527
 TRANSP:TRANSPARENT
-SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
-UID:370527-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T035715Z
-LAST-MODIFIED:20261103T035715Z
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:活动：2026年第一学期暑假韩语写作辅导申请
-DESCRIPTION:适用对象：面向所有留学生；未明确说明是否
- 包括一般大学院学生。\n暑假期间提供韩语学习与写作
- 辅导，可自由选择课程时段。\nAI 自动整理，重要日期
- 请核对原文。\n官方原文：https://www.ajou.ac.kr/iadmissions/li
- fe/lifenotice.do?mode=view&articleNo=370527\n原文未给具体时刻，
- 本日历使用全天事项。
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370527
-TRANSP:TRANSPARENT
-SEQUENCE:0
+SEQUENCE:3
 END:VEVENT
 END:VCALENDAR
