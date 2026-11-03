@@ -6,19 +6,18 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:377499-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261102T111632Z
-LAST-MODIFIED:20261102T111632Z
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
 DTSTART:20261027T080000Z
-SUMMARY:活动：社会弱势群体法律制度研究中心第16届Colloq
- uium
-DESCRIPTION:适用对象：Ajou University校内成员（公告提及研
- 究人员及教职员），可自由参加；未注明外国研究生专
- 门资格。\n探讨日本超高龄与社会孤立相关法律现状及
- 挑战，邀请庆应义塾大学法学院教授主讲。\nAI 自动整
- 理，重要日期请核对原文。\n官方原文：https://www.ajou.ac
- .kr/kr/ajou/notice.do?mode=view&articleNo=377499
+SUMMARY:活动：社会弱势群体法律制度研究中心第16次学术
+ 研讨会
+DESCRIPTION:适用对象：庆熙大学校内成员（包括研究人员
+ 、教职员工等）；研究生可自由参加，未注明国籍限制
+ 。\n讲座探讨日本超高龄与社会疏离问题及相关法律制
+ 度。\nAI 自动整理，重要日期请核对原文。\n官方原文
+ ：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377499
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377499
 TRANSP:TRANSPARENT
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 END:VCALENDAR

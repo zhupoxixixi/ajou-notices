@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:374776-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
+DTSTART:20260910T010000Z
+DTEND:20260910T080000Z
+SUMMARY:活动：2026 Ajou职业招聘会
+DESCRIPTION:适用对象：准备在SW·AI、IT、制造、生物等领
+ 域就业的大学（院）生，毕业生也可参加；未注明外国
+ 学生的额外资格条件。\n提供企业一对一就业与岗位咨
+ 询、求职辅导及形象服务，500余家企业参与。\nAI 自动
+ 整理，重要日期请核对原文。\n官方原文：https://grad.ajo
+ u.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=374776
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374776
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

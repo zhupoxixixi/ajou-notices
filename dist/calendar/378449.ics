@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:378449-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
+DTSTART:20261109T050000Z
+SUMMARY:申请 / 办理截止：未来汽车 Skill-UP 专题讲座：韩
+ 国物理AI商业化的未来
+DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在
+ 校生；招募50人。\n讲座介绍韩国物理AI商业化前景，202
+ 6年11月9日举行；报名截止当日14时。\nAI 自动整理，重
+ 要日期请核对原文。\n官方原文：https://www.ajou.ac.kr/kr/aj
+ ou/notice.do?mode=view&articleNo=378449
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378449
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:378449-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
+DTSTART:20261109T060000Z
+DTEND:20261109T080000Z
+SUMMARY:活动：未来汽车 Skill-UP 专题讲座：韩国物理AI商
+ 业化的未来
+DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在
+ 校生；招募50人。\n讲座介绍韩国物理AI商业化前景，202
+ 6年11月9日举行；报名截止当日14时。\nAI 自动整理，重
+ 要日期请核对原文。\n官方原文：https://www.ajou.ac.kr/kr/aj
+ ou/notice.do?mode=view&articleNo=378449
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378449
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

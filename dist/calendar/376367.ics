@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:376367-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
+DTSTART:20261031T060000Z
+DTEND:20261101T060000Z
+SUMMARY:活动：《声音：圣德大王神钟》演出学生特别折
+ 扣
+DESCRIPTION:适用对象：大学（院）生及学校职员；研究生
+ 可适用。取票时须出示学生证等证明，预订人与观演者
+ 须为同一人。\n国立中央博物馆剧场龙演出《声音：圣
+ 德大王神钟》，大学（院）生及学校职员可享全席折扣
+ 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
+ tps://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376367
+TRANSP:TRANSPARENT
+SEQUENCE:9
+END:VEVENT
+END:VCALENDAR

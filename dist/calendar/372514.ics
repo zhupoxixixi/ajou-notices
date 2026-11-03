@@ -6,20 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372514-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261102T111632Z
-LAST-MODIFIED:20261102T111632Z
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
 DTSTART:20260706T070000Z
 DTEND:20260706T103000Z
-SUMMARY:活动：气候危机时代的自然灾害与社会应对海外
- 学者研讨会
-DESCRIPTION:适用对象：本科生、研究生及相关教师；海报
- 未说明外国研究生参与资格限制。\n邀请日本京都大学
- 教授TATANO Hirokazu举行气候灾害与社会应对讲座，并安排
- 问答及海外人士与研究生交流。\nAI 自动整理，重要日
- 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
- 21_bbs.do?mode=view&articleNo=372514
+SUMMARY:活动：气候危机时代自然灾害与社会应对：海外
+ 学者特邀讲座
+DESCRIPTION:适用对象：本校大学院生及相关教职员；未说
+ 明外国研究生是否有额外条件。\n日本京都大学教授Tada
+ no Hirokazu主讲气候危机时代自然灾害与社会应对，并安
+ 排海外人士与大学院生交流。\nAI 自动整理，重要日期
+ 请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_
+ bbs.do?mode=view&articleNo=372514
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372514
 TRANSP:TRANSPARENT
-SEQUENCE:5
+SEQUENCE:6
 END:VEVENT
 END:VCALENDAR

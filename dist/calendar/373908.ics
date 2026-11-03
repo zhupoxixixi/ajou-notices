@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:373908-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
+DTSTART:20260820T010000Z
+SUMMARY:活动：Samsung Electronics DS Division研发岗位国际学生
+ 招聘
+DESCRIPTION:适用对象：国际硕士、博士在读生（预计于2027
+ 年9月前毕业）或毕业生；海报未列明国籍限制，具体
+ 申请资格以申请信息为准。\nSamsung Electronics DS Division招
+ 聘研发人才，方向包括电路设计、封装开发、基础设施
+ 及系统设计。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=v
+ iew&articleNo=373908
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373908
+TRANSP:TRANSPARENT
+SEQUENCE:6
+END:VEVENT
+END:VCALENDAR

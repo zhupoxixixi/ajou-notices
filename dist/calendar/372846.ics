@@ -6,37 +6,37 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372846-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261102T111632Z
-LAST-MODIFIED:20261102T111632Z
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
 DTSTART:20260807T060000Z
-SUMMARY:申请 / 办理截止：第二届 A-3MT Competition 参赛者招
- 募
-DESCRIPTION:适用对象：约20名大学院在读生（含修了后研
- 究注册生）及博士后研究员；未说明国籍限制。\n以英
- 语用一张幻灯片在3分钟内向非专业人士介绍研究，提
- 供工作坊与个别辅导，并设竞赛奖金。\nAI 自动整理，
- 重要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/g
- s/bk21/bk21_bbs.do?mode=view&articleNo=372846
+SUMMARY:申请 / 办理截止：A-3MT 三分钟论文竞赛报名
+DESCRIPTION:适用对象：一般大学院在读生（含修了后研究
+ 注册生）及博士后研究人员，约20人；研究生须提交导
+ 师确认书。\n以英语用一页幻灯片在三分钟内向非专业
+ 人士介绍研究，含工作坊、个别辅导及竞赛，奖金最高
+ 100万韩元。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articl
+ eNo=372846
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846
 TRANSP:TRANSPARENT
-SEQUENCE:8
+SEQUENCE:9
 END:VEVENT
 BEGIN:VEVENT
 UID:372846-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261102T111632Z
-LAST-MODIFIED:20261102T111632Z
-DTSTART;VALUE=DATE:20260903
+DTSTAMP:20261103T035715Z
+LAST-MODIFIED:20261103T035715Z
+DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260905
-SUMMARY:活动：第二届 A-3MT Competition 参赛者招募
-DESCRIPTION:适用对象：约20名大学院在读生（含修了后研
- 究注册生）及博士后研究员；未说明国籍限制。\n以英
- 语用一张幻灯片在3分钟内向非专业人士介绍研究，提
- 供工作坊与个别辅导，并设竞赛奖金。\nAI 自动整理，
- 重要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/g
- s/bk21/bk21_bbs.do?mode=view&articleNo=372846\n原文未给具体时刻
- ，本日历使用全天事项。
+SUMMARY:活动：A-3MT 三分钟论文竞赛报名
+DESCRIPTION:适用对象：一般大学院在读生（含修了后研究
+ 注册生）及博士后研究人员，约20人；研究生须提交导
+ 师确认书。\n以英语用一页幻灯片在三分钟内向非专业
+ 人士介绍研究，含工作坊、个别辅导及竞赛，奖金最高
+ 100万韩元。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articl
+ eNo=372846\n原文未给具体时刻，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846
 TRANSP:TRANSPARENT
-SEQUENCE:8
+SEQUENCE:9
 END:VEVENT
 END:VCALENDAR
