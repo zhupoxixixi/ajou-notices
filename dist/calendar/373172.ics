@@ -6,40 +6,40 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:373172-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T170631Z
-LAST-MODIFIED:20261103T170631Z
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:申请 / 办理截止：2026韩国留学短视频竞赛
-DESCRIPTION:适用对象：任何国籍、目前就读于韩国大学的
- 本科生或研究生；也接受有韩国学习经历的国际毕业生
- 。个人或团队均可参加。\n以“My Journey\, Designed in Korea
- ”为主题制作短视频，研究生可参赛；线上投稿已截止
- ，评审及颁奖活动仍在后续举行。\nAI 自动整理，重要
- 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs_eng/
- community/notice.do?mode=view&articleNo=373172\n原文未给具体时刻
- ，本日历使用全天事项。
+SUMMARY:申请 / 办理截止：2026韩国留学宣传短视频竞赛
+DESCRIPTION:适用对象：不限国籍的韩国大学在读本科生和
+ 研究生，以及有韩国学习经历的国际毕业生；可个人或
+ 组队参赛。\n以“My Journey\, Designed in Korea”为主题制作
+ 韩国语或英语短视频，研究生可参加；提交期已于2026-0
+ 9-15结束。\nAI 自动整理，重要日期请核对原文。\n官方
+ 原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&ar
+ ticleNo=373172\n原文未给具体时刻，本日历使用全天事项
+ 。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172
 TRANSP:TRANSPARENT
-SEQUENCE:14
+SEQUENCE:15
 END:VEVENT
 BEGIN:VEVENT
 UID:373172-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T170631Z
-LAST-MODIFIED:20261103T170631Z
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:活动：2026韩国留学短视频竞赛
-DESCRIPTION:适用对象：任何国籍、目前就读于韩国大学的
- 本科生或研究生；也接受有韩国学习经历的国际毕业生
- 。个人或团队均可参加。\n以“My Journey\, Designed in Korea
- ”为主题制作短视频，研究生可参赛；线上投稿已截止
- ，评审及颁奖活动仍在后续举行。\nAI 自动整理，重要
- 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs_eng/
- community/notice.do?mode=view&articleNo=373172\n原文未给具体时刻
- ，本日历使用全天事项。
+SUMMARY:活动：2026韩国留学宣传短视频竞赛
+DESCRIPTION:适用对象：不限国籍的韩国大学在读本科生和
+ 研究生，以及有韩国学习经历的国际毕业生；可个人或
+ 组队参赛。\n以“My Journey\, Designed in Korea”为主题制作
+ 韩国语或英语短视频，研究生可参加；提交期已于2026-0
+ 9-15结束。\nAI 自动整理，重要日期请核对原文。\n官方
+ 原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&ar
+ ticleNo=373172\n原文未给具体时刻，本日历使用全天事项
+ 。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172
 TRANSP:TRANSPARENT
-SEQUENCE:8
+SEQUENCE:9
 END:VEVENT
 END:VCALENDAR

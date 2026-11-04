@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377983-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
+DTSTART:20261026T145900Z
+SUMMARY:申请 / 办理截止：2026 Ajou国际日：世界美食节与
+ 才艺表演招募
+DESCRIPTION:适用对象：国际学生；世界美食节按相同国籍
+ 组队，才艺表演可与韩国学生组队或由国际学生自行组
+ 队。是否有其他资格条件未说明。\n国际学生可参加世
+ 界美食节或才艺表演，活动于2026年11月5日在Gaon Madang举
+ 行。报名已于10月26日截止。\nAI 自动整理，重要日期请
+ 核对原文。\n官方原文：https://www.ajou.ac.kr/oia/notice/notice
+ .do?mode=view&articleNo=377983
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377983
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:377983-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:活动：2026 Ajou国际日：世界美食节与才艺表演招
+ 募
+DESCRIPTION:适用对象：国际学生；世界美食节按相同国籍
+ 组队，才艺表演可与韩国学生组队或由国际学生自行组
+ 队。是否有其他资格条件未说明。\n国际学生可参加世
+ 界美食节或才艺表演，活动于2026年11月5日在Gaon Madang举
+ 行。报名已于10月26日截止。\nAI 自动整理，重要日期请
+ 核对原文。\n官方原文：https://www.ajou.ac.kr/oia/notice/notice
+ .do?mode=view&articleNo=377983\n原文未给具体时刻，本日历使
+ 用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377983
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

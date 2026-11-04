@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377600-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
+DTSTART:20261106T080000Z
+SUMMARY:申请 / 办理截止：2027学年度前期全球制药临床研
+ 究生院常规招生
+DESCRIPTION:适用对象：全球制药临床研究生院新生申请者
+ ；资格列有国内外四年制大学毕业（预定）或同等学历
+ 等条件，未见国籍限制。\n招收2027学年度前期新生，设
+ 制药、临床药疗及化妆品·食药品科学等专业。\nAI 自
+ 动整理，重要日期请核对原文。\n官方原文：https://www.a
+ jou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377600
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377600
+TRANSP:TRANSPARENT
+SEQUENCE:4
+END:VEVENT
+END:VCALENDAR

@@ -6,20 +6,21 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:376256-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T170631Z
-LAST-MODIFIED:20261103T170631Z
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:申请 / 办理截止：2026学年度第一学期博士学位论
- 文审查申请提交指南（预计2027年2月毕业者）
-DESCRIPTION:适用对象：预计2027年2月毕业的一般大学院博
- 士生；公告未注明国籍限制。\n公布博士学位论文审查
- 资格、材料、费用及审查和论文提交日程。\nAI 自动整
- 理，重要日期请核对原文。\n官方原文：https://grad.ajou.a
- c.kr/gs/community/notice.do?mode=view&articleNo=376256\n原文未给具
- 体时刻，本日历使用全天事项。
+ 文审查申请提交指南
+DESCRIPTION:适用对象：计划于2027年2月毕业的博士课程学
+ 生；公告未说明外国研究生是否另有条件，依照所列学
+ 位及院系要求办理。\n博士论文审查申请提交期为2026-09
+ -28至10-02；另列论文审查、结果提交及论文在线提交时
+ 间。\nAI 自动整理，重要日期请核对原文。\n官方原文
+ ：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=37
+ 6256\n原文未给具体时刻，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376256
 TRANSP:TRANSPARENT
-SEQUENCE:13
+SEQUENCE:14
 END:VEVENT
 END:VCALENDAR

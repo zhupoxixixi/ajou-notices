@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:376494-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:申请 / 办理截止：2026区块链 Meetup Day（BCMD）第25
+ 期培训
+DESCRIPTION:适用对象：对区块链理论与实作教育感兴趣者
+ ；未限定学位阶段或国籍。报名限额35人，按先到先得
+ 。\n活动主题为零知识证明与区块链应用，包含理论、
+ 实作及AI Agent辅助ZKP程序开发。\nAI 自动整理，重要日
+ 期请核对原文。\n官方原文：https://www.ajou.ac.kr/sw/board/no
+ tice.do?mode=view&articleNo=376494\n原文未给具体时刻，本日历
+ 使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376494
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:376494-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
+DTSTART:20261011T010000Z
+DTEND:20261011T090000Z
+SUMMARY:活动：2026区块链 Meetup Day（BCMD）第25期培训
+DESCRIPTION:适用对象：对区块链理论与实作教育感兴趣者
+ ；未限定学位阶段或国籍。报名限额35人，按先到先得
+ 。\n活动主题为零知识证明与区块链应用，包含理论、
+ 实作及AI Agent辅助ZKP程序开发。\nAI 自动整理，重要日
+ 期请核对原文。\n官方原文：https://www.ajou.ac.kr/sw/board/no
+ tice.do?mode=view&articleNo=376494
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376494
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

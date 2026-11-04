@@ -6,20 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:373559-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261103T170631Z
-LAST-MODIFIED:20261103T170631Z
+DTSTAMP:20261104T030147Z
+LAST-MODIFIED:20261104T030147Z
 DTSTART:20260818T013000Z
 DTEND:20260818T033000Z
-SUMMARY:活动：A-Career Insight Talk（2026）：研究生创业与职
- 业探索讲座
-DESCRIPTION:适用对象：本校大学院生、博士后研究人员及
- 其他感兴趣者；海报注明对创业感兴趣的大学院生及校
- 内成员可参加。\n讲座探讨创业与个人发展，面向研究
- 生及其他感兴趣者开放。\nAI 自动整理，重要日期请核
- 对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do
- ?mode=view&articleNo=373559
+SUMMARY:活动：A-Career Insight Talk（2026）研究生研究型职业
+ 探索讲座
+DESCRIPTION:适用对象：本校大学院生及博士后研究员等；
+ 对讲座感兴趣者也可参加，学部生亦可参加。外国研究
+ 生适用条件未另行说明。\n讲座探讨创业与创新职业可
+ 能性，2026-08-18举行；未预先登记者也可参加。\nAI 自动
+ 整理，重要日期请核对原文。\n官方原文：https://grad.ajo
+ u.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373559
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373559
 TRANSP:TRANSPARENT
-SEQUENCE:14
+SEQUENCE:15
 END:VEVENT
 END:VCALENDAR
