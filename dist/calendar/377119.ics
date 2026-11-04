@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377119-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261104T110028Z
+LAST-MODIFIED:20261104T110028Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:申请 / 办理截止：2026区块链 Meetup Day（BCMD）第26
+ 期培训
+DESCRIPTION:适用对象：对区块链理论与实践培训感兴趣者
+ ；未注明是否有研究生专属条件。\n以Vibe Coding为主题
+ ，包含区块链与AI开发实作；活动已结束，报名已截止
+ 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
+ tps://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119\n原
+ 文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:377119-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261104T110028Z
+LAST-MODIFIED:20261104T110028Z
+DTSTART:20261017T010000Z
+DTEND:20261017T090000Z
+SUMMARY:活动：2026区块链 Meetup Day（BCMD）第26期培训
+DESCRIPTION:适用对象：对区块链理论与实践培训感兴趣者
+ ；未注明是否有研究生专属条件。\n以Vibe Coding为主题
+ ，包含区块链与AI开发实作；活动已结束，报名已截止
+ 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
+ tps://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

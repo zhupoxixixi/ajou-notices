@@ -1,17 +1,22 @@
 {
-  "checkedAt": "2026-11-04T12:01:47.593218+09:00",
+  "checkedAt": "2026-11-04T20:00:28.038025+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 555,
+  "scanned": 561,
   "pages": 36,
   "boards": 10,
-  "translated": 128,
-  "unchanged": 106,
+  "translated": 138,
+  "unchanged": 105,
   "excluded": 68,
   "skipped": 0,
   "errors": [
     {
       "id": "library-23188",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -42,11 +47,6 @@
     },
     {
       "id": "library-22797",
-      "error": "ValueError",
-      "reason": "ValueError"
-    },
-    {
-      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -112,8 +112,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
-      "lastSuccessAt": "2026-11-04T12:01:47.593218+09:00"
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
     },
     {
       "key": "international",
@@ -124,8 +124,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
-      "lastSuccessAt": "2026-11-04T12:01:47.593218+09:00"
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
     },
     {
       "key": "oia",
@@ -136,19 +136,19 @@
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
-      "lastSuccessAt": "2026-11-04T12:01:47.593218+09:00"
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
     },
     {
       "key": "university",
       "name": "学校综合公告",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do",
       "pages": 10,
-      "scanned": 104,
+      "scanned": 105,
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -160,8 +160,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
-      "lastSuccessAt": "2026-11-04T12:01:47.593218+09:00"
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
     },
     {
       "key": "innovation",
@@ -172,8 +172,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
-      "lastSuccessAt": "2026-11-04T12:01:47.593218+09:00"
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
     },
     {
       "key": "scholarship",
@@ -184,8 +184,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
-      "lastSuccessAt": "2026-11-04T12:01:47.593218+09:00"
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
     },
     {
       "key": "library",
@@ -196,7 +196,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
       "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
     },
     {
@@ -208,8 +208,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
-      "lastSuccessAt": "2026-11-04T12:01:47.593218+09:00"
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
     },
     {
       "key": "college",
@@ -220,8 +220,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T12:01:47.593218+09:00",
-      "lastSuccessAt": "2026-11-04T12:01:47.593218+09:00"
+      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
     }
   ]
 }

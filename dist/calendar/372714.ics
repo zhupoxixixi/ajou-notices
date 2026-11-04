@@ -6,18 +6,18 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372714-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T030147Z
-LAST-MODIFIED:20261104T030147Z
+DTSTAMP:20261104T110028Z
+LAST-MODIFIED:20261104T110028Z
 DTSTART:20260807T090000Z
-SUMMARY:申请 / 办理截止：2026年秋季学期英语课程申请
-DESCRIPTION:适用对象：在读学生、已完成规定课程者及ABD
- 学生；休学学生和2012年9月至2018年9月入学的药学专业
- 学生不符合资格。\n英语课程可满足论文提交语言资格
- ；申请及缴费期已结束。\nAI 自动整理，重要日期请核
- 对原文。\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/no
- tice.do?mode=view&articleNo=372714
+SUMMARY:申请 / 办理截止：2026年秋季英语课程申请
+DESCRIPTION:适用对象：一般大学院在读学生、已完成全部
+ 必修课程者及ABD学生；休学学生不符合资格。\n英语课
+ 程可用于满足论文提交语言资格要求，0学分，费用为
+ 每学期KRW 150\,000。申请期已结束。\nAI 自动整理，重要
+ 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs_eng/
+ community/notice.do?mode=view&articleNo=372714
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372714
 TRANSP:TRANSPARENT
-SEQUENCE:13
+SEQUENCE:14
 END:VEVENT
 END:VCALENDAR

@@ -6,19 +6,19 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:373850-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T030147Z
-LAST-MODIFIED:20261104T030147Z
+DTSTAMP:20261104T110028Z
+LAST-MODIFIED:20261104T110028Z
 DTSTART:20260828T043000Z
 DTEND:20260828T060000Z
 SUMMARY:活动：ACS编辑特邀讲座：高影响力论文写作与投
  稿策略
-DESCRIPTION:适用对象：大学院生、博士后研究员及其他感
- 兴趣者；外国研究生可否参加未另行说明。\n讲座介绍
- 高影响力论文写作与投稿策略，由ACS韩国分社编辑主讲
- 。\nAI 自动整理，重要日期请核对原文。\n官方原文：ht
- tps://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373850
+DESCRIPTION:适用对象：大学院生、博士后研究人员及其他
+ 感兴趣者；未注明国籍限制。\nACS韩国分社编辑主讲论
+ 文写作讲座，面向研究生及博士后研究人员等。\nAI 自
+ 动整理，重要日期请核对原文。\n官方原文：https://grad.
+ ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373850
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373850
 TRANSP:TRANSPARENT
-SEQUENCE:14
+SEQUENCE:15
 END:VEVENT
 END:VCALENDAR

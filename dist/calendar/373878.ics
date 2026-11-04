@@ -6,19 +6,20 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:373878-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T030147Z
-LAST-MODIFIED:20261104T030147Z
+DTSTAMP:20261104T110028Z
+LAST-MODIFIED:20261104T110028Z
 DTSTART:20260819T020000Z
 DTEND:20260819T050000Z
 SUMMARY:活动：公共采购中的行政负担：海外学者特邀讲
  座
-DESCRIPTION:适用对象：本校大学院生及相关教员；海报未
- 限定国籍。\n邀请美国雪城大学金敏贞教授讲授公共采
- 购行政负担，并安排海外人士与大学院生交流。\nAI 自
- 动整理，重要日期请核对原文。\n官方原文：https://grad.
- ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878
+DESCRIPTION:适用对象：本校大学院生及相关教职员；海报
+ 另列海外人士与大学院生交流环节。\n围绕公共采购中
+ 的行政负担举办海外学者讲座，并安排海外人士与大学
+ 院生交流。\nAI 自动整理，重要日期请核对原文。\n官
+ 方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articl
+ eNo=373878
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373878
 TRANSP:TRANSPARENT
-SEQUENCE:11
+SEQUENCE:12
 END:VEVENT
 END:VCALENDAR
