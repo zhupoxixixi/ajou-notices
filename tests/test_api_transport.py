@@ -1,6 +1,7 @@
-import unittest, io, copy
+import unittest, io, copy, json, tempfile, os
 from unittest.mock import patch, Mock
 from PIL import Image
+from pathlib import Path
 
 import update
 
@@ -49,6 +50,28 @@ class ApiTransportTests(unittest.TestCase):
             with self.assertRaisesRegex(GatewayError,'retaining previous result'):
                 update.process(self.source,prior,state,None,'gpt-6-luna',self.now)
         translate.assert_not_called()
+
+    def test_two_refreshes_persist_and_reuse_poster_fingerprint(self):
+        out=io.BytesIO();Image.new('RGB',(320,200),'white').save(out,format='PNG')
+        response=Mock(content=out.getvalue(),headers={'Content-Type':'image/png'})
+        source=copy.deepcopy(self.source)
+        source['images']=[{'url':'https://www.ajou.ac.kr/poster.png','alt':''}]
+        boards={key:(key,'https://grad.ajou.ac.kr/gs/community/notice.do') for key in ('graduate','university','oia')}
+        def scan(board,*_):
+            return ([source] if board=='graduate' else []),{'key':board,'status':'ok','pages':1,'error':None}
+        temp_root=update.ROOT/'output'/'luna-usage-investigation-20261105'
+        temp_root.mkdir(parents=True,exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=temp_root) as directory:
+            root=Path(directory);(root/'data').mkdir()
+            (root/'data'/'seed.json').write_text(json.dumps({'items':[],'exclusions':[]}),encoding='utf8')
+            with patch.object(update,'ROOT',root),patch.object(update,'BOARDS',boards),patch.object(update,'scan_board',side_effect=scan),patch.object(update,'source_for',side_effect=lambda *_:copy.deepcopy(source)),patch.object(update.requests,'get',return_value=response),patch('reader_gateway.fetch_pages'),patch.object(update,'translate_notice',return_value=self.decision) as translate,patch.dict(os.environ,{'TRANSLATE_API_KEY':'test-placeholder','SOURCE_TRANSPORT':'api','SOURCE_CACHE_MINUTES':'0'}):
+                first=update.run()
+                second=update.run()
+            state=json.loads((root/'data'/'state.json').read_text(encoding='utf8'))
+        self.assertEqual(first['updateStats']['translated'],1)
+        self.assertEqual(second['updateStats']['unchanged'],1)
+        self.assertEqual(translate.call_count,1)
+        self.assertEqual(state['1']['fingerprintKind'],'posters')
 
     def test_remote_poster_does_not_reuse_an_exclusion_with_same_url(self):
         image={'url':'https://www.ajou.ac.kr/poster.png','remoteUrl':'https://www.ajou.ac.kr/poster.png'}
