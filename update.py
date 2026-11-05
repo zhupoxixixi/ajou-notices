@@ -2,11 +2,11 @@
 import base64, datetime as dt, hashlib, io, json, os, re, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlsplit, urlunsplit, parse_qsl, urlencode
 from bs4 import BeautifulSoup
 import requests
 from crawl import BOARDS, listing, article, fetch, scan_board, session
-from ai_translate import translate_notice, DEFAULT_MODEL
+from ai_translate import translate_notice, DEFAULT_MODEL, RequestBudget
 ROOT=Path(__file__).parent;KST=dt.timezone(dt.timedelta(hours=9));PROMPT_VERSION=4
 def read(path,default):
     try:return json.loads(path.read_text(encoding='utf8'))
@@ -43,39 +43,57 @@ def candidate(r,known,today):
     if r['board']=='library':return bool(re.search(r'학술|연구|논문|대학원|JCR|DB|데이터|Turnitin|학위|교육|전자자료|EndNote|JIF|ICPSR',r['titleKo'],re.I))
     return True
 def image_evidence(images,*,page_url=None):
-    if os.environ.get('SOURCE_TRANSPORT')=='api' and any(((urlparse(i['url']).hostname or '')=='ajou.ac.kr' or (urlparse(i['url']).hostname or '').endswith('.ajou.ac.kr')) and urlparse(i['url']).hostname!='library.ajou.ac.kr' for i in images):
-        from reader_gateway import snapshot_images
-        if not page_url:raise ValueError('Official page URL required for complete image evidence')
-        return snapshot_images(page_url)
+    if os.environ.get('SOURCE_TRANSPORT')=='api' and images:
+        # Reader's full-page screenshots include changing view counts and nearby
+        # links. Fetch the poster itself so those pixels don't invalidate its
+        # fingerprint. On any failure retain the complete-page fallback.
+        try:
+            return _image_evidence(images, proxy=True)
+        except (ValueError, requests.RequestException, OSError):
+            from reader_gateway import snapshot_images
+            if not page_url:raise ValueError('Official page URL required for complete image evidence')
+            return snapshot_images(page_url)
+    return _image_evidence(images, proxy=False)
+
+def _image_evidence(images, *, proxy):
     result=[]
-    for image in images[:4]:
+    for image in (images if proxy else images[:4]):
         if image['url'].startswith('data:image/') and ';base64,' in image['url']:
             header,encoded=image['url'].split(',',1);mime=header[5:].split(';')[0];body=base64.b64decode(encoded,validate=True)
         else:
             if not allowed_url(image['url']):raise ValueError('Untrusted image host')
             host=urlparse(image['url']).hostname or ''
-            if os.environ.get('SOURCE_TRANSPORT')=='api' and (host=='ajou.ac.kr' or host.endswith('.ajou.ac.kr')) and host!='library.ajou.ac.kr':
-                # The model gateway can read the official image remotely even
-                # when GitHub cannot reach that host. URL identity is not a
-                # content hash: process() must re-read these posters each run.
-                raise ValueError('Official page snapshot required for this poster')
-            r=binary_resource(image['url'],12*1024*1024);body=r.content;mime=r.headers.get('Content-Type','image/jpeg').split(';')[0]
+            if proxy:
+                parts=urlsplit(image['url'])
+                # A new upstream URL each hour bounds the proxy's 7–31 day
+                # cache without changing the URL recorded in the public data.
+                query=parse_qsl(parts.query,keep_blank_values=True)
+                query.append(('ajou_recheck',str(int(time.time()//3600))))
+                target=urlunsplit((parts.scheme,parts.netloc,parts.path,urlencode(query),''))
+                r=requests.get('https://images.weserv.nl/',params={'url':target},headers={'User-Agent':'Mozilla/5.0 AjouNoticeArchive/1.0'},timeout=(10,35),allow_redirects=False)
+                r.raise_for_status()
+                if len(r.content)>12*1024*1024:raise ValueError('Official resource exceeds size limit')
+            else:r=binary_resource(image['url'],12*1024*1024)
+            body=r.content;mime=r.headers.get('Content-Type','image/jpeg').split(';')[0]
         if len(body)>12*1024*1024:raise ValueError('Poster exceeds size limit')
         if not mime.startswith('image/'):raise ValueError('Poster is not an image')
         # Very wide screenshots can become unreadable when vision services fit
         # the entire strip into one frame. Preserve every pixel in overlapping
         # left-to-right tiles instead of discarding the small text.
         from PIL import Image
-        try:picture=Image.open(io.BytesIO(body))
-        except OSError:picture=None
+        try:
+            picture=Image.open(io.BytesIO(body));picture.load()
+        except OSError:
+            if proxy:raise ValueError('Official poster image could not be decoded') from None
+            picture=None
         if picture and picture.width>1024 and picture.width>3*picture.height:
             if picture.mode not in ('RGB','RGBA','L','P'):picture=picture.convert('RGB')
             for left in range(0,picture.width,704):
                 stream=io.BytesIO();picture.crop((left,0,min(left+768,picture.width),picture.height)).save(stream,format='PNG')
                 tile=stream.getvalue()
-                result.append({**image,'hash':hashlib.sha256(tile).hexdigest(),'dataUrl':'data:image/png;base64,'+base64.b64encode(tile).decode(),'highDetail':True,'posterTile':True})
+                result.append({**image,'hash':hashlib.sha256(tile).hexdigest(),'dataUrl':'data:image/png;base64,'+base64.b64encode(tile).decode(),'highDetail':True,'posterTile':True,**({'posterProxy':True} if proxy else {})})
         else:
-            result.append({**image,'hash':hashlib.sha256(body).hexdigest(),'dataUrl':'data:'+mime+';base64,'+base64.b64encode(body).decode(),'highDetail':True})
+            result.append({**image,'hash':hashlib.sha256(body).hexdigest(),'dataUrl':'data:'+mime+';base64,'+base64.b64encode(body).decode(),'highDetail':True,**({'posterProxy':True} if proxy else {})})
         if len(result)>32 or sum(len(x['dataUrl']) for x in result)>20*1024*1024:raise ValueError('Complete poster image evidence exceeds the vision input limit')
     return result
 def source_for(row,prior):
@@ -150,18 +168,24 @@ def cached_source(prior,state,model,now):
     if prior and prior.get('fetchStatus')=='stale':return False
     age=dt.datetime.fromisoformat(now)-dt.datetime.fromisoformat(state['checkedAt'])
     return dt.timedelta(0)<=age<dt.timedelta(minutes=minutes)
-def process(row,prior,state,seed,model,now):
+def process(row,prior,state,seed,model,now,budget=None):
     if cached_source(prior,state,model,now):
         cached={**prior,'otherSources':row.get('otherSources',prior.get('otherSources',[]))} if prior else None
         return protect_scope(cached),state,'unchanged'
     source=source_for(row,prior);base=base_fingerprint(source);pictures=image_evidence(source.get('images',[]),page_url=source['url'])
-    remote_posters=any(x.get('remoteUrl') or x.get('pageSnapshot') for x in pictures)
-    unhashed_remote_posters=any((x.get('remoteUrl') or x.get('pageSnapshot')) and not x.get('hash') for x in pictures)
+    remote_posters=any(x.get('remoteUrl') or x.get('pageSnapshot') or x.get('posterProxy') for x in pictures)
+    unhashed_remote_posters=any((x.get('remoteUrl') or x.get('pageSnapshot') or x.get('posterProxy')) and not x.get('hash') for x in pictures)
+    fingerprint_kind='page-snapshot' if any(x.get('pageSnapshot') for x in pictures) else 'posters' if any(x.get('posterProxy') for x in pictures) else 'direct'
+    if state and state.get('fingerprintKind')=='posters' and fingerprint_kind=='page-snapshot' and state.get('sourceFingerprint')==base:
+        # A screenshot and an original poster cannot be compared. Keep the
+        # reviewed result instead of treating a proxy outage as changed content.
+        from source_gateway import GatewayError
+        raise GatewayError('Poster image check unavailable; retaining previous result')
     key=digest({'base':base,'posters':[x.get('hash') or {'remoteUrl':x.get('remoteUrl'),'pageSnapshot':bool(x.get('pageSnapshot'))} for x in pictures],'extra':source['extraText'],'model':model,'prompt':PROMPT_VERSION})
     record={k:source[k] for k in ('id','titleKo','url','source','board','published','attachments')};record['fetchedAt']=now
     record['otherSources']=row.get('otherSources',[])
     record['displayUntil']=row.get('displayUntil')
-    new_state={'fingerprint':key,'checkedAt':now,'sourceFingerprint':base,'model':model,'prompt':PROMPT_VERSION,'transport':os.environ.get('SOURCE_TRANSPORT','direct')}
+    new_state={'fingerprint':key,'fingerprintKind':fingerprint_kind,'checkedAt':now,'sourceFingerprint':base,'model':model,'prompt':PROMPT_VERSION,'transport':os.environ.get('SOURCE_TRANSPORT','direct')}
     if source.get('unavailableReason'):
         old={**prior,'reviewNeeded':True,'fetchStatus':'stale'} if prior else None
         return old,{**new_state,'reason':source['unavailableReason'],'action':'skipped'},'skipped'
@@ -177,14 +201,15 @@ def process(row,prior,state,seed,model,now):
     source['images']=pictures
     if any(x.get('pageSnapshot') for x in pictures):source['imageMode']='official-page-snapshot'
     elif any(x.get('posterTile') for x in pictures):source['imageMode']='official-poster-tiles'
-    decision=translate_notice(source,model=model)
+    elif any(x.get('posterProxy') for x in pictures):source['imageMode']='official-posters'
+    decision=translate_notice(source,model=model,budget=budget)
     if not decision['include']:
         new_state['reason']=decision['reason'];return None,new_state,'excluded'
     if row['board']=='academic_calendar':
         decision.update(start=source.get('calendarStart'),end=source.get('calendarEnd'),event=None,eventEnd=None,kind='deadline',endEvidence=source.get('calendarPeriod') if source.get('calendarEnd') else '')
         decision['note']=(decision.get('note') or '')+' 大学院通用学事日程，个人办理资格及学科细节以专项公告为准；日程可能调整。'
     item={**record,**{k:decision.get(k) for k in ('title','tags','audience','summary','details','start','end','event','eventEnd','kind','note','endEvidence','eventEvidence','eligibility')},'editorial':'auto','translationModel':model,'translatedAt':now,'lastCheckedAt':now,'fetchStatus':'ok','reviewNeeded':False,'evidence':'官方正文与海报，由 GPT-6 Luna 自动整理','extra':(prior or {}).get('extra',[])}
-    if poster_count>4 and source.get('imageMode')!='official-page-snapshot':item['note']=(item.get('note') or '')+' 海报仅识别前4张，请对照完整原文。'
+    if poster_count>4 and source.get('imageMode') not in ('official-page-snapshot','official-poster-tiles','official-posters'):item['note']=(item.get('note') or '')+' 海报仅识别前4张，请对照完整原文。'
     if source.get('unreadableImages'):item['note']=(item.get('note') or '')+' 官方页面含失效 blob 图片，以上内容仅依据可读取正文和附件。'
     return protect_scope(item),new_state,'translated'
 def run():
@@ -217,6 +242,9 @@ def run():
     hard_exclusions={r['id'] for r in seed.get('exclusions',[]) if '未展开' not in r['reason']}
     for ident in hard_exclusions:items.pop(ident,None)
     tasks=[r for r in rows.values() if r['id'] not in hard_exclusions and candidate(r,set(items),today)]
+    # With a bounded request budget, check new and least-recently checked items
+    # first so a repeatedly changing page cannot starve the rest indefinitely.
+    tasks.sort(key=lambda row: states.get(row['id'],{}).get('checkedAt') or '')
     if os.environ.get('SOURCE_TRANSPORT')=='api':
         from reader_gateway import fetch_pages
         urls=[r['url'] for r in tasks if r['board'] not in ('library','academic_calendar') and not cached_source(items.get(r['id']),states.get(r['id']),model,now)]
@@ -224,8 +252,11 @@ def run():
         fetch_pages(urls)
     stats={'checkedAt':now,'model':model,'transport':os.environ.get('SOURCE_TRANSPORT','direct'),'scanned':len(rows),'pages':sum(x['pages'] for x in coverage),'boards':sum(x['status']=='ok' for x in coverage),'translated':0,'unchanged':0,'excluded':0,'skipped':0,'errors':errors,'schedule':'每日 08:17、12:17、18:17 KST','sourceStatus':coverage}
     failures=0
+    try: request_limit=max(1,min(int(os.environ.get('TRANSLATE_MAX_REQUESTS','24')),80))
+    except ValueError: request_limit=24
+    budget=RequestBudget(request_limit)
     with ThreadPoolExecutor(max_workers=3) as pool:
-        jobs={pool.submit(process,row,items.get(row['id']),states.get(row['id']),seeds.get(row['id']),model,now):row for row in tasks}
+        jobs={pool.submit(process,row,items.get(row['id']),states.get(row['id']),seeds.get(row['id']),model,now,budget):row for row in tasks}
         for job in as_completed(jobs):
             row=jobs[job];ident=row['id']
             try:
@@ -249,6 +280,7 @@ def run():
                 if ident in items:
                     items[ident]={**items[ident],'fetchStatus':'stale','reviewNeeded':isinstance(e,TranslationError) or items[ident].get('reviewNeeded',False)}
                 print(f'[{ident}] '+('retained previous data' if ident in items else 'not published')+f' ({reason})',flush=True)
+    stats['translationRequests']=budget.used;stats['translationRequestLimit']=budget.limit
     if tasks and not stats['translated'] and not stats['unchanged'] and not stats['excluded']:
         raise RuntimeError('No successful source checks; leaving published data unchanged')
     for health in coverage:

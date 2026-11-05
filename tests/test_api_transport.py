@@ -1,5 +1,6 @@
-import unittest
-from unittest.mock import patch
+import unittest, io, copy
+from unittest.mock import patch, Mock
+from PIL import Image
 
 import update
 
@@ -10,14 +11,44 @@ class ApiTransportTests(unittest.TestCase):
         self.decision={'include':True,'title':'研究生申请','audience':'研究生','summary':'提交申请','details':['准备材料。','按时提交。'],'tags':['一般大学院'],'kind':'deadline','start':'2026-10-15','end':'2026-10-21','event':None,'endEvidence':'2026.10.21','note':''}
         self.now='2026-10-23T18:00:00+09:00'
 
-    def test_api_mode_uses_complete_page_image_without_direct_poster_download(self):
+    def test_api_mode_falls_back_to_full_page_if_image_proxy_fails(self):
         image={'url':'https://www.ajou.ac.kr/poster.png','alt':''}
-        with patch.dict('os.environ',{'SOURCE_TRANSPORT':'api'}),patch.object(update,'binary_resource') as download,patch('reader_gateway.snapshot_images',return_value=[{'pageSnapshot':True,'hash':'pixels','dataUrl':'data:image/png;base64,aQ=='}]) as snapshot:
+        with patch.dict('os.environ',{'SOURCE_TRANSPORT':'api'}),patch.object(update,'binary_resource') as download,patch.object(update.requests,'get',side_effect=update.requests.Timeout()),patch('reader_gateway.snapshot_images',return_value=[{'pageSnapshot':True,'hash':'pixels','dataUrl':'data:image/png;base64,aQ=='}]) as snapshot:
             result=update.image_evidence([image],page_url=self.source['url'])
         download.assert_not_called()
         snapshot.assert_called_once_with(self.source['url'])
         self.assertTrue(result[0]['pageSnapshot'])
         self.assertEqual(result[0]['hash'],'pixels')
+
+    def test_poster_content_not_page_chrome_drives_translation(self):
+        def png(color):
+            out=io.BytesIO();Image.new('RGB',(320,200),color).save(out,format='PNG');return out.getvalue()
+        original,changed=png('white'),png('black')
+        response=Mock(content=original,headers={'Content-Type':'image/png'})
+        self.source['images']=[{'url':'https://www.ajou.ac.kr/poster.png','alt':''}]
+        with patch.dict('os.environ',{'SOURCE_TRANSPORT':'api','SOURCE_CACHE_MINUTES':'0'}),patch.object(update,'source_for',side_effect=lambda *_:copy.deepcopy(self.source)),patch.object(update.requests,'get',return_value=response) as get,patch.object(update,'translate_notice',return_value=self.decision) as translate:
+            prior,state,action=update.process(self.source,None,None,None,'gpt-6-luna',self.now)
+            self.assertEqual(action,'translated')
+            _,state,action=update.process(self.source,prior,state,None,'gpt-6-luna',self.now)
+            self.assertEqual(action,'unchanged')
+            self.assertEqual(translate.call_count,1)
+            response.content=changed
+            _,_,action=update.process(self.source,prior,state,None,'gpt-6-luna',self.now)
+        self.assertEqual(action,'translated')
+        self.assertEqual(translate.call_count,2)
+        self.assertEqual(get.call_count,3)
+        self.assertNotIn('Authorization',get.call_args.kwargs['headers'])
+
+    def test_proxy_outage_does_not_turn_stable_poster_into_new_translation(self):
+        from source_gateway import GatewayError
+        self.source['images']=[{'url':'https://www.ajou.ac.kr/poster.png','alt':''}]
+        prior={'id':'1','summary':'旧摘要'}
+        state={'fingerprintKind':'posters','sourceFingerprint':update.base_fingerprint(self.source)}
+        snapshot=[{'pageSnapshot':True,'hash':'page-with-new-counter'}]
+        with patch.object(update,'source_for',side_effect=lambda *_:copy.deepcopy(self.source)),patch.object(update,'image_evidence',return_value=snapshot),patch.object(update,'translate_notice') as translate:
+            with self.assertRaisesRegex(GatewayError,'retaining previous result'):
+                update.process(self.source,prior,state,None,'gpt-6-luna',self.now)
+        translate.assert_not_called()
 
     def test_remote_poster_does_not_reuse_an_exclusion_with_same_url(self):
         image={'url':'https://www.ajou.ac.kr/poster.png','remoteUrl':'https://www.ajou.ac.kr/poster.png'}

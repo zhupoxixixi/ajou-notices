@@ -1,14 +1,23 @@
 import datetime as dt, json, os, tempfile, unittest
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import patch, Mock
 import update
-from ai_translate import validate, TranslationError
+from ai_translate import validate, TranslationError, RequestBudget, translate_notice
 
 class UpdateTests(unittest.TestCase):
     def notice(self):
         return {'id':'1','board':'graduate','source':'一般大学院','titleKo':'대학원 공지','published':'2026-10-15','url':'https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=1','attachments':[],'images':[],'body':'신청기간: 2026.10.15 ~ 2026.10.21','extraText':''}
     def decision(self):
         return {'include':True,'title':'研究生申请','audience':'研究生','summary':'提交申请','details':['准备材料。','按时提交。'],'tags':['一般大学院'],'kind':'deadline','start':'2026-10-15','end':'2026-10-21','event':None,'endEvidence':'2026.10.21','note':''}
+    def test_shared_request_budget_limits_http_retries(self):
+        budget=RequestBudget(2)
+        response=Mock(status_code=429,headers={})
+        response.json.return_value={}
+        with patch('ai_translate.requests.post',return_value=response) as post, patch('ai_translate.time.sleep'):
+            with self.assertRaisesRegex(TranslationError,'budget exhausted'):
+                translate_notice(self.notice(),api_key='test-only',budget=budget)
+        self.assertEqual(post.call_count,2)
+        self.assertEqual(budget.used,2)
     def test_date_requires_actual_source_quote(self):
         s=self.notice();r=self.decision();self.assertTrue(validate(r,s)['include'])
         r['endEvidence']='2026.12.31'
