@@ -1,22 +1,17 @@
 {
-  "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+  "checkedAt": "2026-11-05T12:31:12.405739+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 561,
+  "scanned": 563,
   "pages": 36,
   "boards": 10,
-  "translated": 138,
-  "unchanged": 105,
+  "translated": 133,
+  "unchanged": 110,
   "excluded": 68,
   "skipped": 0,
   "errors": [
     {
       "id": "library-23188",
-      "error": "ValueError",
-      "reason": "ValueError"
-    },
-    {
-      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -27,6 +22,11 @@
     },
     {
       "id": "library-23082",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -112,8 +112,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
       "key": "international",
@@ -124,8 +124,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
       "key": "oia",
@@ -136,8 +136,8 @@
       "status": "ok",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
       "key": "university",
@@ -148,7 +148,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -160,8 +160,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
       "key": "innovation",
@@ -172,8 +172,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
       "key": "scholarship",
@@ -184,8 +184,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
       "key": "library",
@@ -196,7 +196,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
       "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
     },
     {
@@ -204,24 +204,24 @@
       "name": "大学院学事日历",
       "url": "https://grad.ajou.ac.kr/gs/bachelor/schedule.do",
       "pages": 1,
-      "scanned": 25,
+      "scanned": 24,
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
       "key": "college",
       "name": "软件融合学院",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do",
       "pages": 2,
-      "scanned": 21,
+      "scanned": 20,
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastSuccessAt": "2026-11-04T20:00:28.038025+09:00"
+      "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     }
   ]
 }

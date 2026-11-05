@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:375263-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261105T033112Z
+LAST-MODIFIED:20261105T033112Z
+DTSTART:20261007T050000Z
+SUMMARY:申请 / 办理截止：2026年度4阶段BK21内容征集“ 모
+ 두의 BK”
+DESCRIPTION:适用对象：AI研究应用案例、短视频：4阶段BK21
+ 参与人员个人或团队；信息图：每个4阶段BK21教育研究
+ 团（团队）1件；照片：所有关注BK21事业的国民。\n征
+ 集BK21研究与教育相关内容，类别包括AI研究应用案例、
+ 信息图、短视频和照片；申请期已结束。\nAI 自动整理
+ ，重要日期请核对原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs/community/notice.do?mode=view&articleNo=375263
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375263
+TRANSP:TRANSPARENT
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

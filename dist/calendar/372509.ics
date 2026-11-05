@@ -6,19 +6,19 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:372509-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T110028Z
-LAST-MODIFIED:20261104T110028Z
+DTSTAMP:20261105T033112Z
+LAST-MODIFIED:20261105T033112Z
 DTSTART:20260519T080000Z
 DTEND:20260519T110000Z
 SUMMARY:活动：海外学者特邀讲座：共同体的创伤与复原
-DESCRIPTION:适用对象：本校一般大学院研究生及相关教师
- ；外国研究生是否符合“本校研究生”范围，海报未另
- 行说明。\n邀请日本关西学院大学学者举办灾害应对主
- 题讲座，并安排问答及海外人士与研究生交流。\nAI 自
- 动整理，重要日期请核对原文。\n官方原文：https://grad.
- ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509
+DESCRIPTION:适用对象：本校一般大学院生及相关教职员；
+ 海报未说明外国留学生是否另有参与条件。\n邀请日本
+ 关西国际大学山田义之校长举办讲座，主题涉及灾害应
+ 对及共同体复原，并安排交流。\nAI 自动整理，重要日
+ 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
+ 21_bbs.do?mode=view&articleNo=372509
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372509
 TRANSP:TRANSPARENT
-SEQUENCE:14
+SEQUENCE:15
 END:VEVENT
 END:VCALENDAR

@@ -109,6 +109,35 @@
     ],
     "cancelled": false
   },
+  "376934-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:376934-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20261030",
+      "DTEND;VALUE=DATE:20261031",
+      "SUMMARY:申请 / 办理截止：2026学年度第一学期硕士学位论文审查申请与提交指南",
+      "DESCRIPTION:适用对象：预计于2027年2月毕业的一般大学院硕士生；论文审查申请资格另有课程修读、考试合格等要求，须按公告核对。\\n说明2027年2月毕业预定硕士生的论文审查申请、审查及论文提交流程与期限。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376934\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376934",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 12,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:376934-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20261030",
+      "DTEND;VALUE=DATE:20261031",
+      "SUMMARY:申请 / 办理截止：2026学年度第一学期硕士学位论文审查申请与提交指南",
+      "DESCRIPTION:适用对象：预计于2027年2月毕业的一般大学院硕士生；论文审查申请资格另有课程修读、考试合格等要求，须按公告核对。\\n说明2027年2月毕业预定硕士生的论文审查申请、审查及论文提交流程与期限。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376934\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376934",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:12",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
   "375643-deadline@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
@@ -143,24 +172,24 @@
       "BEGIN:VEVENT",
       "UID:376506-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20261204T080000Z",
-      "SUMMARY:申请 / 办理截止：2026研究笔记竞赛通知",
-      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；未说明外国留学生是否另有条件。\\n提交研究笔记原件参加竞赛，设有奖金；参赛笔记须符合指定条件。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376506",
+      "SUMMARY:申请 / 办理截止：2026大学院创新研究笔记竞赛",
+      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；未注明国籍限制，但具体外国研究生资格仍以主办方规定为准。\\n征集研究笔记原件并评审颁奖；对象为一般大学院在读生及研究注册生，BK21未参与者也可参加。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376506",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376506",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 16,
+    "sequence": 17,
     "event": [
       "BEGIN:VEVENT",
       "UID:376506-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20261204T080000Z",
-      "SUMMARY:申请 / 办理截止：2026研究笔记竞赛通知",
-      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；未说明外国留学生是否另有条件。\\n提交研究笔记原件参加竞赛，设有奖金；参赛笔记须符合指定条件。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376506",
+      "SUMMARY:申请 / 办理截止：2026大学院创新研究笔记竞赛",
+      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；未注明国籍限制，但具体外国研究生资格仍以主办方规定为准。\\n征集研究笔记原件并评审颁奖；对象为一般大学院在读生及研究注册生，BK21未参与者也可参加。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376506",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376506",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:16",
+      "SEQUENCE:17",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -171,25 +200,25 @@
       "UID:377337-event@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20261026T070000Z",
       "DTEND:20261026T081000Z",
-      "SUMMARY:活动：A-Career Insight Talk：生物专业的职业选择",
-      "DESCRIPTION:适用对象：本校大学院学生、博士后研究员及对讲座感兴趣者；海报列出关注研究生毕业后职业方向、融合跨学科研究或研究职业的人。\\n介绍生物行业从研究到技术支持的职业路径，含研究生研究者职业发展内容。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377337",
+      "SUMMARY:活动：A-Career Insight Talk：生物专业的职业发展",
+      "DESCRIPTION:适用对象：本校大学院生、博士后研究员及其他感兴趣者；海报特别列出考虑研究生毕业后职业方向、对融合及跨学科研究感兴趣或希望从事研究职业的人。\\n讲解生物行业从研究到技术支持的职业路径，面向大学院生及博士后研究员。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377337",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377337",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 16,
+    "sequence": 17,
     "event": [
       "BEGIN:VEVENT",
       "UID:377337-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20261026T070000Z",
       "DTEND:20261026T081000Z",
-      "SUMMARY:活动：A-Career Insight Talk：生物专业的职业选择",
-      "DESCRIPTION:适用对象：本校大学院学生、博士后研究员及对讲座感兴趣者；海报列出关注研究生毕业后职业方向、融合跨学科研究或研究职业的人。\\n介绍生物行业从研究到技术支持的职业路径，含研究生研究者职业发展内容。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377337",
+      "SUMMARY:活动：A-Career Insight Talk：生物专业的职业发展",
+      "DESCRIPTION:适用对象：本校大学院生、博士后研究员及其他感兴趣者；海报特别列出考虑研究生毕业后职业方向、对融合及跨学科研究感兴趣或希望从事研究职业的人。\\n讲解生物行业从研究到技术支持的职业路径，面向大学院生及博士后研究员。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=377337",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377337",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:16",
+      "SEQUENCE:17",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -368,25 +397,25 @@
       "UID:376256-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART;VALUE=DATE:20261002",
       "DTEND;VALUE=DATE:20261003",
-      "SUMMARY:申请 / 办理截止：2026学年度第一学期博士学位论文审查申请与提交指南",
-      "DESCRIPTION:适用对象：预计2027年2月博士毕业者；具体申请资格须符合博士课程修读、论文指导及考试等要求，公告未设国籍限制。\\n公布博士论文审查申请、审查、结果提交及论文线上提交时程与材料要求。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376256\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:申请 / 办理截止：2026学年度前期博士学位论文审查及提交安排",
+      "DESCRIPTION:适用对象：预计2027年2月毕业的博士课程学生；须符合学科论文审查资格及研究伦理等要求。\\n公布博士论文审查申请、审查、结果提交及论文在线提交时间，并列明资格和材料要求。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376256\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376256",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 15,
+    "sequence": 16,
     "event": [
       "BEGIN:VEVENT",
       "UID:376256-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART;VALUE=DATE:20261002",
       "DTEND;VALUE=DATE:20261003",
-      "SUMMARY:申请 / 办理截止：2026学年度第一学期博士学位论文审查申请与提交指南",
-      "DESCRIPTION:适用对象：预计2027年2月博士毕业者；具体申请资格须符合博士课程修读、论文指导及考试等要求，公告未设国籍限制。\\n公布博士论文审查申请、审查、结果提交及论文线上提交时程与材料要求。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376256\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:申请 / 办理截止：2026学年度前期博士学位论文审查及提交安排",
+      "DESCRIPTION:适用对象：预计2027年2月毕业的博士课程学生；须符合学科论文审查资格及研究伦理等要求。\\n公布博士论文审查申请、审查、结果提交及论文在线提交时间，并列明资格和材料要求。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376256\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376256",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:15",
+      "SEQUENCE:16",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -510,24 +539,51 @@
       "BEGIN:VEVENT",
       "UID:372715-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20260807T090000Z",
-      "SUMMARY:申请 / 办理截止：2026年秋季外国学生韩语课程申请",
-      "DESCRIPTION:适用对象：外国学生中的在校生、已修完全部必修课程者及ABD学生；已学韩语超过三个月或已持有TOPIK成绩者不得申请。须能全程参加15周面对面课程。\\n免费韩语初级课程，每周一上课；通过后可满足论文提交资格的韩语要求。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372715",
+      "SUMMARY:申请 / 办理截止：2026年秋季学期外国学生韩语课程申请",
+      "DESCRIPTION:适用对象：外国学生；须为在读学生、已修完所有必修课程者或ABD学生，并能全程参加15周线下课程。已学韩语超过三个月或已有TOPIK成绩者不可申请。\\n研究生院开设免费零学分初级韩语课；通过可满足论文提交资格的韩语要求。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372715",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372715",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 16,
+    "sequence": 17,
     "event": [
       "BEGIN:VEVENT",
       "UID:372715-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20260807T090000Z",
-      "SUMMARY:申请 / 办理截止：2026年秋季外国学生韩语课程申请",
-      "DESCRIPTION:适用对象：外国学生中的在校生、已修完全部必修课程者及ABD学生；已学韩语超过三个月或已持有TOPIK成绩者不得申请。须能全程参加15周面对面课程。\\n免费韩语初级课程，每周一上课；通过后可满足论文提交资格的韩语要求。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372715",
+      "SUMMARY:申请 / 办理截止：2026年秋季学期外国学生韩语课程申请",
+      "DESCRIPTION:适用对象：外国学生；须为在读学生、已修完所有必修课程者或ABD学生，并能全程参加15周线下课程。已学韩语超过三个月或已有TOPIK成绩者不可申请。\\n研究生院开设免费零学分初级韩语课；通过可满足论文提交资格的韩语要求。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372715",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372715",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:16",
+      "SEQUENCE:17",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "375263-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:375263-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261007T050000Z",
+      "SUMMARY:申请 / 办理截止：2026年度4阶段BK21内容征集“ 모두의 BK”",
+      "DESCRIPTION:适用对象：AI研究应用案例、短视频：4阶段BK21参与人员个人或团队；信息图：每个4阶段BK21教育研究团（团队）1件；照片：所有关注BK21事业的国民。\\n征集BK21研究与教育相关内容，类别包括AI研究应用案例、信息图、短视频和照片；申请期已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375263",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375263",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 2,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:375263-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART:20261007T050000Z",
+      "SUMMARY:申请 / 办理截止：2026年度4阶段BK21内容征集“ 모두의 BK”",
+      "DESCRIPTION:适用对象：AI研究应用案例、短视频：4阶段BK21参与人员个人或团队；信息图：每个4阶段BK21教育研究团（团队）1件；照片：所有关注BK21事业的国民。\\n征集BK21研究与教育相关内容，类别包括AI研究应用案例、信息图、短视频和照片；申请期已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375263",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375263",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:2",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -594,25 +650,27 @@
     "fields": [
       "BEGIN:VEVENT",
       "UID:375801-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261031T145900Z",
+      "DTSTART;VALUE=DATE:20261031",
+      "DTEND;VALUE=DATE:20261101",
       "SUMMARY:申请 / 办理截止：《大学研究》第5卷第2期论文征稿",
-      "DESCRIPTION:适用对象：论文第一作者（通讯作者）须具有硕士学位及以上；博士学位持有者作为共同研究者时例外。未规定国籍。\\n征集拟于2026-12-31出版的《大学研究》第5卷第2期论文，研究主题为大学相关议题。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801",
+      "DESCRIPTION:适用对象：研究主题须与大学相关；第一作者（通讯作者）须至少持有硕士学位。博士学位持有者作为共同研究者时例外允许。未说明外国研究生资格限制。\\n征集《大学研究》第5卷第2期论文，计划于2026-12-31刊行；须在线提交论文及相关材料。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375801",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 14,
+    "sequence": 15,
     "event": [
       "BEGIN:VEVENT",
       "UID:375801-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART:20261031T145900Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20261031",
+      "DTEND;VALUE=DATE:20261101",
       "SUMMARY:申请 / 办理截止：《大学研究》第5卷第2期论文征稿",
-      "DESCRIPTION:适用对象：论文第一作者（通讯作者）须具有硕士学位及以上；博士学位持有者作为共同研究者时例外。未规定国籍。\\n征集拟于2026-12-31出版的《大学研究》第5卷第2期论文，研究主题为大学相关议题。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801",
+      "DESCRIPTION:适用对象：研究主题须与大学相关；第一作者（通讯作者）须至少持有硕士学位。博士学位持有者作为共同研究者时例外允许。未说明外国研究生资格限制。\\n征集《大学研究》第5卷第2期论文，计划于2026-12-31刊行；须在线提交论文及相关材料。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375801",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:14",
+      "SEQUENCE:15",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -646,58 +704,31 @@
     ],
     "cancelled": false
   },
-  "373172-deadline@ajou-notices.zhupoxixixi.github.io": {
+  "373172-event@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
-      "UID:373172-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20260915",
-      "DTEND;VALUE=DATE:20260916",
-      "SUMMARY:申请 / 办理截止：2026韩国留学主题短视频比赛",
-      "DESCRIPTION:适用对象：任何国籍的韩国大学在读本科生和研究生；也接受有韩国留学经历的国际毕业生。个人或团队均可参赛。\\n以“My Journey\\, Designed in Korea”为主题，提交有关韩国求学、职业经历或未来职业愿景的短视频。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172\\n原文未给具体时刻，本日历使用全天事项。",
+      "UID:373172-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20260729",
+      "DTEND;VALUE=DATE:20261102",
+      "SUMMARY:活动：2026韩国留学短视频竞赛",
+      "DESCRIPTION:适用对象：目前在韩国大学就读的本科生或研究生（不限国籍），以及有韩国留学经历的国际毕业生；个人或团队均可。\\n围绕在韩国的留学、职业或未来规划制作短视频，设有总额3\\,000\\,000韩元奖金；投稿期已结束，获奖 발표及展示仍在后续进行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 16,
+    "sequence": 11,
     "event": [
       "BEGIN:VEVENT",
-      "UID:373172-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART;VALUE=DATE:20260915",
-      "DTEND;VALUE=DATE:20260916",
-      "SUMMARY:申请 / 办理截止：2026韩国留学主题短视频比赛",
-      "DESCRIPTION:适用对象：任何国籍的韩国大学在读本科生和研究生；也接受有韩国留学经历的国际毕业生。个人或团队均可参赛。\\n以“My Journey\\, Designed in Korea”为主题，提交有关韩国求学、职业经历或未来职业愿景的短视频。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172\\n原文未给具体时刻，本日历使用全天事项。",
+      "UID:373172-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20260729",
+      "DTEND;VALUE=DATE:20261102",
+      "SUMMARY:活动：2026韩国留学短视频竞赛",
+      "DESCRIPTION:适用对象：目前在韩国大学就读的本科生或研究生（不限国籍），以及有韩国留学经历的国际毕业生；个人或团队均可。\\n围绕在韩国的留学、职业或未来规划制作短视频，设有总额3\\,000\\,000韩元奖金；投稿期已结束，获奖 발표及展示仍在后续进行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:16",
-      "END:VEVENT"
-    ],
-    "cancelled": false
-  },
-  "372714-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:372714-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20260807T090000Z",
-      "SUMMARY:申请 / 办理截止：2026年秋季英语课程申请",
-      "DESCRIPTION:适用对象：一般大学院在读学生、已完成全部必修课程者及ABD学生；休学学生不符合资格。\\n英语课程可用于满足论文提交语言资格要求，0学分，费用为每学期KRW 150\\,000。申请期已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372714",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372714",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 14,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:372714-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART:20260807T090000Z",
-      "SUMMARY:申请 / 办理截止：2026年秋季英语课程申请",
-      "DESCRIPTION:适用对象：一般大学院在读学生、已完成全部必修课程者及ABD学生；休学学生不符合资格。\\n英语课程可用于满足论文提交语言资格要求，0学分，费用为每学期KRW 150\\,000。申请期已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372714",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372714",
-      "TRANSP:TRANSPARENT",
-      "SEQUENCE:14",
+      "SEQUENCE:11",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -792,22 +823,78 @@
       "BEGIN:VEVENT",
       "UID:377025-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20261204T080000Z",
-      "SUMMARY:申请 / 办理截止：2026年度研究记录本竞赛及提交指南",
-      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；包括未参与BK21项目者。须提交2026-01-01之后记录的研究记录本，且须有课题编号及管理编号；无参与研究课题者无法领取研究记录本。\\n提交研究记录本参加竞赛，按记录本的可读性、忠实性及要求满足度评审；设有奖金。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377025",
+      "SUMMARY:申请 / 办理截止：2026年度研究笔记竞赛通知",
+      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；海报注明包括非BK21参与者。\\n提交研究笔记参加竞赛，设奖项及奖金；须提交2026-01-01以后记录的研究笔记。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377025",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377025",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 17,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377025-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART:20261204T080000Z",
+      "SUMMARY:申请 / 办理截止：2026年度研究笔记竞赛通知",
+      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；海报注明包括非BK21参与者。\\n提交研究笔记参加竞赛，设奖项及奖金；须提交2026-01-01以后记录的研究笔记。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377025",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377025",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:17",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "377335-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377335-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261026T070000Z",
+      "DTEND:20261026T081000Z",
+      "SUMMARY:活动：A-Career Insight Talk(2026)：生物领域研究生涯探索讲座",
+      "DESCRIPTION:适用对象：本校大学院生、博士后研究员及其他感兴趣者；本科生也可参加。\\n介绍生物行业从研究到技术支持的职业路径，面向考虑研究生毕业后职业方向者等。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377335",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
     "sequence": 16,
     "event": [
       "BEGIN:VEVENT",
-      "UID:377025-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "UID:377335-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART:20261026T070000Z",
+      "DTEND:20261026T081000Z",
+      "SUMMARY:活动：A-Career Insight Talk(2026)：生物领域研究生涯探索讲座",
+      "DESCRIPTION:适用对象：本校大学院生、博士后研究员及其他感兴趣者；本科生也可参加。\\n介绍生物行业从研究到技术支持的职业路径，面向考虑研究生毕业后职业方向者等。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377335",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:16",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "365143-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:365143-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20261204T080000Z",
-      "SUMMARY:申请 / 办理截止：2026年度研究记录本竞赛及提交指南",
-      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；包括未参与BK21项目者。须提交2026-01-01之后记录的研究记录本，且须有课题编号及管理编号；无参与研究课题者无法领取研究记录本。\\n提交研究记录本参加竞赛，按记录本的可读性、忠实性及要求满足度评审；设有奖金。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377025",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377025",
+      "SUMMARY:申请 / 办理截止：2026一般大学院研究笔记竞赛",
+      "DESCRIPTION:适用对象：2026学年度第2学期一般大学院在读生及研究注册生；外国研究生是否符合其他条件未明确。BK21参与与否不影响参赛资格。\\n提交研究笔记原件参赛，设奖状及奖金；提交时间为2026-12-01至2026-12-04。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=365143",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 16,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:365143-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART:20261204T080000Z",
+      "SUMMARY:申请 / 办理截止：2026一般大学院研究笔记竞赛",
+      "DESCRIPTION:适用对象：2026学年度第2学期一般大学院在读生及研究注册生；外国研究生是否符合其他条件未明确。BK21参与与否不影响参赛资格。\\n提交研究笔记原件参赛，设奖状及奖金；提交时间为2026-12-01至2026-12-04。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=365143",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143",
       "TRANSP:TRANSPARENT",
       "SEQUENCE:16",
       "END:VEVENT"
@@ -820,25 +907,25 @@
       "UID:364643-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART;VALUE=DATE:20261130",
       "DTEND;VALUE=DATE:20261201",
-      "SUMMARY:申请 / 办理截止：A-Career DNA（2026）职业发展诊断项目",
-      "DESCRIPTION:适用对象：2026学年度一般大学院在读生；须使用 ajou.ac.kr 校内邮箱报名。\\n提供价值5万韩元的 e-DISC 测评及个人结果；完成测评者可申请职业发展相关个别咨询。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=364643\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:申请 / 办理截止：A-Career DNA职业发展诊断项目",
+      "DESCRIPTION:适用对象：2026学年度一般大学院注册生；需使用Ajou大学邮箱注册。\\n提供e-DISC诊断及个人结果，费用约5万韩元；符合条件者可预约职业发展咨询。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=364643\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-364643",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 12,
+    "sequence": 13,
     "event": [
       "BEGIN:VEVENT",
       "UID:364643-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART;VALUE=DATE:20261130",
       "DTEND;VALUE=DATE:20261201",
-      "SUMMARY:申请 / 办理截止：A-Career DNA（2026）职业发展诊断项目",
-      "DESCRIPTION:适用对象：2026学年度一般大学院在读生；须使用 ajou.ac.kr 校内邮箱报名。\\n提供价值5万韩元的 e-DISC 测评及个人结果；完成测评者可申请职业发展相关个别咨询。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=364643\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:申请 / 办理截止：A-Career DNA职业发展诊断项目",
+      "DESCRIPTION:适用对象：2026学年度一般大学院注册生；需使用Ajou大学邮箱注册。\\n提供e-DISC诊断及个人结果，费用约5万韩元；符合条件者可预约职业发展咨询。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=364643\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-364643",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:12",
+      "SEQUENCE:13",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -876,25 +963,25 @@
       "UID:373878-event@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20260819T020000Z",
       "DTEND:20260819T050000Z",
-      "SUMMARY:活动：公共采购中的行政负担：海外学者特邀讲座",
-      "DESCRIPTION:适用对象：本校大学院生及相关教职员；海报另列海外人士与大学院生交流环节。\\n围绕公共采购中的行政负担举办海外学者讲座，并安排海外人士与大学院生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878",
+      "SUMMARY:活动：公共合同采购中的行政负担：海外学者特邀讲座",
+      "DESCRIPTION:适用对象：本校大学院生及相关教职员；外国留学生可参加，海报未列其他资格限制。\\n美国雪城大学金敏贞教授讲解复杂采购流程如何阻碍组织竞标政府合同，并安排与外国人士及大学院生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373878",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 12,
+    "sequence": 13,
     "event": [
       "BEGIN:VEVENT",
       "UID:373878-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20260819T020000Z",
       "DTEND:20260819T050000Z",
-      "SUMMARY:活动：公共采购中的行政负担：海外学者特邀讲座",
-      "DESCRIPTION:适用对象：本校大学院生及相关教职员；海报另列海外人士与大学院生交流环节。\\n围绕公共采购中的行政负担举办海外学者讲座，并安排海外人士与大学院生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878",
+      "SUMMARY:活动：公共合同采购中的行政负担：海外学者特邀讲座",
+      "DESCRIPTION:适用对象：本校大学院生及相关教职员；外国留学生可参加，海报未列其他资格限制。\\n美国雪城大学金敏贞教授讲解复杂采购流程如何阻碍组织竞标政府合同，并安排与外国人士及大学院生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373878",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:12",
+      "SEQUENCE:13",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -905,25 +992,25 @@
       "UID:373850-event@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20260828T043000Z",
       "DTEND:20260828T060000Z",
-      "SUMMARY:活动：ACS编辑特邀讲座：高影响力论文写作与投稿策略",
-      "DESCRIPTION:适用对象：大学院生、博士后研究人员及其他感兴趣者；未注明国籍限制。\\nACS韩国分社编辑主讲论文写作讲座，面向研究生及博士后研究人员等。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373850",
+      "SUMMARY:活动：ACS编辑特邀讲座：High-Impact论文写作与投稿策略",
+      "DESCRIPTION:适用对象：大学院生、博士后研究员及其他感兴趣者；是否有额外报名或资格条件，海报未说明。\\nACS韩国分社编辑受邀讲授High-Impact论文写作，面向大学院生、博士后研究员等。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373850",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373850",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 15,
+    "sequence": 16,
     "event": [
       "BEGIN:VEVENT",
       "UID:373850-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20260828T043000Z",
       "DTEND:20260828T060000Z",
-      "SUMMARY:活动：ACS编辑特邀讲座：高影响力论文写作与投稿策略",
-      "DESCRIPTION:适用对象：大学院生、博士后研究人员及其他感兴趣者；未注明国籍限制。\\nACS韩国分社编辑主讲论文写作讲座，面向研究生及博士后研究人员等。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373850",
+      "SUMMARY:活动：ACS编辑特邀讲座：High-Impact论文写作与投稿策略",
+      "DESCRIPTION:适用对象：大学院生、博士后研究员及其他感兴趣者；是否有额外报名或资格条件，海报未说明。\\nACS韩国分社编辑受邀讲授High-Impact论文写作，面向大学院生、博士后研究员等。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373850",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373850",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:15",
+      "SEQUENCE:16",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -935,24 +1022,24 @@
       "DTSTART:20260818T013000Z",
       "DTEND:20260818T033000Z",
       "SUMMARY:活动：A-Career Insight Talk（2026）研究生研究型职业探索讲座",
-      "DESCRIPTION:适用对象：对创业感兴趣的校内研究生；正文另称本校研究生、博士后研究人员及其他感兴趣者可参加。\\n讲座介绍创业与个人发展，面向有兴趣的研究生等校内人士开放。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373559",
+      "DESCRIPTION:适用对象：对创业感兴趣的研究生及校内成员；公告称本校研究生、博士后等感兴趣者均可参加，也允许本科生参加。外国研究生资格未单独说明。\\n讲座探讨创业与个人发展，面向研究生等校内成员开放；无需预先报名也可参加。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373559",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373559",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 16,
+    "sequence": 17,
     "event": [
       "BEGIN:VEVENT",
       "UID:373559-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20260818T013000Z",
       "DTEND:20260818T033000Z",
       "SUMMARY:活动：A-Career Insight Talk（2026）研究生研究型职业探索讲座",
-      "DESCRIPTION:适用对象：对创业感兴趣的校内研究生；正文另称本校研究生、博士后研究人员及其他感兴趣者可参加。\\n讲座介绍创业与个人发展，面向有兴趣的研究生等校内人士开放。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373559",
+      "DESCRIPTION:适用对象：对创业感兴趣的研究生及校内成员；公告称本校研究生、博士后等感兴趣者均可参加，也允许本科生参加。外国研究生资格未单独说明。\\n讲座探讨创业与个人发展，面向研究生等校内成员开放；无需预先报名也可参加。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373559",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373559",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:16",
+      "SEQUENCE:17",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -962,24 +1049,24 @@
       "BEGIN:VEVENT",
       "UID:372846-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20260807T060000Z",
-      "SUMMARY:申请 / 办理截止：第二届 A-3MT 研究演讲竞赛报名",
-      "DESCRIPTION:适用对象：大学院在读生（含修业结业后研究注册生）及博士后研究人员，约20人；大学院生须提交导师确认书。国籍未作限制。\\n参赛者以1张幻灯片在3分钟内面向非专业人士介绍研究，活动含英语表达培训、个别辅导及线上竞赛。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846",
+      "SUMMARY:申请 / 办理截止：第二届 A-3MT Competition 参赛招募",
+      "DESCRIPTION:适用对象：一般大学院在读生（含结业后研究注册生）及博士后研究员，约20人；未注明国籍限制。\\n以英语进行3分钟研究演讲，提供工作坊和个别指导，并设奖金及后续代表参赛机会。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 12,
+    "sequence": 13,
     "event": [
       "BEGIN:VEVENT",
       "UID:372846-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20260807T060000Z",
-      "SUMMARY:申请 / 办理截止：第二届 A-3MT 研究演讲竞赛报名",
-      "DESCRIPTION:适用对象：大学院在读生（含修业结业后研究注册生）及博士后研究人员，约20人；大学院生须提交导师确认书。国籍未作限制。\\n参赛者以1张幻灯片在3分钟内面向非专业人士介绍研究，活动含英语表达培训、个别辅导及线上竞赛。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846",
+      "SUMMARY:申请 / 办理截止：第二届 A-3MT Competition 参赛招募",
+      "DESCRIPTION:适用对象：一般大学院在读生（含结业后研究注册生）及博士后研究员，约20人；未注明国籍限制。\\n以英语进行3分钟研究演讲，提供工作坊和个别指导，并设奖金及后续代表参赛机会。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:12",
+      "SEQUENCE:13",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -988,27 +1075,56 @@
     "fields": [
       "BEGIN:VEVENT",
       "UID:372846-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20260903",
+      "DTSTART;VALUE=DATE:20260824",
       "DTEND;VALUE=DATE:20260905",
-      "SUMMARY:活动：第二届 A-3MT 研究演讲竞赛报名",
-      "DESCRIPTION:适用对象：大学院在读生（含修业结业后研究注册生）及博士后研究人员，约20人；大学院生须提交导师确认书。国籍未作限制。\\n参赛者以1张幻灯片在3分钟内面向非专业人士介绍研究，活动含英语表达培训、个别辅导及线上竞赛。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:活动：第二届 A-3MT Competition 参赛招募",
+      "DESCRIPTION:适用对象：一般大学院在读生（含结业后研究注册生）及博士后研究员，约20人；未注明国籍限制。\\n以英语进行3分钟研究演讲，提供工作坊和个别指导，并设奖金及后续代表参赛机会。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 12,
+    "sequence": 13,
     "event": [
       "BEGIN:VEVENT",
       "UID:372846-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART;VALUE=DATE:20260903",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20260824",
       "DTEND;VALUE=DATE:20260905",
-      "SUMMARY:活动：第二届 A-3MT 研究演讲竞赛报名",
-      "DESCRIPTION:适用对象：大学院在读生（含修业结业后研究注册生）及博士后研究人员，约20人；大学院生须提交导师确认书。国籍未作限制。\\n参赛者以1张幻灯片在3分钟内面向非专业人士介绍研究，活动含英语表达培训、个别辅导及线上竞赛。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:活动：第二届 A-3MT Competition 参赛招募",
+      "DESCRIPTION:适用对象：一般大学院在读生（含结业后研究注册生）及博士后研究员，约20人；未注明国籍限制。\\n以英语进行3分钟研究演讲，提供工作坊和个别指导，并设奖金及后续代表参赛机会。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:12",
+      "SEQUENCE:13",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "372514-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:372514-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20260706T070000Z",
+      "DTEND:20260706T103000Z",
+      "SUMMARY:活动：气候危机时代自然灾害与社会应对专题讲座",
+      "DESCRIPTION:适用对象：本科、大学院学生及相关教职员；海报未注明外国研究生的单独资格条件。\\n邀请日本京都大学教授讲授气候危机时代自然灾害与社会应对，并安排问答及海外人士与大学院生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372514",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372514",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 10,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:372514-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART:20260706T070000Z",
+      "DTEND:20260706T103000Z",
+      "SUMMARY:活动：气候危机时代自然灾害与社会应对专题讲座",
+      "DESCRIPTION:适用对象：本科、大学院学生及相关教职员；海报未注明外国研究生的单独资格条件。\\n邀请日本京都大学教授讲授气候危机时代自然灾害与社会应对，并安排问答及海外人士与大学院生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372514",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372514",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:10",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1049,24 +1165,24 @@
       "DTSTART:20260519T080000Z",
       "DTEND:20260519T110000Z",
       "SUMMARY:活动：海外学者特邀讲座：共同体的创伤与复原",
-      "DESCRIPTION:适用对象：本校一般大学院研究生及相关教师；外国研究生是否符合“本校研究生”范围，海报未另行说明。\\n邀请日本关西学院大学学者举办灾害应对主题讲座，并安排问答及海外人士与研究生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509",
+      "DESCRIPTION:适用对象：本校一般大学院生及相关教职员；海报未说明外国留学生是否另有参与条件。\\n邀请日本关西国际大学山田义之校长举办讲座，主题涉及灾害应对及共同体复原，并安排交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372509",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 14,
+    "sequence": 15,
     "event": [
       "BEGIN:VEVENT",
       "UID:372509-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20260519T080000Z",
       "DTEND:20260519T110000Z",
       "SUMMARY:活动：海外学者特邀讲座：共同体的创伤与复原",
-      "DESCRIPTION:适用对象：本校一般大学院研究生及相关教师；外国研究生是否符合“本校研究生”范围，海报未另行说明。\\n邀请日本关西学院大学学者举办灾害应对主题讲座，并安排问答及海外人士与研究生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509",
+      "DESCRIPTION:适用对象：本校一般大学院生及相关教职员；海报未说明外国留学生是否另有参与条件。\\n邀请日本关西国际大学山田义之校长举办讲座，主题涉及灾害应对及共同体复原，并安排交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372509",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:14",
+      "SEQUENCE:15",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1076,24 +1192,24 @@
       "BEGIN:VEVENT",
       "UID:372015-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20260720T020000Z",
-      "SUMMARY:申请 / 办理截止：2026 Ajou X-Research 融合研究参与者招募",
-      "DESCRIPTION:适用对象：以2026学年度为准的一般大学院在读生及研究注册生；未限定国籍，外国研究生可申请。\\n资助一般大学院研究生开展团队或个人融合研究，按人提供100万至150万韩元研究执行经费。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015",
+      "SUMMARY:申请 / 办理截止：2026 Ajou X-Research Program融合研究资助招募",
+      "DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究注册生；国籍未作限制。须核对具体申请条件。\\n招募融合研究项目，分团队型与个人型，按人提供100万至150万韩元研究执行经费。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 13,
+    "sequence": 14,
     "event": [
       "BEGIN:VEVENT",
       "UID:372015-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20260720T020000Z",
-      "SUMMARY:申请 / 办理截止：2026 Ajou X-Research 融合研究参与者招募",
-      "DESCRIPTION:适用对象：以2026学年度为准的一般大学院在读生及研究注册生；未限定国籍，外国研究生可申请。\\n资助一般大学院研究生开展团队或个人融合研究，按人提供100万至150万韩元研究执行经费。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015",
+      "SUMMARY:申请 / 办理截止：2026 Ajou X-Research Program融合研究资助招募",
+      "DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究注册生；国籍未作限制。须核对具体申请条件。\\n招募融合研究项目，分团队型与个人型，按人提供100万至150万韩元研究执行经费。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:13",
+      "SEQUENCE:14",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1104,25 +1220,25 @@
       "UID:372015-event@ajou-notices.zhupoxixixi.github.io",
       "DTSTART;VALUE=DATE:20260801",
       "DTEND;VALUE=DATE:20270101",
-      "SUMMARY:活动：2026 Ajou X-Research 融合研究参与者招募",
-      "DESCRIPTION:适用对象：以2026学年度为准的一般大学院在读生及研究注册生；未限定国籍，外国研究生可申请。\\n资助一般大学院研究生开展团队或个人融合研究，按人提供100万至150万韩元研究执行经费。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:活动：2026 Ajou X-Research Program融合研究资助招募",
+      "DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究注册生；国籍未作限制。须核对具体申请条件。\\n招募融合研究项目，分团队型与个人型，按人提供100万至150万韩元研究执行经费。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 13,
+    "sequence": 14,
     "event": [
       "BEGIN:VEVENT",
       "UID:372015-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART;VALUE=DATE:20260801",
       "DTEND;VALUE=DATE:20270101",
-      "SUMMARY:活动：2026 Ajou X-Research 融合研究参与者招募",
-      "DESCRIPTION:适用对象：以2026学年度为准的一般大学院在读生及研究注册生；未限定国籍，外国研究生可申请。\\n资助一般大学院研究生开展团队或个人融合研究，按人提供100万至150万韩元研究执行经费。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:活动：2026 Ajou X-Research Program融合研究资助招募",
+      "DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究注册生；国籍未作限制。须核对具体申请条件。\\n招募融合研究项目，分团队型与个人型，按人提供100万至150万韩元研究执行经费。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:13",
+      "SEQUENCE:14",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1132,24 +1248,24 @@
       "BEGIN:VEVENT",
       "UID:370613-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20260622T050000Z",
-      "SUMMARY:申请 / 办理截止：2026 AI融合暑期学校（训练营）参与者招募",
-      "DESCRIPTION:适用对象：一般大学院在读生及2026学年第二学期入学预定者；公告未设国籍限制。\\n招募一般大学院生参加AI融合暑期学校，设初级、中级和高级课程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613",
+      "SUMMARY:申请 / 办理截止：2026 AI融合暑期学校（训练营）报名",
+      "DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学期入学预定者；是否限外国留学生未说明。\\n面向一般大学院学生的AI融合培训，涵盖机器学习、生成式AI及制造AI等课程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 15,
+    "sequence": 16,
     "event": [
       "BEGIN:VEVENT",
       "UID:370613-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20260622T050000Z",
-      "SUMMARY:申请 / 办理截止：2026 AI融合暑期学校（训练营）参与者招募",
-      "DESCRIPTION:适用对象：一般大学院在读生及2026学年第二学期入学预定者；公告未设国籍限制。\\n招募一般大学院生参加AI融合暑期学校，设初级、中级和高级课程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613",
+      "SUMMARY:申请 / 办理截止：2026 AI融合暑期学校（训练营）报名",
+      "DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学期入学预定者；是否限外国留学生未说明。\\n面向一般大学院学生的AI融合培训，涵盖机器学习、生成式AI及制造AI等课程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:15",
+      "SEQUENCE:16",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1160,52 +1276,23 @@
       "UID:370613-event@ajou-notices.zhupoxixixi.github.io",
       "DTSTART;VALUE=DATE:20260622",
       "DTEND;VALUE=DATE:20260827",
-      "SUMMARY:活动：2026 AI融合暑期学校（训练营）参与者招募",
-      "DESCRIPTION:适用对象：一般大学院在读生及2026学年第二学期入学预定者；公告未设国籍限制。\\n招募一般大学院生参加AI融合暑期学校，设初级、中级和高级课程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:活动：2026 AI融合暑期学校（训练营）报名",
+      "DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学期入学预定者；是否限外国留学生未说明。\\n面向一般大学院学生的AI融合培训，涵盖机器学习、生成式AI及制造AI等课程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 14,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:370613-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART;VALUE=DATE:20260622",
-      "DTEND;VALUE=DATE:20260827",
-      "SUMMARY:活动：2026 AI融合暑期学校（训练营）参与者招募",
-      "DESCRIPTION:适用对象：一般大学院在读生及2026学年第二学期入学预定者；公告未设国籍限制。\\n招募一般大学院生参加AI融合暑期学校，设初级、中级和高级课程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613",
-      "TRANSP:TRANSPARENT",
-      "SEQUENCE:14",
-      "END:VEVENT"
-    ],
-    "cancelled": false
-  },
-  "370135-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:370135-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20260626T020000Z",
-      "DTEND:20260626T031000Z",
-      "SUMMARY:活动：A-Career Insight Talk(2026)：研究生研究型职业探索讲座",
-      "DESCRIPTION:适用对象：本校一般大学院学生、博士后研究人员等；海报列出有意考虑研究生毕业后的职业方向、研究岗位或海外大学院升学者。外国研究生资格未单独说明。\\n讲座讨论研究、留学与研究者职业发展，2026年6月26日举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370135",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370135",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
     "sequence": 15,
     "event": [
       "BEGIN:VEVENT",
-      "UID:370135-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART:20260626T020000Z",
-      "DTEND:20260626T031000Z",
-      "SUMMARY:活动：A-Career Insight Talk(2026)：研究生研究型职业探索讲座",
-      "DESCRIPTION:适用对象：本校一般大学院学生、博士后研究人员等；海报列出有意考虑研究生毕业后的职业方向、研究岗位或海外大学院升学者。外国研究生资格未单独说明。\\n讲座讨论研究、留学与研究者职业发展，2026年6月26日举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370135",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370135",
+      "UID:370613-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20260622",
+      "DTEND;VALUE=DATE:20260827",
+      "SUMMARY:活动：2026 AI融合暑期学校（训练营）报名",
+      "DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学期入学预定者；是否限外国留学生未说明。\\n面向一般大学院学生的AI融合培训，涵盖机器学习、生成式AI及制造AI等课程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613",
       "TRANSP:TRANSPARENT",
       "SEQUENCE:15",
       "END:VEVENT"
@@ -1560,31 +1647,89 @@
     ],
     "cancelled": false
   },
+  "369877-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:369877-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20260624",
+      "DTEND;VALUE=DATE:20260625",
+      "SUMMARY:申请 / 办理截止：DIVE 2026全球黑客松学生参与者招募",
+      "DESCRIPTION:适用对象：国内外大学生、职场人士及一般公众；2至4人组队。海报注明外国留学生及外国人可报名。\\n全球黑客松将于釜山举行，提供总额1\\,000万韩元奖金；报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369877",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 6,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:369877-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20260624",
+      "DTEND;VALUE=DATE:20260625",
+      "SUMMARY:申请 / 办理截止：DIVE 2026全球黑客松学生参与者招募",
+      "DESCRIPTION:适用对象：国内外大学生、职场人士及一般公众；2至4人组队。海报注明外国留学生及外国人可报名。\\n全球黑客松将于釜山举行，提供总额1\\,000万韩元奖金；报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369877",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:6",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "369877-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:369877-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20260725",
+      "DTEND;VALUE=DATE:20260727",
+      "SUMMARY:活动：DIVE 2026全球黑客松学生参与者招募",
+      "DESCRIPTION:适用对象：国内外大学生、职场人士及一般公众；2至4人组队。海报注明外国留学生及外国人可报名。\\n全球黑客松将于釜山举行，提供总额1\\,000万韩元奖金；报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369877",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 6,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:369877-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20260725",
+      "DTEND;VALUE=DATE:20260727",
+      "SUMMARY:活动：DIVE 2026全球黑客松学生参与者招募",
+      "DESCRIPTION:适用对象：国内外大学生、职场人士及一般公众；2至4人组队。海报注明外国留学生及外国人可报名。\\n全球黑客松将于釜山举行，提供总额1\\,000万韩元奖金；报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369877",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:6",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
   "369230-deadline@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
       "UID:369230-deadline@ajou-notices.zhupoxixixi.github.io",
       "DTSTART;VALUE=DATE:20260527",
       "DTEND;VALUE=DATE:20260528",
-      "SUMMARY:申请 / 办理截止：AiRISE创业创意竞赛",
-      "DESCRIPTION:适用对象：2026学年第一学期在籍的亚洲大学学生，可个人或组队参加，明确包含研究生；外国研究生资格未被排除。\\n竞赛设AI技术与创意两条赛道，申请期为2026-05-11至2026-05-27，报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:申请 / 办理截止：第4届 AiRISE 创业创意竞赛参与通知",
+      "DESCRIPTION:适用对象：2026学年度第1学期在校生，明确包含大学院学生；个人或团队参加。未说明外国留学生资格限制，具体参赛条件以主办方 안내为准。\\n面向在校生（含大学院生）的创业创意竞赛，设AI技术及创意赛道，并设奖金。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369230",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 13,
+    "sequence": 14,
     "event": [
       "BEGIN:VEVENT",
       "UID:369230-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART;VALUE=DATE:20260527",
       "DTEND;VALUE=DATE:20260528",
-      "SUMMARY:申请 / 办理截止：AiRISE创业创意竞赛",
-      "DESCRIPTION:适用对象：2026学年第一学期在籍的亚洲大学学生，可个人或组队参加，明确包含研究生；外国研究生资格未被排除。\\n竞赛设AI技术与创意两条赛道，申请期为2026-05-11至2026-05-27，报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:申请 / 办理截止：第4届 AiRISE 创业创意竞赛参与通知",
+      "DESCRIPTION:适用对象：2026学年度第1学期在校生，明确包含大学院学生；个人或团队参加。未说明外国留学生资格限制，具体参赛条件以主办方 안내为准。\\n面向在校生（含大学院生）的创业创意竞赛，设AI技术及创意赛道，并设奖金。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369230",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:13",
+      "SEQUENCE:14",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1593,27 +1738,27 @@
     "fields": [
       "BEGIN:VEVENT",
       "UID:369230-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20260529",
+      "DTSTART;VALUE=DATE:20260605",
       "DTEND;VALUE=DATE:20260611",
-      "SUMMARY:活动：AiRISE创业创意竞赛",
-      "DESCRIPTION:适用对象：2026学年第一学期在籍的亚洲大学学生，可个人或组队参加，明确包含研究生；外国研究生资格未被排除。\\n竞赛设AI技术与创意两条赛道，申请期为2026-05-11至2026-05-27，报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:活动：第4届 AiRISE 创业创意竞赛参与通知",
+      "DESCRIPTION:适用对象：2026学年度第1学期在校生，明确包含大学院学生；个人或团队参加。未说明外国留学生资格限制，具体参赛条件以主办方 안내为准。\\n面向在校生（含大学院生）的创业创意竞赛，设AI技术及创意赛道，并设奖金。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369230",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 13,
+    "sequence": 14,
     "event": [
       "BEGIN:VEVENT",
       "UID:369230-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART;VALUE=DATE:20260529",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20260605",
       "DTEND;VALUE=DATE:20260611",
-      "SUMMARY:活动：AiRISE创业创意竞赛",
-      "DESCRIPTION:适用对象：2026学年第一学期在籍的亚洲大学学生，可个人或组队参加，明确包含研究生；外国研究生资格未被排除。\\n竞赛设AI技术与创意两条赛道，申请期为2026-05-11至2026-05-27，报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\\n原文未给具体时刻，本日历使用全天事项。",
+      "SUMMARY:活动：第4届 AiRISE 创业创意竞赛参与通知",
+      "DESCRIPTION:适用对象：2026学年度第1学期在校生，明确包含大学院学生；个人或团队参加。未说明外国留学生资格限制，具体参赛条件以主办方 안내为准。\\n面向在校生（含大学院生）的创业创意竞赛，设AI技术及创意赛道，并设奖金。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369230",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:13",
+      "SEQUENCE:14",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1643,33 +1788,6 @@
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377658",
       "TRANSP:TRANSPARENT",
       "SEQUENCE:3",
-      "END:VEVENT"
-    ],
-    "cancelled": false
-  },
-  "377600-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:377600-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261106T080000Z",
-      "SUMMARY:申请 / 办理截止：2027学年度前期全球制药临床研究生院硕士招生",
-      "DESCRIPTION:适用对象：全球制药临床研究生院硕士申请者；资格要求为国内外四年制大学毕业（预计毕业）或具有学士学位，未见国籍限制。\\n招收2027学年度前期硕士生，设医药、临床药疗及化妆品·食品医药科学等专业方向。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377600",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377600",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 5,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:377600-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART:20261106T080000Z",
-      "SUMMARY:申请 / 办理截止：2027学年度前期全球制药临床研究生院硕士招生",
-      "DESCRIPTION:适用对象：全球制药临床研究生院硕士申请者；资格要求为国内外四年制大学毕业（预计毕业）或具有学士学位，未见国籍限制。\\n招收2027学年度前期硕士生，设医药、临床药疗及化妆品·食品医药科学等专业方向。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377600",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377600",
-      "TRANSP:TRANSPARENT",
-      "SEQUENCE:5",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1761,31 +1879,60 @@
     ],
     "cancelled": false
   },
+  "376367-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:376367-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20261031",
+      "DTEND;VALUE=DATE:20261102",
+      "SUMMARY:活动：国立中央博物馆剧场龙《声音：圣德大王神钟》演出特别折扣",
+      "DESCRIPTION:适用对象：大学（院）生及学校职员；购票及入场时须出示学生证等证明，购票人与观演者须为同一人。\\n大学（院）生及校职员可享全席折扣；演出于2026-10-31至2026-11-01举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376367",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 12,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:376367-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20261031",
+      "DTEND;VALUE=DATE:20261102",
+      "SUMMARY:活动：国立中央博物馆剧场龙《声音：圣德大王神钟》演出特别折扣",
+      "DESCRIPTION:适用对象：大学（院）生及学校职员；购票及入场时须出示学生证等证明，购票人与观演者须为同一人。\\n大学（院）生及校职员可享全席折扣；演出于2026-10-31至2026-11-01举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376367",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:12",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
   "377823-event@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
       "UID:377823-event@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20261028T073000Z",
       "DTEND:20261028T093000Z",
-      "SUMMARY:活动：多山基础教育研究所学术讲座：数学证明方法的纯粹性",
-      "DESCRIPTION:适用对象：校内成员可自由参加；公告未明确列出外国研究生资格限制。\\n讲座由Université de Lorraine的Andrew Arana主讲，介绍数学证明方法的纯粹性。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377823",
+      "SUMMARY:活动：多山基础教育研究所学术研讨会",
+      "DESCRIPTION:适用对象：校内成员可自由参加；研究生是否适用未单独说明。\\n介绍数学证明方法纯粹性，邀请 Andrew Arana 主讲。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377823",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377823",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 8,
+    "sequence": 9,
     "event": [
       "BEGIN:VEVENT",
       "UID:377823-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20261028T073000Z",
       "DTEND:20261028T093000Z",
-      "SUMMARY:活动：多山基础教育研究所学术讲座：数学证明方法的纯粹性",
-      "DESCRIPTION:适用对象：校内成员可自由参加；公告未明确列出外国研究生资格限制。\\n讲座由Université de Lorraine的Andrew Arana主讲，介绍数学证明方法的纯粹性。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377823",
+      "SUMMARY:活动：多山基础教育研究所学术研讨会",
+      "DESCRIPTION:适用对象：校内成员可自由参加；研究生是否适用未单独说明。\\n介绍数学证明方法纯粹性，邀请 Andrew Arana 主讲。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377823",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377823",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:8",
+      "SEQUENCE:9",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1797,24 +1944,24 @@
       "DTSTART;VALUE=DATE:20260908",
       "DTEND;VALUE=DATE:20260909",
       "SUMMARY:申请 / 办理截止：第9期大学生气候环境领袖培养课程招募",
-      "DESCRIPTION:适用对象：居住在韩国的大学（院）在读生或休学生；外国申请者须具备韩语沟通能力。\\n招募第9期气候环境领袖培养课程学员，主题为减少塑料生产与消费。外国申请者须能用韩语交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920\\n原文未给具体时刻，本日历使用全天事项。",
+      "DESCRIPTION:适用对象：面向国内居住的大学（院）在校生及休学生；外国申请者须能用韩语沟通。\\n招募第9期气候环境领袖培养课程参与者，主题为减少塑料生产与消费。活动已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374920",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 13,
+    "sequence": 14,
     "event": [
       "BEGIN:VEVENT",
       "UID:374920-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART;VALUE=DATE:20260908",
       "DTEND;VALUE=DATE:20260909",
       "SUMMARY:申请 / 办理截止：第9期大学生气候环境领袖培养课程招募",
-      "DESCRIPTION:适用对象：居住在韩国的大学（院）在读生或休学生；外国申请者须具备韩语沟通能力。\\n招募第9期气候环境领袖培养课程学员，主题为减少塑料生产与消费。外国申请者须能用韩语交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920\\n原文未给具体时刻，本日历使用全天事项。",
+      "DESCRIPTION:适用对象：面向国内居住的大学（院）在校生及休学生；外国申请者须能用韩语沟通。\\n招募第9期气候环境领袖培养课程参与者，主题为减少塑料生产与消费。活动已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374920",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:13",
+      "SEQUENCE:14",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1826,53 +1973,80 @@
       "DTSTART;VALUE=DATE:20260922",
       "DTEND;VALUE=DATE:20261205",
       "SUMMARY:活动：第9期大学生气候环境领袖培养课程招募",
-      "DESCRIPTION:适用对象：居住在韩国的大学（院）在读生或休学生；外国申请者须具备韩语沟通能力。\\n招募第9期气候环境领袖培养课程学员，主题为减少塑料生产与消费。外国申请者须能用韩语交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920\\n原文未给具体时刻，本日历使用全天事项。",
+      "DESCRIPTION:适用对象：面向国内居住的大学（院）在校生及休学生；外国申请者须能用韩语沟通。\\n招募第9期气候环境领袖培养课程参与者，主题为减少塑料生产与消费。活动已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374920",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 13,
+    "sequence": 14,
     "event": [
       "BEGIN:VEVENT",
       "UID:374920-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART;VALUE=DATE:20260922",
       "DTEND;VALUE=DATE:20261205",
       "SUMMARY:活动：第9期大学生气候环境领袖培养课程招募",
-      "DESCRIPTION:适用对象：居住在韩国的大学（院）在读生或休学生；外国申请者须具备韩语沟通能力。\\n招募第9期气候环境领袖培养课程学员，主题为减少塑料生产与消费。外国申请者须能用韩语交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920\\n原文未给具体时刻，本日历使用全天事项。",
+      "DESCRIPTION:适用对象：面向国内居住的大学（院）在校生及休学生；外国申请者须能用韩语沟通。\\n招募第9期气候环境领袖培养课程参与者，主题为减少塑料生产与消费。活动已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374920",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:13",
+      "SEQUENCE:14",
       "END:VEVENT"
     ],
     "cancelled": false
   },
-  "370527-deadline@ajou-notices.zhupoxixixi.github.io": {
+  "376963-deadline@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
-      "UID:370527-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20260628",
-      "DTEND;VALUE=DATE:20260629",
-      "SUMMARY:申请 / 办理截止：2026年暑假韩语写作辅导申请",
-      "DESCRIPTION:适用对象：所有外国留学生；未说明一般大学院学生是否有额外条件。\\n暑假期间提供韩语写作辅导及听说读写练习，申请通过Google表单进行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=370527\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370527",
+      "UID:376963-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261015T090000Z",
+      "SUMMARY:申请 / 办理截止：2026外国人跆拳道展示节",
+      "DESCRIPTION:适用对象：外国国籍且会跆拳道或完成过跆拳道训练者；个人或团体均可报名。\\n活动在国技院举行，包含跆拳道展示、韩国传统文化体验及趣味活动。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 5,
+    "sequence": 12,
     "event": [
       "BEGIN:VEVENT",
-      "UID:370527-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART;VALUE=DATE:20260628",
-      "DTEND;VALUE=DATE:20260629",
-      "SUMMARY:申请 / 办理截止：2026年暑假韩语写作辅导申请",
-      "DESCRIPTION:适用对象：所有外国留学生；未说明一般大学院学生是否有额外条件。\\n暑假期间提供韩语写作辅导及听说读写练习，申请通过Google表单进行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=370527\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370527",
+      "UID:376963-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART:20261015T090000Z",
+      "SUMMARY:申请 / 办理截止：2026外国人跆拳道展示节",
+      "DESCRIPTION:适用对象：外国国籍且会跆拳道或完成过跆拳道训练者；个人或团体均可报名。\\n活动在国技院举行，包含跆拳道展示、韩国传统文化体验及趣味活动。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:5",
+      "SEQUENCE:12",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "376963-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:376963-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20261031",
+      "DTEND;VALUE=DATE:20261101",
+      "SUMMARY:活动：2026外国人跆拳道展示节",
+      "DESCRIPTION:适用对象：外国国籍且会跆拳道或完成过跆拳道训练者；个人或团体均可报名。\\n活动在国技院举行，包含跆拳道展示、韩国传统文化体验及趣味活动。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 12,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:376963-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20261031",
+      "DTEND;VALUE=DATE:20261101",
+      "SUMMARY:活动：2026外国人跆拳道展示节",
+      "DESCRIPTION:适用对象：外国国籍且会跆拳道或完成过跆拳道训练者；个人或团体均可报名。\\n活动在国技院举行，包含跆拳道展示、韩国传统文化体验及趣味活动。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:12",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -1964,35 +2138,6 @@
     ],
     "cancelled": false
   },
-  "378317-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:378317-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261105T020000Z",
-      "DTEND:20261105T080000Z",
-      "SUMMARY:活动：2026 Ajou International Day问卷参与活动",
-      "DESCRIPTION:适用对象：在校生均可参加，未限本科或国籍；先到先得200人。\\n到国际交流团队展位扫码完成问卷，可领取咖啡和华夫饼优惠券。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378317",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378317",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 2,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:378317-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART:20261105T020000Z",
-      "DTEND:20261105T080000Z",
-      "SUMMARY:活动：2026 Ajou International Day问卷参与活动",
-      "DESCRIPTION:适用对象：在校生均可参加，未限本科或国籍；先到先得200人。\\n到国际交流团队展位扫码完成问卷，可领取咖啡和华夫饼优惠券。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378317",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378317",
-      "TRANSP:TRANSPARENT",
-      "SEQUENCE:2",
-      "END:VEVENT"
-    ],
-    "cancelled": false
-  },
   "378278-event@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
@@ -2022,87 +2167,31 @@
     ],
     "cancelled": false
   },
-  "377967-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:377967-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261109T050000Z",
-      "SUMMARY:申请 / 办理截止：未来汽车Skill-UP专题讲座：韩国物理AI商业化的未来",
-      "DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在读生；外国研究生可否参加未另作说明，具体报名资格请向主办方确认。\\n讲座探讨韩国物理AI商业化，限额50人，需通过U-CHANCE申请。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377967",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 7,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:377967-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART:20261109T050000Z",
-      "SUMMARY:申请 / 办理截止：未来汽车Skill-UP专题讲座：韩国物理AI商业化的未来",
-      "DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在读生；外国研究生可否参加未另作说明，具体报名资格请向主办方确认。\\n讲座探讨韩国物理AI商业化，限额50人，需通过U-CHANCE申请。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377967",
-      "TRANSP:TRANSPARENT",
-      "SEQUENCE:7",
-      "END:VEVENT"
-    ],
-    "cancelled": false
-  },
-  "377967-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:377967-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261109T060000Z",
-      "DTEND:20261109T080000Z",
-      "SUMMARY:活动：未来汽车Skill-UP专题讲座：韩国物理AI商业化的未来",
-      "DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在读生；外国研究生可否参加未另作说明，具体报名资格请向主办方确认。\\n讲座探讨韩国物理AI商业化，限额50人，需通过U-CHANCE申请。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377967",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 7,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:377967-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART:20261109T060000Z",
-      "DTEND:20261109T080000Z",
-      "SUMMARY:活动：未来汽车Skill-UP专题讲座：韩国物理AI商业化的未来",
-      "DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在读生；外国研究生可否参加未另作说明，具体报名资格请向主办方确认。\\n讲座探讨韩国物理AI商业化，限额50人，需通过U-CHANCE申请。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377967",
-      "TRANSP:TRANSPARENT",
-      "SEQUENCE:7",
-      "END:VEVENT"
-    ],
-    "cancelled": false
-  },
   "378283-event@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
       "UID:378283-event@ajou-notices.zhupoxixixi.github.io",
       "DTSTART:20261111T040000Z",
       "DTEND:20261111T073000Z",
-      "SUMMARY:活动：BK21 K-3MT Competition全国决赛观赛活动",
-      "DESCRIPTION:适用对象：对BK21 K-3MT Competition感兴趣者均可参加；公告未设外国研究生资格限制。\\n全国BK21 K-3MT研究生英语研究发表决赛，现场可观赛并参与人气奖投票。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=378283",
+      "SUMMARY:活动：BK21 K-3MT Competition全国决赛观赛通知",
+      "DESCRIPTION:适用对象：对BK21 K-3MT Competition感兴趣者均可参加；现场决赛选手为参与BK21项目的研究生。外国留学生可否参赛未说明，但公告所列观赛活动不限身份。\\n全国研究生以英语进行三分钟研究演讲决赛，现场还可投票选人气奖。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=378283",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378283",
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 7,
+    "sequence": 8,
     "event": [
       "BEGIN:VEVENT",
       "UID:378283-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
       "DTSTART:20261111T040000Z",
       "DTEND:20261111T073000Z",
-      "SUMMARY:活动：BK21 K-3MT Competition全国决赛观赛活动",
-      "DESCRIPTION:适用对象：对BK21 K-3MT Competition感兴趣者均可参加；公告未设外国研究生资格限制。\\n全国BK21 K-3MT研究生英语研究发表决赛，现场可观赛并参与人气奖投票。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=378283",
+      "SUMMARY:活动：BK21 K-3MT Competition全国决赛观赛通知",
+      "DESCRIPTION:适用对象：对BK21 K-3MT Competition感兴趣者均可参加；现场决赛选手为参与BK21项目的研究生。外国留学生可否参赛未说明，但公告所列观赛活动不限身份。\\n全国研究生以英语进行三分钟研究演讲决赛，现场还可投票选人气奖。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=378283",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378283",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:7",
+      "SEQUENCE:8",
       "END:VEVENT"
     ],
     "cancelled": false
@@ -2165,6 +2254,298 @@
     ],
     "cancelled": false
   },
+  "377119-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377119-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20261016",
+      "DTEND;VALUE=DATE:20261017",
+      "SUMMARY:申请 / 办理截止：2026区块链 Meetup Day（BCMD）第26期培训",
+      "DESCRIPTION:适用对象：对区块链理论与实操培训感兴趣者；未限定学历或国籍，按先到先得录取35人。\\n参加以提示词构建个人服务为主题的区块链培训，内容包括 vibe coding、AI开发流程与服务制作。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 1,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377119-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART;VALUE=DATE:20261016",
+      "DTEND;VALUE=DATE:20261017",
+      "SUMMARY:申请 / 办理截止：2026区块链 Meetup Day（BCMD）第26期培训",
+      "DESCRIPTION:适用对象：对区块链理论与实操培训感兴趣者；未限定学历或国籍，按先到先得录取35人。\\n参加以提示词构建个人服务为主题的区块链培训，内容包括 vibe coding、AI开发流程与服务制作。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:1",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "377119-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377119-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261017T010000Z",
+      "DTEND:20261017T090000Z",
+      "SUMMARY:活动：2026区块链 Meetup Day（BCMD）第26期培训",
+      "DESCRIPTION:适用对象：对区块链理论与实操培训感兴趣者；未限定学历或国籍，按先到先得录取35人。\\n参加以提示词构建个人服务为主题的区块链培训，内容包括 vibe coding、AI开发流程与服务制作。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 3,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377119-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T033112Z",
+      "LAST-MODIFIED:20261105T033112Z",
+      "DTSTART:20261017T010000Z",
+      "DTEND:20261017T090000Z",
+      "SUMMARY:活动：2026区块链 Meetup Day（BCMD）第26期培训",
+      "DESCRIPTION:适用对象：对区块链理论与实操培训感兴趣者；未限定学历或国籍，按先到先得录取35人。\\n参加以提示词构建个人服务为主题的区块链培训，内容包括 vibe coding、AI开发流程与服务制作。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119",
+      "TRANSP:TRANSPARENT",
+      "SEQUENCE:3",
+      "END:VEVENT"
+    ],
+    "cancelled": false
+  },
+  "373172-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:373172-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20260915",
+      "DTEND;VALUE=DATE:20260916",
+      "SUMMARY:申请 / 办理截止：2026韩国留学主题短视频比赛",
+      "DESCRIPTION:适用对象：任何国籍的韩国大学在读本科生和研究生；也接受有韩国留学经历的国际毕业生。个人或团队均可参赛。\\n以“My Journey\\, Designed in Korea”为主题，提交有关韩国求学、职业经历或未来职业愿景的短视频。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 17,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:373172-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
+      "DTSTART;VALUE=DATE:20260915",
+      "DTEND;VALUE=DATE:20260916",
+      "SUMMARY:申请 / 办理截止：2026韩国留学主题短视频比赛",
+      "DESCRIPTION:适用对象：任何国籍的韩国大学在读本科生和研究生；也接受有韩国留学经历的国际毕业生。个人或团队均可参赛。\\n以“My Journey\\, Designed in Korea”为主题，提交有关韩国求学、职业经历或未来职业愿景的短视频。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172",
+      "TRANSP:TRANSPARENT",
+      "STATUS:CANCELLED",
+      "SEQUENCE:17",
+      "END:VEVENT"
+    ],
+    "cancelled": true
+  },
+  "372714-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:372714-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20260807T090000Z",
+      "SUMMARY:申请 / 办理截止：2026年秋季英语课程申请",
+      "DESCRIPTION:适用对象：一般大学院在读学生、已完成全部必修课程者及ABD学生；休学学生不符合资格。\\n英语课程可用于满足论文提交语言资格要求，0学分，费用为每学期KRW 150\\,000。申请期已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372714",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372714",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 15,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:372714-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
+      "DTSTART:20260807T090000Z",
+      "SUMMARY:申请 / 办理截止：2026年秋季英语课程申请",
+      "DESCRIPTION:适用对象：一般大学院在读学生、已完成全部必修课程者及ABD学生；休学学生不符合资格。\\n英语课程可用于满足论文提交语言资格要求，0学分，费用为每学期KRW 150\\,000。申请期已结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372714",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372714",
+      "TRANSP:TRANSPARENT",
+      "STATUS:CANCELLED",
+      "SEQUENCE:15",
+      "END:VEVENT"
+    ],
+    "cancelled": true
+  },
+  "370135-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:370135-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20260626T020000Z",
+      "DTEND:20260626T031000Z",
+      "SUMMARY:活动：A-Career Insight Talk(2026)：研究生研究型职业探索讲座",
+      "DESCRIPTION:适用对象：本校一般大学院学生、博士后研究人员等；海报列出有意考虑研究生毕业后的职业方向、研究岗位或海外大学院升学者。外国研究生资格未单独说明。\\n讲座讨论研究、留学与研究者职业发展，2026年6月26日举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370135",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370135",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 16,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:370135-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
+      "DTSTART:20260626T020000Z",
+      "DTEND:20260626T031000Z",
+      "SUMMARY:活动：A-Career Insight Talk(2026)：研究生研究型职业探索讲座",
+      "DESCRIPTION:适用对象：本校一般大学院学生、博士后研究人员等；海报列出有意考虑研究生毕业后的职业方向、研究岗位或海外大学院升学者。外国研究生资格未单独说明。\\n讲座讨论研究、留学与研究者职业发展，2026年6月26日举行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370135",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370135",
+      "TRANSP:TRANSPARENT",
+      "STATUS:CANCELLED",
+      "SEQUENCE:16",
+      "END:VEVENT"
+    ],
+    "cancelled": true
+  },
+  "377600-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377600-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261106T080000Z",
+      "SUMMARY:申请 / 办理截止：2027学年度前期全球制药临床研究生院硕士招生",
+      "DESCRIPTION:适用对象：全球制药临床研究生院硕士申请者；资格要求为国内外四年制大学毕业（预计毕业）或具有学士学位，未见国籍限制。\\n招收2027学年度前期硕士生，设医药、临床药疗及化妆品·食品医药科学等专业方向。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377600",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377600",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 6,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377600-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
+      "DTSTART:20261106T080000Z",
+      "SUMMARY:申请 / 办理截止：2027学年度前期全球制药临床研究生院硕士招生",
+      "DESCRIPTION:适用对象：全球制药临床研究生院硕士申请者；资格要求为国内外四年制大学毕业（预计毕业）或具有学士学位，未见国籍限制。\\n招收2027学年度前期硕士生，设医药、临床药疗及化妆品·食品医药科学等专业方向。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377600",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377600",
+      "TRANSP:TRANSPARENT",
+      "STATUS:CANCELLED",
+      "SEQUENCE:6",
+      "END:VEVENT"
+    ],
+    "cancelled": true
+  },
+  "370527-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:370527-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART;VALUE=DATE:20260628",
+      "DTEND;VALUE=DATE:20260629",
+      "SUMMARY:申请 / 办理截止：2026年暑假韩语写作辅导申请",
+      "DESCRIPTION:适用对象：所有外国留学生；未说明一般大学院学生是否有额外条件。\\n暑假期间提供韩语写作辅导及听说读写练习，申请通过Google表单进行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=370527\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370527",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 6,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:370527-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
+      "DTSTART;VALUE=DATE:20260628",
+      "DTEND;VALUE=DATE:20260629",
+      "SUMMARY:申请 / 办理截止：2026年暑假韩语写作辅导申请",
+      "DESCRIPTION:适用对象：所有外国留学生；未说明一般大学院学生是否有额外条件。\\n暑假期间提供韩语写作辅导及听说读写练习，申请通过Google表单进行。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=370527\\n原文未给具体时刻，本日历使用全天事项。",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370527",
+      "TRANSP:TRANSPARENT",
+      "STATUS:CANCELLED",
+      "SEQUENCE:6",
+      "END:VEVENT"
+    ],
+    "cancelled": true
+  },
+  "378317-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:378317-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261105T020000Z",
+      "DTEND:20261105T080000Z",
+      "SUMMARY:活动：2026 Ajou International Day问卷参与活动",
+      "DESCRIPTION:适用对象：在校生均可参加，未限本科或国籍；先到先得200人。\\n到国际交流团队展位扫码完成问卷，可领取咖啡和华夫饼优惠券。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378317",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378317",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 3,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:378317-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
+      "DTSTART:20261105T020000Z",
+      "DTEND:20261105T080000Z",
+      "SUMMARY:活动：2026 Ajou International Day问卷参与活动",
+      "DESCRIPTION:适用对象：在校生均可参加，未限本科或国籍；先到先得200人。\\n到国际交流团队展位扫码完成问卷，可领取咖啡和华夫饼优惠券。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378317",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378317",
+      "TRANSP:TRANSPARENT",
+      "STATUS:CANCELLED",
+      "SEQUENCE:3",
+      "END:VEVENT"
+    ],
+    "cancelled": true
+  },
+  "377967-deadline@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377967-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261109T050000Z",
+      "SUMMARY:申请 / 办理截止：未来汽车Skill-UP专题讲座：韩国物理AI商业化的未来",
+      "DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在读生；外国研究生可否参加未另作说明，具体报名资格请向主办方确认。\\n讲座探讨韩国物理AI商业化，限额50人，需通过U-CHANCE申请。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377967",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 8,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377967-deadline@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
+      "DTSTART:20261109T050000Z",
+      "SUMMARY:申请 / 办理截止：未来汽车Skill-UP专题讲座：韩国物理AI商业化的未来",
+      "DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在读生；外国研究生可否参加未另作说明，具体报名资格请向主办方确认。\\n讲座探讨韩国物理AI商业化，限额50人，需通过U-CHANCE申请。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377967",
+      "TRANSP:TRANSPARENT",
+      "STATUS:CANCELLED",
+      "SEQUENCE:8",
+      "END:VEVENT"
+    ],
+    "cancelled": true
+  },
+  "377967-event@ajou-notices.zhupoxixixi.github.io": {
+    "fields": [
+      "BEGIN:VEVENT",
+      "UID:377967-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTART:20261109T060000Z",
+      "DTEND:20261109T080000Z",
+      "SUMMARY:活动：未来汽车Skill-UP专题讲座：韩国物理AI商业化的未来",
+      "DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在读生；外国研究生可否参加未另作说明，具体报名资格请向主办方确认。\\n讲座探讨韩国物理AI商业化，限额50人，需通过U-CHANCE申请。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377967",
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT"
+    ],
+    "sequence": 8,
+    "event": [
+      "BEGIN:VEVENT",
+      "UID:377967-event@ajou-notices.zhupoxixixi.github.io",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
+      "DTSTART:20261109T060000Z",
+      "DTEND:20261109T080000Z",
+      "SUMMARY:活动：未来汽车Skill-UP专题讲座：韩国物理AI商业化的未来",
+      "DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在读生；外国研究生可否参加未另作说明，具体报名资格请向主办方确认。\\n讲座探讨韩国物理AI商业化，限额50人，需通过U-CHANCE申请。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
+      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377967",
+      "TRANSP:TRANSPARENT",
+      "STATUS:CANCELLED",
+      "SEQUENCE:8",
+      "END:VEVENT"
+    ],
+    "cancelled": true
+  },
   "378449-deadline@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
@@ -2176,21 +2557,22 @@
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 3,
+    "sequence": 4,
     "event": [
       "BEGIN:VEVENT",
       "UID:378449-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
       "DTSTART:20261109T050000Z",
       "SUMMARY:申请 / 办理截止：未来汽车 Skill-UP 专题讲座：韩国 Physical AI 商业化的未来",
       "DESCRIPTION:适用对象：对讲座主题感兴趣的本科生及大学院在读生；未注明国籍限制，报名名额50人。\\n探讨韩国 Physical AI 商业化前景；2026-11-09举行，报名截止至当天14时。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378449",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378449",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:3",
+      "STATUS:CANCELLED",
+      "SEQUENCE:4",
       "END:VEVENT"
     ],
-    "cancelled": false
+    "cancelled": true
   },
   "378449-event@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
@@ -2204,22 +2586,23 @@
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 3,
+    "sequence": 4,
     "event": [
       "BEGIN:VEVENT",
       "UID:378449-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
       "DTSTART:20261109T060000Z",
       "DTEND:20261109T080000Z",
       "SUMMARY:活动：未来汽车 Skill-UP 专题讲座：韩国 Physical AI 商业化的未来",
       "DESCRIPTION:适用对象：对讲座主题感兴趣的本科生及大学院在读生；未注明国籍限制，报名名额50人。\\n探讨韩国 Physical AI 商业化前景；2026-11-09举行，报名截止至当天14时。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378449",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378449",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:3",
+      "STATUS:CANCELLED",
+      "SEQUENCE:4",
       "END:VEVENT"
     ],
-    "cancelled": false
+    "cancelled": true
   },
   "376054-event@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
@@ -2233,22 +2616,23 @@
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 2,
+    "sequence": 3,
     "event": [
       "BEGIN:VEVENT",
       "UID:376054-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
       "DTSTART:20260914T060000Z",
       "DTEND:20260914T080000Z",
       "SUMMARY:活动：社会连带经济专家讲座",
       "DESCRIPTION:适用对象：社会连带经济相关人士、公务员、研究者及其他感兴趣者；未说明外国研究生资格限制。\\n行政安全部举办Luigino Bruni教授专题讲座，主题为社会连带经济。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376054",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376054",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:2",
+      "STATUS:CANCELLED",
+      "SEQUENCE:3",
       "END:VEVENT"
     ],
-    "cancelled": false
+    "cancelled": true
   },
   "378176-deadline@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
@@ -2262,80 +2646,23 @@
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 0,
+    "sequence": 1,
     "event": [
       "BEGIN:VEVENT",
       "UID:378176-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
+      "DTSTAMP:20261105T040504Z",
+      "LAST-MODIFIED:20261105T040504Z",
       "DTSTART;VALUE=DATE:20261106",
       "DTEND;VALUE=DATE:20261107",
       "SUMMARY:申请 / 办理截止：东进奖学金2026年度选拔公告（化学相关专业）",
       "DESCRIPTION:适用对象：韩国国籍、国内大学院化学相关专业硕士、硕博一体制或博士课程在读生；中国学生不符合国籍条件。\\n年额500万韩元，面向化学相关专业硕博士生提供学业奖学金；限韩国国籍，申请已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=378176\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378176",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:0",
+      "STATUS:CANCELLED",
+      "SEQUENCE:1",
       "END:VEVENT"
     ],
-    "cancelled": false
-  },
-  "377119-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:377119-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20261016",
-      "DTEND;VALUE=DATE:20261017",
-      "SUMMARY:申请 / 办理截止：2026区块链 Meetup Day（BCMD）第26期培训",
-      "DESCRIPTION:适用对象：对区块链理论与实践培训感兴趣者；未注明是否有研究生专属条件。\\n以Vibe Coding为主题，包含区块链与AI开发实作；活动已结束，报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 0,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:377119-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART;VALUE=DATE:20261016",
-      "DTEND;VALUE=DATE:20261017",
-      "SUMMARY:申请 / 办理截止：2026区块链 Meetup Day（BCMD）第26期培训",
-      "DESCRIPTION:适用对象：对区块链理论与实践培训感兴趣者；未注明是否有研究生专属条件。\\n以Vibe Coding为主题，包含区块链与AI开发实作；活动已结束，报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119",
-      "TRANSP:TRANSPARENT",
-      "SEQUENCE:0",
-      "END:VEVENT"
-    ],
-    "cancelled": false
-  },
-  "377119-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:377119-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261017T010000Z",
-      "DTEND:20261017T090000Z",
-      "SUMMARY:活动：2026区块链 Meetup Day（BCMD）第26期培训",
-      "DESCRIPTION:适用对象：对区块链理论与实践培训感兴趣者；未注明是否有研究生专属条件。\\n以Vibe Coding为主题，包含区块链与AI开发实作；活动已结束，报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 2,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:377119-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T110028Z",
-      "LAST-MODIFIED:20261104T110028Z",
-      "DTSTART:20261017T010000Z",
-      "DTEND:20261017T090000Z",
-      "SUMMARY:活动：2026区块链 Meetup Day（BCMD）第26期培训",
-      "DESCRIPTION:适用对象：对区块链理论与实践培训感兴趣者；未注明是否有研究生专属条件。\\n以Vibe Coding为主题，包含区块链与AI开发实作；活动已结束，报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377119",
-      "TRANSP:TRANSPARENT",
-      "SEQUENCE:2",
-      "END:VEVENT"
-    ],
-    "cancelled": false
+    "cancelled": true
   },
   "375924-event@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
@@ -2393,96 +2720,6 @@
       "TRANSP:TRANSPARENT",
       "STATUS:CANCELLED",
       "SEQUENCE:4",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "373172-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:373172-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20261101",
-      "DTEND;VALUE=DATE:20261102",
-      "SUMMARY:活动：2026韩国留学宣传短视频竞赛",
-      "DESCRIPTION:适用对象：不限国籍的韩国大学在读本科生和研究生，以及有韩国学习经历的国际毕业生；可个人或组队参赛。\\n以“My Journey\\, Designed in Korea”为主题制作韩国语或英语短视频，研究生可参加；提交期已于2026-09-15结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 10,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:373172-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T113024Z",
-      "LAST-MODIFIED:20261104T113024Z",
-      "DTSTART;VALUE=DATE:20261101",
-      "DTEND;VALUE=DATE:20261102",
-      "SUMMARY:活动：2026韩国留学宣传短视频竞赛",
-      "DESCRIPTION:适用对象：不限国籍的韩国大学在读本科生和研究生，以及有韩国学习经历的国际毕业生；可个人或组队参赛。\\n以“My Journey\\, Designed in Korea”为主题制作韩国语或英语短视频，研究生可参加；提交期已于2026-09-15结束。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373172\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373172",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:10",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "377335-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:377335-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261026T070000Z",
-      "DTEND:20261026T081000Z",
-      "SUMMARY:活动：A-Career Insight Talk(2026)：生物行业职业探索讲座",
-      "DESCRIPTION:适用对象：本校大学院生、博士后研究人员及其他对讲座感兴趣者；本科生也可参加。外国研究生可参加，但是否有额外条件未说明。\\n介绍生物行业研究与技术支持职业路径，以及研究型职业发展。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377335",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 15,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:377335-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T113024Z",
-      "LAST-MODIFIED:20261104T113024Z",
-      "DTSTART:20261026T070000Z",
-      "DTEND:20261026T081000Z",
-      "SUMMARY:活动：A-Career Insight Talk(2026)：生物行业职业探索讲座",
-      "DESCRIPTION:适用对象：本校大学院生、博士后研究人员及其他对讲座感兴趣者；本科生也可参加。外国研究生可参加，但是否有额外条件未说明。\\n介绍生物行业研究与技术支持职业路径，以及研究型职业发展。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377335",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:15",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "372514-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:372514-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20260706T070000Z",
-      "DTEND:20260706T103000Z",
-      "SUMMARY:活动：气候危机时代自然灾害与社会应对：海外学者讲座",
-      "DESCRIPTION:适用对象：本校大学院生及相关教职员；外国研究生是否符合本校“大学院生”范围未另行说明。\\n日本京都大学教授讲授气候危机时代的自然灾害与社会应对，并安排问答及与海外人士、研究生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372514",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372514",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 9,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:372514-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T113024Z",
-      "LAST-MODIFIED:20261104T113024Z",
-      "DTSTART:20260706T070000Z",
-      "DTEND:20260706T103000Z",
-      "SUMMARY:活动：气候危机时代自然灾害与社会应对：海外学者讲座",
-      "DESCRIPTION:适用对象：本校大学院生及相关教职员；外国研究生是否符合本校“大学院生”范围未另行说明。\\n日本京都大学教授讲授气候危机时代的自然灾害与社会应对，并安排问答及与海外人士、研究生交流。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372514",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372514",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:9",
       "END:VEVENT"
     ],
     "cancelled": true
@@ -2573,64 +2810,6 @@
       "TRANSP:TRANSPARENT",
       "STATUS:CANCELLED",
       "SEQUENCE:3",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "376963-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:376963-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261015T090000Z",
-      "SUMMARY:申请 / 办理截止：2026外国人跆拳道展示节",
-      "DESCRIPTION:适用对象：在外国籍跆拳道练习者或完成过跆拳道训练者；未说明外国研究生是否有额外条件。\\n活动于2026-10-31在国技院举行，含跆拳道展示及韩国传统文化体验。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 11,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:376963-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T113024Z",
-      "LAST-MODIFIED:20261104T113024Z",
-      "DTSTART:20261015T090000Z",
-      "SUMMARY:申请 / 办理截止：2026外国人跆拳道展示节",
-      "DESCRIPTION:适用对象：在外国籍跆拳道练习者或完成过跆拳道训练者；未说明外国研究生是否有额外条件。\\n活动于2026-10-31在国技院举行，含跆拳道展示及韩国传统文化体验。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:11",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "376963-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:376963-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20261031",
-      "DTEND;VALUE=DATE:20261101",
-      "SUMMARY:活动：2026外国人跆拳道展示节",
-      "DESCRIPTION:适用对象：在外国籍跆拳道练习者或完成过跆拳道训练者；未说明外国研究生是否有额外条件。\\n活动于2026-10-31在国技院举行，含跆拳道展示及韩国传统文化体验。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 11,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:376963-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T113024Z",
-      "LAST-MODIFIED:20261104T113024Z",
-      "DTSTART;VALUE=DATE:20261031",
-      "DTEND;VALUE=DATE:20261101",
-      "SUMMARY:活动：2026外国人跆拳道展示节",
-      "DESCRIPTION:适用对象：在外国籍跆拳道练习者或完成过跆拳道训练者；未说明外国研究生是否有额外条件。\\n活动于2026-10-31在国技院举行，含跆拳道展示及韩国传统文化体验。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/oia/notice/notice.do?mode=view&articleNo=376963\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376963",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:11",
       "END:VEVENT"
     ],
     "cancelled": true
@@ -2753,36 +2932,6 @@
     ],
     "cancelled": true
   },
-  "376934-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:376934-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20261030",
-      "DTEND;VALUE=DATE:20261031",
-      "SUMMARY:申请 / 办理截止：2026学年度前学期硕士学位申请论文审查与提交指南",
-      "DESCRIPTION:适用对象：一般大学院硕士课程、预定于2027年2月毕业的学生；资格要求包括预计修完硕士课程、修读至少两个学期论文指导课程并满足其他条件，未见国籍限制。\\n说明硕士学位论文审查申请、费用、资格、材料及后续审查和论文线上提交日程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376934\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376934",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 11,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:376934-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T033351Z",
-      "LAST-MODIFIED:20261104T033351Z",
-      "DTSTART;VALUE=DATE:20261030",
-      "DTEND;VALUE=DATE:20261031",
-      "SUMMARY:申请 / 办理截止：2026学年度前学期硕士学位申请论文审查与提交指南",
-      "DESCRIPTION:适用对象：一般大学院硕士课程、预定于2027年2月毕业的学生；资格要求包括预计修完硕士课程、修读至少两个学期论文指导课程并满足其他条件，未见国籍限制。\\n说明硕士学位论文审查申请、费用、资格、材料及后续审查和论文线上提交日程。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376934\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376934",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:11",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
   "377101-deadline@ajou-notices.zhupoxixixi.github.io": {
     "fields": [
       "BEGIN:VEVENT",
@@ -2807,34 +2956,6 @@
       "TRANSP:TRANSPARENT",
       "STATUS:CANCELLED",
       "SEQUENCE:7",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "365143-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:365143-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261204T080000Z",
-      "SUMMARY:申请 / 办理截止：2026年研究笔记竞赛",
-      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；海报注明包括非BK21参与学生。\\n提交研究笔记原件参赛，按研究笔记的可读性、忠实性及要件满足度评审并颁奖。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=365143",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 15,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:365143-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T033351Z",
-      "LAST-MODIFIED:20261104T033351Z",
-      "DTSTART:20261204T080000Z",
-      "SUMMARY:申请 / 办理截止：2026年研究笔记竞赛",
-      "DESCRIPTION:适用对象：2026学年度第二学期一般大学院在读生及研究注册生；海报注明包括非BK21参与学生。\\n提交研究笔记原件参赛，按研究笔记的可读性、忠实性及要件满足度评审并颁奖。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=365143",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:15",
       "END:VEVENT"
     ],
     "cancelled": true
@@ -2925,36 +3046,6 @@
       "TRANSP:TRANSPARENT",
       "STATUS:CANCELLED",
       "SEQUENCE:13",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "376367-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:376367-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20261031",
-      "DTEND;VALUE=DATE:20261102",
-      "SUMMARY:活动：《声音：圣德大王神钟》演出特别折扣通知",
-      "DESCRIPTION:适用对象：大学（院）生及学校教职员工；购票时须出示学生证等证明，预订人与观演者须为同一人。海报注明30%“청소년 및 대학생”折扣不适用于大学院生。\\n国立中央博物馆剧场龙演出提供大学（院）生全场折扣；购票及取票须携带资格证明。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376367",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 11,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:376367-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261104T033351Z",
-      "LAST-MODIFIED:20261104T033351Z",
-      "DTSTART;VALUE=DATE:20261031",
-      "DTEND;VALUE=DATE:20261102",
-      "SUMMARY:活动：《声音：圣德大王神钟》演出特别折扣通知",
-      "DESCRIPTION:适用对象：大学（院）生及学校教职员工；购票时须出示学生证等证明，预订人与观演者须为同一人。海报注明30%“청소년 및 대학생”折扣不适用于大学院生。\\n国立中央博物馆剧场龙演出提供大学（院）生全场折扣；购票及取票须携带资格证明。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-376367",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:11",
       "END:VEVENT"
     ],
     "cancelled": true
@@ -3279,66 +3370,6 @@
       "TRANSP:TRANSPARENT",
       "STATUS:CANCELLED",
       "SEQUENCE:1",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "369877-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:369877-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20260624",
-      "DTEND;VALUE=DATE:20260625",
-      "SUMMARY:申请 / 办理截止：DIVE 2026全球黑客松学生参与者招募",
-      "DESCRIPTION:适用对象：国内外大学生、职场人士及一般公众，约300人；海报注明外国留学生及外国人可参加，团队报名2至4人。\\n全球黑客松于釜山BEXCO举行，免费参加，设总额1\\,000万韩元奖金；报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369877",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 5,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:369877-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261103T042936Z",
-      "LAST-MODIFIED:20261103T042936Z",
-      "DTSTART;VALUE=DATE:20260624",
-      "DTEND;VALUE=DATE:20260625",
-      "SUMMARY:申请 / 办理截止：DIVE 2026全球黑客松学生参与者招募",
-      "DESCRIPTION:适用对象：国内外大学生、职场人士及一般公众，约300人；海报注明外国留学生及外国人可参加，团队报名2至4人。\\n全球黑客松于釜山BEXCO举行，免费参加，设总额1\\,000万韩元奖金；报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369877",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:5",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "369877-event@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:369877-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART;VALUE=DATE:20260725",
-      "DTEND;VALUE=DATE:20260727",
-      "SUMMARY:活动：DIVE 2026全球黑客松学生参与者招募",
-      "DESCRIPTION:适用对象：国内外大学生、职场人士及一般公众，约300人；海报注明外国留学生及外国人可参加，团队报名2至4人。\\n全球黑客松于釜山BEXCO举行，免费参加，设总额1\\,000万韩元奖金；报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369877",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 5,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:369877-event@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261103T042936Z",
-      "LAST-MODIFIED:20261103T042936Z",
-      "DTSTART;VALUE=DATE:20260725",
-      "DTEND;VALUE=DATE:20260727",
-      "SUMMARY:活动：DIVE 2026全球黑客松学生参与者招募",
-      "DESCRIPTION:适用对象：国内外大学生、职场人士及一般公众，约300人；海报注明外国留学生及外国人可参加，团队报名2至4人。\\n全球黑客松于釜山BEXCO举行，免费参加，设总额1\\,000万韩元奖金；报名已截止。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877\\n原文未给具体时刻，本日历使用全天事项。",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-369877",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:5",
       "END:VEVENT"
     ],
     "cancelled": true
@@ -4016,34 +4047,6 @@
       "SUMMARY:申请 / 办理截止：京畿道地区特化签证项目（含信息安全等领域）",
       "DESCRIPTION:适用对象：符合指定职业、学历及经历条件的外国专业人才等\\n海报公布申请期至 2026 年 12 月 31 日，名额满时提前结束。\\n中文要点，办理前请核对最新原文。\\n官方原文：https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=371908\\n原文未给具体时刻，本日历使用全天事项。",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-371908",
-      "TRANSP:TRANSPARENT",
-      "STATUS:CANCELLED",
-      "SEQUENCE:1",
-      "END:VEVENT"
-    ],
-    "cancelled": true
-  },
-  "375263-deadline@ajou-notices.zhupoxixixi.github.io": {
-    "fields": [
-      "BEGIN:VEVENT",
-      "UID:375263-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTART:20261007T050000Z",
-      "SUMMARY:申请 / 办理截止：BK21 内容创作大赛“大家的 BK”（已截止）",
-      "DESCRIPTION:适用对象：AI 研究案例及短视频赛道面向第 4 阶段 BK21 参与人员等\\n10 月 7 日 14:00 截止，包含 AI 研究案例、信息图、短视频和照片赛道。\\n中文要点，办理前请核对最新原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375263",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375263",
-      "TRANSP:TRANSPARENT",
-      "END:VEVENT"
-    ],
-    "sequence": 1,
-    "event": [
-      "BEGIN:VEVENT",
-      "UID:375263-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261023T102149Z",
-      "LAST-MODIFIED:20261023T102149Z",
-      "DTSTART:20261007T050000Z",
-      "SUMMARY:申请 / 办理截止：BK21 内容创作大赛“大家的 BK”（已截止）",
-      "DESCRIPTION:适用对象：AI 研究案例及短视频赛道面向第 4 阶段 BK21 参与人员等\\n10 月 7 日 14:00 截止，包含 AI 研究案例、信息图、短视频和照片赛道。\\n中文要点，办理前请核对最新原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375263",
-      "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375263",
       "TRANSP:TRANSPARENT",
       "STATUS:CANCELLED",
       "SEQUENCE:1",

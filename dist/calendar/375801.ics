@@ -6,19 +6,22 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:375801-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T110028Z
-LAST-MODIFIED:20261104T110028Z
-DTSTART:20261031T145900Z
+DTSTAMP:20261105T033112Z
+LAST-MODIFIED:20261105T033112Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
 SUMMARY:申请 / 办理截止：《大学研究》第5卷第2期论文征
  稿
-DESCRIPTION:适用对象：论文第一作者（通讯作者）须具有
- 硕士学位及以上；博士学位持有者作为共同研究者时例
- 外。未规定国籍。\n征集拟于2026-12-31出版的《大学研究
- 》第5卷第2期论文，研究主题为大学相关议题。\nAI 自
- 动整理，重要日期请核对原文。\n官方原文：https://grad.
- ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801
+DESCRIPTION:适用对象：研究主题须与大学相关；第一作者
+ （通讯作者）须至少持有硕士学位。博士学位持有者作
+ 为共同研究者时例外允许。未说明外国研究生资格限制
+ 。\n征集《大学研究》第5卷第2期论文，计划于2026-12-31
+ 刊行；须在线提交论文及相关材料。\nAI 自动整理，重
+ 要日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/c
+ ommunity/notice.do?mode=view&articleNo=375801\n原文未给具体时刻
+ ，本日历使用全天事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375801
 TRANSP:TRANSPARENT
-SEQUENCE:14
+SEQUENCE:15
 END:VEVENT
 END:VCALENDAR

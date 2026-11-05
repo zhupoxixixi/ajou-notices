@@ -6,39 +6,39 @@ X-WR-CALNAME:亚洲大学中文公告
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
 UID:374920-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T110028Z
-LAST-MODIFIED:20261104T110028Z
+DTSTAMP:20261105T033112Z
+LAST-MODIFIED:20261105T033112Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:申请 / 办理截止：第9期大学生气候环境领袖培养
  课程招募
-DESCRIPTION:适用对象：居住在韩国的大学（院）在读生或
- 休学生；外国申请者须具备韩语沟通能力。\n招募第9期
- 气候环境领袖培养课程学员，主题为减少塑料生产与消
- 费。外国申请者须能用韩语交流。\nAI 自动整理，重要
- 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/comm
- unity/notice.do?mode=view&articleNo=374920\n原文未给具体时刻，
- 本日历使用全天事项。
+DESCRIPTION:适用对象：面向国内居住的大学（院）在校生
+ 及休学生；外国申请者须能用韩语沟通。\n招募第9期气
+ 候环境领袖培养课程参与者，主题为减少塑料生产与消
+ 费。活动已结束。\nAI 自动整理，重要日期请核对原文
+ 。\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=
+ view&articleNo=374920\n原文未给具体时刻，本日历使用全天
+ 事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374920
 TRANSP:TRANSPARENT
-SEQUENCE:13
+SEQUENCE:14
 END:VEVENT
 BEGIN:VEVENT
 UID:374920-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T110028Z
-LAST-MODIFIED:20261104T110028Z
+DTSTAMP:20261105T033112Z
+LAST-MODIFIED:20261105T033112Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20261205
 SUMMARY:活动：第9期大学生气候环境领袖培养课程招募
-DESCRIPTION:适用对象：居住在韩国的大学（院）在读生或
- 休学生；外国申请者须具备韩语沟通能力。\n招募第9期
- 气候环境领袖培养课程学员，主题为减少塑料生产与消
- 费。外国申请者须能用韩语交流。\nAI 自动整理，重要
- 日期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/comm
- unity/notice.do?mode=view&articleNo=374920\n原文未给具体时刻，
- 本日历使用全天事项。
+DESCRIPTION:适用对象：面向国内居住的大学（院）在校生
+ 及休学生；外国申请者须能用韩语沟通。\n招募第9期气
+ 候环境领袖培养课程参与者，主题为减少塑料生产与消
+ 费。活动已结束。\nAI 自动整理，重要日期请核对原文
+ 。\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=
+ view&articleNo=374920\n原文未给具体时刻，本日历使用全天
+ 事项。
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-374920
 TRANSP:TRANSPARENT
-SEQUENCE:13
+SEQUENCE:14
 END:VEVENT
 END:VCALENDAR
