@@ -1,31 +1,35 @@
 {
   "377021": {
     "fingerprint": "81f2f950a2a83136c136c44579ee1113db9bf594104970913d017899f4668d65",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6da1b5d19623c88808186753459c2221c608f4126dabbea671e05e4fcfa66496",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377134": {
     "fingerprint": "e9616bc1dc2fcb25f9ac9a7d3597f14d389081f8e4d54f4bf135b5962b519ae8",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "f811e88ad5020aee7e49961b2d46176d0619ce022bcce202f5f9047ba36dd377",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377337": {
-    "fingerprint": "64d62999fb5b604df57ae90051ab7f7f41ee6904b5534da5395a15ed019bf926",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "47fe560450d05329b75e543999b0d0d418c9098c0599cff94ca794ded6a9b534",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "afd553495ea47bb45c51f30156df6c7734d8a04cd03957fb6500c5a6ab562e8b",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376934": {
-    "fingerprint": "61538617b5fa44556336c81f41aa2fcbef97748e5ba83499daf382bf262f658c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "b388c82edfef3d421231b262588a7e221caef1b684fff257c0cb9928a862c05d",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6b5cdc1a830eded46788cb8289b27e9e7160cb4f24f6c5c1e6423e1b82d8d51f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -33,7 +37,8 @@
   },
   "376967": {
     "fingerprint": "8d9cf109cbe448216819ec27e90c67606a3330453124e667b2622d3964d92855",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "dfe60c75e4ae1a7c37dcfda8611523ae246deb4a5773b9000c86a397d205e5d5",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -42,23 +47,26 @@
   },
   "375650": {
     "fingerprint": "c1848ae6fdddbfbf70238a0f70031718dee7c8de7876253153bd39a9ba15ca55",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "face4063a77e0ae5367820250be75120f8a141d44a53bf0023ff2a56f7367fd8",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375643": {
     "fingerprint": "10b6d85037f4ede1f64e7b6be26a05e09f072bef7b26da719757ceb7f69a835c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "5e182b2e1b4b39748b2fd430fab4f02f5e9468858adcbfecf2486e0d195f4950",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "376965": {
     "fingerprint": "833c48cec88046e3d2873543d01a39ed693922bd387bfc02cba1e45ee69d4215",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "bebd142be1f53031db8bffcf7fb39976441323be1184c1fa2c248fea3cab83fc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -66,8 +74,9 @@
     "reason": "公告明确仅面向本校本科在读生申请学士—硕士衔接项目，不适用于已在读的研究生或外国留学生招生。"
   },
   "376506": {
-    "fingerprint": "1741dd761341227e0438e9f2655a8ff39a73394ba6aedfd0b54d5759facd5164",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "1a60eda0531e5f1329ab7899d48ebf730a782c7f787fdccd50189cce060f7cd0",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "dd8d25a6561786a43bdd7227e3944b2f4fb90a1e536372a6e547dc6ce4ff57d6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -75,23 +84,26 @@
   },
   "377459": {
     "fingerprint": "9df47ce2935790f7abd893126a119ff4d56ee4f330533807fafdae480f7f2f8e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "50f1ff7bde646e2baa99e5eabfb8a923d876d64fce2dcfd5e585200791fc9120",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377426": {
-    "fingerprint": "fba316a0568e7d1ee80b7ea49dbc22a430013ab4cac81c0e416d84b7614d1823",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "2553ea2b2d76c448ded20cf0c3a4ab2597ba39579c5765ac125516e8cfec2856",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "149821ffc16edfb6bc2da54e5c96be27958e5c8feb5e2c8c4d82e6b6953b3cc4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "377425": {
-    "fingerprint": "beeeba8a739a60a9aa920560fd517ffdb8a7483a219addb27d4a480c55052efb",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "72e18d60ecaf3b14d47c48bd213e56d3ad38642783da3824f0c4cb291f587802",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "4f9e91aefc72a7d4c397ec0a912262a9ed4bd44831d2120a5b4c7ed78f7a3106",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -99,15 +111,17 @@
   },
   "376458": {
     "fingerprint": "ff6e2589178decb0302457da5472ab8662c8e129046bf4fabe37cc1d0226ad26",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "cfb2d4dea70d936824fecaf8ebf14e19be0da5de3df302b2d458a2a5d1e1ece0",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "369657": {
-    "fingerprint": "c5e11ec9861bddd494d6d4b83266fe2294c0b937c609165e48bda650c06421a7",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "32ae48bf809448a20d61a0533aee723fc9b10d1808658aeec4f97fe4f459c51b",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "8e4db721d524511e4b87f10f6be6ea78aff8c56862838238bb0ef5084b7120ab",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -115,15 +129,17 @@
   },
   "376516": {
     "fingerprint": "a592cbd0630271de4d376bad8aeed87f1e505c7557bb8945d3b6f5670279bc6e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "bc38f16b13fb7864f846665792375de9f98df9483bc58c80b863af3045ae8987",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "376256": {
-    "fingerprint": "6e7cd7cf88b3d079907d6ddbd7ad5c0057cf4a729657e5e7e16d194c645fec29",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "a12e53c87d7235f960566c87d525bb392718e535eb1640e5cc0362c65dfdccc9",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "3a253bbac32c274f5c346c663d84059760b6ccf31e6266da57276b3c920278dd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -131,31 +147,35 @@
   },
   "376193": {
     "fingerprint": "c5f9dfc65c19acebd5ca0d20755207952a39251b5eb181da61bad68b1636916f",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "fa748efd9a3a11f50822862a6751abbb1dca8a2dbff3d987e17a11316e416786",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "376054": {
-    "fingerprint": "ad3c564272df5173e1ff1e3a3edcb5cbb44cd3338f670cf8b66dbcf118e42d7a",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "405bfc94bae2a6cff116f02f15057bd9d2c3cac65f9238ca816186d043067709",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "917a80b21588f0271c401d847f9dfe11d9c38bdde32ee02f5f69d1571a2ea447",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "376048": {
-    "fingerprint": "87c8d6f18010b7c2197b01984b149020870a3ee06780b7a294598c2c2c3749f9",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "c96f9240a90438da7417cb369b02339cde094f830dd0ed9aaeb8d4df6607f5b2",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "11e73e94e837134fd4e5ceda366cc564ca3092a436dc32a98b4887e9d6cf4c92",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "375924": {
-    "fingerprint": "2af0cd5e509df5f5d5f5b5e8b440dba6e47492f232bb5f7ce3f38143df9ddb93",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "bdd404e579e87d72bcf5862c29c4344fed1dd1f99910de16f5a5a81555c1ff3a",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "990eee79b7fb42a6be7efe07e95570a593244919b927fd2612bedc3b3060d41f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -163,11 +183,12 @@
   },
   "376366": {
     "fingerprint": "1e2032c1f085861515fd5686e5461e6d4e3211ce1e27470e2904d108d428fb77",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "bd86f47a12cf07e7defaed36de7a49760fb5ced5cafd88bd4a0878e74d429815",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375919": {
     "fingerprint": "944d2341af0707a1f25c776f6b9759841546cc372cdb80ea7d367aa00d2080f5",
@@ -241,11 +262,12 @@
   },
   "375153": {
     "fingerprint": "956fa3f583dfdf92a571c5d8cc2ea535647b4e6864b07cc4998d2020fe10bd7c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "16e754c63ae689a38677eb2c17db729d393142fc31b630c30855c29469b81caa",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375373": {
     "fingerprint": "1d74ae579848073250cc3cfeb4408c944d476bbb04e7727f57128888bc481cc4",
@@ -263,35 +285,39 @@
   },
   "374925": {
     "fingerprint": "7c121137751b2459df532db0f8af2d958511a17074737f4d8fa9edf88bc18ce1",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "5c207721cc6571f91848aa6f25fc269165705a29090506c90f415058170164ed",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "374886": {
     "fingerprint": "c118a894ea5040bba053eb330c5be591671f9f9c320b93c36d414007c33f00b2",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "9476c7f344e9b92b223c3e76a26c8bb928b4c1f569b9ea0d465c1ee26a43e6ff",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "374882": {
     "fingerprint": "79244cfac73c3aa23b2d822f8de7c0abf6d2ba452652b930f7158b184ae9821b",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "10180c02ad667eece21e0b0fef6c6ab3060f12b43b08009279dfb4f151430ea0",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "374546": {
     "fingerprint": "cfd9b25ba509dce53bda8258d0b78cbce1320dc785dfd1818bd189f84926015c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "a883e5c89987f1ff6fb67e6aaa038e9a898ef94ddc9b694047a70f3ec76b3606",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "374920": {
     "fingerprint": "e05e9f1b2c64a049f5c78367c026f39611cc64272e64e95c9f7f64708f444d7e",
@@ -303,23 +329,26 @@
   },
   "373075": {
     "fingerprint": "97a286a958587d90cb5255b2d1c9e4d99adbc41cbf5b1bdbdeda6bd4f43c0a09",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "a9ddccf150f5a2f31dd3df754cbaaf849bf7574164ca8cb79d5a6e83d4d41df1",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "373219": {
-    "fingerprint": "a498721b43bef69809bc6837fa03eabef375e51e0f7a5cb9c58700c253a55c7e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "57fc58b66a5ebf693c25f771f1e5e0db9dc4a2f89051495470d303d92be12759",
+    "fingerprintKind": "page-snapshot",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "c959fb27409817c102d779326268e9446eee3bf246b4e5b365baa3a53a8499e4",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "369355": {
-    "fingerprint": "38d4dba4a055d9e031a2c6a6ab92679df5d2b22d36fa4428c844bbf30a966e0e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "edc4e793c9b189017131e4bfb38523e74f9ecf200ae85c14d32ab57cc061e386",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6714d408f5bfdc351e7151e0662ca1b66b879321efa037e409c5f194b655a4e0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -327,32 +356,36 @@
   },
   "357927": {
     "fingerprint": "7e604c59aa86a1216cb4c0babf279b2dd327c810b6fd3304b1bc1358736e2ffc",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "583db157463dce5aa704026b82e7569096b46b7264f7d2d8ddb479c760722b46",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "298592": {
-    "fingerprint": "74b372154add9429d8bcb5daeb38e7ac17238c7a10e5b1298e12170f05fd7c65",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "240c752f098841a5eca924a513e356329f674f912df5a0c893a19677786ea472",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "53952ab74d35b5e4914ca62d8a7a1221f466c64d740a911af3d84f9d2ce64dff",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
-    "reason": "公告明确仅面向本科课程外国留学生，研究生不在适用范围内。"
+    "reason": "保险支持明确仅面向本科课程留学生；不适用于研究生筛选范围。"
   },
   "376963": {
-    "fingerprint": "a89b52f5a0ec037016e46d144e02fdae4534ae5ecf57adc8a12bb28766e13fe0",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "05d60204274cdd12cce3795369d9a5716d0d2718d2d181441268192e907b962d",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "2018f70c8205b8868b709b8644f4a933309632dce9452f9251a3d4be66eee284",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api"
   },
   "370527": {
-    "fingerprint": "5dc55cf13067e20eb83a157820c27182feab961e60a7a1c0a0b64e200b686fde",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "2e48ac829f3d9131c485c2477b8b9380dd0220e53af83b4bd8477e9a2ababc47",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "636bc0d8cd267604ba758ea764829bff75768ba3471653227eb4e1542131eedc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -394,11 +427,12 @@
   },
   "377402": {
     "fingerprint": "693eaf5ea14deacd98b1d31376afd7b175d548e9a09d0190f11829a39c03e181",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "2e769b19e71ca49a84c9d316f74682de245c01202f6c63c14afc749f28749556",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377439": {
     "fingerprint": "a544bafd35d597e300613ca210d109895f443c349b8cd14d8aea6fe3d6438785",
@@ -410,11 +444,12 @@
   },
   "377144": {
     "fingerprint": "ca7321e730ad8e5dfe4dc98a608cb17c75902beb121770735125704f09f42125",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "014ab4acab8068400629bbde1f986d2cb0398ac23e3f1d689dcd754fb0d51f57",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377183": {
     "fingerprint": "2b334f1699370f96fde8aea9009bfd6c2a23662b761a1212098a81e10000c24d",
@@ -426,35 +461,39 @@
   },
   "375652": {
     "fingerprint": "f26a23406f121fb127b0080f270f44d3eb56fc4e9f43e927f74c5623a3b7b1a0",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "4d3a43396ec7fc33bb566bc3ba5571c4cceb313f872a70a82538f31ab3dd874c",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "366197": {
     "fingerprint": "8ce631d912dba2c11c81286b124b3c23abecf29258bec5074e0be355e0eae5ab",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "5ac49db84c08cb12e37f3ef812bfcb68e7be0dde1b315b0e73efefd79c04a4fd",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "197622": {
     "fingerprint": "eb280c12f617cd85fbedfcbdabe1e8a86e5e255ee901962f2502b7be36b552c7",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "1c9800551c11b07457a887838594fcef9fedfd5bded8338ecbe79923804a20e2",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375648": {
     "fingerprint": "6f61a170cd56a6055e00ba3b44beaa64aaa682bff23e681188f3e4a915fec88a",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "c2c48e0ae79fd7b09f594d87c75f94c5b98b6b5c7059a50c856494f1fddb20cb",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377101": {
     "fingerprint": "fdfcc0984a333e56e7553ebed45f5aa6fa83ea72ec5884eb20e0435a8a7a64bb",
@@ -532,19 +571,21 @@
   },
   "373983": {
     "fingerprint": "fccd64b568e27d357cf5941a54a7e8bbc59467f28f684a5c35e1161516f9c778",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "22fea3328ecbece002023854bad39bb9bb6f3909be3b4316477580a3d14e0d5b",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "373909": {
     "fingerprint": "64e93e52af43a6776f5875cd759ddb9a799a0cbcf960f3c34d9f003e86764070",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "75d54728cc1d27edc77e15225e3841e71bbb7eb334713ee9e2ec497091a824ea",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "373908": {
     "fingerprint": "5404cfdfcbbbe2441dc24f6586fb46ac4e153b8e81fbe007d12e6c65f089d8c4",
@@ -556,19 +597,21 @@
   },
   "374887": {
     "fingerprint": "2f5fffd67d1365001601e68f5b445ef74223c7675cae6aab470c152b1f5c1b41",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "dfec4acbbc9807a3c479729cbd3e7c730fe5406ee44f8023987677de609f3ad8",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375155": {
     "fingerprint": "d08002b1975e85302dd820a925d3462064ca81f0d1cb561f1795c222b90fa96b",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "e30107b452922f6b219488e7b9739e515980bab654e9358aedf02fcf7bab97d4",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "373342": {
     "fingerprint": "b0f87b29dbb1e54cc642b27a2789507c9cfa7cca1f0cfd0dc267661e76854a4a",
@@ -588,7 +631,8 @@
   },
   "373311": {
     "fingerprint": "c92f717d883b70a02aae7f07c5d0030d5b601574749cd6335f30246b637e257b",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "0c974cd731112b3a22f68628b5f775ed52dab91bad3a171e4c27a47560b23a6e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -629,35 +673,39 @@
   },
   "372439": {
     "fingerprint": "c0c372f168bee92209b9d9952f1dbaec31b364dddf9f5038366c4ee16d2c501e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "a8f589fb273093bf8d9c0e37feebd040f31cfbb5d05886f60695ed933aa37361",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372434": {
     "fingerprint": "45bfc8924f538f8d91ec7856e990f2f49147e731aafff6547b16d435d9651c89",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "c71e5aeab9dd35a445dc1ac3b8fc0e64c97ea9beda092685cb81ff6b3e8188ae",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372629": {
     "fingerprint": "dad8982fac3401428c32524b73d64ad4953f06717f8dc3000403b2ef7e881291",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "ca9443064f5ec4161b8ca07a32b20913d7f014e17dec5aa99d513f440a59be3a",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372921": {
     "fingerprint": "3725a583603c2a10379e736719830ba995bda72e9e64217536075e70515d30a3",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "3846f45c0ccc49c3df533d8cdc6abb1d23d90e5252441f2793be880086644ec1",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "371908": {
     "fingerprint": "2c5afe8ddb65ab067248cc1e32ae3d55645a05fdca0aa587079ccc4b57db64de",
@@ -676,11 +724,12 @@
   },
   "373013": {
     "fingerprint": "85c11a0a6155b2fee1bd3484fffef7134555e28bdeb55a709ce7306738b9d5c9",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "f2da2260fa8eea0f175ad39d498f76341d0fbb72c7d157102990b532ffd27619",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "371876": {
     "fingerprint": "883bf1664bb5abfe2d8d8663a11d69587dac48d1302834d185996651f9a54071",
@@ -691,15 +740,17 @@
   },
   "371875": {
     "fingerprint": "74ef30eb8ca600ba63fe43490bf4f295243532014fd5de1d679e66a2c7143958",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "fea79a05ebff662044a2b5bb7238809c803623100ebf54d4c6220a4a43506c94",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "376367": {
-    "fingerprint": "525f6d76772d685820a40e7c22c560fb2c6e7439d103f3d5086bca7f51132c6a",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "acebf24c706a064deb0c8b3da65683529de2b993de235d45165785f506880d30",
+    "fingerprintKind": "page-snapshot",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "11eb126db6d805b683055526a8f138ab60a44e9f99f39108f417a8f927a2d752",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -714,19 +765,21 @@
   },
   "372872": {
     "fingerprint": "36f7f661cf9e85928a05def93d881ae98e1f57b337641afe0ea9dc656684e62e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "1b2ce1800a220a5043c97aa1a962fe8f11476f8107743a62246aa2c85491623a",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377546": {
     "fingerprint": "7df8b7fcf708d770c6ef4f4fea23ba912a73da26b9413caad7eec8e641c7e41c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "03b10d82be046a4cd341e5a527231b889f0acfa50b9cecacfbad0c9cc1f1e5f3",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377545": {
     "fingerprint": "5e3e32c13ad38c3127f5659b97d79741446b10d9d950354b710ccabfb98450f4",
@@ -738,8 +791,9 @@
     "reason": "海报明确限定“本校本科在读生”，不符合当前读者的一般大学院研究生身份。"
   },
   "367101": {
-    "fingerprint": "b3706a96f8750ba1f09e8a6b19bed0c3f81bc2f9914b438a51355e6280a0d3ef",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "d4ce9cda980d3afe71477eca9e2b82013a3b0fb033cd930fd972b65d8857ec1c",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "8000ffd356eda5a1a3424d6a5ec68c9f056e8db2f4e2e1ae573ffca1a12bf712",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -747,8 +801,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "364475": {
-    "fingerprint": "834fa06cf0887fe18e0bf4cac29e7366c40888b528fad6b585141820a7c31fbb",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "b4298f686c046138df5e34b72918d89558be1d6c3638ff167079af40957dec74",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "02538bd851721e6f216162cd8dd83f10780a3729f87881c2e41e6aac40c44722",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -756,8 +811,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "363644": {
-    "fingerprint": "672bb398f88b0d3af1d45aef06dd3e9f1ae01ee7283eff5d61de415e9c5c80c8",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "d6d5e6a9fe2ed4482447568b9ccffd3155603a0e57d378172ce1689afc404bd1",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "67ba61557e9d3af50d4a466e42ad7b1e72f657d9beafd3895e8e565c0f4defc0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -765,8 +821,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "363642": {
-    "fingerprint": "0c6a4a11f441993358054ff0d1d8b5af717b41a1bb164ed00266fed90801ffe6",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "b4da94accc7863d89586c5ee5cf2b60476a69ef8d4bd5b00a605187c73e7c7cf",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "64c2ba061a4363aa4f7f7874fa38ac6f54f224a70025b922101dcfcaa1482221",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -774,8 +831,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "365448": {
-    "fingerprint": "489270caa55af8b49cf56e348383249a214ab336c96073331d4a4a8a397b2332",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "be4fdf1d6593d9020e977b026fffd2f99a718f1537b123aea4575f6affe8b0e4",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "423895603e036bf52eb3315d4ccfefd0f6cf923ba13b5bcea3e1dd98a6b047c7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -783,8 +841,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "362510": {
-    "fingerprint": "3cb271be9831206db29d11f4ebe6c168602ebc3df64af056de892a72cffe6709",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "d2dec9197357169a6db3d6a7a2bed5707914e959d1baca067bd9e96c26fb6230",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "d3f7302713185741b97b3c61246199e87a4e9d19e198c59de5e5112fa50785c6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -792,8 +851,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "363273": {
-    "fingerprint": "1ddd77d3770ae7c9818bb055493b29b48c49d197de048861931b9b1a1c56b56c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "6fe4289b744aec264c7b2cc51c3a0753247dc3ffd7fdec71730a93916975b65a",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6588687fa4695c7baa732edc380662da793e98e327f8ce05f25df45ede2ff492",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -801,8 +861,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "359877": {
-    "fingerprint": "040f784c2b7333b9993b44aaacf99416b62de9a534d705b71c6e178acbd4f896",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "38d8ba7fa16a1138ca11a201d327a4219588ebd7a54946be90be6b2148e61769",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6f425d82988340dfffaad3d36a559a345bcc6a1896029e952977a98ba8da3177",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -810,8 +871,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "354727": {
-    "fingerprint": "73bc9bdf122b11b0741041f823db6ef5e36c4410a2e68a819e311d35ac667717",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "34b20d1fcca70b1f51a8666815618cb20d9a3339539c067205816358c370c418",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "0cb1719860da2481d835291670139014f92c13879f0c7d113b64dfcd44d3b26d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -819,8 +881,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "353411": {
-    "fingerprint": "c896bd9e9ed8a511f0af0a62a68304490390fcbe28cf4cc0b6397791d413e4f0",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "2b747971be5156c64ae1376e4ed7a4efad94dbf22bae798db35a0e90e1ac13b7",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "544fcf7875da006afb50b74f8f62df049b03de4d71e55649c0af424be279f93e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -837,8 +900,9 @@
     "reason": "正文日期不在近期收录范围"
   },
   "355118": {
-    "fingerprint": "1ec551d32577418a5f909185ac906b78ba62d85534f8c210f6925937db3c4cbc",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "9a3e7258c39ec7b12cebe8a250bd52ca5e73bca87c9f3ccf936563acbb9d384a",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "4a61ca4bc29da19c8b293b26c1ef0c29aa51adb8793c0e0ef83f0d7102e2eef8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -972,11 +1036,12 @@
   },
   "377292": {
     "fingerprint": "ad8da77c55eaec4f908ed5991cdf2e283821056f2d995a94bc97a152c8b9fc1e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "a61f287549a36bc72b3da69e5d9f2f15eb5f304aa4a1afa28164d90f02098756",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377267": {
     "fingerprint": "abfaeb75c3fec4afe28cc20a3abe44904cd009825b6a0f6deebc31454b48e526",
@@ -1051,11 +1116,12 @@
   },
   "377102": {
     "fingerprint": "a23bb79b447db20c57ce1378e69a2e9e9ab767ba7cdd3e59c04e9d1c1f78b872",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6310bd1fffce0b37615e0ae4a6b3921643e43842f4818e92853fcb12f3fb306e",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377105": {
     "fingerprint": "8a00627d990b6c513804cd53cf390efbff79fd6bf08f3952be8b7e849971dcd7",
@@ -1139,11 +1205,12 @@
   },
   "377020": {
     "fingerprint": "9c66d566fb28d9530452b79b5f2526ddf14b157914551ed4be5c656b881e7315",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "cb01dc4aa5fbcef8ca5fcf61bbab7e7ba46807e58953b18b13a7a6005e79ac03",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377335": {
     "fingerprint": "c874d6aae74f719b0e7bf62f99a9a2d90a1b2eb9ba0705f2c8e55484ef61abb4",
@@ -1163,11 +1230,12 @@
   },
   "377016": {
     "fingerprint": "4955191cf839912628132205bb642258c242ed08371ed92ed5784e84a4396086",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "a745d86682b54a6f6b866e15b873d26f6a88dff9fc32725a973f08e58179f58c",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "364643": {
     "fingerprint": "671da328eaa15022b54c450fe640d8e414d2cbf5c7765be71584cf17b30ba786",
@@ -1179,11 +1247,12 @@
   },
   "364213": {
     "fingerprint": "d2319019c6d3a5d4cd0019b9bcb1787848d599d2416f539a0838c4a08bec2b09",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "e9d953141cbc7a7796533bded5ebc2e6f35658cff1cc101d8a52afe691311f0b",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375647": {
     "fingerprint": "4f2b42abdb268816a3337962b0cafcb3bc436ee2fdcbbb4963b32a65994f232c",
@@ -1203,19 +1272,21 @@
   },
   "375590": {
     "fingerprint": "86aabbbe00ac0c6789dadfe91f76c2dc3485bf020a79485ca6160dc9ebc327d7",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "89d8d459b315e63fed14fc007ee78b4fd34960367091e6c8813553f4daffdb22",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "posters"
   },
   "375471": {
     "fingerprint": "a95f6d26f8b478638179ac7fb275de0234ffae64819d84b0e51ab637c7d0c52a",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "9086becec9ad9e5223617d53f93d6ccfb8a85c9051582ee5a1d86b617beaba67",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "posters"
   },
   "375261": {
     "fingerprint": "553525cc7f5c0274a65a80db9c53126d9f258bcc009e67b23903451282a7bd29",
@@ -1227,11 +1298,12 @@
   },
   "375246": {
     "fingerprint": "439e81d44426a2007272f2b9df377601d3436946f3b5108fd5742e920db4c7c9",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "220f229a4a29107987c7c880232b9ecf9d9924b228fa5532e530340708b9135a",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375247": {
     "fingerprint": "bece7dff52e85feefb03ea996f014de08888d689ad8fff234a23651ac1c0cbe9",
@@ -1243,11 +1315,12 @@
   },
   "375175": {
     "fingerprint": "779adc3a1542765b5f3d6e576b73aaf83df9c13efe7382c95b67171380937e62",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "e28757eebe2f6216b4af5c705f3473da841b83bad9563cc1a1dfe329259df31e",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "373879": {
     "fingerprint": "304bcea9dee0ffac96b951af13e8cdf07e5838de257bc008dfa7b432eaa8aa33",
@@ -1267,11 +1340,12 @@
   },
   "373877": {
     "fingerprint": "fc5c7e40a9a29ff6be890e0c50400970d6d0648f7b0ba6ad0d8566305c2f3516",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "9af99797c46052dd1df517494251e16dc5a30e435bd83c3dcae2e0b8f532b5a6",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "374776": {
     "fingerprint": "9ba1e9f8fda15c88933894f78a177db3c0014be311b41b1ec7cc93d10cf2cbb0",
@@ -1323,11 +1397,12 @@
   },
   "372511": {
     "fingerprint": "e2377902e475c67a2199f5b3d54b9fed94292da91be4ed7881599300a41486d3",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "e4606d539032a0bf81642266d956ccbc3bd1934eae541b8815435c5fb19a453a",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372512": {
     "fingerprint": "f44e5221338f404f10e4864a628959495bd673486c99bc4018f5fc446f02b616",
@@ -1339,19 +1414,21 @@
   },
   "372510": {
     "fingerprint": "cb7863bf1fe4025fa95983f6a894f3658390694a56f16c43965f3cfb0967cf5e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "967a77e485d2adc2b461ed0df3bd77f4a7305130f0b333a6d8a322bfeef42708",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372507": {
     "fingerprint": "9c5ffbc8391ebfae52cc6ee6f1d39cd2165a3f7990099d8d8f75c6501a464f80",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "eda9d7abcdcd3de10fcf65b84feb7e12a55e06458d6a4a041bef3c08d3a3e836",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372508": {
     "fingerprint": "00cfc52770528c088c0c5c56d8a26486da473d774ca87011da2e26144e4bb7ad",
@@ -1371,19 +1448,21 @@
   },
   "372504": {
     "fingerprint": "dc336562d743aa3631add37da65df2f6d2f43e42f974698f237557cd48368934",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6a4054168597ae6f7b96e97523b9923f507bdb15ba628a9d2b9d4777deef88da",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372503": {
     "fingerprint": "734f2f43ed5aa47c1d530aad4e760ad4a856cbbc736b6c3a72621d902720b676",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "28a5955302687097b346b2d3097720c5b5c206d6ee59088ca437c47ab1375bb1",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372505": {
     "fingerprint": "9dbc296a214f1b5f930c1d4a2d955977b0fa8f660f5740950c80556da1692382",
@@ -1436,11 +1515,12 @@
   },
   "214755": {
     "fingerprint": "3ff86e43eec7b85e78e2a479680e596dbff51881a979b6e735c47598a719108e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "f476c81bd76c1d46956e1873be450994be4b2b07e09838cd154eac8bdf69a9c6",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377470": {
     "fingerprint": "2463d7cde5ad5780eb8014a18eefe3bc909c3ba5de7f6d3baa15c4d229bdca7f",
@@ -1453,11 +1533,12 @@
   },
   "339252": {
     "fingerprint": "0c5c7cc5b60410fe502e189b1bbe942f61e82fc67b8a704a0ad91f358d2d2709",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "643c3dca412a814241a24370427789290b348e33f6749d0a3c5918b596c53042",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377206": {
     "fingerprint": "51bef0d69c0e027fbcd27082b3940c9367a72bdf8c240c16f56447d991c8251d",
@@ -1556,11 +1637,12 @@
   },
   "376668": {
     "fingerprint": "1ed9ff60a32c8d2fda15a6e9534582656ecafff4f79b33437eea9ab07a7815da",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "536b757d9b1cb1bdd8c329fc79c124565e25cd8638878936fa89d4d0d879c460",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375940": {
     "fingerprint": "aebb8c5e63bda9e6d68bf5f8bc92a0f9fe729a2655428d3c12b38846cdbe9d91",
@@ -1910,11 +1992,12 @@
   },
   "373055": {
     "fingerprint": "460d51292f4e28008a2c420548d1313a705012af74f11dd4567bb85cfee53780",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "283ac1371b8f22c615c65d1322d4cbe0767c5b08796431fa095ff8254180b08d",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "373294": {
     "fingerprint": "b1c73d8f3d42e528efea5a3e2cb47cb74826a3f89bd364c439dcf15e72815842",
@@ -1984,11 +2067,12 @@
   },
   "372517": {
     "fingerprint": "209447fb98dcdf5a932a2c072203ed8afe9bfc6363fcf0b379596418a8ee2e11",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "0e53c80614011187d397c8721cb59abe962fd30db3dfd2c2ba6bdbaf47edfcaa",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "372155": {
     "fingerprint": "3b752f8c69866ab40742a324feecaed198c30f1294fd4e290cf20e915acd2130",
@@ -2041,183 +2125,206 @@
   },
   "calendar-a927f474f40a": {
     "fingerprint": "e6b746fe8a7e6bd076fe746f712376eaf98bbeec2207377f7e151f70ac24e482",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "fa1cd840fd6ab91d795d810505e3d7c9de88cdffcd30e15ab624b06c77ab5e64",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-e89ee0d7afe6": {
     "fingerprint": "8e54cdc47fd0074bcd847c04293666d067e27a77bc37e8710829b811c42d7c85",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "9658b5fea612d87a402fe77ecd39e6066d1429615d8987a9e9e36fdd312f786a",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-2a44e41b9351": {
     "fingerprint": "fa22944e45b809b9358e36a560d295b304c7d71dd83102c7e3ced7850dd4850f",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "1930ff363a5e764bfe4037e2c435ebfa587030d22286408e1ff501bb9ea84db6",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-894011d5661d": {
     "fingerprint": "b56527e314113aac422f2abb1c025d724e2fc1b33dc6b6834b940f70acf1a26e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "cc349a1b59a2110ef57057779c196e767002290dbe846f3c83a9b56d10d3156a",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-dcade8cd24a5": {
     "fingerprint": "ac31e7ebc79a88f5cd1c3558dc1fd631f238649f26e979fea09e4e3d1dc3a732",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "dfb6bd2a265bf1afaaaacc8e9e3e8d47e9fd458055823ddf978822a66e612ac9",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-0e709bec7a62": {
     "fingerprint": "eea9f604703f3ea6a813a8bb1e231193fbf8345b0fec1e4dab4fd2f779df9d2c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6e89c812b68aa1924bcb2a3222c765c09dd1e507a56f1c36fda3954dfb94a8bc",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-e1c72c9a7e97": {
     "fingerprint": "38302cfb80b924d7e6cb35de72dc92a42c8dae09fbf6a928ba4bb623eb203fe0",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6d1115791df231101162472dfdf07154537d549fb55b6658bbc772cc97a4208f",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-331fc84090e5": {
     "fingerprint": "51a77085095012ed2a86d6d9e8465db4a293e9084d9e2dcfe232c17b9669df65",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "e435ab775d3c9c94e1b8e0d8216c68721b0b067f894e5942af368229e10c96dd",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-4ddc40c5ff57": {
     "fingerprint": "64849fb9f4d53810a307720bbbcd2af8649c336a88766ef4c7dfc7a67ccb725a",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "0e4c28b31dd6a0c258ba75cf84d045908b4379ae15cbbc95714c5dd77fc234c7",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-8a5cf8a9c846": {
     "fingerprint": "9a8776f86030e733cd6c67905cd16857b3bfd1f02ddcd1c6acf590a1b7e22cb8",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "aa486f5dbe4552cff8523a05fe130a4cd518638be71f6f465e2c065a9062dfaf",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-970e6fd01ca3": {
     "fingerprint": "47e52e57b9de5a77c21385c796fe5d191649804a1a62d92b37365b189ce21f3e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "ea248e5076561b67bad38ec4243d1a83f523470b7b5cde9198096e17d2e6c78c",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-26d2aaea02cc": {
     "fingerprint": "e9137e1c9f628b3b4f68d1fdd3435bc83cef79c64967383ec80154f697a17598",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "e603ce2c11374b0d13f9aa1351fb636f770eb8d8572678a025c6bcec07d02363",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-a43334e0564d": {
     "fingerprint": "7bb3239cd5998c9f10f334b13f38463f2836b59a6c94f92a955304571530ac69",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "22d85cd3fd96483146adfd66054504d08a3101225ac920058e22d17ae34ec0ad",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-98f210717bba": {
     "fingerprint": "af886b421f65fd55ac5caf4aa841025a8980f0582a18fd4bf4c9d8fbefb62c7c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "90341036797c9e40ff7899abe7e70830a949cbb71f1f4503ce31cf2b3844972d",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-dd0aae646035": {
     "fingerprint": "18ca6e40b335cceb5cc22e9f273eb8a51781c57f157aee740dd72be1b8a759f5",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "b722979b16aafab9d073221ec171406a4830d06f553d7ed00d288fcb62df4d26",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-7c915c0d9e52": {
     "fingerprint": "a27b1688cb5d8447f8fdfb8b38837cf75b6d6c362be97a17a01da333397926db",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "1168724500d101c4c8bdb4df19588782d131d5a97aee7e4817dd060ed5f9bfb4",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-3b2729ac3d5c": {
     "fingerprint": "b489ee739819a503aa60e4cad1d12e1c22dd7e1dc8c785513b0f323bb025f9c1",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "04673628aec6d12400f802f089d169a96f94831d91fd58a6daeea31e592dd4ae",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-38cbbfc9ef4e": {
     "fingerprint": "65189b64067e90a543976de821fc603fd9595e09bb3cd9913892ef6a99a74023",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "4efdd0a6c22549c2e96b5c7ef6d1d8b5c4958f54c5edcd47b91794682c9eeb24",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-390b9e52acd9": {
     "fingerprint": "92fdb8228a298ec56c83a49c98034b980e0bb18fd4004de7d2349ab3a33da22d",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "d14a91b3710cffc9633702027b429e225f8410a7f91cb02465218370565005ce",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-c74c5ddfde84": {
     "fingerprint": "b769f176061368f363cda2f34c84a1f8d323a9fa9733d7937f116919e51d7768",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "d0a151e3e63475721e063cab83fa30e9b04d17aca9861aa26c9db0b4722b86fa",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-971b4d231960": {
     "fingerprint": "00159ddef9d191f63ce98fa62dbb2afc02f7f8821f39381ccca67dfbc62eec7d",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "5bb261b3814574d75e389bd0e8752c4701196cd24ddbbd264dac26fdfc6e04b8",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-3ff35d8ac74f": {
     "fingerprint": "89331d3f6f03ec8eab5a6f955d09a8b4d7b8c4c5414e8d9c3242fbdcc3928ffe",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "34d510ca67931bc6f655dcae138be0579197b5b4ae05eaf68ec39d8d783c463f",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-e493171fa4ce": {
     "fingerprint": "9426e0ccaf8a7b76f741aa612503acf4c23e701e64e376bb2f4dd150cf969c29",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "c90a5d6f24cdf904d8a6ae6767cab8e46d259c06a6f86a060565fadb4128ee69",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2226,59 +2333,66 @@
   },
   "calendar-41e5cda407fc": {
     "fingerprint": "1c1942332c93fc50bd8584ffa9056bf2772ee89ef3577fa94a8fb31cd9efb4cb",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "63619b3ab2e9b4a3946bdd5e760cf287b833396d6677dd7494a50e0211566a5d",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-52961adc06ba": {
     "fingerprint": "6a0202ac07ff252e1d53a7f6b696956546d0edb1f968bd8df84a17f695584c3c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "befa26c57dcf9bf1c3048c57d27e131b0b7bd7786367b483d75f5bf6196d4986",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-31d299f8dec0": {
     "fingerprint": "0a20c00919c034899eb4d668e1840597251b6696b5c924e05b2dc4bb136883f5",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "05ed688280285e68903cff05bd095585002b6d2dc2e765891f692894a01e8958",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-55f7d04b6da4": {
     "fingerprint": "e59af18db48bc1cb125127feb65c3ef7459cff44583cdae8be4039327c11b7ee",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "0a52d4965b624c7363dac432985202e2d13f675a4235b69b107e03637f9e8e5b",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-21e915392e39": {
     "fingerprint": "afb20f32a7ed50d8141cb5550e86039652a7d1ac0594f1fafa4190bcae9dfff6",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "f9b692747d3c491459b90a5d3c7a3daeb48242973f35948daf66302b91fe5da2",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-760544a34e5e": {
     "fingerprint": "71c7b217fc750f5e30c431e54c48ebfc0807dcb17815e9c7877a2b10d4fb2221",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "f08cc8b48e1c5c7ade4a6d45b8bd0520c538d597d4b11e13c8a98615147c452b",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "calendar-ea3585c43b96": {
     "fingerprint": "337940110c5ae4adacd7ba5e4cf7918490fb28923142334653e9ebd5c8f28535",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "15005aa4d80aa61f444aa8a7ae5aab4d8b03bd8337331805ffd58927f38fff45",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-23188": {
     "fingerprint": "e61c43514c17945331c32122647d472aa0c032ab1b980a28ccac8cbb4132eb5f",
@@ -2398,7 +2512,8 @@
   },
   "377519": {
     "fingerprint": "d799e38e4b65a9257ef0066979caf8ce12f993354556ccf86960135a6c80ee59",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "82fe9bf871a882c37a40bdada8d135355d90f7c2f89eaa0b240dfa1fe3227125",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2449,7 +2564,8 @@
   },
   "376786": {
     "fingerprint": "f34e554b8913b9a047eba07b57a4a73c5d782bf8bcf36a5ed893049b1db4c330",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "27721d99ca3bffe22f5af5b51a532e73e168da5addf1d2f73884f94d4cc5136a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2474,7 +2590,8 @@
   },
   "375891": {
     "fingerprint": "f8fc4cda7c66b991b1dd996996dfffc15098d2a26fc9dc4d24f50a8d17d2bbdc",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "b356ce10fb683dea5bf18c1ecfd79beb457b5075e326cd399b0e085a9e29aa80",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2500,11 +2617,12 @@
   },
   "375546": {
     "fingerprint": "476e95b09d028a553d36e979b4469a8c054abe4cf9152fcbf5e0b33e814b08de",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "d68061c9f84451b5fccfd5f39e4a34f25a1c6b583f1f2137d3e3f4688159c397",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "375368": {
     "fingerprint": "07dd4bae84df10b85e7dc893899dba9dcacf4ce7d122aed1acd9f43fba48f02e",
@@ -2977,11 +3095,12 @@
   },
   "377582": {
     "fingerprint": "1c057ba46c3610cbb159c967dd27ef73e662d6fe24677e79c454f197d6551b5b",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "c657a50a14b494c3071a48150b8afc394f85a69e6049fce0e241326638b610f4",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377556": {
     "fingerprint": "980d206c6fe08180b6e69a01e9ae6c7d8871d568d59e76800c1e6ac56f628c0b",
@@ -3019,11 +3138,12 @@
   },
   "377620": {
     "fingerprint": "b91a5c0deddb8fb8439fb44a0211af9ef1c22d1b120f645b8c8ff5d0ed36c783",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "5d91367b802590be5e19c2ebe5f9f5db204af457933249287bb9fb38f63f4d06",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377663": {
     "fingerprint": "90c00436958ea0ddd4c7848d6f7a9c7dcfe37814c3ed6536bd3f46eea81dbd15",
@@ -3061,11 +3181,12 @@
   },
   "377631": {
     "fingerprint": "433f384a741a0a4b3806ad9f9b290706fbd106ea3be36db2cca961b796a66521",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "ca76d7bb2542329c276a2a53d6e8b0f88db37acdac437b33bb3908462d1e8662",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377639": {
     "fingerprint": "22019f1e7359a79b1d8f4796860a84039853b21b6ac004c7b3f82359563e47a9",
@@ -3078,11 +3199,12 @@
   },
   "377617": {
     "fingerprint": "381ddbb61de33db483e52d42fc53133ede94acf95d09d5fc7d16f77c778b8b38",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "596c67da44f7c798d5e354b7a5cf21f400e78f7e6958f1bfec238984beb1585e",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377618": {
     "fingerprint": "96cb5f2dc1df5e032e757496e0bf12b0eb915663508f9a4ae6d1f03997cb4db9",
@@ -3469,7 +3591,8 @@
   },
   "377875": {
     "fingerprint": "adad48ea970e07073dd415e3b0864493875f31558037e43c2b755533d683d3cf",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "3f8d9bc19165b94a6dfb30c0ee365c559b96ae193f40a1de47336dc47ca354d0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3539,16 +3662,19 @@
     "transport": "api"
   },
   "378176": {
-    "fingerprint": "063ab8ef464dc7ecb198c95ac8171da9074cef3f1f9c8f7b24c4866a80378079",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "cfbf4b3a7bd236f0a0c20537eca649ba939cc14d55acd587ccc982c108dd0e28",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "0ad26bdeb055f8edbb06dab448ba91c55ffbf3ffc8d53fb0d1d6c5d3f9bdda7c",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "reason": "奖学金明确限定韩国国籍申请者，不符合收录范围。"
   },
   "377926": {
-    "fingerprint": "1881a9110a483b3f394c22cfbd39a9f413f9a36fdf8dffc5f73cac67d5099943",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "95dde3384f209bb7a01e152d85589927aa0722c38505022de9d0d897032cc9c3",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "2aa053e110da85c1176adeb58c07b458ff3669209003ff5f7627f904073b7aed",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3556,15 +3682,17 @@
   },
   "377619": {
     "fingerprint": "381ddbb61de33db483e52d42fc53133ede94acf95d09d5fc7d16f77c778b8b38",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "596c67da44f7c798d5e354b7a5cf21f400e78f7e6958f1bfec238984beb1585e",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "377983": {
-    "fingerprint": "a27ae5a9831dfc33dfd0383d925a8a7df31e1db6ee265eb207f0390f0e1f5661",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprint": "eb14f84a42a387e3e319397430371786f4509f91e2bcf0404ab120b6f5e9fcff",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "da86acd6dea997dfff3bc7aae268a04fa49b8ba7ccd880babbf3c16c1e2027ea",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3919,7 +4047,8 @@
   },
   "378276": {
     "fingerprint": "ac5f73b2a4db1214517e499568ff354d40433547bd907ac39b711d42778648ea",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "cce5d098d892e4399c311c0d7d90e6812f0f214ebba23b23003081c4475f5dac",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3964,47 +4093,53 @@
   },
   "library-ck54981ee9suwbmg": {
     "fingerprint": "dc8865d56149d795b9fee214cb23df2578c1e013e5d7cfe1a8d74890afd1c55d",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "f5b6f5c23ace4d1fabf684130fe4df2be76120cc15b434634361c0f048c41d0d",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-u7f8la6ejjpj5yk0": {
     "fingerprint": "e61c43514c17945331c32122647d472aa0c032ab1b980a28ccac8cbb4132eb5f",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "90e1982e82d7b9c112c854905d3ba7ca8441de8ccfb22c54b604ade00f9567ee",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-t4hefl3jjociazez": {
     "fingerprint": "1388290f495ed8f4c7dc055530bfda435aff0c096c65caf59a03efb836b9d173",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "6f72caef963ee2ca036f94b9e0be5908a7e7965ad96a34c349889c3d82f31fc0",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-pacbr6quv0exz8yu": {
     "fingerprint": "c1193a14a6c149b17726f9738a98e60bdd6109bc6fbb04ee9d5c486add559c6c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "3a43c92cfddf876e479686209057ba0e5249a196d25f7503877535d68f78f323",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-gqjzwz7kwasttzbx": {
     "fingerprint": "241db5aeb529003f1817ed70a7d7d58242ff2378dc711892e8f6ec226e16beee",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "c433aad43de767a2711abf2b1ef4d31fbb1a83cbbcf29115e1069f2f76c35420",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-ttyrj7tsv3qcthii": {
     "fingerprint": "eed57193838645b399251fddd9296bc394027b519331b798f0baa1fbc4191bf2",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "0c29431cd0f7c12a8cdfbabb185358e4ea71b8bdb50edb0644cd968d24320515",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4013,11 +4148,12 @@
   },
   "library-ci9r6thfqdm7z8dy": {
     "fingerprint": "57bd89331c4dd56bf0864f1541dd834bcec35d9bd20d22e55782f440255600d5",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "7a2c7712759e8480fbe0c7805ea732dd80065601586dd257c393c2fd6318ff2f",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-2ya2ubh0ana3fl5b": {
     "fingerprint": "478bf6661b43db194eda339d44cc96a04afb7895f8ab7068a049355144220f3d",
@@ -4037,11 +4173,12 @@
   },
   "library-9teze3zbezag91it": {
     "fingerprint": "e0cefcee749f7dd1fd8d8ec2f7394515160d459341d29f0e79ae952832ed3c7c",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "f0ca1dc9549ffd7926cb52e5e1d74959d90e2177da002c8275f5bf08f39f6d21",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-zvkqka1xtsr7b56k": {
     "fingerprint": "ac82a1cfb5201b224ee1c81941647421e7d8dab473756b75d46a49a5dee196d0",
@@ -4053,7 +4190,8 @@
   },
   "library-ux0bddg7qlxeaxdn": {
     "fingerprint": "ad5cf0ac10082ccafc36f10316492a7ef380732413de7b2e6a2a0c794ec7a07d",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "a97f825173a6ce0d76e6fbba2e70f8d488ddd7e4830b57a3e65c0d59f5d3fd12",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4062,19 +4200,21 @@
   },
   "library-sk6v5tb3pqp1zssb": {
     "fingerprint": "672b687900c8deb9e4c7721d000b47f1f6dd766136e3424d62169e8b0e148347",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "4700e3798370cddbaa8a29b3c92d297c170a0b86070f330d0d264b76ced209d0",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-8u0jb439c5vly2g7": {
     "fingerprint": "0d39490b2cc59e804a12a821a2b9b20b2d9e548a7848b42f3f7ef58a91896580",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "5109ff4e092e4e0699b7719ebf3982d7137cb5c4c3847512e41434a0a75950bb",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "library-7nkaawyryrviccw3": {
     "fingerprint": "a5bcbb19923b8175f478798f26db48b0e68d20cc7cd7a47bc1086a7e6f078463",
@@ -4086,7 +4226,8 @@
   },
   "378318": {
     "fingerprint": "e90761f241e2f5b6bf9e68040f709320dfe2bfb68999ce7eacb827e301505b65",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "44f356e6ff5b6057f720ed206f73379ec08a715a00a3ba22f67e575e05664ae5",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4272,7 +4413,8 @@
   },
   "378603": {
     "fingerprint": "4218b3351143382133ce6ddecf23e4b36880847a532b691419e8412e54aa1a98",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "88fc81dd3fcb7d47951bb74a8ef2becc291914e8eb05a2cf73d23a61fb1537de",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4314,35 +4456,39 @@
   },
   "378628": {
     "fingerprint": "ae8f8b29b6222e9b12ed8f05bd16220eb6537d852162ace57e3935d55f4d417e",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "96d73877d00713b0cec0a0827a773cd1cfe28b2307300eac49a9f3c5b322250b",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "378626": {
     "fingerprint": "92c43f873b2d5a9840a578d3c8e1794047f8cacfd682cb0aba51e5c210407a19",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "d5108b9e91c78dc4bc3ed00e9029bdef07eb6d48dab394761e8c5fd321c28c15",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "378627": {
     "fingerprint": "155c82edb1cb61b63ae6a7b9ebdcfe5695932d172a3df7bdd87d146e5859137a",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "83cda291377300a5c46b4f8bf468ddbea129b06c4eb7fe3f0af54ce45f367672",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "378624": {
     "fingerprint": "a5960265fd5c7184d12797992e386230179236fd629dac01b3ac74fb8babe861",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "0e61ab01b2650bfd61a1487cf0ae873c81d4b45c5ce4dc44a33efc7b54473d29",
     "model": "gpt-6-luna",
     "prompt": 4,
-    "transport": "api"
+    "transport": "api",
+    "fingerprintKind": "direct"
   },
   "378644": {
     "fingerprint": "3004060bb7ff1bb46ef54875e1cc6bea4038fc9aa4956e1d914a6827428d11bb",
@@ -4404,11 +4550,49 @@
   },
   "378693": {
     "fingerprint": "1726760d173353fc393a2ca5abbe4039f30be94e21a397819b45b361c9bc9485",
-    "checkedAt": "2026-11-05T12:31:12.405739+09:00",
+    "fingerprintKind": "direct",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
     "sourceFingerprint": "4af655512277d00dfca2f94cec6d7013e89daafb596c2e2fa29471986d7a8d49",
     "model": "gpt-6-luna",
     "prompt": 4,
     "transport": "api",
     "reason": "申请资格明确限定为 정규학기 학부 재학생（本科在读生），研究生不符合。"
+  },
+  "378763": {
+    "fingerprint": "4379bf9d990423dbd883a89de1ce3f9cd89665aeee22b7ffac0bb83870114cd6",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
+    "sourceFingerprint": "d1b0f2f6d2462c35922d856b4cf30a2c7b021cea08481dc64454535f8cf577be",
+    "model": "gpt-6-luna",
+    "prompt": 4,
+    "transport": "api"
+  },
+  "378751": {
+    "fingerprint": "20e54abefb4bcba95b8401b4bb058de882b66fb2946795c962630078051eadad",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
+    "sourceFingerprint": "ba9af144abb9752cb78bffa5dd36eeca171b8d8005ed18b0b552cb72854ec4a6",
+    "model": "gpt-6-luna",
+    "prompt": 4,
+    "transport": "api"
+  },
+  "378701": {
+    "fingerprint": "1fe1355ceffe0ca1d621de9e4ff884713c79c9cca48b0a73ee00144bef6fda83",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
+    "sourceFingerprint": "71de040332183863f0b3fd56eaa006f562f36c1c9e8398aa6624c80f94a5977d",
+    "model": "gpt-6-luna",
+    "prompt": 4,
+    "transport": "api"
+  },
+  "378735": {
+    "fingerprint": "d5fc76c858a6c813e58485e071de5bb06af8258c98aeaa20b151e478c12f326a",
+    "fingerprintKind": "posters",
+    "checkedAt": "2026-11-06T12:28:09.507370+09:00",
+    "sourceFingerprint": "76c7e74da8b6282fcd5a30bed7f890ab93816cf3ed3363f158e0a4af3385215c",
+    "model": "gpt-6-luna",
+    "prompt": 4,
+    "transport": "api",
+    "reason": "海报明确限定申请人为15岁以上的首尔市民或首尔市居住者，属于地域资格限制项目。"
   }
 }
