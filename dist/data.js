@@ -13,7 +13,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -25,7 +25,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-11-06T12:28:09.507370+09:00"
     },
     {
@@ -37,7 +37,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-11-07T01:48:02.187325+09:00"
     },
     {
@@ -49,7 +49,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -61,7 +61,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -73,7 +73,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -85,7 +85,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -97,7 +97,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
     },
     {
@@ -109,8 +109,8 @@ window.AJOU_NOTICES = {
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastSuccessAt": "2026-11-07T11:51:14.566915+09:00"
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastSuccessAt": "2026-11-07T19:18:41.662417+09:00"
     },
     {
       "key": "college",
@@ -121,7 +121,7 @@ window.AJOU_NOTICES = {
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+      "checkedAt": "2026-11-07T19:18:41.662417+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     }
   ],
@@ -137,12 +137,12 @@ window.AJOU_NOTICES = {
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "library-23063",
+      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
     {
-      "id": "library-23144",
+      "id": "library-23063",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -157,12 +157,12 @@ window.AJOU_NOTICES = {
       "reason": "ValueError"
     },
     {
-      "id": "library-23044",
+      "id": "library-22872",
       "error": "ValueError",
       "reason": "ValueError"
     },
     {
-      "id": "library-22872",
+      "id": "library-23044",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -172,12 +172,12 @@ window.AJOU_NOTICES = {
       "reason": "ValueError"
     },
     {
-      "id": "library-22797",
+      "id": "library-22844",
       "error": "ValueError",
       "reason": "ValueError"
     },
     {
-      "id": "library-22844",
+      "id": "library-22797",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -217,127 +217,7 @@ window.AJOU_NOTICES = {
       "reason": "ValueError"
     },
     {
-      "id": "375392",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373908",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373483",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "376052",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373342",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373535",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "364643",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378289",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "365143",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378283",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377335",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375647",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375247",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377232",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "374776",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373879",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375261",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373878",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373850",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378058",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "366852",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378223",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378203",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378644",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378243",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -372,22 +252,12 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377718",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377668",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377613",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "377860",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377718",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -398,6 +268,11 @@ window.AJOU_NOTICES = {
     },
     {
       "id": "377612",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377613",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -417,12 +292,7 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "library-gs7ztccq1uh6so5v",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "library-7nkaawyryrviccw3",
+      "id": "377668",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -432,7 +302,22 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "library-gs7ztccq1uh6so5v",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "378409",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "library-7nkaawyryrviccw3",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377644",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -442,7 +327,7 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377644",
+      "id": "377358",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -457,7 +342,7 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377358",
+      "id": "377210",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -472,22 +357,12 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377119",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377210",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "376775",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "376494",
+      "id": "377119",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -497,22 +372,22 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "376494",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "375849",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "371908",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375378",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "372715",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375801",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -527,12 +402,17 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377439",
+      "id": "375801",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375849",
+      "id": "375378",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377439",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -552,17 +432,17 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "372846",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "373559",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377025",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372846",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -577,22 +457,17 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "372514",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "372508",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "372509",
+      "id": "372514",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "372502",
+      "id": "372509",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -607,12 +482,12 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "370135",
+      "id": "372502",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375337",
+      "id": "370135",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -622,7 +497,17 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "375337",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "373008",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "372220",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -637,17 +522,7 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "372220",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "369877",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "369230",
+      "id": "371003",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -657,7 +532,7 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377852",
+      "id": "369230",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -667,12 +542,12 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "371003",
+      "id": "369877",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377708",
+      "id": "377852",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -682,12 +557,17 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "374920",
+      "id": "377708",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377823",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "374920",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -698,6 +578,11 @@ window.AJOU_NOTICES = {
     },
     {
       "id": "377770",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377672",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -717,7 +602,7 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377672",
+      "id": "378278",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -727,7 +612,7 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378278",
+      "id": "378237",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -737,7 +622,7 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378237",
+      "id": "378094",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -747,17 +632,12 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378161",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378094",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378083",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378161",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -787,12 +667,12 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377967",
+      "id": "378019",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378019",
+      "id": "377967",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -802,12 +682,12 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378201",
+      "id": "375097",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375097",
+      "id": "378201",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -817,17 +697,12 @@ window.AJOU_NOTICES = {
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "375368",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378265",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "376367",
+      "id": "375368",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -842,7 +717,7 @@ window.AJOU_NOTICES = {
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "373219",
+      "id": "376367",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -852,17 +727,17 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "369355",
-      "error": "GatewayError",
-      "reason": "Poster image check unavailable; retaining previous result"
-    },
-    {
-      "id": "378852",
+      "id": "373219",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "378857",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378852",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -873,6 +748,21 @@ window.AJOU_NOTICES = {
     },
     {
       "id": "378646",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378701",
+      "error": "GatewayError",
+      "reason": "Poster image check unavailable; retaining previous result"
+    },
+    {
+      "id": "378469",
+      "error": "GatewayError",
+      "reason": "Poster image check unavailable; retaining previous result"
+    },
+    {
+      "id": "378449",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     }
@@ -905,7 +795,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-14",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "붙임1. 중간설문 매뉴얼(학생용).pdf",
@@ -915,7 +805,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/377459.ics"
@@ -952,7 +842,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-11",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "[붙임1-1] 2026-2학기 학위논문계획서 제출 안내.pdf",
@@ -972,7 +862,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/375650.ics"
@@ -1009,7 +899,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-07",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "(한글) 2027 전기(정시) 석박사통합 학위과정변경 모집전형 안내문.pdf",
@@ -1041,7 +931,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/377134.ics"
@@ -1075,7 +965,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-10-06",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "붙임1. (BK21대학원혁신)국제공동연구 논문 게재비 지원 안내(2026).pdf",
@@ -1089,7 +979,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/377021.ics"
@@ -1111,7 +1001,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=376934&attachNo=334780"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [
         {
           "key": "graduate_en",
@@ -1146,7 +1036,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1190,7 +1080,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-11",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "붙임1-1. 2026-2학기 논문표절예방시스템 사용 안내(국문).pdf",
@@ -1210,7 +1100,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/375643.ics"
@@ -1236,7 +1126,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=376506&attachNo=334155"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026一般大学院创新研究笔记竞赛",
@@ -1265,7 +1155,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1280,7 +1170,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-10-12",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "A-Career Insight Talk：生物专业能做什么？",
@@ -1308,7 +1198,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1323,7 +1213,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-10-13",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [
         {
           "key": "graduate_en",
@@ -1359,7 +1249,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1378,7 +1268,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-10-13",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [
         {
           "key": "university",
@@ -1415,7 +1305,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1454,12 +1344,12 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-21",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [],
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1476,7 +1366,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=369657&attachNo=327467"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "AjouLLM生成式AI订阅服务使用指南",
@@ -1504,7 +1394,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1537,12 +1427,12 @@ window.AJOU_NOTICES = {
       "source": "学校综合公告",
       "board": "university",
       "published": "2026-10-13",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [],
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/377402.ics"
@@ -1576,7 +1466,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=download&articleNo=373075&attachNo=331155"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [
         {
           "key": "international",
@@ -1611,7 +1501,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1649,7 +1539,7 @@ window.AJOU_NOTICES = {
       "source": "外国人留学生",
       "board": "international",
       "published": "2025-11-05",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "2024 외국인건강보험 제도안내 리플렛-영문.pdf",
@@ -1667,7 +1557,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1697,7 +1587,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-04-02",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "(한국어)외국인 유학생을 위한 「성희롱·성폭력 SOS 가이드」.pdf",
@@ -1731,7 +1621,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -1804,7 +1694,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=360568&attachNo=318554"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "韩国外国留学生指南手册发布",
@@ -1834,7 +1724,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1853,7 +1743,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=377101&attachNo=334675"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2027年春季国际研究生招生网申",
@@ -1883,7 +1773,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -1960,7 +1850,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-07-30",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "2026학년도 1학기『K-STAR 비자트랙』우수인재 후보 선발 안내.pdf",
@@ -1982,7 +1872,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/373013.ics"
@@ -1995,38 +1885,39 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-08-06",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "2026年秋季AJOU CORE课程申请与注册说明",
+      "title": "2026年秋季 AJOU CORE 课程申请与研究入门课说明",
       "tags": [
         "一般大学院",
         "课程学务",
         "论文科研"
       ],
-      "audience": "一般大学院学生；「大学院研究入门」必修资格依入学年份、学位项目及入学来源而异。",
-      "summary": "介绍秋季AJOU CORE课程注册方式、研究入门课程必修规则及课程安排；未注明外国留学生的特别条件。",
+      "audience": "一般大学院学生；研究入门课是否必修取决于入学年份、学位项目及此前修课情况。",
+      "summary": "说明秋季AJOU CORE课程注册方式、研究入门课必修资格及课程限制。",
       "details": [
-        "通过AIMS Portal → Academic Services → Course Registration → Graduate School → Department:[Common]申请。",
-        "「Introduction to Graduate Research」为1学分；2026学年起新入学或转入的学生须按学科领域选择01200或01201课程号。",
-        "该课程是部分学生提交论文的资格要求；博士、硕博连读及从其他大学取得硕士学位者的具体适用规则不同，部分情形可免修。",
-        "AJOU CORE其余课程均为选修；注册该必修课的学生总选课上限为13学分。"
+        "通过AIMS Portal → Academic Services → Course Registration → Graduate School → Department: [Common]申请。",
+        "「Introduction to Graduate Research」为1学分；2026学年起新入学或转入的学生须完成，作为论文提交资格条件之一。",
+        "硕士、博士及硕博连读学生的具体适用规则不同；部分在校硕士毕业后转入本校博士项目者可免修。",
+        "研究入门课须按学科选择01200（工学、自然科学、医学）或01201（人文、社会科学）；修读该课时总学分上限为13。",
+        "除研究入门课外，AJOU CORE课程均为选修；智能半导体工程和电气与计算机工程专业学生不得选修「Introduction to Semiconductor Manufacturing Practices」。"
       ],
       "start": null,
       "end": null,
       "event": null,
       "eventEnd": null,
       "kind": "guide",
-      "note": "公告未提供申请起止日期。外国留学生未被单独说明；课程注册与必修资格应按个人入学年份、项目及学位经历核对。",
+      "note": "公告未提供申请起止日期；研究入门课要求按入学年份、项目及修课经历分别判断。",
       "endEvidence": "",
       "eventEvidence": "",
       "eligibility": "confirmed",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -2057,12 +1948,12 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-07-21",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [],
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/372439.ics"
@@ -2094,12 +1985,12 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-07-21",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [],
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/372434.ics"
@@ -2130,7 +2021,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-28",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "[붙임1]_수강포기원(국문).hwp",
@@ -2144,7 +2035,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/376458.ics"
@@ -2166,7 +2057,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=376256&attachNo=334024"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [
         {
           "key": "graduate_en",
@@ -2201,7 +2092,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2245,7 +2136,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-07",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "(붙임2-1) 2026-2학기 대학원 종합시험 신청안내(학생용)(국문).pdf",
@@ -2261,7 +2152,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/375153.ics"
@@ -2298,7 +2189,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-02",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "[붙임1-1] 전적대학원 학점인정신청서(국문).hwp",
@@ -2322,7 +2213,7 @@ window.AJOU_NOTICES = {
         }
       ],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/374886.ics"
@@ -2355,7 +2246,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-08-21",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "붙임1-1. Information for exemption from foreign language test(학생 공고용).docx",
@@ -2369,7 +2260,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/373983.ics"
@@ -2401,7 +2292,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2026-08-20",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "[붙임1] 2026년 AISA(유실협) 우수장학 외국인 유학생 선발 안내 1부.pdf",
@@ -2411,7 +2302,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/373909.ics"
@@ -2424,7 +2315,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-09-16",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [
         {
           "key": "graduate_en",
@@ -2458,7 +2349,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2482,38 +2373,37 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=375392&attachNo=333133"
         }
       ],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "第8届ISF国际学生职业展与论坛",
+      "title": "第8届 ISF 2026 秋季外国留学生职业博览会与论坛",
       "tags": [
         "外国人",
         "一般大学院",
-        "就业活动",
-        "招生学位"
+        "就业活动"
       ],
-      "audience": "面向国际学生，内容涵盖求职、创业及高等教育升学；外国研究生能否参与及具体资格未详。",
-      "summary": "面向国际学生的职业展与高等教育论坛于2026-10-01举行，包含职业展和升学论坛。",
+      "audience": "外国留学生；未说明是否限在校生或研究生，研究生参与资格需确认。",
+      "summary": "面向外国留学生的职业博览会及高等教育论坛，涵盖就业、创业与升学。",
       "details": [
-        "活动地点：世宗大学广开土馆（B2）。",
-        "职业展：10:00-16:00，主题包括就业、创业与大学升学。",
-        "高等教育论坛：14:00-17:40。"
+        "活动日期：2026-10-01。",
+        "地点：世宗大学广开土馆（B2）。",
+        "职业博览会：10:00–16:00；高等教育论坛：14:00–17:40。"
       ],
       "start": null,
       "end": null,
       "event": "2026-10-01",
       "eventEnd": null,
       "kind": "event",
-      "note": "海报未明确列出研究生参与条件；以上为公告摘要，不构成个案资格认定。",
+      "note": "海报面向外国留学生，但未明确外国研究生是否符合参与条件；活动时间仅提供时段，未说明单独结束日期。",
       "endEvidence": "",
       "eventEvidence": "October 01, 2026",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -2525,38 +2415,38 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-08-20",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "三星电子DS部门研发外国学生招聘",
       "tags": [
         "外国人",
-        "一般大学院",
+        "论文科研",
         "就业活动"
       ],
-      "audience": "国际硕士、博士毕业生，或预计于2027年9月前毕业者；公告未说明其他国籍、专业或在读身份条件。",
-      "summary": "三星电子DS部门招聘国际硕士、博士毕业生及预计毕业生，涉及电路设计、封装开发、基础设施和系统设计。",
+      "audience": "外国硕士、博士研究生；须于2027年9月前毕业，或已毕业。",
+      "summary": "Samsung Electronics DS Division面向外国研究生招聘研发人才，涵盖电路设计、封装开发、基础设施及系统设计。",
       "details": [
-        "候选对象：国际硕士、博士毕业生，或预计于2027年9月前毕业者。",
+        "对象为国际研究生（Master’s/Ph.D.），预计于2027年9月前毕业者或已毕业者。",
         "招聘领域：Circuit Design、Package Development、Infrastructure、System Design。",
-        "海报列出三场日期：8月20日、25日和28日；并称后续将通过电子邮件通知申请方式。",
-        "咨询邮箱：ds.talent@samsung.com。"
+        "海报列出三场说明会：8月20日10:00–11:30、8月25日14:00–15:30、8月28日14:00–15:30。",
+        "申请方式见海报二维码；咨询邮箱：ds.talent@samsung.com。"
       ],
       "start": null,
       "end": null,
       "event": null,
       "eventEnd": null,
       "kind": "event",
-      "note": "公告发布日期为2026-08-20，但海报未注明活动年份，且未明确三场日期对应的年份，故活动日期填null；申请方式注明后续邮件通知，未提供申请起止日期。招聘专业及具体资格仍待确认。",
+      "note": "公告发布日期为2026-08-20，但未提供确切年份、申请开始或截止日期；海报活动日期未标明年份，故日期字段留空。",
       "endEvidence": "",
-      "eventEvidence": "1st - 8.20 (Thu) 10:00~11:30\n2nd - 8.25 (Tue) 14:00~15:30\n3rd - 8.28 (Fri) 14:00~15:30",
-      "eligibility": "uncertain",
+      "eventEvidence": "1st – 8.20 (Thu) 10:00~11:30\n2nd – 8.25 (Tue) 14:00~15:30\n3rd – 8.28 (Fri) 14:00~15:30",
+      "eligibility": "confirmed",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -2683,7 +2573,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-03",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "[산학지원팀]연구자 대상 온라인 교육 MOCA-MOOC 수강매뉴얼.pdf",
@@ -2693,7 +2583,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/374925.ics"
@@ -2706,7 +2596,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-09-18",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "大学生及研究生心理与情绪支持调查",
@@ -2734,7 +2624,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2767,7 +2657,7 @@ window.AJOU_NOTICES = {
       "source": "大学院英文公告",
       "board": "graduate_en",
       "published": "2022-05-12",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "[2023 English Manual] Manual of Statutory Compulsory Education.pdf",
@@ -2777,7 +2667,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok"
     },
@@ -2808,7 +2698,7 @@ window.AJOU_NOTICES = {
       "source": "一般大学院",
       "board": "graduate",
       "published": "2026-09-02",
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "attachments": [
         {
           "label": "2026-2학기(후기) 파안장학문화재단법인 장학생 선발 안내 및 관련 양식.pdf",
@@ -2818,7 +2708,7 @@ window.AJOU_NOTICES = {
       "reviewNeeded": false,
       "otherSources": [],
       "displayUntil": null,
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "editorial": "human",
       "fetchStatus": "ok",
       "calendarFile": "calendar/374882.ics"
@@ -2836,7 +2726,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=376366&attachNo=334027"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 KRIVET学术会议举办通知",
@@ -2864,7 +2754,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -2939,7 +2829,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=374546&attachNo=332468"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年第一届 LuvD 论文奖",
@@ -2968,7 +2858,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3029,37 +2919,37 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-08-10",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "2026水原全球体育日",
+      "title": "2026水原外国居民全球体育日",
       "tags": [
         "外国人",
         "生活签证"
       ],
-      "audience": "在水原居住的外国人，招收30人；中国研究生是否符合居住等条件需向主办方确认。",
-      "summary": "免费参加体育体验、团队活动及棒球观赛；活动于2026年8月25日举行。",
+      "audience": "水原外国居民，名额30人；是否接受外国研究生及其他具体资格条件需向主办方确认。",
+      "summary": "免费参加体育体验、晚餐及棒球观赛，活动于2026-08-25举行。",
       "details": [
         "报名时间：2026-08-10至2026-08-20，通过Google表单申请。",
-        "活动时间：2026-08-25 14:30-21:30；地点为水原KT Wiz Park及水原地区。",
-        "活动包括团队活动、Starfield体育体验、晚餐及KT Wiz对Doosan Bears棒球赛。",
-        "主办方：Suwon Center for International Cooperation (SWCIC)；咨询电话031-226-3449，邮箱hawon0416@swcic.or.kr。"
+        "活动时间：2026-08-25 14:30–21:30；地点为水原世界杯公园及水原地区。",
+        "活动包括团队活动、Starfield SMOB体育体验、晚餐及KT Wiz对Doosan Bears棒球赛观赛。",
+        "主办方：Suwon Center for International Cooperation (SWCIC)；参加免费，限30名水原外国居民。"
       ],
       "start": "2026-08-10",
       "end": "2026-08-20",
       "event": "2026-08-25T14:30",
       "eventEnd": "2026-08-25T21:30",
       "kind": "event",
-      "note": "面向在水原居住的外国人，海报未说明研究生身份限制；读者是否满足居住及名额等报名条件需核实。报名及活动日期均已过。",
+      "note": "海报注明面向水原外国居民，但未明确大学院生是否符合报名条件；活动日期已过。",
       "endEvidence": "Apply from August 10th(Mon) to August 20th(Thu), 2026",
       "eventEvidence": "Date : August 25th(Tue) 2026, 14:30~21:30",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -3071,36 +2961,38 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-08-11",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026安东国际留学生节",
       "tags": [
         "外国人",
-        "生活签证"
+        "生活签证",
+        "就业活动"
       ],
-      "audience": "全国大学外国留学生；是否包含研究生及其具体报名资格，海报未说明。",
-      "summary": "在安东举办的留学生文化体验与交流活动，共三期，含观光、文化体验及留学生交流之夜。",
+      "audience": "全国大学外国人留学生1,000名；是否包含一般大学院在读生、申请人是否符合具体报名条件未详。",
+      "summary": "面向外国留学生的安东文化旅游体验、留学生交流活动，共三场；第三场将于2026年11月28日至29日举行。",
       "details": [
-        "活动地点：安东国际会议中心、安东河回村、陶山书院等安东市一带。",
-        "活动内容包括安东文化观光与体验、留学生交流及文化交流之夜；日程可能变动。",
-        "报名方式为在线申请（QR码）。海报列出的报名截止日分别为9月5日、9月25日和11月13日。"
+        "活动地点包括安东国际会展中心、安东河回村、陶山书院等安东市一带。",
+        "主要内容为安东文化旅游与体验项目、留学生交流及文化交流之夜。",
+        "第三场活动日期为2026-11-28至2026-11-29，在线申请截止日期为2026-11-13。",
+        "海报列出参与规模为全国大学外国人留学生1,000名；一般大学院学生是否纳入及其他报名条件未说明。"
       ],
       "start": null,
-      "end": null,
-      "event": "2026-09-19",
+      "end": "2026-11-13",
+      "event": "2026-11-28",
       "eventEnd": "2026-11-29",
       "kind": "event",
-      "note": "报名截止日期未标年份；按活动日期可对应2026年，但海报未明确列出报名对象的学位层次或其他资格。",
-      "endEvidence": "",
-      "eventEvidence": "1회차 2026. 09. 19.(토) ~ 09. 20.(일) 1박 2일；2회차 2026. 10.10.(토) ~ 10.11.(일) 1박 2일；3회차 2026. 11.28.(토) ~ 11.29.(일) 1박 2일",
+      "note": "海报另列第一场2026-09-19至20日、申请截止2026-09-05；第二场2026-10-10至11日、申请截止2026-09-25。日期按韩国时间；海报仅写全国大学外国人留学生，研究生是否符合须向主办方确认。",
+      "endEvidence": "3회차 11월 13일마감",
+      "eventEvidence": "3회차 2026. 11. 28.(토) ~ 11. 29.(일) 1박 2일",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -3224,7 +3116,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=372629&attachNo=330562"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年秋季学期选课及学业要求",
@@ -3254,7 +3146,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3298,7 +3190,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=372921&attachNo=330983"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年秋季一般大学院新生学号及校园证件办理",
@@ -3328,7 +3220,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3352,7 +3244,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=download&articleNo=371875&attachNo=329741"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年秋季学期学位论文提交资格恢复申请",
@@ -3381,7 +3273,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3395,7 +3287,7 @@ window.AJOU_NOTICES = {
       "board": "graduate_en",
       "published": "2026-07-29",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "国际STEM研究生与研究人员调查",
@@ -3425,7 +3317,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3439,7 +3331,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-12",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年秋季学期 ACAT 考试监考人员招募",
@@ -3469,7 +3361,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3527,7 +3419,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-07",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年大学教授学习与创新调查研究助理招聘",
@@ -3557,7 +3449,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3627,7 +3519,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-06",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026-2学期 AI素养课程期中考试研究生监考招募",
@@ -3655,7 +3547,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3669,39 +3561,41 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-10-12",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "A-Career Insight Talk(2026)：生物领域研究生涯探索讲座",
+      "title": "A-Career Insight Talk（2026）：生物专业的职业方向",
       "tags": [
         "一般大学院",
+        "论文科研",
         "就业活动"
       ],
-      "audience": "本校大学院生、博士后研究员及其他感兴趣者；本科生也可参加。",
-      "summary": "介绍生物行业从研究到技术支持的职业路径，面向考虑研究生毕业后职业方向者等。",
+      "audience": "本校大学院生、博士后研究员及其他对讲座感兴趣者；本科生也可参加。",
+      "summary": "介绍从研究转向产业实践及生物行业职业发展，探讨研究到技术支持等职业路径。",
       "details": [
-        "主题为“学了生物专业能做什么？”，探讨研究至技术支持等生物行业职业路径。",
-        "主讲人为 DAON BioSciences Inc. 技术支持团队组长、Field Application Specialist 유지숙。",
-        "地点：율곡관 151호 영상회의실；参加者可获 오토김밥 콤비 도시락。",
-        "可预先登记；未预先登记者也可参加。"
+        "时间：2026-10-26 16:00–17:10；地点：율곡관 151호 영상회의실。",
+        "讲题为“学了生物专业能做什么？——从研究到技术支持，在生物行业发展”。",
+        "主讲人为 DAON BioSciences Inc. Technical Support Team Leader、Field Application Specialist 유지숙。",
+        "可预先登记；未预登记者也可参加。到场者可获便当。"
       ],
       "start": null,
       "end": null,
       "event": "2026-10-26T16:00",
       "eventEnd": "2026-10-26T17:10",
       "kind": "event",
-      "note": "公告注明本校大学院生等可参加，未见外国留学生限制；预先登记并非参加必要条件。",
+      "note": "未提供报名截止日期；公告称感兴趣者均可参加，未说明外国研究生的额外条件。",
       "endEvidence": "",
       "eventEvidence": "특강일시: 2026.10.26.(월) 16:00~17:10",
       "eligibility": "confirmed",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
-      "extra": []
+      "extra": [],
+      "calendarFile": "calendar/377335.ics"
     },
     {
       "id": "365143",
@@ -3724,41 +3618,41 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=download&articleNo=365143&attachNo=334152"
         }
       ],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "2026一般大学院研究笔记竞赛",
+      "title": "2026年一般大学院研究笔记竞赛",
       "tags": [
         "一般大学院",
         "论文科研",
         "奖学资助"
       ],
-      "audience": "2026学年度第2学期一般大学院在读生及研究注册生；外国研究生是否符合其他条件未明确。BK21参与与否不影响参赛资格。",
-      "summary": "提交研究笔记原件参赛，设奖状及奖金；提交时间为2026-12-01至2026-12-04。",
+      "audience": "以2026学年度第二学期为准的一般大学院在读生及研究注册生；含未参与BK21项目者。国籍未设限制。",
+      "summary": "提交研究笔记原件参赛，获奖者可获最高100万韩元奖金。",
       "details": [
-        "参赛对象为2026学年度第2学期一般大学院在读生及研究注册生，包含未参与BK21者。",
-        "提交期间：2026-12-01 09:30至2026-12-04 17:00；交至栗谷馆305号大学院教务组。",
-        "提交研究笔记原件1册；须为2026-01-01后记录，标注课题编号及管理编号，既有研究笔记不可提交。",
-        "奖项包括大奖100万韩元、最优秀奖70万韩元；颁奖预计于2026年12月举行。",
-        "研究笔记须由Ajou University产学合作团（含医院）发放；申请时须有研究课题负责人签名。"
+        "提交时间：2026-12-01 09:30至2026-12-04 17:00，提交至栗谷馆305号大学院教务组。",
+        "参赛笔记须为2026-01-01以后记录，标注课题编号及管理编号；须提交手写原件。",
+        "仅可提交由Ajou University产学合作团（含医疗院）发放的研究笔记；须有课题负责人签名。",
+        "奖金：对象奖100万韩元、最优秀奖70万韩元；颁奖仪式预计于2026年12月举行。"
       ],
       "start": "2026-12-01T09:30",
       "end": "2026-12-04T17:00",
-      "event": null,
-      "eventEnd": null,
+      "event": "2026-12-01",
+      "eventEnd": "2026-12-04",
       "kind": "deadline",
-      "note": "外国研究生是否符合参赛资格，公告未单独说明；须满足一般大学院身份及其他参赛条件。颁奖仅说明预计于2026年12月举行。",
+      "note": "一般大学院在读生及研究注册生为明确对象，公告未设国籍限制。颁奖仪式仅注明预计于2026年12月举办，未给出具体日期。",
       "endEvidence": "제출기간: 2026.12.01.(화) 09:30 ~ 2026.12.04.(금) 17:00",
-      "eventEvidence": "시상식: 2026년 12월 말 개최 예정",
+      "eventEvidence": "모집기간 : 2026.12.01.(화) ~ 12.04.(금)",
       "eligibility": "confirmed",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
-      "extra": []
+      "extra": [],
+      "calendarFile": "calendar/365143.ics"
     },
     {
       "id": "377016",
@@ -3777,7 +3671,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=download&articleNo=377016&attachNo=334585"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年国际共同研究论文发表费资助",
@@ -3807,7 +3701,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3821,38 +3715,38 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-03-10",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "A-Career DNA职业发展诊断项目",
+      "title": "A-Career DNA（2026）职业发展诊断项目",
       "tags": [
         "一般大学院",
-        "奖学资助",
-        "就业活动"
+        "就业活动",
+        "课程学务"
       ],
-      "audience": "2026学年度一般大学院注册生；需使用Ajou大学邮箱注册。",
-      "summary": "提供e-DISC诊断及个人结果，费用约5万韩元；符合条件者可预约职业发展咨询。",
+      "audience": "2026学年度一般大学院注册学生；须使用 아주대학교（Ajou University）邮箱注册，外校人员不得使用诊断代码。未明确说明外国留学生是否符合资格。",
+      "summary": "提供价值5万韩元的e-DISC诊断及个人结果；部分完成诊断的学生可获职业发展咨询。",
       "details": [
-        "申请对象：2026学年度一般大学院注册生；海报未限定国籍。",
-        "申请期为2026-03-10至2026-11-30，名额有限，可能提前截止。",
-        "每周五向申请者发送诊断码；仅发送至Ajou大学邮箱。",
-        "e-DISC检查约10至15分钟，费用约5万韩元；另提供个人结果及部分学生可选咨询。"
+        "项目通过e-DISC帮助了解沟通风格、偏好的工作环境及适合的职务或研究室。",
+        "诊断费由项目支持，约需10至15分钟，预计约250人；咨询约10人。",
+        "通过指定链接或二维码申请；每周五向申请者发送诊断代码。",
+        "按先到先得招募，可能提前截止。"
       ],
       "start": "2026-03-10",
       "end": "2026-11-30",
       "event": null,
       "eventEnd": null,
       "kind": "deadline",
-      "note": "海报明确对象为2026学年度一般大学院注册生，未限定国籍；外国学生须具备Ajou大学邮箱并满足注册生条件。先到先得，可能提前截止。",
-      "endEvidence": "신청기간 2026.3.10.(화) ~ 11.30.(월)",
+      "note": "海报限定2026学年度一般大学院注册学生，并注明先到先得、可能提前截止；外国留学生资格未单独说明。公告未提供具体截止时刻。",
+      "endEvidence": "2026.3.10.(화) ~ 11.30.(월)",
       "eventEvidence": "",
-      "eligibility": "confirmed",
+      "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -3873,7 +3767,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=download&articleNo=364213&attachNo=331320"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年度BK21大学院创新支持项目",
@@ -3902,7 +3796,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -3916,37 +3810,37 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-11",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "Reprogramming Cell Fate and Disease Microenvironments研讨会",
+      "title": "细胞命运重编程与疾病微环境：纳米技术及化学生物学方法",
       "tags": [
         "一般大学院",
         "论文科研"
       ],
-      "audience": "BK21研讨会参与对象未在海报中说明；外国研究生资格及是否限特定研究团队成员均未明确。",
-      "summary": "BK21 AREG Seminar探讨细胞命运重编程与疾病微环境，聚焦纳米技术和化学生物学方法。",
+      "audience": "大学院相关研究人员及师生；海报未说明参加资格或是否限BK21参与学生，需向主办方确认。",
+      "summary": "邀请Rutgers教授李基范分享细胞命运与疾病微环境相关研究方法。",
       "details": [
-        "主题：Reprogramming Cell Fate and Disease Microenvironments: Nanotechnology and Chemical Biology Approaches。",
-        "时间：2026-09-11（周五）11:00。",
-        "地点：崇载馆2层创新学习室；邀请讲者为Rutgers, The State University of New Jersey的李基范教授。",
-        "海报未说明报名方式、参与资格或是否仅限BK21参与学生。"
+        "活动名称：BK21 AREG Seminar。",
+        "主讲人：李基范教授，Rutgers, The State University of New Jersey。",
+        "时间：2026-09-11 11:00（韩国时间）。",
+        "地点：松斋馆2层创新学习室；咨询：ljy0419@ajou.ac.kr，031-219-7793。"
       ],
       "start": null,
       "end": null,
       "event": "2026-09-11T11:00",
       "eventEnd": null,
       "kind": "event",
-      "note": "海报未载活动结束时间；无法确认外国研究生是否符合参与条件。",
+      "note": "海报未说明参与资格，也未说明是否限BK21参与学生。",
       "endEvidence": "",
       "eventEvidence": "일시: 2026.09.11.(금) 11:00",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -3958,37 +3852,37 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-10-08",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "Wiley 编辑专题讲座：期刊介绍与一对一研究推介",
+      "title": "与 Wiley 编辑交流：研究能力提升特讲",
       "tags": [
         "一般大学院",
         "论文科研"
       ],
-      "audience": "校内大学院生、博士后研究员等；一对一研究推介名额有限，优先教师参与。外国研究生资格未单独说明。",
-      "summary": "Wiley 编辑介绍 Small、Angewandte Chemie、Advanced Materials，并开展研究推介交流。",
+      "audience": "大学院生、博士后研究人员及校内成员；一对一研究展示名额有限，优先安排教师。外国研究生可否参加未明确。",
+      "summary": "Wiley 编辑介绍 Small、Angewandte Chemie、Advanced Materials，并提供一对一研究展示与反馈。",
       "details": [
-        "时间：2026-10-27 16:00–17:50；地点：Paldal Hall 419。",
-        "讲座内容包括期刊介绍及一对一研究推介；推介环节限时、名额有限。",
-        "推介需提交未发表研究摘要、意向期刊及3–5页幻灯片；海报标注申请日期为2026-10-16。",
-        "公告称预登记参加者可获简餐；网页未说明一般大学院外国留学生的专门资格条件。"
+        "活动时间：2026-10-27 16:00-17:50；地点：八达馆419室。",
+        "主讲编辑来自 Small Science、Angewandte Chemie、Advanced Materials。",
+        "一对一研究展示需于10月16日前申请；提交未发表研究摘要、首选期刊及3至5页展示幻灯片。",
+        "一对一展示名额有限，主办方说明优先安排教师。"
       ],
-      "start": null,
-      "end": null,
+      "start": "2026-10-08",
+      "end": "2026-10-16",
       "event": "2026-10-27T16:00",
       "eventEnd": "2026-10-27T17:50",
       "kind": "event",
-      "note": "预登记截止日期为2026-10-16（海报亦写 Apply by Fri, Oct 16）；活动日期仍保留。外国研究生资格未单独说明，摘要不构成个案资格认定。",
-      "endEvidence": "",
-      "eventEvidence": "일시 : 2026.10.27(화) 16:00-17:50",
+      "note": "海报注明一对一研究展示于10月16日（星期五）前申请；因页面年份为2026，日期按2026年处理。一般报名是否另有截止日期未说明。活动面向大学院生等，但外国研究生的参与资格及具体条件未明。",
+      "endEvidence": "사전 등록(10.16(금)까지)",
+      "eventEvidence": "2026.10.27(화) 16:00-17:50",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -4000,7 +3894,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-11",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "理工科研究生职业规划专题培训",
@@ -4029,7 +3923,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4048,7 +3942,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=download&articleNo=375471&attachNo=333181"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "A-Scholar-Share 研究与经验分享计划：生成式AI研究应用案例征集",
@@ -4077,7 +3971,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-24T00:28:57.610339+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4097,39 +3991,38 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=download&articleNo=375261&attachNo=333006"
         }
       ],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "2026年第四阶段BK21内容征集「大家的BK」",
+      "title": "2026年第四阶段BK21内容征集“大家的BK”",
       "tags": [
         "一般大学院",
         "论文科研",
         "奖学资助"
       ],
-      "audience": "第四阶段BK21参与人员可个人或团队提交AI研究应用案例、短视频；教育研究团（组）每组限1份信息图；关注BK21事业的公众可提交照片。外国研究生是否符合参与人员资格未明确。",
-      "summary": "征集AI研究应用案例、信息图、短视频和照片，设奖项及奖金；申请期已结束，结果预计12月公布。",
+      "audience": "AI研究应用案例及短视频面向第四阶段BK21参与人员个人或团队；信息图面向各教育研究团体（팀）；照片面向关注BK21事业的所有国民。外国研究生须确认是否具备相应参与资格。",
+      "summary": "征集BK21研究应用案例、教育研究团体信息图、研究成长短视频及照片，设有奖金与奖项。",
       "details": [
-        "征集主题包括AI在研究中的实际应用案例、教育研究团（组）介绍信息图、研究成长短视频及BK21历史照片。",
-        "AI研究应用案例、短视频：第四阶段BK21参与人员个人或团队可投稿；信息图限教育研究团（组）每组1份；照片面向关注BK21事业的公众。",
-        "提交期为2026-09-08至2026-10-07 14:00（韩国时间）；采用参与者投票70%、公众投票20%、AI评估10%。",
-        "奖项包括韩国研究财团理事长奖及奖金，奖金总额约1,060万韩元；获奖结果预计12月公布。",
-        "使用AI工具须标明使用部分及来源，并遵守研究伦理与著作权要求。"
+        "AI研究应用案例、短视频：第四阶段BK21参与人员个人或团队；每人或每团队每类限投1件。参与人员包括大学院生、教授、新进研究人员及产学合作、行政专职人员。",
+        "信息图：第四阶段BK21教育研究团体（팀）每个团队限投1件；照片面向关注BK21事业的所有国民。",
+        "通过二维码或征集网站提交内容、申请表及个人信息收集提供同意书。AI作品须标注使用的生成式AI、使用部分及出处。",
+        "奖金总额约1,060万韩元；评审及颁奖预计于12月进行。"
       ],
       "start": "2026-09-08",
       "end": "2026-10-07T14:00",
       "event": null,
       "eventEnd": null,
       "kind": "deadline",
-      "note": "外国研究生是否属于可投稿的“第四阶段BK21参与人员”须按本人参与身份确认；照片类别面向所有关注BK21事业的公众。结果公布时间仅写“12月中”，未给出具体日期。",
-      "endEvidence": "접수 기간 2026.09.08.(화) ~ 2026.10.07.(수) 14:00",
+      "note": "外国研究生须属于第四阶段BK21参与人员方可参加AI案例或短视频组；照片组面向所有国民。海报所示报名已截止。",
+      "endEvidence": "2026.09.08.(화) ~ 2026.10.07.(수) 14:00",
       "eventEvidence": "",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -4141,7 +4034,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-08",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者讲座：从高维混沌到形状",
@@ -4168,7 +4061,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4182,7 +4075,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-08",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "单细胞多组学与空间转录组学揭示心肌病机制研讨会",
@@ -4190,28 +4083,29 @@ window.AJOU_NOTICES = {
         "一般大学院",
         "论文科研"
       ],
-      "audience": "BK21 AREG Seminar，公告未说明参与资格或是否限特定群体。",
+      "audience": "BK21 AREG Seminar；海报未说明参与对象及外国研究生资格，需向主办方确认。",
       "summary": "研讨会介绍运用单细胞多组学与空间转录组学研究心肌病机制。",
       "details": [
-        "主题：Single-Cell Multiomics and Spatial Transcriptomics to Uncover Mechanisms in Cardiomyopathy。",
-        "邀请讲者：李东元教授（Pediatrics, Harvard Medical School）。",
-        "地点：承载馆2层创新学术室；咨询邮箱 ljy0419@ajou.ac.kr，电话 031-219-7793。"
+        "时间：2026-09-09 11:00（韩国时间）。",
+        "地点：胜载馆2层创新学习室。",
+        "主讲人：李东元教授（Harvard Medical School, Pediatrics）。",
+        "咨询：ljy0419@ajou.ac.kr；031-219-7793。"
       ],
       "start": null,
       "end": null,
       "event": "2026-09-09T11:00",
       "eventEnd": null,
       "kind": "event",
-      "note": "公告未说明研究生及外国留学生的参与资格；活动日期已过。",
+      "note": "海报未说明参加资格；当前日期已晚于活动日期，活动已经结束。",
       "endEvidence": "",
       "eventEvidence": "일시: 2026.09.09.(수) 11:00",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -4223,7 +4117,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-07",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二届 A-3MT Competition 最终结果公告",
@@ -4251,7 +4145,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4265,37 +4159,36 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-08-19",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "GI癌症基因组：从系统生物学到AI驱动的精准肿瘤学",
+      "title": "解读胃肠道癌症基因组：从系统生物学到AI精准肿瘤学",
       "tags": [
         "一般大学院",
         "论文科研"
       ],
-      "audience": "公告未说明参加对象及资格；外国研究生是否适用未明确。",
-      "summary": "BK21海外学者研讨会，主题为GI癌症基因组与AI驱动的精准肿瘤学。",
+      "audience": "对胃肠道癌症基因组及精准肿瘤学感兴趣者；海报未说明参与资格限制。",
+      "summary": "AREG Seminar邀请UT MD Anderson Cancer Center的李周锡教授，分享胃肠道癌症基因组及AI精准肿瘤学。",
       "details": [
-        "活动时间：2026-08-31 11:00。",
-        "地点：松载馆2层创新学习室。",
-        "主讲人：UT MD Anderson Cancer Center的Lee Joo-seok教授。",
-        "咨询：ljy0419@ajou.ac.kr，031-219-7793。"
+        "主讲人：李周锡教授（UT MD Anderson Cancer Center）。",
+        "时间：2026-08-31 11:00；地点：松载馆2层创新学习室。",
+        "海报未注明报名方式或参与资格。"
       ],
       "start": null,
       "end": null,
       "event": "2026-08-31T11:00",
       "eventEnd": null,
       "kind": "event",
-      "note": "公告未列明参与资格或是否限BK21参与学生；外国研究生的适用性需向主办方确认。日期已过。",
+      "note": "公告日期与活动日期均已过去；海报未说明是否需报名。",
       "endEvidence": "",
       "eventEvidence": "일시: 2026.08.31.(월) 11:00",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -4307,40 +4200,40 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-08-19",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "公共合同采购中的行政负担：海外学者特邀讲座",
+      "title": "海外学者特邀讲座：公共采购中的行政负担",
       "tags": [
         "一般大学院",
-        "外国人",
         "论文科研"
       ],
-      "audience": "本校大学院生及相关教职员；外国留学生可参加，海报未列其他资格限制。",
-      "summary": "美国雪城大学金敏贞教授讲解复杂采购流程如何阻碍组织竞标政府合同，并安排与外国人士及大学院生交流。",
+      "audience": "本校大学院生及相关教员；未注明外国研究生资格限制。",
+      "summary": "BK21海外学者特邀讲座，探讨复杂采购流程如何影响组织参与政府合同投标。",
       "details": [
-        "活动日期：2026-08-19，11:00-14:00；地点：惠江馆208室。",
-        "11:00-12:30为外国人士与大学院生座谈会；13:00-14:00为特邀讲座。",
-        "讲座主题：Administrative Burden in Public Contracting: How Complex Procurement Processes Deter Organizations from Bidding on Government Contracts。",
-        "主办：BK21事业大学院创新支援事业。"
+        "讲者：美国 Syracuse University 金민정教授。",
+        "讲座时间：2026-08-19 13:00-14:00，海岗馆208室。",
+        "11:00-12:30安排海外人士与大学院生交流会。",
+        "讲座主题：Administrative Burden in Public Contracting: How Complex Procurement Processes Deter Organizations from Bidding on Government Contracts。"
       ],
       "start": null,
       "end": null,
       "event": "2026-08-19T11:00",
       "eventEnd": "2026-08-19T14:00",
       "kind": "event",
-      "note": "海报未说明报名方式或是否需事先登记；页面发布日期为2026-08-19，不作为申请截止日期。",
+      "note": "海报所示活动日期早于页面发布日期及当前日期，按海报记录；报名信息未提供。",
       "endEvidence": "",
       "eventEvidence": "2026.8.19. 수 11:00-14:00",
       "eligibility": "confirmed",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
-      "extra": []
+      "extra": [],
+      "calendarFile": "calendar/373878.ics"
     },
     {
       "id": "373877",
@@ -4350,7 +4243,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-08-19",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "协作式问题解决研究：从智能物件到智能思维",
@@ -4377,7 +4270,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4391,37 +4284,37 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-09-01",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "2026 아주소중한职业博览会",
+      "title": "2026年亚洲大学就业博览会",
       "tags": [
         "一般大学院",
         "就业活动"
       ],
-      "audience": "准备进入SW·AI、IT、制造、生物等领域就业的大学（院）生，毕业生也可参加；外国研究生资格未单独说明。",
-      "summary": "提供企业一对一就业及岗位咨询、求职辅导和形象造型服务。",
+      "audience": "准备在SW·AI、IT、制造、生物等领域就业的大学（院）生，可包括毕业生；外国研究生是否符合参加条件未明确。",
+      "summary": "企业一对一咨询、求职辅导及形象设计等活动于2026年9月10日在亚洲大学体育馆举行。",
       "details": [
         "时间：2026-09-10 10:00–17:00；地点：亚洲大学体育馆1层。",
-        "参加企业包括KOREAN AIR、BGF리테일、LIG Defense & Aerospace等500余家企业。",
-        "活动包括企业咨询、求职辅导，以及个人色彩诊断、发型或化妆服务；部分项目有参与条件。",
-        "海报提供预先报名二维码及咨询电话031-219-3072。"
+        "参加对象为准备在SW·AI、IT、制造、生物等领域就业的大学（院）生，毕业生也可参加。",
+        "提供企业一对一就业及职务咨询、求职辅导，以及限符合条件者参加的求职形象服务。",
+        "海报提供事前申请二维码，并说明部分活动及赠品数量有限。"
       ],
       "start": null,
       "end": null,
       "event": "2026-09-10T10:00",
       "eventEnd": "2026-09-10T17:00",
       "kind": "event",
-      "note": "网页日期为2026-11-05，活动已结束。海报面向大学（院）生且允许毕业生参加，但未明确外国留学生是否适用；部分项目另有限制。",
+      "note": "活动日期早于页面标示的当前日期2026-11-07，活动已结束。外国学生资格及事前申请截止日期未说明；求职形象服务仅限参加印章任务者。",
       "endEvidence": "",
-      "eventEvidence": "2026. 09. 10. 목 10:00~17:00",
+      "eventEvidence": "2026. 09. 10. (목) 10:00~17:00",
       "eligibility": "uncertain",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
     },
@@ -4433,39 +4326,40 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-08-19",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "ACS编辑特邀讲座：High-Impact论文写作与投稿策略",
+      "title": "编辑特邀讲座：高影响力论文写作与投稿策略",
       "tags": [
         "一般大学院",
         "论文科研"
       ],
-      "audience": "大学院生、博士后研究员及其他感兴趣者；是否有额外报名或资格条件，海报未说明。",
-      "summary": "ACS韩国分社编辑受邀讲授High-Impact论文写作，面向大学院生、博士后研究员等。",
+      "audience": "大学院生、博士后研究人员及其他感兴趣者；外国研究生是否适用未另行说明。",
+      "summary": "ACS韩国分社编辑特邀讲座，介绍High-Impact论文写作，2026年8月28日举行。",
       "details": [
-        "主题：ACS韩国分社编辑特邀讲座。",
+        "主题：国际知名学术期刊编辑讲解High-Impact论文写作。",
         "时间：2026-08-28 13:30–15:00；地点：圣湖馆135号（COSS大单元讲堂）。",
-        "讲者：이기혁总括。",
-        "海报标注大学院生、博士后研究员等感兴趣者均可参加；提供参会者纪念品套装。"
+        "对象：大学院生、博士后研究人员等感兴趣者；现场提供参会者礼包。",
+        "海报提供事前登记二维码，未说明报名截止日期。"
       ],
       "start": null,
       "end": null,
       "event": "2026-08-28T13:30",
       "eventEnd": "2026-08-28T15:00",
       "kind": "event",
-      "note": "活动日期已过；海报提供预先登记二维码，但未注明报名截止日期。",
+      "note": "活动日期已过；海报未说明外国研究生资格或报名截止时间。",
       "endEvidence": "",
-      "eventEvidence": "2026. 8. 28. 금 13:30~15:00",
+      "eventEvidence": "2026. 8. 28. 금\n13:30~15:00",
       "eligibility": "confirmed",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
-      "extra": []
+      "extra": [],
+      "calendarFile": "calendar/373850.ics"
     },
     {
       "id": "373559",
@@ -4654,7 +4548,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者专题讲座：肺间质巨噬细胞与肺部免疫稳态",
@@ -4681,7 +4575,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4737,7 +4631,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "做好迎接有趣时刻的准备：海外学者特邀讲座",
@@ -4765,7 +4659,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4780,7 +4674,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者讲座：现代社会中主体与他者关系的危机",
@@ -4807,7 +4701,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4905,7 +4799,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "沟通、不平等与共同体：跨学科视角专题讲座",
@@ -4932,7 +4826,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -4946,7 +4840,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-07-23",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者讲座：Phenikaa University的ALD研究介绍",
@@ -4974,7 +4868,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5225,7 +5119,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=file-download&articleNo=339252&attachNo=299463"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "申请校外奖学金推荐信办理指南",
@@ -5252,7 +5146,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5313,7 +5207,7 @@ window.AJOU_NOTICES = {
       "board": "scholarship",
       "published": "2026-07-31",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年度第二学期法学专业研究生助教招募",
@@ -5343,7 +5237,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5410,7 +5304,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=file-download&articleNo=372517&attachNo=330411"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "国际大学院勤工助学奖学金招聘",
@@ -5440,7 +5334,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5454,7 +5348,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第一学期导师及指导委员会申请",
@@ -5480,7 +5374,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5494,7 +5388,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2025学年度后期一般大学院招生（定期）",
@@ -5521,7 +5415,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5535,7 +5429,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期导师及指导委员会申请",
@@ -5561,7 +5455,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5575,7 +5469,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期外语考试免除申请期",
@@ -5601,7 +5495,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5615,7 +5509,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第一学期硕博综合考试日",
@@ -5641,7 +5535,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5655,7 +5549,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期退课／放弃学分办理期",
@@ -5682,7 +5576,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5696,7 +5590,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期课程日数四分之一节点",
@@ -5722,7 +5616,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5737,7 +5631,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2027学年度前期一般大学院招生（常规批次）",
@@ -5764,7 +5658,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5778,7 +5672,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期博士学位论文提交及审查费缴纳",
@@ -5805,7 +5699,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5820,7 +5714,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期综合考试日（硕士、博士）",
@@ -5846,7 +5740,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5860,7 +5754,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期硕博论文计划书提交",
@@ -5887,7 +5781,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5901,7 +5795,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期教学日数过半",
@@ -5927,7 +5821,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5941,7 +5835,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期硕士学位论文提交及审查费缴纳",
@@ -5968,7 +5862,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -5983,7 +5877,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期课程日数达到四分之三",
@@ -6009,7 +5903,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6023,7 +5917,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期课程评价期间",
@@ -6049,7 +5943,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6064,7 +5958,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期成绩录入与提交",
@@ -6090,7 +5984,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6104,7 +5998,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期硕士、博士最终论文审查结果提交截止日",
@@ -6131,7 +6025,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6145,7 +6039,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期结课日",
@@ -6171,7 +6065,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6186,7 +6080,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期学位论文（硕士、博士）在线提交",
@@ -6213,7 +6107,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6227,7 +6121,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "学位论文提交资格恢复申请",
@@ -6255,7 +6149,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6269,7 +6163,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期外语考试（硕士、博士）申请",
@@ -6296,7 +6190,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6311,7 +6205,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年度春季学位授予日",
@@ -6337,7 +6231,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6352,7 +6246,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第二学期外语考试（硕士、博士）",
@@ -6378,7 +6272,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -6930,7 +6824,7 @@ window.AJOU_NOTICES = {
       "board": "college",
       "published": "2026-09-11",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "TmaxTibero研发岗位招聘",
@@ -6958,7 +6852,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7431,7 +7325,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-10-19",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年第二学期校费借款分期偿还安排",
@@ -7460,7 +7354,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7518,7 +7412,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-19",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "ACAT考试监考及进行TA招募（申请延期）",
@@ -7548,7 +7442,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7562,7 +7456,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-19",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 Ajou国际日：世界美食节与才艺表演招募",
@@ -7592,7 +7486,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7908,7 +7802,7 @@ window.AJOU_NOTICES = {
           "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=download&articleNo=376516&attachNo=334163"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年韩国消防产业技术院正式员工招聘",
@@ -7935,7 +7829,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7949,7 +7843,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "开天节替代休息日",
@@ -7975,7 +7869,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -7990,7 +7884,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "韩文日（公休日）",
@@ -8016,7 +7910,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8082,7 +7976,7 @@ window.AJOU_NOTICES = {
       "board": "international",
       "published": "2026-05-27",
       "attachments": [],
-      "fetchedAt": "2026-11-07T01:48:02.187325+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年夏季留学生现场实习说明会",
@@ -8110,8 +8004,8 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T01:48:02.187325+09:00",
-      "fetchStatus": "stale",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
@@ -8304,7 +8198,7 @@ window.AJOU_NOTICES = {
       "board": "international",
       "published": "2026-06-18",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年暑假韩语写作辅导申请",
@@ -8332,7 +8226,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8346,7 +8240,7 @@ window.AJOU_NOTICES = {
       "board": "oia",
       "published": "2026-10-02",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": "2026-10-31",
       "title": "2026外国人跆拳道展示节",
@@ -8374,7 +8268,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8519,7 +8413,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-16",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 Ajou International Day 志愿者招募",
@@ -8547,7 +8441,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8616,7 +8510,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=file-download&articleNo=377546&attachNo=335112"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "国际冬季学校短期勤学奖学生招募",
@@ -8645,7 +8539,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8659,7 +8553,7 @@ window.AJOU_NOTICES = {
       "board": "scholarship",
       "published": "2023-05-16",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "奖学金与学费贷款综合指南",
@@ -8689,7 +8583,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8712,7 +8606,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=file-download&articleNo=376668&attachNo=334308"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026学年第二学期“바르게/1-1-1 캠페인”奖学金申请",
@@ -8740,7 +8634,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8754,7 +8648,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "中秋假期（含补休日）",
@@ -8780,7 +8674,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8795,7 +8689,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "开天节",
@@ -8821,7 +8715,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8835,7 +8729,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "元旦",
@@ -8861,7 +8755,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -8876,7 +8770,7 @@ window.AJOU_NOTICES = {
       "board": "academic_calendar",
       "published": "",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "春节假期",
@@ -8902,7 +8796,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-10-23T23:07:00.089619+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9046,7 +8940,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-10-26",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年亚洲大学护理学院学术会议：AI时代，护理研究的未来",
@@ -9072,7 +8966,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9086,7 +8980,7 @@ window.AJOU_NOTICES = {
       "board": "oia",
       "published": "2026-10-19",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": "2027-11-03",
       "title": "2026 Ajou国际日：世界美食节与才艺表演招募",
@@ -9114,7 +9008,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9133,7 +9027,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/oia/notice/notice.do?mode=file-download&articleNo=377983&attachNo=335536"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": "2026-11-14",
       "title": "2026亚洲大学国际日：世界美食节与才艺表演招募",
@@ -9162,7 +9056,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9185,7 +9079,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=file-download&articleNo=378342&attachNo=335871"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2027学年春季学期教育大学院硕士招生",
@@ -9212,7 +9106,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9266,7 +9160,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-30",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 Ajou International Day 调查参与活动",
@@ -9294,7 +9188,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9308,7 +9202,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-30",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "参加Ajou International Day问卷活动领取咖啡与华夫饼",
@@ -9337,7 +9231,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9832,39 +9726,42 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-10-30",
       "attachments": [],
-      "fetchedAt": "2026-11-05T12:31:12.405739+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
-      "title": "BK21 K-3MT Competition全国决赛观赛通知",
+      "title": "BK21 K-3MT Competition全国决赛举办通知",
       "tags": [
         "一般大学院",
-        "论文科研"
+        "论文科研",
+        "课程学务"
       ],
-      "audience": "对BK21 K-3MT Competition感兴趣者均可参加；现场决赛选手为参与BK21项目的研究生。外国留学生可否参赛未说明，但公告所列观赛活动不限身份。",
-      "summary": "全国研究生以英语进行三分钟研究演讲决赛，现场还可投票选人气奖。",
+      "audience": "对BK21 K-3MT Competition感兴趣的任何人；活动参赛者为全国28所大学的BK21参与研究生。",
+      "summary": "全国研究生以英语进行3分钟研究展示，决赛开放公众参加，并设现场人气奖投票。",
       "details": [
-        "活动时间：2026-11-11 13:00–16:30，地点为高丽大学首尔校区SK未来馆1层최종현홀及大厅（인재림）。",
-        "共28所大学、61名学生参加预赛和半决赛，最终23名进入决赛。",
-        "演讲者以一张幻灯片在3分钟内用英语介绍研究；现场观众可参与人气奖投票。",
-        "可通过 https://bk21-k-3mt.kr/ 预先报名；预报名者可获纪念品。海报列有多档奖金，最高200万韩元。"
+        "活动时间：2026-11-11 13:00–16:30。",
+        "地点：高丽大学首尔校区SK未来馆1层崔钟贤厅及大厅（人才林）。",
+        "决赛选手来自4阶段BK21参与高校；活动对所有感兴趣者开放。",
+        "可在活动网站预先申请；预申请者可获纪念品。",
+        "海报列出奖项金额：200万、100万、50万、30万韩元及约20万韩元人气奖。"
       ],
       "start": null,
       "end": null,
       "event": "2026-11-11T13:00",
       "eventEnd": "2026-11-11T16:30",
       "kind": "event",
-      "note": "外国留学生是否符合演讲者参赛资格未说明；本公告面向所有感兴趣者开放的是观赛活动。",
+      "note": "一般观众可参加；BK21参与资格仅适用于参赛研究生，不应理解为所有研究生均可参赛。",
       "endEvidence": "",
       "eventEvidence": "일시: 2026.11.11.(수) 13:00~16:30",
       "eligibility": "confirmed",
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
-      "translatedAt": "2026-11-05T12:31:12.405739+09:00",
-      "lastCheckedAt": "2026-11-05T12:31:12.405739+09:00",
-      "fetchStatus": "stale",
-      "reviewNeeded": true,
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
-      "extra": []
+      "extra": [],
+      "calendarFile": "calendar/378283.ics"
     },
     {
       "id": "library-ck54981ee9suwbmg",
@@ -9883,7 +9780,7 @@ window.AJOU_NOTICES = {
           "label": "[학과별 검색 페이지 바로 가기]"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年2月毕业学位论文开放利用",
@@ -9910,7 +9807,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9933,7 +9830,7 @@ window.AJOU_NOTICES = {
           "label": "[Journal Citation Reports]"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2025年JCR（2026 Release）最终确认通知",
@@ -9960,7 +9857,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -9983,7 +9880,7 @@ window.AJOU_NOTICES = {
           "label": "SciVal 접속 및 계정 생성 안내 보기 ↗"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "SciVal Challenge 2026：研究趋势分析培训与挑战任务",
@@ -10011,7 +9908,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10038,7 +9935,7 @@ window.AJOU_NOTICES = {
           "label": "신청 바로가기"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年法律数据库使用培训",
@@ -10066,7 +9963,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10090,7 +9987,7 @@ window.AJOU_NOTICES = {
           "label": "📝 신청폼 작성하기"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "ICPSR海外定量资料使用方法培训",
@@ -10117,7 +10014,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10164,7 +10061,7 @@ window.AJOU_NOTICES = {
           "label": "신청하기"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年第二学期KSDC DB/ICPSR使用培训",
@@ -10191,7 +10088,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10316,7 +10213,7 @@ window.AJOU_NOTICES = {
           "label": "교육 신청하기 →"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年9月研究能力提升研讨会",
@@ -10345,7 +10242,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10420,7 +10317,7 @@ window.AJOU_NOTICES = {
           "label": "2025 JCR 확인하기 [클릭]"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2025年JCR（2026年发布）上线通知",
@@ -10448,7 +10345,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10467,7 +10364,7 @@ window.AJOU_NOTICES = {
           "label": "제출전 점검사항"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年8月硕博毕业生学位论文数字文件提交指南",
@@ -10496,7 +10393,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-01T11:16:41.064361+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10783,7 +10680,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-02",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "中央图书馆正念疗愈活动：第2场 FOCUS RESET",
@@ -10811,7 +10708,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10825,7 +10722,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-10-30",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "职业预览：现职人员岗位专题讲座（11月第一周）",
@@ -10853,7 +10750,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -10938,11 +10835,10 @@ window.AJOU_NOTICES = {
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
       "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
-      "fetchStatus": "ok",
-      "reviewNeeded": false,
+      "fetchStatus": "stale",
+      "reviewNeeded": true,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
-      "extra": [],
-      "calendarFile": "calendar/378449.ics"
+      "extra": []
     },
     {
       "id": "378434",
@@ -10952,7 +10848,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-02",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "26-27大型企业就业说明会",
@@ -10979,7 +10875,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11064,7 +10960,7 @@ window.AJOU_NOTICES = {
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
       "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
-      "fetchStatus": "ok",
+      "fetchStatus": "stale",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": []
@@ -11077,7 +10973,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-02",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "德川日本与朝鲜王朝的疾病：从疾病看日韩历史与照护",
@@ -11104,7 +11000,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11118,7 +11014,7 @@ window.AJOU_NOTICES = {
       "board": "graduate",
       "published": "2026-09-18",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "社会连带经济专家专题讲座",
@@ -11146,7 +11042,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11297,7 +11193,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-02",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "MD、机器人、流通与采购领域职业特讲",
@@ -11324,7 +11220,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11484,7 +11380,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=file-download&articleNo=378604&attachNo=336177"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026年第二学期在线学习法内容开发者招募",
@@ -11511,7 +11407,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11525,7 +11421,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-03",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026线上全球就业创业系列讲座报名",
@@ -11553,7 +11449,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T11:51:14.566915+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11609,7 +11505,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-11-04",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者邀请讲座：幻影的逻辑：创伤、身体与疗愈认识论",
@@ -11637,7 +11533,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11651,7 +11547,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-11-04",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "AI时代的自我理解与主体判断：关于压力、关系与评价的人文学思考",
@@ -11678,7 +11574,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11692,7 +11588,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-11-04",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "海外学者讲座：哮喘治疗中超越β肾上腺素能受体信号的研究",
@@ -11720,7 +11616,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11734,7 +11630,7 @@ window.AJOU_NOTICES = {
       "board": "innovation",
       "published": "2026-11-04",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "多能干细胞疗法开发面临的挑战：海外学者专题讲座",
@@ -11762,7 +11658,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-04T20:00:28.038025+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11876,7 +11772,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=file-download&articleNo=378672&attachNo=336260"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "无害的 시행착오（试错）项目：克服失败恐惧",
@@ -11904,7 +11800,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11918,7 +11814,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-05",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "中央图书馆正念冥想（第2场）",
@@ -11945,7 +11841,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -11959,7 +11855,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-05",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026线上全球就业创业系列讲座报名",
@@ -11987,7 +11883,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -12034,7 +11930,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=file-download&articleNo=378656&attachNo=336248"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 Ajou 国际日",
@@ -12061,7 +11957,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -12108,7 +12004,7 @@ window.AJOU_NOTICES = {
           "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=file-download&articleNo=378655&attachNo=336240"
         }
       ],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "2026 Ajou国际日",
@@ -12135,7 +12031,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -12350,7 +12246,7 @@ window.AJOU_NOTICES = {
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-06T12:28:09.507370+09:00",
       "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
-      "fetchStatus": "ok",
+      "fetchStatus": "stale",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
       "extra": [],
@@ -12364,7 +12260,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-06",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "Fulbright美国留学与研究奖学金说明会",
@@ -12394,7 +12290,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -12408,7 +12304,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-06",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "第109期TOPIK备考特讲",
@@ -12436,7 +12332,7 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -12549,7 +12445,7 @@ window.AJOU_NOTICES = {
       "board": "university",
       "published": "2026-11-04",
       "attachments": [],
-      "fetchedAt": "2026-11-07T11:51:14.566915+09:00",
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
       "otherSources": [],
       "displayUntil": null,
       "title": "UIUC材料科学与工程3+2学士—硕士衔接项目说明会",
@@ -12577,7 +12473,49 @@ window.AJOU_NOTICES = {
       "editorial": "auto",
       "translationModel": "gpt-6-luna",
       "translatedAt": "2026-11-07T01:48:02.187325+09:00",
-      "lastCheckedAt": "2026-11-07T11:51:14.566915+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
+      "fetchStatus": "ok",
+      "reviewNeeded": false,
+      "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
+      "extra": []
+    },
+    {
+      "id": "376052",
+      "titleKo": "Suwon Hwaseong Fesstival GLOBAL PROGRAMS",
+      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=376052",
+      "source": "大学院英文公告",
+      "board": "graduate_en",
+      "published": "2026-09-18",
+      "attachments": [],
+      "fetchedAt": "2026-11-07T19:18:41.662417+09:00",
+      "otherSources": [],
+      "displayUntil": null,
+      "title": "水原华城文化节国际项目",
+      "tags": [
+        "外国人",
+        "生活签证"
+      ],
+      "audience": "面向国际访客；外国研究生是否符合参与资格、预约及其他条件，海报未说明。",
+      "summary": "节日期间提供宫廷茶点、传统宴席烹饪及韩国传统酒文化体验，需通过Naver Booking预约。",
+      "details": [
+        "宫廷茶与点心体验：华城行宫Uhwagwan，2026-10-05至2026-10-11，每日13:30、16:30。",
+        "K-Festival烹饪体验：水原传统文化中心食品文化体验馆，2026-10-05至2026-10-11，每日13:00、15:00。",
+        "传统酒文化体验：水原传统文化中心食品文化体验馆，2026-10-05至2026-10-11，每日17:00、19:30；工作日仅开放19:30场次。",
+        "海报称Naver Booking于9月9日14:00开放；未标明年份，无法据此确定预约开放日期。"
+      ],
+      "start": null,
+      "end": null,
+      "event": "2026-10-05",
+      "eventEnd": "2026-10-11",
+      "kind": "event",
+      "note": "海报活动日期未标年份；按公告发布于2026年且星期对应关系判断为2026年。预约开放年份未标明；活动已结束。",
+      "endEvidence": "",
+      "eventEvidence": "Oct. 5 (Mon) – 11 (Sun)",
+      "eligibility": "uncertain",
+      "editorial": "auto",
+      "translationModel": "gpt-6-luna",
+      "translatedAt": "2026-11-07T19:18:41.662417+09:00",
+      "lastCheckedAt": "2026-11-07T19:18:41.662417+09:00",
       "fetchStatus": "ok",
       "reviewNeeded": false,
       "evidence": "官方正文与海报，由 GPT-6 Luna 自动整理",
@@ -12638,15 +12576,15 @@ window.AJOU_NOTICES = {
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "library-23063",
-      "board": "library",
-      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/23063",
-      "reason": "ValueError"
-    },
-    {
       "id": "library-23144",
       "board": "library",
       "url": "https://library.ajou.ac.kr/guide/bulletins/notice/23144",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23063",
+      "board": "library",
+      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/23063",
       "reason": "ValueError"
     },
     {
@@ -12662,15 +12600,15 @@ window.AJOU_NOTICES = {
       "reason": "ValueError"
     },
     {
-      "id": "library-23044",
-      "board": "library",
-      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/23044",
-      "reason": "ValueError"
-    },
-    {
       "id": "library-22872",
       "board": "library",
       "url": "https://library.ajou.ac.kr/guide/bulletins/notice/22872",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-23044",
+      "board": "library",
+      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/23044",
       "reason": "ValueError"
     },
     {
@@ -12680,15 +12618,15 @@ window.AJOU_NOTICES = {
       "reason": "ValueError"
     },
     {
-      "id": "library-22797",
-      "board": "library",
-      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/22797",
-      "reason": "ValueError"
-    },
-    {
       "id": "library-22844",
       "board": "library",
       "url": "https://library.ajou.ac.kr/guide/bulletins/notice/22844",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-22797",
+      "board": "library",
+      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/22797",
       "reason": "ValueError"
     },
     {
@@ -12734,153 +12672,9 @@ window.AJOU_NOTICES = {
       "reason": "ValueError"
     },
     {
-      "id": "375392",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=375392",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373908",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373908",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373483",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373483",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "376052",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=376052",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373342",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373342",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373535",
-      "board": "graduate_en",
-      "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=373535",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "364643",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=364643",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378289",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=378289",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "365143",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=365143",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378283",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=378283",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377335",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377335",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375647",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=375647",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375247",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=375247",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377232",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=377232",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "374776",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=374776",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373879",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373879",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375261",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=375261",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373878",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373850",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373850",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378058",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=378058",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "366852",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=366852",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378223",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=378223",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378203",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=378203",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378644",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=378644",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378243",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=378243",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -12920,27 +12714,15 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377718",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377718",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377668",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377668",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377613",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377613",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "377860",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377860",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377718",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377718",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -12953,6 +12735,12 @@ window.AJOU_NOTICES = {
       "id": "377612",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377612",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377613",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377613",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -12974,15 +12762,9 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "library-gs7ztccq1uh6so5v",
-      "board": "library",
-      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/gs7ztccq1uh6so5v",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "library-7nkaawyryrviccw3",
-      "board": "library",
-      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/7nkaawyryrviccw3",
+      "id": "377668",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=377668",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -12992,9 +12774,27 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "library-gs7ztccq1uh6so5v",
+      "board": "library",
+      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/gs7ztccq1uh6so5v",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "378409",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=378409",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "library-7nkaawyryrviccw3",
+      "board": "library",
+      "url": "https://library.ajou.ac.kr/guide/bulletins/notice/7nkaawyryrviccw3",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377644",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377644",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13004,9 +12804,9 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377644",
+      "id": "377358",
       "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377644",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377358",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13022,9 +12822,9 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377358",
+      "id": "377210",
       "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377358",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377210",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13040,27 +12840,15 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377119",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "377210",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377210",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "376775",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=376775",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "376494",
+      "id": "377119",
       "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=376494",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=377119",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13070,27 +12858,27 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "376494",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=376494",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "375849",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375849",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "371908",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=371908",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375378",
-      "board": "graduate",
-      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375378",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "372715",
       "board": "graduate_en",
       "url": "https://grad.ajou.ac.kr/gs_eng/community/notice.do?mode=view&articleNo=372715",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375801",
-      "board": "graduate",
-      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13106,15 +12894,21 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377439",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377439",
+      "id": "375801",
+      "board": "graduate",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375801",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375849",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375849",
+      "id": "375378",
+      "board": "graduate",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=375378",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377439",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377439",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13136,6 +12930,12 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "372846",
+      "board": "innovation",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "373559",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373559",
@@ -13145,12 +12945,6 @@ window.AJOU_NOTICES = {
       "id": "377025",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377025",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372846",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13166,27 +12960,21 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "372514",
-      "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372514",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "372508",
       "board": "innovation",
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372508",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "372509",
+      "id": "372514",
       "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372514",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "372502",
+      "id": "372509",
       "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372502",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372509",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13202,15 +12990,15 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "370135",
+      "id": "372502",
       "board": "innovation",
-      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370135",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372502",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375337",
-      "board": "scholarship",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=375337",
+      "id": "370135",
+      "board": "innovation",
+      "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370135",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13220,9 +13008,21 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "375337",
+      "board": "scholarship",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=375337",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "373008",
       "board": "scholarship",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do?mode=view&articleNo=373008",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "372220",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=372220",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13238,21 +13038,9 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "372220",
+      "id": "371003",
       "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=372220",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "369877",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "369230",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=371003",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13262,9 +13050,9 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377852",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377852",
+      "id": "369230",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369230",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13274,15 +13062,15 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "371003",
+      "id": "369877",
       "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=371003",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=369877",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377708",
+      "id": "377852",
       "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377708",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377852",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13292,15 +13080,21 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "374920",
-      "board": "graduate",
-      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920",
+      "id": "377708",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377708",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377823",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377823",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "374920",
+      "board": "graduate",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=374920",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13313,6 +13107,12 @@ window.AJOU_NOTICES = {
       "id": "377770",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377770",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377672",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377672",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13334,9 +13134,9 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377672",
+      "id": "378278",
       "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377672",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378278",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13346,9 +13146,9 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378278",
+      "id": "378237",
       "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378278",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378237",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13358,9 +13158,9 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378237",
+      "id": "378094",
       "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378237",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378094",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13370,21 +13170,15 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378161",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378161",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378094",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378094",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378083",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378083",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378161",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378161",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13418,15 +13212,15 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377967",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378019",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378019",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377967",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377967",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13436,15 +13230,15 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378201",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378201",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "375097",
       "board": "college",
       "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375097",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378201",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378201",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13454,21 +13248,15 @@ window.AJOU_NOTICES = {
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "375368",
-      "board": "college",
-      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375368",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378265",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378265",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "376367",
-      "board": "graduate",
-      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367",
+      "id": "375368",
+      "board": "college",
+      "url": "https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=375368",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13484,9 +13272,9 @@ window.AJOU_NOTICES = {
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "373219",
-      "board": "international",
-      "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=373219",
+      "id": "376367",
+      "board": "graduate",
+      "url": "https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=376367",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13496,21 +13284,21 @@ window.AJOU_NOTICES = {
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "369355",
+      "id": "373219",
       "board": "international",
-      "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=369355",
-      "reason": "Poster image check unavailable; retaining previous result"
-    },
-    {
-      "id": "378852",
-      "board": "university",
-      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378852",
+      "url": "https://www.ajou.ac.kr/iadmissions/life/lifenotice.do?mode=view&articleNo=373219",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "378857",
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378857",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378852",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378852",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
@@ -13524,23 +13312,41 @@ window.AJOU_NOTICES = {
       "board": "university",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378646",
       "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378701",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378701",
+      "reason": "Poster image check unavailable; retaining previous result"
+    },
+    {
+      "id": "378469",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378469",
+      "reason": "Poster image check unavailable; retaining previous result"
+    },
+    {
+      "id": "378449",
+      "board": "university",
+      "url": "https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=378449",
+      "reason": "Translation request budget exhausted; item deferred"
     }
   ],
-  "checkedAt": "2026-11-07T11:51:14.566915+09:00",
-  "updatedAt": "2026-11-07T11:51:14.566915+09:00",
+  "checkedAt": "2026-11-07T19:18:41.662417+09:00",
+  "updatedAt": "2026-11-07T19:18:41.662417+09:00",
   "automatic": true,
   "schedule": "每日 08:17、12:17、18:17 KST",
   "translationModel": "gpt-6-luna",
   "updateStats": {
-    "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+    "checkedAt": "2026-11-07T19:18:41.662417+09:00",
     "model": "gpt-6-luna",
     "transport": "api",
     "scanned": 573,
     "pages": 36,
     "boards": 10,
-    "translated": 17,
-    "unchanged": 126,
-    "excluded": 44,
+    "translated": 18,
+    "unchanged": 141,
+    "excluded": 50,
     "skipped": 0,
     "schedule": "每日 08:17、12:17、18:17 KST",
     "sourceStatus": [
@@ -13553,7 +13359,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
       },
       {
@@ -13565,7 +13371,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "date-window",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-11-06T12:28:09.507370+09:00"
       },
       {
@@ -13577,7 +13383,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": true,
         "boundary": "request-limit",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-11-07T01:48:02.187325+09:00"
       },
       {
@@ -13589,7 +13395,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": true,
         "boundary": "request-limit",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
       },
       {
@@ -13601,7 +13407,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
       },
       {
@@ -13613,7 +13419,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
       },
       {
@@ -13625,7 +13431,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
       },
       {
@@ -13637,7 +13443,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "date-window",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
       },
       {
@@ -13649,8 +13455,8 @@ window.AJOU_NOTICES = {
         "status": "ok",
         "bounded": false,
         "boundary": "academic-year",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
-        "lastSuccessAt": "2026-11-07T11:51:14.566915+09:00"
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
+        "lastSuccessAt": "2026-11-07T19:18:41.662417+09:00"
       },
       {
         "key": "college",
@@ -13661,7 +13467,7 @@ window.AJOU_NOTICES = {
         "status": "partial",
         "bounded": false,
         "boundary": "known-page",
-        "checkedAt": "2026-11-07T11:51:14.566915+09:00",
+        "checkedAt": "2026-11-07T19:18:41.662417+09:00",
         "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
       }
     ],

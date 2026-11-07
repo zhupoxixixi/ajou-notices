@@ -398,6 +398,57 @@ TRANSP:TRANSPARENT
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
+UID:377335-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART:20261026T070000Z
+DTEND:20261026T081000Z
+SUMMARY:活动：A-Career Insight Talk（2026）：生物专业的职业
+ 方向
+DESCRIPTION:适用对象：本校大学院生、博士后研究员及其
+ 他对讲座感兴趣者；本科生也可参加。\n介绍从研究转
+ 向产业实践及生物行业职业发展，探讨研究到技术支持
+ 等职业路径。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
+ icleNo=377335
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335
+TRANSP:TRANSPARENT
+SEQUENCE:18
+END:VEVENT
+BEGIN:VEVENT
+UID:365143-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART:20261204T080000Z
+SUMMARY:申请 / 办理截止：2026年一般大学院研究笔记竞赛
+DESCRIPTION:适用对象：以2026学年度第二学期为准的一般大
+ 学院在读生及研究注册生；含未参与BK21项目者。国籍
+ 未设限制。\n提交研究笔记原件参赛，获奖者可获最高1
+ 00万韩元奖金。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
+ icleNo=365143
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143
+TRANSP:TRANSPARENT
+SEQUENCE:18
+END:VEVENT
+BEGIN:VEVENT
+UID:365143-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261205
+SUMMARY:活动：2026年一般大学院研究笔记竞赛
+DESCRIPTION:适用对象：以2026学年度第二学期为准的一般大
+ 学院在读生及研究注册生；含未参与BK21项目者。国籍
+ 未设限制。\n提交研究笔记原件参赛，获奖者可获最高1
+ 00万韩元奖金。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
+ icleNo=365143\n原文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:375471-deadline@ajou-notices.zhupoxixixi.github.io
 DTSTAMP:20261023T152857Z
 LAST-MODIFIED:20261023T152857Z
@@ -412,6 +463,41 @@ DESCRIPTION:适用对象：一般大学院在读生及研究注册生；
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375471
 TRANSP:TRANSPARENT
 SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+UID:373878-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART:20260819T020000Z
+DTEND:20260819T050000Z
+SUMMARY:活动：海外学者特邀讲座：公共采购中的行政负
+ 担
+DESCRIPTION:适用对象：本校大学院生及相关教员；未注明
+ 外国研究生资格限制。\nBK21海外学者特邀讲座，探讨复
+ 杂采购流程如何影响组织参与政府合同投标。\nAI 自动
+ 整理，重要日期请核对原文。\n官方原文：https://grad.ajo
+ u.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373878
+TRANSP:TRANSPARENT
+SEQUENCE:15
+END:VEVENT
+BEGIN:VEVENT
+UID:373850-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART:20260828T043000Z
+DTEND:20260828T060000Z
+SUMMARY:活动：编辑特邀讲座：高影响力论文写作与投稿
+ 策略
+DESCRIPTION:适用对象：大学院生、博士后研究人员及其他
+ 感兴趣者；外国研究生是否适用未另行说明。\nACS韩国
+ 分社编辑特邀讲座，介绍High-Impact论文写作，2026年8月28
+ 日举行。\nAI 自动整理，重要日期请核对原文。\n官方
+ 原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo
+ =373850
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373850
+TRANSP:TRANSPARENT
+SEQUENCE:18
 END:VEVENT
 BEGIN:VEVENT
 UID:372510-event@ajou-notices.zhupoxixixi.github.io
@@ -768,6 +854,23 @@ TRANSP:TRANSPARENT
 SEQUENCE:2
 END:VEVENT
 BEGIN:VEVENT
+UID:378283-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART:20261111T040000Z
+DTEND:20261111T073000Z
+SUMMARY:活动：BK21 K-3MT Competition全国决赛举办通知
+DESCRIPTION:适用对象：对BK21 K-3MT Competition感兴趣的任何人
+ ；活动参赛者为全国28所大学的BK21参与研究生。\n全国
+ 研究生以英语进行3分钟研究展示，决赛开放公众参加
+ ，并设现场人气奖投票。\nAI 自动整理，重要日期请核
+ 对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do
+ ?mode=view&articleNo=378283
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378283
+TRANSP:TRANSPARENT
+SEQUENCE:10
+END:VEVENT
+BEGIN:VEVENT
 UID:library-pacbr6quv0exz8yu-event@ajou-notices.zhupoxixixi.github.io
 DTSTAMP:20261101T021641Z
 LAST-MODIFIED:20261101T021641Z
@@ -802,41 +905,6 @@ URL:https://zhupoxixixi.github.io/ajou-notices/#notice-library-9teze3zbez
  ag91it
 TRANSP:TRANSPARENT
 SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:378449-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261107T025114Z
-LAST-MODIFIED:20261107T025114Z
-DTSTART:20261109T050000Z
-SUMMARY:申请 / 办理截止：未来汽车 Skill-UP 特讲：韩国物
- 理AI商业化的未来
-DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在
- 读生；未设国籍限制，但其他报名条件未说明。\n面向
- 对主题感兴趣的本科生及大学院在读生，讲解韩国物理
- AI商业化前景。\nAI 自动整理，重要日期请核对原文。\n
- 官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articl
- eNo=378449
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378449
-TRANSP:TRANSPARENT
-SEQUENCE:5
-END:VEVENT
-BEGIN:VEVENT
-UID:378449-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261107T025114Z
-LAST-MODIFIED:20261107T025114Z
-DTSTART:20261109T060000Z
-DTEND:20261109T080000Z
-SUMMARY:活动：未来汽车 Skill-UP 特讲：韩国物理AI商业化
- 的未来
-DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在
- 读生；未设国籍限制，但其他报名条件未说明。\n面向
- 对主题感兴趣的本科生及大学院在读生，讲解韩国物理
- AI商业化前景。\nAI 自动整理，重要日期请核对原文。\n
- 官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articl
- eNo=378449
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378449
-TRANSP:TRANSPARENT
-SEQUENCE:5
 END:VEVENT
 BEGIN:VEVENT
 UID:376054-event@ajou-notices.zhupoxixixi.github.io
@@ -889,6 +957,43 @@ DESCRIPTION:适用对象：对主题感兴趣的学部生、大学院生
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378701
 TRANSP:TRANSPARENT
 SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:378449-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T105732Z
+LAST-MODIFIED:20261107T105732Z
+DTSTART:20261109T050000Z
+SUMMARY:申请 / 办理截止：未来汽车 Skill-UP 特讲：韩国物
+ 理AI商业化的未来
+DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在
+ 读生；未设国籍限制，但其他报名条件未说明。\n面向
+ 对主题感兴趣的本科生及大学院在读生，讲解韩国物理
+ AI商业化前景。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articl
+ eNo=378449
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378449
+TRANSP:TRANSPARENT
+STATUS:CANCELLED
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+UID:378449-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T105732Z
+LAST-MODIFIED:20261107T105732Z
+DTSTART:20261109T060000Z
+DTEND:20261109T080000Z
+SUMMARY:活动：未来汽车 Skill-UP 特讲：韩国物理AI商业化
+ 的未来
+DESCRIPTION:适用对象：对主题感兴趣的本科生或大学院在
+ 读生；未设国籍限制，但其他报名条件未说明。\n面向
+ 对主题感兴趣的本科生及大学院在读生，讲解韩国物理
+ AI商业化前景。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://www.ajou.ac.kr/kr/ajou/notice.do?mode=view&articl
+ eNo=378449
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378449
+TRANSP:TRANSPARENT
+STATUS:CANCELLED
+SEQUENCE:6
 END:VEVENT
 BEGIN:VEVENT
 UID:378852-deadline@ajou-notices.zhupoxixixi.github.io
@@ -1060,42 +1165,6 @@ STATUS:CANCELLED
 SEQUENCE:18
 END:VEVENT
 BEGIN:VEVENT
-UID:377335-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART:20261026T070000Z
-DTEND:20261026T081000Z
-SUMMARY:活动：A-Career Insight Talk(2026)：生物领域研究生涯
- 探索讲座
-DESCRIPTION:适用对象：本校大学院生、博士后研究员及其
- 他感兴趣者；本科生也可参加。\n介绍生物行业从研究
- 到技术支持的职业路径，面向考虑研究生毕业后职业方
- 向者等。\nAI 自动整理，重要日期请核对原文。\n官方
- 原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo
- =377335
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:17
-END:VEVENT
-BEGIN:VEVENT
-UID:365143-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART:20261204T080000Z
-SUMMARY:申请 / 办理截止：2026一般大学院研究笔记竞赛
-DESCRIPTION:适用对象：2026学年度第2学期一般大学院在读
- 生及研究注册生；外国研究生是否符合其他条件未明确
- 。BK21参与与否不影响参赛资格。\n提交研究笔记原件参
- 赛，设奖状及奖金；提交时间为2026-12-01至2026-12-04。\nAI
-  自动整理，重要日期请核对原文。\n官方原文：https://g
- rad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=365143
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:17
-END:VEVENT
-BEGIN:VEVENT
 UID:364643-deadline@ajou-notices.zhupoxixixi.github.io
 DTSTAMP:20261106T041258Z
 LAST-MODIFIED:20261106T041258Z
@@ -1112,44 +1181,6 @@ URL:https://zhupoxixixi.github.io/ajou-notices/#notice-364643
 TRANSP:TRANSPARENT
 STATUS:CANCELLED
 SEQUENCE:14
-END:VEVENT
-BEGIN:VEVENT
-UID:373878-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART:20260819T020000Z
-DTEND:20260819T050000Z
-SUMMARY:活动：公共合同采购中的行政负担：海外学者特
- 邀讲座
-DESCRIPTION:适用对象：本校大学院生及相关教职员；外国
- 留学生可参加，海报未列其他资格限制。\n美国雪城大
- 学金敏贞教授讲解复杂采购流程如何阻碍组织竞标政府
- 合同，并安排与外国人士及大学院生交流。\nAI 自动整
- 理，重要日期请核对原文。\n官方原文：https://grad.ajou.a
- c.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=373878
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373878
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:14
-END:VEVENT
-BEGIN:VEVENT
-UID:373850-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART:20260828T043000Z
-DTEND:20260828T060000Z
-SUMMARY:活动：ACS编辑特邀讲座：High-Impact论文写作与投稿
- 策略
-DESCRIPTION:适用对象：大学院生、博士后研究员及其他感
- 兴趣者；是否有额外报名或资格条件，海报未说明。\nA
- CS韩国分社编辑受邀讲授High-Impact论文写作，面向大学
- 院生、博士后研究员等。\nAI 自动整理，重要日期请核
- 对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do
- ?mode=view&articleNo=373850
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-373850
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:17
 END:VEVENT
 BEGIN:VEVENT
 UID:373559-event@ajou-notices.zhupoxixixi.github.io
@@ -1523,25 +1554,6 @@ URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378278
 TRANSP:TRANSPARENT
 STATUS:CANCELLED
 SEQUENCE:2
-END:VEVENT
-BEGIN:VEVENT
-UID:378283-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART:20261111T040000Z
-DTEND:20261111T073000Z
-SUMMARY:活动：BK21 K-3MT Competition全国决赛观赛通知
-DESCRIPTION:适用对象：对BK21 K-3MT Competition感兴趣者均可参
- 加；现场决赛选手为参与BK21项目的研究生。外国留学
- 生可否参赛未说明，但公告所列观赛活动不限身份。\n
- 全国研究生以英语进行三分钟研究演讲决赛，现场还可
- 投票选人气奖。\nAI 自动整理，重要日期请核对原文。\
- n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&ar
- ticleNo=378283
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378283
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:9
 END:VEVENT
 BEGIN:VEVENT
 UID:377119-deadline@ajou-notices.zhupoxixixi.github.io

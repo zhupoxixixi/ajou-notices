@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377335-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART:20261026T070000Z
+DTEND:20261026T081000Z
+SUMMARY:活动：A-Career Insight Talk（2026）：生物专业的职业
+ 方向
+DESCRIPTION:适用对象：本校大学院生、博士后研究员及其
+ 他对讲座感兴趣者；本科生也可参加。\n介绍从研究转
+ 向产业实践及生物行业职业发展，探讨研究到技术支持
+ 等职业路径。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
+ icleNo=377335
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377335
+TRANSP:TRANSPARENT
+SEQUENCE:18
+END:VEVENT
+END:VCALENDAR

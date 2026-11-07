@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:365143-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART:20261204T080000Z
+SUMMARY:申请 / 办理截止：2026年一般大学院研究笔记竞赛
+DESCRIPTION:适用对象：以2026学年度第二学期为准的一般大
+ 学院在读生及研究注册生；含未参与BK21项目者。国籍
+ 未设限制。\n提交研究笔记原件参赛，获奖者可获最高1
+ 00万韩元奖金。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
+ icleNo=365143
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143
+TRANSP:TRANSPARENT
+SEQUENCE:18
+END:VEVENT
+BEGIN:VEVENT
+UID:365143-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261107T101841Z
+LAST-MODIFIED:20261107T101841Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261205
+SUMMARY:活动：2026年一般大学院研究笔记竞赛
+DESCRIPTION:适用对象：以2026学年度第二学期为准的一般大
+ 学院在读生及研究注册生；含未参与BK21项目者。国籍
+ 未设限制。\n提交研究笔记原件参赛，获奖者可获最高1
+ 00万韩元奖金。\nAI 自动整理，重要日期请核对原文。\n
+ 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
+ icleNo=365143\n原文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-365143
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
