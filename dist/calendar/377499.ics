@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:377499-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261108T102745Z
+LAST-MODIFIED:20261108T102745Z
+DTSTART:20261027T080000Z
+SUMMARY:活动：社会弱势群体法律制度研究中心第16场研讨
+ 会：超高龄与孤立社会的法律——日本现状与课题
+DESCRIPTION:适用对象：校内成员可自由参加，包括研究人
+ 员和教职员工；未明确列出外国研究生资格条件。\n邀
+ 请日本庆应义塾大学法学院西希代子教授，讨论超高龄
+ 与社会孤立背景下日本法律制度的现状和课题。\nAI 自
+ 动整理，重要日期请核对原文。\n官方原文：https://www.a
+ jou.ac.kr/kr/ajou/notice.do?mode=view&articleNo=377499
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-377499
+TRANSP:TRANSPARENT
+SEQUENCE:6
+END:VEVENT
+END:VCALENDAR
