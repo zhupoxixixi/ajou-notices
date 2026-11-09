@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:378960-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20261207T090000Z
+SUMMARY:申请 / 办理截止：2027年上半年 Imec 全球实习研修
+ 生招募
+DESCRIPTION:适用对象：国内大学院硕士、博士在读生；限
+ 韩国国籍，须为相关研究领域工学专业，外国留学生不
+ 符合。\n选派约10名硕博生赴比利时 Leuven 的 Imec 研修12
+ 个月，并提供相应资助；仅限韩国国籍。\nAI 自动整理
+ ，重要日期请核对原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs/community/notice.do?mode=view&articleNo=378960
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378960
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

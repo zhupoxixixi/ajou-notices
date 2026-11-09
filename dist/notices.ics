@@ -625,6 +625,59 @@ TRANSP:TRANSPARENT
 SEQUENCE:19
 END:VEVENT
 BEGIN:VEVENT
+UID:372846-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260807T060000Z
+SUMMARY:申请 / 办理截止：第二届 A-3MT Competition 参赛者招
+ 募
+DESCRIPTION:适用对象：大学院在读生（含结业后研究注册
+ 生）及博士后研究员，约20人；未说明外国研究生限制
+ 。\n以英语用一页幻灯片、三分钟面向非专业人士介绍
+ 研究，提供培训和个别辅导，并设奖金。\nAI 自动整理
+ ，重要日期请核对原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846
+TRANSP:TRANSPARENT
+SEQUENCE:15
+END:VEVENT
+BEGIN:VEVENT
+UID:372846-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260905
+SUMMARY:活动：第二届 A-3MT Competition 参赛者招募
+DESCRIPTION:适用对象：大学院在读生（含结业后研究注册
+ 生）及博士后研究员，约20人；未说明外国研究生限制
+ 。\n以英语用一页幻灯片、三分钟面向非专业人士介绍
+ 研究，提供培训和个别辅导，并设奖金。\nAI 自动整理
+ ，重要日期请核对原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846\n原文未给具体时
+ 刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846
+TRANSP:TRANSPARENT
+SEQUENCE:15
+END:VEVENT
+BEGIN:VEVENT
+UID:372512-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260708T063000Z
+DTEND:20260708T080000Z
+SUMMARY:活动：海外学者讲座：从算法到政策——多学科
+ 社会科学中的人工智能与深度学习建模
+DESCRIPTION:适用对象：本校大学院生及相关教职员；未注
+ 明国籍限制。\n邀请University of Texas at Dallas教授金度亨
+ ，讲解人工智能与深度学习建模在多学科社会科学中的
+ 作用。\nAI 自动整理，重要日期请核对原文。\n官方原
+ 文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=37
+ 2512
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372512
+TRANSP:TRANSPARENT
+SEQUENCE:13
+END:VEVENT
+BEGIN:VEVENT
 UID:372510-event@ajou-notices.zhupoxixixi.github.io
 DTSTAMP:20261023T140700Z
 LAST-MODIFIED:20261023T140700Z
@@ -640,6 +693,108 @@ DESCRIPTION:适用对象：欢迎感兴趣的学生参加；未说明外
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372510
 TRANSP:TRANSPARENT
 SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:372502-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260311T043000Z
+DTEND:20260311T060000Z
+SUMMARY:活动：海外学者特讲：面向弱势群体的制度路径
+DESCRIPTION:适用对象：本校大学院生及相关教员；海报未
+ 列出国籍限制。\nUniversity of North Texas教授张熙善主讲，
+ 探讨全球社会变化、公共政策案例及相关研究方法。\nA
+ I 自动整理，重要日期请核对原文。\n官方原文：https://
+ grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372502
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372502
+TRANSP:TRANSPARENT
+SEQUENCE:14
+END:VEVENT
+BEGIN:VEVENT
+UID:372015-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260720T020000Z
+SUMMARY:申请 / 办理截止：2026 Ajou X-Research Program 融合研究
+ 支持招募
+DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究
+ 注册生；海报未注明国籍限制。\n支持研究生开展团队
+ 或个人融合研究，按人提供100万至150万韩元研究经费。
+ \nAI 自动整理，重要日期请核对原文。\n官方原文：https
+ ://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015
+TRANSP:TRANSPARENT
+SEQUENCE:16
+END:VEVENT
+BEGIN:VEVENT
+UID:372015-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20270101
+SUMMARY:活动：2026 Ajou X-Research Program 融合研究支持招募
+DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究
+ 注册生；海报未注明国籍限制。\n支持研究生开展团队
+ 或个人融合研究，按人提供100万至150万韩元研究经费。
+ \nAI 自动整理，重要日期请核对原文。\n官方原文：https
+ ://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015\n原
+ 文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015
+TRANSP:TRANSPARENT
+SEQUENCE:16
+END:VEVENT
+BEGIN:VEVENT
+UID:370613-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260622T050000Z
+SUMMARY:申请 / 办理截止：2026 AI融合夏季学校（训练营）
+ 报名
+DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学
+ 期入学预定者；未说明国籍限制，适用性以公告资格为
+ 准。\n招募参加AI融合训练营的研究生，设初级、中级
+ 和高级课程。报名截止日期已过，课程安排已结束。\nA
+ I 自动整理，重要日期请核对原文。\n官方原文：https://
+ grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
+TRANSP:TRANSPARENT
+SEQUENCE:18
+END:VEVENT
+BEGIN:VEVENT
+UID:370613-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260827
+SUMMARY:活动：2026 AI融合夏季学校（训练营）报名
+DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学
+ 期入学预定者；未说明国籍限制，适用性以公告资格为
+ 准。\n招募参加AI融合训练营的研究生，设初级、中级
+ 和高级课程。报名截止日期已过，课程安排已结束。\nA
+ I 自动整理，重要日期请核对原文。\n官方原文：https://
+ grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613\n原文
+ 未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
+TRANSP:TRANSPARENT
+SEQUENCE:17
+END:VEVENT
+BEGIN:VEVENT
+UID:370135-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260626T020000Z
+DTEND:20260626T031000Z
+SUMMARY:活动：A-Career Insight Talk 2026：研究生研究型职业探
+ 索讲座
+DESCRIPTION:适用对象：本校大学院生、博士后研究人员及
+ 其他感兴趣者；本科生也可参加。外国研究生可否参加
+ 未单独说明。\n讲座探讨研究职业发展、研究主题定位
+ 及海外升学，含研究职就业与美国大学院进学经验。\nA
+ I 自动整理，重要日期请核对原文。\n官方原文：https://
+ grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370135
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370135
+TRANSP:TRANSPARENT
+SEQUENCE:17
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar-331fc84090e5-deadline@ajou-notices.zhupoxixixi.github.io
@@ -1084,6 +1239,23 @@ TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
+UID:378960-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20261207T090000Z
+SUMMARY:申请 / 办理截止：2027年上半年 Imec 全球实习研修
+ 生招募
+DESCRIPTION:适用对象：国内大学院硕士、博士在读生；限
+ 韩国国籍，须为相关研究领域工学专业，外国留学生不
+ 符合。\n选派约10名硕博生赴比利时 Leuven 的 Imec 研修12
+ 个月，并提供相应资助；仅限韩国国籍。\nAI 自动整理
+ ，重要日期请核对原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs/community/notice.do?mode=view&articleNo=378960
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378960
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
 UID:378449-deadline@ajou-notices.zhupoxixixi.github.io
 DTSTAMP:20261107T105732Z
 LAST-MODIFIED:20261107T105732Z
@@ -1231,42 +1403,6 @@ STATUS:CANCELLED
 SEQUENCE:14
 END:VEVENT
 BEGIN:VEVENT
-UID:372846-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART:20260807T060000Z
-SUMMARY:申请 / 办理截止：第二届 A-3MT Competition 参赛招募
-DESCRIPTION:适用对象：一般大学院在读生（含结业后研究
- 注册生）及博士后研究员，约20人；未注明国籍限制。\
- n以英语进行3分钟研究演讲，提供工作坊和个别指导，
- 并设奖金及后续代表参赛机会。\nAI 自动整理，重要日
- 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
- 21_bbs.do?mode=view&articleNo=372846
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:14
-END:VEVENT
-BEGIN:VEVENT
-UID:372846-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260905
-SUMMARY:活动：第二届 A-3MT Competition 参赛招募
-DESCRIPTION:适用对象：一般大学院在读生（含结业后研究
- 注册生）及博士后研究员，约20人；未注明国籍限制。\
- n以英语进行3分钟研究演讲，提供工作坊和个别指导，
- 并设奖金及后续代表参赛机会。\nAI 自动整理，重要日
- 期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
- 21_bbs.do?mode=view&articleNo=372846\n原文未给具体时刻，本日
- 历使用全天事项。
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:14
-END:VEVENT
-BEGIN:VEVENT
 UID:372514-event@ajou-notices.zhupoxixixi.github.io
 DTSTAMP:20261106T041258Z
 LAST-MODIFIED:20261106T041258Z
@@ -1299,79 +1435,6 @@ DESCRIPTION:适用对象：本校一般大学院生及相关教职员；
  期请核对原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk
  21_bbs.do?mode=view&articleNo=372509
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372509
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:16
-END:VEVENT
-BEGIN:VEVENT
-UID:372015-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART:20260720T020000Z
-SUMMARY:申请 / 办理截止：2026 Ajou X-Research Program融合研究
- 资助招募
-DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究
- 注册生；国籍未作限制。须核对具体申请条件。\n招募
- 融合研究项目，分团队型与个人型，按人提供100万至150
- 万韩元研究执行经费。\nAI 自动整理，重要日期请核对
- 原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mo
- de=view&articleNo=372015
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:15
-END:VEVENT
-BEGIN:VEVENT
-UID:372015-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20270101
-SUMMARY:活动：2026 Ajou X-Research Program融合研究资助招募
-DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究
- 注册生；国籍未作限制。须核对具体申请条件。\n招募
- 融合研究项目，分团队型与个人型，按人提供100万至150
- 万韩元研究执行经费。\nAI 自动整理，重要日期请核对
- 原文。\n官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mo
- de=view&articleNo=372015\n原文未给具体时刻，本日历使用全
- 天事项。
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:15
-END:VEVENT
-BEGIN:VEVENT
-UID:370613-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART:20260622T050000Z
-SUMMARY:申请 / 办理截止：2026 AI融合暑期学校（训练营）
- 报名
-DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学
- 期入学预定者；是否限外国留学生未说明。\n面向一般
- 大学院学生的AI融合培训，涵盖机器学习、生成式AI及
- 制造AI等课程。\nAI 自动整理，重要日期请核对原文。\n
- 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
- icleNo=370613
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:17
-END:VEVENT
-BEGIN:VEVENT
-UID:370613-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261106T041258Z
-LAST-MODIFIED:20261106T041258Z
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260827
-SUMMARY:活动：2026 AI融合暑期学校（训练营）报名
-DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学
- 期入学预定者；是否限外国留学生未说明。\n面向一般
- 大学院学生的AI融合培训，涵盖机器学习、生成式AI及
- 制造AI等课程。\nAI 自动整理，重要日期请核对原文。\n
- 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
- icleNo=370613\n原文未给具体时刻，本日历使用全天事项。
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
 TRANSP:TRANSPARENT
 STATUS:CANCELLED
 SEQUENCE:16
@@ -1639,26 +1702,6 @@ STATUS:CANCELLED
 SEQUENCE:15
 END:VEVENT
 BEGIN:VEVENT
-UID:370135-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261105T040504Z
-LAST-MODIFIED:20261105T040504Z
-DTSTART:20260626T020000Z
-DTEND:20260626T031000Z
-SUMMARY:活动：A-Career Insight Talk(2026)：研究生研究型职业
- 探索讲座
-DESCRIPTION:适用对象：本校一般大学院学生、博士后研究
- 人员等；海报列出有意考虑研究生毕业后的职业方向、
- 研究岗位或海外大学院升学者。外国研究生资格未单独
- 说明。\n讲座讨论研究、留学与研究者职业发展，2026年
- 6月26日举行。\nAI 自动整理，重要日期请核对原文。\n
- 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
- icleNo=370135
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370135
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:16
-END:VEVENT
-BEGIN:VEVENT
 UID:377600-deadline@ajou-notices.zhupoxixixi.github.io
 DTSTAMP:20261105T040504Z
 LAST-MODIFIED:20261105T040504Z
@@ -1803,25 +1846,6 @@ URL:https://zhupoxixixi.github.io/ajou-notices/#notice-375392
 TRANSP:TRANSPARENT
 STATUS:CANCELLED
 SEQUENCE:4
-END:VEVENT
-BEGIN:VEVENT
-UID:372512-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T113024Z
-LAST-MODIFIED:20261104T113024Z
-DTSTART:20260708T063000Z
-DTEND:20260708T080000Z
-SUMMARY:活动：算法走向政策：多学科社会科学中的人工
- 智能与深度学习建模作用
-DESCRIPTION:适用对象：本校大学院生及相关教职人员；海
- 报未说明外国研究生的具体资格条件。\nBK21海外学者特
- 邀讲座，探讨人工智能与深度学习建模在多学科社会科
- 学中的作用。\nAI 自动整理，重要日期请核对原文。\n
- 官方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&art
- icleNo=372512
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372512
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:12
 END:VEVENT
 BEGIN:VEVENT
 UID:377363-deadline@ajou-notices.zhupoxixixi.github.io
@@ -1992,25 +2016,6 @@ URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372505
 TRANSP:TRANSPARENT
 STATUS:CANCELLED
 SEQUENCE:5
-END:VEVENT
-BEGIN:VEVENT
-UID:372502-event@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261104T033351Z
-LAST-MODIFIED:20261104T033351Z
-DTSTART:20260311T043000Z
-DTEND:20260311T060000Z
-SUMMARY:活动：海外学者邀请讲座：区域公共管理制度研
- 究
-DESCRIPTION:适用对象：本校大学院生及相关教职员；未注
- 明外国研究生资格限制。\n邀请University of North Texas学者
- 讲授脆弱群体公共服务制度路径，并安排外国人士与研
- 究生座谈。\nAI 自动整理，重要日期请核对原文。\n官
- 方原文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articl
- eNo=372502
-URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372502
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-SEQUENCE:13
 END:VEVENT
 BEGIN:VEVENT
 UID:378380-event@ajou-notices.zhupoxixixi.github.io

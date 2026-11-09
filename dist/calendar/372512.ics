@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372512-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260708T063000Z
+DTEND:20260708T080000Z
+SUMMARY:活动：海外学者讲座：从算法到政策——多学科
+ 社会科学中的人工智能与深度学习建模
+DESCRIPTION:适用对象：本校大学院生及相关教职员；未注
+ 明国籍限制。\n邀请University of Texas at Dallas教授金度亨
+ ，讲解人工智能与深度学习建模在多学科社会科学中的
+ 作用。\nAI 自动整理，重要日期请核对原文。\n官方原
+ 文：https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=37
+ 2512
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372512
+TRANSP:TRANSPARENT
+SEQUENCE:13
+END:VEVENT
+END:VCALENDAR

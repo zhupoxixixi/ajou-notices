@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372846-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260807T060000Z
+SUMMARY:申请 / 办理截止：第二届 A-3MT Competition 参赛者招
+ 募
+DESCRIPTION:适用对象：大学院在读生（含结业后研究注册
+ 生）及博士后研究员，约20人；未说明外国研究生限制
+ 。\n以英语用一页幻灯片、三分钟面向非专业人士介绍
+ 研究，提供培训和个别辅导，并设奖金。\nAI 自动整理
+ ，重要日期请核对原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846
+TRANSP:TRANSPARENT
+SEQUENCE:15
+END:VEVENT
+BEGIN:VEVENT
+UID:372846-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260905
+SUMMARY:活动：第二届 A-3MT Competition 参赛者招募
+DESCRIPTION:适用对象：大学院在读生（含结业后研究注册
+ 生）及博士后研究员，约20人；未说明外国研究生限制
+ 。\n以英语用一页幻灯片、三分钟面向非专业人士介绍
+ 研究，提供培训和个别辅导，并设奖金。\nAI 自动整理
+ ，重要日期请核对原文。\n官方原文：https://grad.ajou.ac.k
+ r/gs/bk21/bk21_bbs.do?mode=view&articleNo=372846\n原文未给具体时
+ 刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372846
+TRANSP:TRANSPARENT
+SEQUENCE:15
+END:VEVENT
+END:VCALENDAR

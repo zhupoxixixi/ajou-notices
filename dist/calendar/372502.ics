@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372502-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260311T043000Z
+DTEND:20260311T060000Z
+SUMMARY:活动：海外学者特讲：面向弱势群体的制度路径
+DESCRIPTION:适用对象：本校大学院生及相关教员；海报未
+ 列出国籍限制。\nUniversity of North Texas教授张熙善主讲，
+ 探讨全球社会变化、公共政策案例及相关研究方法。\nA
+ I 自动整理，重要日期请核对原文。\n官方原文：https://
+ grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372502
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372502
+TRANSP:TRANSPARENT
+SEQUENCE:14
+END:VEVENT
+END:VCALENDAR

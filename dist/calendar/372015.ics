@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:372015-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260720T020000Z
+SUMMARY:申请 / 办理截止：2026 Ajou X-Research Program 融合研究
+ 支持招募
+DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究
+ 注册生；海报未注明国籍限制。\n支持研究生开展团队
+ 或个人融合研究，按人提供100万至150万韩元研究经费。
+ \nAI 自动整理，重要日期请核对原文。\n官方原文：https
+ ://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015
+TRANSP:TRANSPARENT
+SEQUENCE:16
+END:VEVENT
+BEGIN:VEVENT
+UID:372015-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20270101
+SUMMARY:活动：2026 Ajou X-Research Program 融合研究支持招募
+DESCRIPTION:适用对象：2026学年度一般大学院在读生及研究
+ 注册生；海报未注明国籍限制。\n支持研究生开展团队
+ 或个人融合研究，按人提供100万至150万韩元研究经费。
+ \nAI 自动整理，重要日期请核对原文。\n官方原文：https
+ ://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=372015\n原
+ 文未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-372015
+TRANSP:TRANSPARENT
+SEQUENCE:16
+END:VEVENT
+END:VCALENDAR

@@ -1,32 +1,32 @@
 {
-  "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+  "checkedAt": "2026-11-09T11:42:10.316528+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 575,
+  "scanned": 580,
   "pages": 36,
   "boards": 10,
-  "translated": 17,
-  "unchanged": 164,
-  "excluded": 66,
+  "translated": 19,
+  "unchanged": 183,
+  "excluded": 68,
   "skipped": 0,
   "errors": [
-    {
-      "id": "377658",
-      "error": "GatewayError",
-      "reason": "Reader could not retrieve the official page successfully"
-    },
     {
       "id": "377588",
       "error": "GatewayError",
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "library-23144",
+      "id": "377658",
+      "error": "GatewayError",
+      "reason": "Reader could not retrieve the official page successfully"
+    },
+    {
+      "id": "library-23188",
       "error": "ValueError",
       "reason": "ValueError"
     },
     {
-      "id": "library-23188",
+      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -66,11 +66,6 @@
       "reason": "ValueError"
     },
     {
-      "id": "library-22770",
-      "error": "ValueError",
-      "reason": "ValueError"
-    },
-    {
       "id": "library-22878",
       "error": "ValueError",
       "reason": "ValueError"
@@ -86,6 +81,11 @@
       "reason": "ValueError"
     },
     {
+      "id": "library-23209",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
       "id": "378296",
       "error": "GatewayError",
       "reason": "Reader could not retrieve the official page successfully"
@@ -96,7 +96,7 @@
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "library-23209",
+      "id": "library-22770",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -106,87 +106,12 @@
       "reason": "attempt 1: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReadable必须返回布尔值；所有提供图像均可读取时必须为true，即使include=false也不得省略。确实读不到时返回false，程序将保留旧摘要。; attempt 2: Translation validation failed: Poster reading not confirmed (imagesReadable=False): JSON字段imagesReada"
     },
     {
-      "id": "372846",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372516",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372514",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372508",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372512",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372502",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372509",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372015",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "372505",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "370613",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "370135",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373008",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "375337",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "373487",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "372220",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "370260",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "369877",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -201,7 +126,12 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "371003",
+      "id": "369877",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377852",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -216,12 +146,12 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377852",
+      "id": "377708",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377708",
+      "id": "371003",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -236,22 +166,22 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377896",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "377770",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377551",
+      "id": "377896",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377594",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "377551",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -266,12 +196,17 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "377906",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "377672",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377906",
+      "id": "378237",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -286,22 +221,17 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378232",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
-      "id": "378237",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378094",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "378083",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378232",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -336,12 +266,12 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378160",
+      "id": "377967",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377967",
+      "id": "378160",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -351,7 +281,7 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375097",
+      "id": "378265",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -361,7 +291,7 @@
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "378265",
+      "id": "375097",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -386,12 +316,12 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "376961",
+      "id": "373219",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "373219",
+      "id": "376961",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -411,37 +341,17 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378449",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378646",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378920",
-      "error": "GatewayError",
-      "reason": "Poster image check unavailable; retaining previous result"
-    },
-    {
-      "id": "378672",
-      "error": "GatewayError",
-      "reason": "Poster image check unavailable; retaining previous result"
-    },
-    {
-      "id": "378602",
-      "error": "GatewayError",
-      "reason": "Poster image check unavailable; retaining previous result"
+      "id": "378449",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "378469",
-      "error": "GatewayError",
-      "reason": "Poster image check unavailable; retaining previous result"
-    },
-    {
-      "id": "375392",
       "error": "GatewayError",
       "reason": "Poster image check unavailable; retaining previous result"
     },
@@ -451,19 +361,24 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377363",
+      "id": "378701",
       "error": "GatewayError",
       "reason": "Poster image check unavailable; retaining previous result"
     },
     {
-      "id": "378319",
+      "id": "375925",
       "error": "GatewayError",
       "reason": "Poster image check unavailable; retaining previous result"
     },
     {
-      "id": "378317",
-      "error": "GatewayError",
-      "reason": "Poster image check unavailable; retaining previous result"
+      "id": "375849",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "378391",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
     }
   ],
   "schedule": "每日 08:17、12:17、18:17 KST",
@@ -477,7 +392,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -489,7 +404,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
       "lastSuccessAt": "2026-11-06T12:28:09.507370+09:00"
     },
     {
@@ -501,7 +416,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
       "lastSuccessAt": "2026-11-07T01:48:02.187325+09:00"
     },
     {
@@ -513,7 +428,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -525,7 +440,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -534,11 +449,11 @@
       "url": "https://grad.ajou.ac.kr/gs/bk21/bk21_bbs.do",
       "pages": 2,
       "scanned": 24,
-      "status": "partial",
+      "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
-      "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+      "lastSuccessAt": "2026-11-09T11:42:10.316528+09:00"
     },
     {
       "key": "scholarship",
@@ -549,7 +464,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -561,7 +476,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
       "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
     },
     {
@@ -569,12 +484,12 @@
       "name": "大学院学事日历",
       "url": "https://grad.ajou.ac.kr/gs/bachelor/schedule.do",
       "pages": 1,
-      "scanned": 24,
+      "scanned": 23,
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
-      "lastSuccessAt": "2026-11-08T19:27:45.886108+09:00"
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+      "lastSuccessAt": "2026-11-09T11:42:10.316528+09:00"
     },
     {
       "key": "college",
@@ -585,7 +500,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+      "checkedAt": "2026-11-09T11:42:10.316528+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     }
   ],

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ajou Notices CN//Academic notices//ZH-CN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:亚洲大学中文公告
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:370613-deadline@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART:20260622T050000Z
+SUMMARY:申请 / 办理截止：2026 AI融合夏季学校（训练营）
+ 报名
+DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学
+ 期入学预定者；未说明国籍限制，适用性以公告资格为
+ 准。\n招募参加AI融合训练营的研究生，设初级、中级
+ 和高级课程。报名截止日期已过，课程安排已结束。\nA
+ I 自动整理，重要日期请核对原文。\n官方原文：https://
+ grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
+TRANSP:TRANSPARENT
+SEQUENCE:18
+END:VEVENT
+BEGIN:VEVENT
+UID:370613-event@ajou-notices.zhupoxixixi.github.io
+DTSTAMP:20261109T024210Z
+LAST-MODIFIED:20261109T024210Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260827
+SUMMARY:活动：2026 AI融合夏季学校（训练营）报名
+DESCRIPTION:适用对象：一般大学院在读生、2026学年第二学
+ 期入学预定者；未说明国籍限制，适用性以公告资格为
+ 准。\n招募参加AI融合训练营的研究生，设初级、中级
+ 和高级课程。报名截止日期已过，课程安排已结束。\nA
+ I 自动整理，重要日期请核对原文。\n官方原文：https://
+ grad.ajou.ac.kr/gs/bk21/bk21_bbs.do?mode=view&articleNo=370613\n原文
+ 未给具体时刻，本日历使用全天事项。
+URL:https://zhupoxixixi.github.io/ajou-notices/#notice-370613
+TRANSP:TRANSPARENT
+SEQUENCE:17
+END:VEVENT
+END:VCALENDAR
