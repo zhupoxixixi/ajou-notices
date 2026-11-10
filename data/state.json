@@ -1,7 +1,7 @@
 {
   "377021": {
     "fingerprint": "81f2f950a2a83136c136c44579ee1113db9bf594104970913d017899f4668d65",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6da1b5d19623c88808186753459c2221c608f4126dabbea671e05e4fcfa66496",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -10,7 +10,7 @@
   },
   "377134": {
     "fingerprint": "e9616bc1dc2fcb25f9ac9a7d3597f14d389081f8e4d54f4bf135b5962b519ae8",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f811e88ad5020aee7e49961b2d46176d0619ce022bcce202f5f9047ba36dd377",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -20,7 +20,7 @@
   "377337": {
     "fingerprint": "47fe560450d05329b75e543999b0d0d418c9098c0599cff94ca794ded6a9b534",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "afd553495ea47bb45c51f30156df6c7734d8a04cd03957fb6500c5a6ab562e8b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -29,7 +29,7 @@
   "376934": {
     "fingerprint": "b388c82edfef3d421231b262588a7e221caef1b684fff257c0cb9928a862c05d",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6b5cdc1a830eded46788cb8289b27e9e7160cb4f24f6c5c1e6423e1b82d8d51f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -38,7 +38,7 @@
   "376967": {
     "fingerprint": "8d9cf109cbe448216819ec27e90c67606a3330453124e667b2622d3964d92855",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "dfe60c75e4ae1a7c37dcfda8611523ae246deb4a5773b9000c86a397d205e5d5",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -47,7 +47,7 @@
   },
   "375650": {
     "fingerprint": "c1848ae6fdddbfbf70238a0f70031718dee7c8de7876253153bd39a9ba15ca55",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "face4063a77e0ae5367820250be75120f8a141d44a53bf0023ff2a56f7367fd8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -56,7 +56,7 @@
   },
   "375643": {
     "fingerprint": "10b6d85037f4ede1f64e7b6be26a05e09f072bef7b26da719757ceb7f69a835c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "5e182b2e1b4b39748b2fd430fab4f02f5e9468858adcbfecf2486e0d195f4950",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -66,7 +66,7 @@
   "376965": {
     "fingerprint": "833c48cec88046e3d2873543d01a39ed693922bd387bfc02cba1e45ee69d4215",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "bebd142be1f53031db8bffcf7fb39976441323be1184c1fa2c248fea3cab83fc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -76,7 +76,7 @@
   "376506": {
     "fingerprint": "1a60eda0531e5f1329ab7899d48ebf730a782c7f787fdccd50189cce060f7cd0",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "dd8d25a6561786a43bdd7227e3944b2f4fb90a1e536372a6e547dc6ce4ff57d6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -84,7 +84,7 @@
   },
   "377459": {
     "fingerprint": "9df47ce2935790f7abd893126a119ff4d56ee4f330533807fafdae480f7f2f8e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "50f1ff7bde646e2baa99e5eabfb8a923d876d64fce2dcfd5e585200791fc9120",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -94,7 +94,7 @@
   "377426": {
     "fingerprint": "2553ea2b2d76c448ded20cf0c3a4ab2597ba39579c5765ac125516e8cfec2856",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "149821ffc16edfb6bc2da54e5c96be27958e5c8feb5e2c8c4d82e6b6953b3cc4",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -103,7 +103,7 @@
   "377425": {
     "fingerprint": "72e18d60ecaf3b14d47c48bd213e56d3ad38642783da3824f0c4cb291f587802",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "4f9e91aefc72a7d4c397ec0a912262a9ed4bd44831d2120a5b4c7ed78f7a3106",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -111,7 +111,7 @@
   },
   "376458": {
     "fingerprint": "ff6e2589178decb0302457da5472ab8662c8e129046bf4fabe37cc1d0226ad26",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "cfb2d4dea70d936824fecaf8ebf14e19be0da5de3df302b2d458a2a5d1e1ece0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -121,7 +121,7 @@
   "369657": {
     "fingerprint": "32ae48bf809448a20d61a0533aee723fc9b10d1808658aeec4f97fe4f459c51b",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "8e4db721d524511e4b87f10f6be6ea78aff8c56862838238bb0ef5084b7120ab",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -129,7 +129,7 @@
   },
   "376516": {
     "fingerprint": "a592cbd0630271de4d376bad8aeed87f1e505c7557bb8945d3b6f5670279bc6e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "bc38f16b13fb7864f846665792375de9f98df9483bc58c80b863af3045ae8987",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -139,7 +139,7 @@
   "376256": {
     "fingerprint": "a12e53c87d7235f960566c87d525bb392718e535eb1640e5cc0362c65dfdccc9",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "3a253bbac32c274f5c346c663d84059760b6ccf31e6266da57276b3c920278dd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -147,7 +147,7 @@
   },
   "376193": {
     "fingerprint": "c5f9dfc65c19acebd5ca0d20755207952a39251b5eb181da61bad68b1636916f",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "fa748efd9a3a11f50822862a6751abbb1dca8a2dbff3d987e17a11316e416786",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -157,7 +157,7 @@
   "376054": {
     "fingerprint": "405bfc94bae2a6cff116f02f15057bd9d2c3cac65f9238ca816186d043067709",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "917a80b21588f0271c401d847f9dfe11d9c38bdde32ee02f5f69d1571a2ea447",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -166,7 +166,7 @@
   "376048": {
     "fingerprint": "c96f9240a90438da7417cb369b02339cde094f830dd0ed9aaeb8d4df6607f5b2",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "11e73e94e837134fd4e5ceda366cc564ca3092a436dc32a98b4887e9d6cf4c92",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -175,7 +175,7 @@
   "375924": {
     "fingerprint": "bdd404e579e87d72bcf5862c29c4344fed1dd1f99910de16f5a5a81555c1ff3a",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "990eee79b7fb42a6be7efe07e95570a593244919b927fd2612bedc3b3060d41f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -183,7 +183,7 @@
   },
   "376366": {
     "fingerprint": "1e2032c1f085861515fd5686e5461e6d4e3211ce1e27470e2904d108d428fb77",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "bd86f47a12cf07e7defaed36de7a49760fb5ced5cafd88bd4a0878e74d429815",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -202,7 +202,7 @@
   "375801": {
     "fingerprint": "73f54d26b451ed77ac4d94d9cc4218abc2d347df105d44984d9f52bbf6e8d234",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "965bd29cb3256e9d99cb222c0e06f3f83bd95f756c639ee56d1cce012d0cb4cd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -220,7 +220,7 @@
   "375378": {
     "fingerprint": "7ec8a3a3e2ffbf9af7afbce2581050e2e79080a4e7211653a199486e64f05df6",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9a32e746f4d7a88ff776b941f74f6315736457dd2e0dcf114ec41ef4afdb6ca9",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -257,7 +257,7 @@
   "375263": {
     "fingerprint": "4c6160103959c727e82275614eaeeb36a8278f720807559101fe677974b38fa7",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "ceef694d77566f237048af8c0221fd49a1b8658c71fa2cdd33765ce441da0709",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -265,7 +265,7 @@
   },
   "375153": {
     "fingerprint": "956fa3f583dfdf92a571c5d8cc2ea535647b4e6864b07cc4998d2020fe10bd7c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "16e754c63ae689a38677eb2c17db729d393142fc31b630c30855c29469b81caa",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -288,7 +288,7 @@
   },
   "374925": {
     "fingerprint": "7c121137751b2459df532db0f8af2d958511a17074737f4d8fa9edf88bc18ce1",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "5c207721cc6571f91848aa6f25fc269165705a29090506c90f415058170164ed",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -297,7 +297,7 @@
   },
   "374886": {
     "fingerprint": "c118a894ea5040bba053eb330c5be591671f9f9c320b93c36d414007c33f00b2",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9476c7f344e9b92b223c3e76a26c8bb928b4c1f569b9ea0d465c1ee26a43e6ff",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -306,7 +306,7 @@
   },
   "374882": {
     "fingerprint": "79244cfac73c3aa23b2d822f8de7c0abf6d2ba452652b930f7158b184ae9821b",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "10180c02ad667eece21e0b0fef6c6ab3060f12b43b08009279dfb4f151430ea0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -315,7 +315,7 @@
   },
   "374546": {
     "fingerprint": "cfd9b25ba509dce53bda8258d0b78cbce1320dc785dfd1818bd189f84926015c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a883e5c89987f1ff6fb67e6aaa038e9a898ef94ddc9b694047a70f3ec76b3606",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -332,7 +332,7 @@
   },
   "373075": {
     "fingerprint": "97a286a958587d90cb5255b2d1c9e4d99adbc41cbf5b1bdbdeda6bd4f43c0a09",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a9ddccf150f5a2f31dd3df754cbaaf849bf7574164ca8cb79d5a6e83d4d41df1",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -351,7 +351,7 @@
   "369355": {
     "fingerprint": "edc4e793c9b189017131e4bfb38523e74f9ecf200ae85c14d32ab57cc061e386",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6714d408f5bfdc351e7151e0662ca1b66b879321efa037e409c5f194b655a4e0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -359,7 +359,7 @@
   },
   "357927": {
     "fingerprint": "7e604c59aa86a1216cb4c0babf279b2dd327c810b6fd3304b1bc1358736e2ffc",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "583db157463dce5aa704026b82e7569096b46b7264f7d2d8ddb479c760722b46",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -369,7 +369,7 @@
   "298592": {
     "fingerprint": "240c752f098841a5eca924a513e356329f674f912df5a0c893a19677786ea472",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "53952ab74d35b5e4914ca62d8a7a1221f466c64d740a911af3d84f9d2ce64dff",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -379,7 +379,7 @@
   "376963": {
     "fingerprint": "05d60204274cdd12cce3795369d9a5716d0d2718d2d181441268192e907b962d",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "2018f70c8205b8868b709b8644f4a933309632dce9452f9251a3d4be66eee284",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -388,7 +388,7 @@
   "370527": {
     "fingerprint": "2e48ac829f3d9131c485c2477b8b9380dd0220e53af83b4bd8477e9a2ababc47",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "636bc0d8cd267604ba758ea764829bff75768ba3471653227eb4e1542131eedc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -407,7 +407,7 @@
   "371987": {
     "fingerprint": "32746f07248a4ac1f5e675a7a7941adafd76d2de788cadb12e3e30f199360775",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "22ca42b66981cba2135fe1eac6aa1cb5acc8750d7c65214420b64389dd86fdcb",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -417,7 +417,7 @@
   "370987": {
     "fingerprint": "f341d3716704180f24e864d59ec24f9a9aee13319091357295de16425a8c3763",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a2ed493a5a53aeccb0791c9004813f7cd76c88850ab7fa839f0cc11237b840fc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -427,7 +427,7 @@
   "377499": {
     "fingerprint": "90bf223ac0d28382a9e3d9f91eb7eded00898abb837d35e674f8f5bd0a527288",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "59276f817efebe6a2a2d87538a27fe09836dfc00f8109f93c3f4479efa0de2c2",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -435,7 +435,7 @@
   },
   "377402": {
     "fingerprint": "693eaf5ea14deacd98b1d31376afd7b175d548e9a09d0190f11829a39c03e181",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "2e769b19e71ca49a84c9d316f74682de245c01202f6c63c14afc749f28749556",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -445,7 +445,7 @@
   "377439": {
     "fingerprint": "e849f5e347d1825e2b9e5585d1347f14b83b40a4827ac7574150a2e31f74c5e4",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e9a11cc7579c4fc9f7f795270bfdf46713901a876328bc5849f34e306db23747",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -453,7 +453,7 @@
   },
   "377144": {
     "fingerprint": "ca7321e730ad8e5dfe4dc98a608cb17c75902beb121770735125704f09f42125",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "014ab4acab8068400629bbde1f986d2cb0398ac23e3f1d689dcd754fb0d51f57",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -463,7 +463,7 @@
   "377183": {
     "fingerprint": "9a9ea4ec9388090408e8a067ace09acb47bf6c8384cc8e3240d7b05f2460c030",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "3a95500651b40efaf3c33b12a5a591d03519b07bead84983402bf9c14ae26649",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -471,7 +471,7 @@
   },
   "375652": {
     "fingerprint": "f26a23406f121fb127b0080f270f44d3eb56fc4e9f43e927f74c5623a3b7b1a0",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "4d3a43396ec7fc33bb566bc3ba5571c4cceb313f872a70a82538f31ab3dd874c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -480,7 +480,7 @@
   },
   "366197": {
     "fingerprint": "8ce631d912dba2c11c81286b124b3c23abecf29258bec5074e0be355e0eae5ab",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "5ac49db84c08cb12e37f3ef812bfcb68e7be0dde1b315b0e73efefd79c04a4fd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -489,7 +489,7 @@
   },
   "197622": {
     "fingerprint": "eb280c12f617cd85fbedfcbdabe1e8a86e5e255ee901962f2502b7be36b552c7",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "1c9800551c11b07457a887838594fcef9fedfd5bded8338ecbe79923804a20e2",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -498,7 +498,7 @@
   },
   "375648": {
     "fingerprint": "6f61a170cd56a6055e00ba3b44beaa64aaa682bff23e681188f3e4a915fec88a",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "c2c48e0ae79fd7b09f594d87c75f94c5b98b6b5c7059a50c856494f1fddb20cb",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -508,7 +508,7 @@
   "377101": {
     "fingerprint": "89f00adb647a225e654e376a42f733b97679e60348dcc54b7e90f6d5f2fd28be",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "90a3e8dd302bd9dd5f59c21dfd460c74a54b734a73db6ba25d05b4746093fbc3",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -517,7 +517,7 @@
   "360568": {
     "fingerprint": "bf7e71262c1d4c79d7c91158820d081b95c5b9a0791cea90aae10d8616c0a936",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "70f280c677994fd910975f16fbcf4605a7432972b22b4f59317a0830f911bdda",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -526,7 +526,7 @@
   "377427": {
     "fingerprint": "35501458c65468a32273bc19b51ba0775fe115936271110f78c72632006bb6a5",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "86cc825cd94fd26853f2ce9e35fe66a73d08b35bc5515a5aae6af0ee877b8eb1",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -535,7 +535,7 @@
   "376257": {
     "fingerprint": "c1843ea55978b1cb9a145475b2c21a9966ec0268876f900f55586352c97c43fc",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "2d9eaa0638434e36821a61fe782be8a3ce43561376ce0f22ea01eed93fb69a93",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -544,7 +544,7 @@
   "376052": {
     "fingerprint": "3f8fe62adbe50e6de5489e8a7467d6a1a2936fc5db5417b94df8aececd8d43be",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "475317625939aa143fd30fbae64ca5be88228f0d6f5bcdec463e1adc69b8900b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -553,7 +553,7 @@
   "375923": {
     "fingerprint": "502085578a7e563cdc860827fe9bcc3cafe83f09e0db8638a79f8e6d3e0c5cd0",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6f0d38421b2595b059c54b25d29325aa98a813a6b8f1c6505669bfa7e5857149",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -562,7 +562,7 @@
   "375925": {
     "fingerprint": "8326dff97eb2cea2676d2fd97d4ae581aa3108ee842770454be2cf2fd09fc165",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-08T19:27:45.886108+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "541c1d7f03a182bfcd9c9eac9595638e26678c7b34a9ed8fdff5eb607333c652",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -572,7 +572,7 @@
   "375392": {
     "fingerprint": "7f6cd06712438fcf506b64dc25e638cbdedf828223710378e96c0d44ba114419",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "beba3ff25ebb3a1741b81b5e24464c7c9665439a686f0efd4efe03ab459ddf45",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -581,7 +581,7 @@
   "375920": {
     "fingerprint": "86a9b2d2be979e878a56b737229450935454541aa225879e420b476663ed7131",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0c24628a45a91fbb635c78ac774c93bc144097c9a932960194adef1c0cbc7cfe",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -590,7 +590,7 @@
   },
   "373983": {
     "fingerprint": "fccd64b568e27d357cf5941a54a7e8bbc59467f28f684a5c35e1161516f9c778",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "22fea3328ecbece002023854bad39bb9bb6f3909be3b4316477580a3d14e0d5b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -599,7 +599,7 @@
   },
   "373909": {
     "fingerprint": "64e93e52af43a6776f5875cd759ddb9a799a0cbcf960f3c34d9f003e86764070",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "75d54728cc1d27edc77e15225e3841e71bbb7eb334713ee9e2ec497091a824ea",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -609,7 +609,7 @@
   "373908": {
     "fingerprint": "5c3bf819fcf50371d9056aef223da191bcf42ea8d609f5d6cbeee519ff3f7b6b",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f9d63018fac1db5e214ad4ff3b6780c36d7e7a4712ea142056b110a42d69e4ec",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -617,7 +617,7 @@
   },
   "374887": {
     "fingerprint": "2f5fffd67d1365001601e68f5b445ef74223c7675cae6aab470c152b1f5c1b41",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "dfec4acbbc9807a3c479729cbd3e7c730fe5406ee44f8023987677de609f3ad8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -626,7 +626,7 @@
   },
   "375155": {
     "fingerprint": "d08002b1975e85302dd820a925d3462064ca81f0d1cb561f1795c222b90fa96b",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e30107b452922f6b219488e7b9739e515980bab654e9358aedf02fcf7bab97d4",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -636,7 +636,7 @@
   "373342": {
     "fingerprint": "7eee7ff53adbc9a71d3700ebd9f54216cd3f8de3da427cc120c53930adaabf17",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "7f6835187cb9d49ca13fa3d453f6f0b489386e8a4d8740b035195db412c4f1c8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -645,7 +645,7 @@
   "373483": {
     "fingerprint": "c8361eae08974820f961d7b36f7dfe1fdd3eba1696cceb5b9df47ef12b5c615f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f16c7f4bede450c3a7dbd619357a380055abaf4ee8f8bcb9d1f5c494085ae50c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -654,7 +654,7 @@
   "373311": {
     "fingerprint": "c92f717d883b70a02aae7f07c5d0030d5b601574749cd6335f30246b637e257b",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0c974cd731112b3a22f68628b5f775ed52dab91bad3a171e4c27a47560b23a6e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -664,7 +664,7 @@
   "373535": {
     "fingerprint": "cfec94470f5c0189e795236d1fff07962801dc6f1c187f865944e0b273f895a5",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "11f010d5eccbb80d1a750c2222c172be2270af52278867850f2b82cbfc6f5f8b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -673,7 +673,7 @@
   "372715": {
     "fingerprint": "506e9aa59ac04802d922b601714d793160421c13255d04a2e55c9f5beca122cb",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a1cf0f1f11eab4a30366c4d413a4977daa1c45e7c60bc13066b8e6ca2e15c50e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -682,7 +682,7 @@
   "373172": {
     "fingerprint": "589eb2eb249dd2fe36b6588fbfb16542281ed8a754902da446330d99c178660b",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6ee16a72517064c4d60e824b6f06f9caddadd0e8b477857ad2da9ef3a3dfd036",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -691,7 +691,7 @@
   "372714": {
     "fingerprint": "fb4f5eb0fc63ee26d5f2310b0515a3ac45b3453205ef1aeed5f3751cdb3f238d",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "44de00d7092f4d75cf7fb1610fd2abac874d445f6460814286b6a30e88e72b21",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -699,7 +699,7 @@
   },
   "372439": {
     "fingerprint": "c0c372f168bee92209b9d9952f1dbaec31b364dddf9f5038366c4ee16d2c501e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a8f589fb273093bf8d9c0e37feebd040f31cfbb5d05886f60695ed933aa37361",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -708,7 +708,7 @@
   },
   "372434": {
     "fingerprint": "45bfc8924f538f8d91ec7856e990f2f49147e731aafff6547b16d435d9651c89",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "c71e5aeab9dd35a445dc1ac3b8fc0e64c97ea9beda092685cb81ff6b3e8188ae",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -717,7 +717,7 @@
   },
   "372629": {
     "fingerprint": "dad8982fac3401428c32524b73d64ad4953f06717f8dc3000403b2ef7e881291",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "ca9443064f5ec4161b8ca07a32b20913d7f014e17dec5aa99d513f440a59be3a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -726,7 +726,7 @@
   },
   "372921": {
     "fingerprint": "3725a583603c2a10379e736719830ba995bda72e9e64217536075e70515d30a3",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "3846f45c0ccc49c3df533d8cdc6abb1d23d90e5252441f2793be880086644ec1",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -736,7 +736,7 @@
   "371908": {
     "fingerprint": "8ee0f5b830aee14b227631c4e6425afed8abf869762be951596f1f913cd9b855",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "2c0f3458a5d7763603b81f8416af14715d17464d3ed463bc10b26a2c9f34a11e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -751,7 +751,7 @@
   },
   "373013": {
     "fingerprint": "85c11a0a6155b2fee1bd3484fffef7134555e28bdeb55a709ce7306738b9d5c9",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f2da2260fa8eea0f175ad39d498f76341d0fbb72c7d157102990b532ffd27619",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -767,7 +767,7 @@
   },
   "371875": {
     "fingerprint": "74ef30eb8ca600ba63fe43490bf4f295243532014fd5de1d679e66a2c7143958",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "fea79a05ebff662044a2b5bb7238809c803623100ebf54d4c6220a4a43506c94",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -792,7 +792,7 @@
   },
   "372872": {
     "fingerprint": "36f7f661cf9e85928a05def93d881ae98e1f57b337641afe0ea9dc656684e62e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "1b2ce1800a220a5043c97aa1a962fe8f11476f8107743a62246aa2c85491623a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -801,7 +801,7 @@
   },
   "377546": {
     "fingerprint": "7df8b7fcf708d770c6ef4f4fea23ba912a73da26b9413caad7eec8e641c7e41c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "03b10d82be046a4cd341e5a527231b889f0acfa50b9cecacfbad0c9cc1f1e5f3",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -820,7 +820,7 @@
   "367101": {
     "fingerprint": "d4ce9cda980d3afe71477eca9e2b82013a3b0fb033cd930fd972b65d8857ec1c",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "8000ffd356eda5a1a3424d6a5ec68c9f056e8db2f4e2e1ae573ffca1a12bf712",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -830,7 +830,7 @@
   "364475": {
     "fingerprint": "b4298f686c046138df5e34b72918d89558be1d6c3638ff167079af40957dec74",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "02538bd851721e6f216162cd8dd83f10780a3729f87881c2e41e6aac40c44722",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -840,7 +840,7 @@
   "363644": {
     "fingerprint": "d6d5e6a9fe2ed4482447568b9ccffd3155603a0e57d378172ce1689afc404bd1",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "67ba61557e9d3af50d4a466e42ad7b1e72f657d9beafd3895e8e565c0f4defc0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -850,7 +850,7 @@
   "363642": {
     "fingerprint": "b4da94accc7863d89586c5ee5cf2b60476a69ef8d4bd5b00a605187c73e7c7cf",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "64c2ba061a4363aa4f7f7874fa38ac6f54f224a70025b922101dcfcaa1482221",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -860,7 +860,7 @@
   "365448": {
     "fingerprint": "be4fdf1d6593d9020e977b026fffd2f99a718f1537b123aea4575f6affe8b0e4",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "423895603e036bf52eb3315d4ccfefd0f6cf923ba13b5bcea3e1dd98a6b047c7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -870,7 +870,7 @@
   "362510": {
     "fingerprint": "d2dec9197357169a6db3d6a7a2bed5707914e959d1baca067bd9e96c26fb6230",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d3f7302713185741b97b3c61246199e87a4e9d19e198c59de5e5112fa50785c6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -880,7 +880,7 @@
   "363273": {
     "fingerprint": "6fe4289b744aec264c7b2cc51c3a0753247dc3ffd7fdec71730a93916975b65a",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6588687fa4695c7baa732edc380662da793e98e327f8ce05f25df45ede2ff492",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -890,7 +890,7 @@
   "359877": {
     "fingerprint": "38d8ba7fa16a1138ca11a201d327a4219588ebd7a54946be90be6b2148e61769",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6f425d82988340dfffaad3d36a559a345bcc6a1896029e952977a98ba8da3177",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -900,7 +900,7 @@
   "354727": {
     "fingerprint": "34b20d1fcca70b1f51a8666815618cb20d9a3339539c067205816358c370c418",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0cb1719860da2481d835291670139014f92c13879f0c7d113b64dfcd44d3b26d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -929,7 +929,7 @@
   "355118": {
     "fingerprint": "9a3e7258c39ec7b12cebe8a250bd52ca5e73bca87c9f3ccf936563acbb9d384a",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "4a61ca4bc29da19c8b293b26c1ef0c29aa51adb8793c0e0ef83f0d7102e2eef8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -975,7 +975,7 @@
   "373746": {
     "fingerprint": "6524f5838e8d572e982944d5c44f49a4a6e7104213df24b8d4105fd5c63b49f9",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "89bb05264edfd43e0c29f88d071bc5e62954121a4069559e09d38c4e495eb450",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1064,7 +1064,7 @@
   },
   "377292": {
     "fingerprint": "ad8da77c55eaec4f908ed5991cdf2e283821056f2d995a94bc97a152c8b9fc1e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a61f287549a36bc72b3da69e5d9f2f15eb5f304aa4a1afa28164d90f02098756",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1137,7 +1137,7 @@
   "377154": {
     "fingerprint": "3cd799dbd732a3d25f0f9566f5c854af9a650544832ae3b94b5c1fdbe0c5de75",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "dbf35d8dec983ab81e82e423de7987f82aa6c0d012c57af316c97d8fd78ce2b5",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1145,7 +1145,7 @@
   },
   "377102": {
     "fingerprint": "a23bb79b447db20c57ce1378e69a2e9e9ab767ba7cdd3e59c04e9d1c1f78b872",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6310bd1fffce0b37615e0ae4a6b3921643e43842f4818e92853fcb12f3fb306e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1211,7 +1211,7 @@
   "377025": {
     "fingerprint": "fc2e952130dcab3d8559b2d3107ef9c24853c955329a3221307aa6e2064e6d19",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "bb17b44b4559bddd509b53bd7d315f56e9d5cdfe8d7eaa61687c4a7e9e0af879",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1235,7 +1235,7 @@
   },
   "377020": {
     "fingerprint": "9c66d566fb28d9530452b79b5f2526ddf14b157914551ed4be5c656b881e7315",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "cb01dc4aa5fbcef8ca5fcf61bbab7e7ba46807e58953b18b13a7a6005e79ac03",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1245,7 +1245,7 @@
   "377335": {
     "fingerprint": "da19222932ec884552bc41542e42b32251727704d6dbd5f8fe4c350e281a8e82",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "7fd12958261526a4184a0b4c5d3941b3b1810e34b5815e55ce4801396f31777c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1254,7 +1254,7 @@
   "365143": {
     "fingerprint": "c272a016ddc799a043aa115811c72191f79c225d5b889cc47343e55d0f1fe3c3",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "c5e61e797dc385590ca1d9f9889f9bebce72b9fefc53182c21c4a46d3f4aa2c8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1262,7 +1262,7 @@
   },
   "377016": {
     "fingerprint": "4955191cf839912628132205bb642258c242ed08371ed92ed5784e84a4396086",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a745d86682b54a6f6b866e15b873d26f6a88dff9fc32725a973f08e58179f58c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1272,7 +1272,7 @@
   "364643": {
     "fingerprint": "601cb04f82b27dcfdefc7646cca566a42b08f09a307979739c5e1aa246675656",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "cf19043ef0d768f6fee6a22ee75fe55d5aa277b9a9e6a1ee555a92689a68f2e6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1280,7 +1280,7 @@
   },
   "364213": {
     "fingerprint": "d2319019c6d3a5d4cd0019b9bcb1787848d599d2416f539a0838c4a08bec2b09",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e9d953141cbc7a7796533bded5ebc2e6f35658cff1cc101d8a52afe691311f0b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1290,7 +1290,7 @@
   "375647": {
     "fingerprint": "7d7a8bea093a7cd8bcab22e711ac04b1dc151b4e0c3c1aec2f5bf47c31dc9aad",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9d529b2ba9f377a549f5461c61f224d7c04182c93f8f17266ee9c5e41a399c91",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1307,7 +1307,7 @@
   },
   "375590": {
     "fingerprint": "86aabbbe00ac0c6789dadfe91f76c2dc3485bf020a79485ca6160dc9ebc327d7",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "89d8d459b315e63fed14fc007ee78b4fd34960367091e6c8813553f4daffdb22",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1316,7 +1316,7 @@
   },
   "375471": {
     "fingerprint": "a95f6d26f8b478638179ac7fb275de0234ffae64819d84b0e51ab637c7d0c52a",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9086becec9ad9e5223617d53f93d6ccfb8a85c9051582ee5a1d86b617beaba67",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1326,7 +1326,7 @@
   "375261": {
     "fingerprint": "f3689697111c7eb32b194912dcb223ef8e2f048253679bd8bd9ea318ed033fcc",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "5d5e6eb875bfb6f2f9454593fd446935179f5842a2137e86a41ccca7cb760b48",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1334,7 +1334,7 @@
   },
   "375246": {
     "fingerprint": "439e81d44426a2007272f2b9df377601d3436946f3b5108fd5742e920db4c7c9",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "220f229a4a29107987c7c880232b9ecf9d9924b228fa5532e530340708b9135a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1344,7 +1344,7 @@
   "375247": {
     "fingerprint": "832632becf243322a6f4aedb3b79681131947a80f9861d2e36860711eca4e2d4",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "343573fd0e15b13897b197358dbd8e3cd283148034bfaad8d76a7c1b8da95ef8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1352,7 +1352,7 @@
   },
   "375175": {
     "fingerprint": "779adc3a1542765b5f3d6e576b73aaf83df9c13efe7382c95b67171380937e62",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e28757eebe2f6216b4af5c705f3473da841b83bad9563cc1a1dfe329259df31e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1362,7 +1362,7 @@
   "373879": {
     "fingerprint": "582f7a452e5dbf30b53458c7fb6b6895b74b3f83740ec7f513459387daf394a1",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "2b819f7bd47139878e275f9d64f6d677b745a73a80572b257530a9c4858b661d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1371,7 +1371,7 @@
   "373878": {
     "fingerprint": "d7bf227f8ebadd7f4afe0d165b8e0d7db419cf758b655efc9f6c7869e77eb0ef",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "3bdc50bac1a582f4bfbbd3de7d7f45a38f58aca9220453c03badef2500fefdd1",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1379,7 +1379,7 @@
   },
   "373877": {
     "fingerprint": "fc5c7e40a9a29ff6be890e0c50400970d6d0648f7b0ba6ad0d8566305c2f3516",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9af99797c46052dd1df517494251e16dc5a30e435bd83c3dcae2e0b8f532b5a6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1389,7 +1389,7 @@
   "374776": {
     "fingerprint": "e4f718e0f9eda30c3a6bd1005ea9e56e478f49c19a62554df58455e7523b31c0",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "956ab5870f8b0c5772d5a4f54352a6df9b496e5518b0d5e3de68ee99d47ba66c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1398,7 +1398,7 @@
   "373850": {
     "fingerprint": "75ee43f319fb27c060744d21ed79b3902cf6d25ff7d244e9efb1ce33806656e7",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "8f451c22c98a5616b88f350bebe34b52a6eda36ca59d22c2cc7dda87e30048ee",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1407,7 +1407,7 @@
   "373559": {
     "fingerprint": "741ea0ef4ecf733302e350cad11af1c6845e7a4d0adba2e4ae4b1f080d1153f5",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "220ebe457c3520f673ece0cdf0360df234cff68452e6b6f0f03048348036f3e4",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1416,7 +1416,7 @@
   "372846": {
     "fingerprint": "962cdc8fdc29ad4e6301ba9218d7826bcfa697dce79b4d98ed17bb639dd07b77",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "200edfb07f1e4ef4a40eb53d25113e2ff66c67c0e74087abe3abfe56832780d0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1425,7 +1425,7 @@
   "372516": {
     "fingerprint": "b9274d803113fc6d6071da6a535e7ec18560544a4c89ba7f8f7749eabe09f765",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9825e6c2a9338f62c4498cee79b7e8525fad32b2a6737de1f3fdbb2750c6290e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1434,7 +1434,7 @@
   "372514": {
     "fingerprint": "00e42dc1b611caef66e1365035b37365dd44acd5450a88abcf4b9f1f16c11768",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d31629b1e423259b47168438efb243b8a1aaf07ffe0c18f218cd169fffd4895a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1442,7 +1442,7 @@
   },
   "372511": {
     "fingerprint": "e2377902e475c67a2199f5b3d54b9fed94292da91be4ed7881599300a41486d3",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e4606d539032a0bf81642266d956ccbc3bd1934eae541b8815435c5fb19a453a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1452,7 +1452,7 @@
   "372512": {
     "fingerprint": "836443b05fcf21657feb1ad9f0fb59d3720d422dafa7125c936c911a5ccfa83f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d6525b1ab4fef4e099b277c8c5ec11c388e09ac99f61aab7bc93a7a721e4ef1e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1460,7 +1460,7 @@
   },
   "372510": {
     "fingerprint": "cb7863bf1fe4025fa95983f6a894f3658390694a56f16c43965f3cfb0967cf5e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "967a77e485d2adc2b461ed0df3bd77f4a7305130f0b333a6d8a322bfeef42708",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1469,7 +1469,7 @@
   },
   "372507": {
     "fingerprint": "9c5ffbc8391ebfae52cc6ee6f1d39cd2165a3f7990099d8d8f75c6501a464f80",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "eda9d7abcdcd3de10fcf65b84feb7e12a55e06458d6a4a041bef3c08d3a3e836",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1479,7 +1479,7 @@
   "372508": {
     "fingerprint": "e1bc3eb4108b6432a8c8215744c72735948d0bdf4d72721b45f6ab93659c0a5a",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "c415ac63009edb7b2f497a48c98e83a5cc68535edf40e4d6a87ee8923318e0cb",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1488,7 +1488,7 @@
   "372509": {
     "fingerprint": "7f7e82847b647907ba6d3d80a181352eca7bcca0aca2ce14fe1e3d565f1bfb68",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "b20cb64f8f6071644c6ebc69d7f2a916b6fdfe6e6f580f79b4730bf350a378ef",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1496,7 +1496,7 @@
   },
   "372504": {
     "fingerprint": "dc336562d743aa3631add37da65df2f6d2f43e42f974698f237557cd48368934",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6a4054168597ae6f7b96e97523b9923f507bdb15ba628a9d2b9d4777deef88da",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1505,7 +1505,7 @@
   },
   "372503": {
     "fingerprint": "734f2f43ed5aa47c1d530aad4e760ad4a856cbbc736b6c3a72621d902720b676",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "28a5955302687097b346b2d3097720c5b5c206d6ee59088ca437c47ab1375bb1",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1515,7 +1515,7 @@
   "372505": {
     "fingerprint": "ed71eaaf723ea04ee5eff906ea32903f787e5c1d5fdaa8343784306a3835aa71",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "741f0ec37f5c4d96046c091633aa8569f18fb6c44fdbd8632953b0f9cd894d75",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1524,7 +1524,7 @@
   "372502": {
     "fingerprint": "a1490fe42f04becce6752f36d5f867bf7851a0c113c2d475a6bb59289b8cf737",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d60ceb534ceb02d104e3bc7aa6012dd1818208a2dc71f17c764991148f653633",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1533,7 +1533,7 @@
   "372015": {
     "fingerprint": "e01a7239e67c7b251bf40604daa4bfe390f8312d27c98aa72d368e66aa807564",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "71aedeb1910daa054f68faddf69e825f69610c67512a56a71ab8bf255842aa61",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1542,7 +1542,7 @@
   "370613": {
     "fingerprint": "f4f2a438d257ab4e631427ef13026ee5239b78e5a511fdcf8cf5134a51e46a0f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "39ab1e3588cb6e91758d923bd53e5d599e8ec6900c0b1eb08c655a3e8c17404a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1551,7 +1551,7 @@
   "366852": {
     "fingerprint": "3d7a1a80c77923db0d57d1ec1a994921a5985c01179d5a4414fff0afde572c12",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "4ce8ac7fc4f335f1369b2b10695a4d3be9306b744d419619b96e627a4429f222",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1561,7 +1561,7 @@
   "370135": {
     "fingerprint": "f4d07d33ce68c7b9c58e6a4b0dd46fab8f40e1f75478f1dd27acb95a37050f8f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "62d4134ac3528d552b597d82a2ecceaf08e3b43d34d6923f2b096d598547e7a2",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1569,7 +1569,7 @@
   },
   "214755": {
     "fingerprint": "3ff86e43eec7b85e78e2a479680e596dbff51881a979b6e735c47598a719108e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f476c81bd76c1d46956e1873be450994be4b2b07e09838cd154eac8bdf69a9c6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1579,7 +1579,7 @@
   "377470": {
     "fingerprint": "3096d71b0f734d74a85a4088be5b8dc9af2a6f0c80ebd9ec1e6d1a0d80a62b2c",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "b7db3e304d39cf938c18020fc5ff15ce8ffd38b35ab78ffe79477bfcff583921",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1588,7 +1588,7 @@
   },
   "339252": {
     "fingerprint": "0c5c7cc5b60410fe502e189b1bbe942f61e82fc67b8a704a0ad91f358d2d2709",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "643c3dca412a814241a24370427789290b348e33f6749d0a3c5918b596c53042",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1692,7 +1692,7 @@
   },
   "376668": {
     "fingerprint": "1ed9ff60a32c8d2fda15a6e9534582656ecafff4f79b33437eea9ab07a7815da",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "536b757d9b1cb1bdd8c329fc79c124565e25cd8638878936fa89d4d0d879c460",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -1786,7 +1786,7 @@
   "375337": {
     "fingerprint": "375667b0c62077c096f226a5fa807aee0e66cef788d751b011dbbba57ef3b670",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9b07ae35ddbc401e05a0262b18f3efd089720c5ba858c971b1979d194882aabe",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2048,7 +2048,7 @@
   },
   "373055": {
     "fingerprint": "460d51292f4e28008a2c420548d1313a705012af74f11dd4567bb85cfee53780",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "283ac1371b8f22c615c65d1322d4cbe0767c5b08796431fa095ff8254180b08d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2072,7 +2072,7 @@
   "373008": {
     "fingerprint": "a3062238380f22614fcbbac9e7f9bb98a0a6d622d07efae5e218c2e538d3fe8e",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "67bc503c3e801015065fbb0f3bfa65265a07ff14876f91db7cbf9a291f64210f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2124,7 +2124,7 @@
   },
   "372517": {
     "fingerprint": "209447fb98dcdf5a932a2c072203ed8afe9bfc6363fcf0b379596418a8ee2e11",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0e53c80614011187d397c8721cb59abe962fd30db3dfd2c2ba6bdbaf47edfcaa",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2182,7 +2182,7 @@
   },
   "calendar-a927f474f40a": {
     "fingerprint": "e6b746fe8a7e6bd076fe746f712376eaf98bbeec2207377f7e151f70ac24e482",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "fa1cd840fd6ab91d795d810505e3d7c9de88cdffcd30e15ab624b06c77ab5e64",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2191,7 +2191,7 @@
   },
   "calendar-e89ee0d7afe6": {
     "fingerprint": "8e54cdc47fd0074bcd847c04293666d067e27a77bc37e8710829b811c42d7c85",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9658b5fea612d87a402fe77ecd39e6066d1429615d8987a9e9e36fdd312f786a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2200,7 +2200,7 @@
   },
   "calendar-2a44e41b9351": {
     "fingerprint": "fa22944e45b809b9358e36a560d295b304c7d71dd83102c7e3ced7850dd4850f",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "1930ff363a5e764bfe4037e2c435ebfa587030d22286408e1ff501bb9ea84db6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2209,7 +2209,7 @@
   },
   "calendar-894011d5661d": {
     "fingerprint": "b56527e314113aac422f2abb1c025d724e2fc1b33dc6b6834b940f70acf1a26e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "cc349a1b59a2110ef57057779c196e767002290dbe846f3c83a9b56d10d3156a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2218,7 +2218,7 @@
   },
   "calendar-dcade8cd24a5": {
     "fingerprint": "ac31e7ebc79a88f5cd1c3558dc1fd631f238649f26e979fea09e4e3d1dc3a732",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "dfb6bd2a265bf1afaaaacc8e9e3e8d47e9fd458055823ddf978822a66e612ac9",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2227,7 +2227,7 @@
   },
   "calendar-0e709bec7a62": {
     "fingerprint": "eea9f604703f3ea6a813a8bb1e231193fbf8345b0fec1e4dab4fd2f779df9d2c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6e89c812b68aa1924bcb2a3222c765c09dd1e507a56f1c36fda3954dfb94a8bc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2236,7 +2236,7 @@
   },
   "calendar-e1c72c9a7e97": {
     "fingerprint": "38302cfb80b924d7e6cb35de72dc92a42c8dae09fbf6a928ba4bb623eb203fe0",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6d1115791df231101162472dfdf07154537d549fb55b6658bbc772cc97a4208f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2245,7 +2245,7 @@
   },
   "calendar-331fc84090e5": {
     "fingerprint": "51a77085095012ed2a86d6d9e8465db4a293e9084d9e2dcfe232c17b9669df65",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e435ab775d3c9c94e1b8e0d8216c68721b0b067f894e5942af368229e10c96dd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2254,7 +2254,7 @@
   },
   "calendar-4ddc40c5ff57": {
     "fingerprint": "64849fb9f4d53810a307720bbbcd2af8649c336a88766ef4c7dfc7a67ccb725a",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0e4c28b31dd6a0c258ba75cf84d045908b4379ae15cbbc95714c5dd77fc234c7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2263,7 +2263,7 @@
   },
   "calendar-8a5cf8a9c846": {
     "fingerprint": "9a8776f86030e733cd6c67905cd16857b3bfd1f02ddcd1c6acf590a1b7e22cb8",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "aa486f5dbe4552cff8523a05fe130a4cd518638be71f6f465e2c065a9062dfaf",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2272,7 +2272,7 @@
   },
   "calendar-970e6fd01ca3": {
     "fingerprint": "47e52e57b9de5a77c21385c796fe5d191649804a1a62d92b37365b189ce21f3e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "ea248e5076561b67bad38ec4243d1a83f523470b7b5cde9198096e17d2e6c78c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2281,7 +2281,7 @@
   },
   "calendar-26d2aaea02cc": {
     "fingerprint": "e9137e1c9f628b3b4f68d1fdd3435bc83cef79c64967383ec80154f697a17598",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e603ce2c11374b0d13f9aa1351fb636f770eb8d8572678a025c6bcec07d02363",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2290,7 +2290,7 @@
   },
   "calendar-a43334e0564d": {
     "fingerprint": "7bb3239cd5998c9f10f334b13f38463f2836b59a6c94f92a955304571530ac69",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "22d85cd3fd96483146adfd66054504d08a3101225ac920058e22d17ae34ec0ad",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2299,7 +2299,7 @@
   },
   "calendar-98f210717bba": {
     "fingerprint": "af886b421f65fd55ac5caf4aa841025a8980f0582a18fd4bf4c9d8fbefb62c7c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "90341036797c9e40ff7899abe7e70830a949cbb71f1f4503ce31cf2b3844972d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2308,7 +2308,7 @@
   },
   "calendar-dd0aae646035": {
     "fingerprint": "18ca6e40b335cceb5cc22e9f273eb8a51781c57f157aee740dd72be1b8a759f5",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "b722979b16aafab9d073221ec171406a4830d06f553d7ed00d288fcb62df4d26",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2317,7 +2317,7 @@
   },
   "calendar-7c915c0d9e52": {
     "fingerprint": "a27b1688cb5d8447f8fdfb8b38837cf75b6d6c362be97a17a01da333397926db",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "1168724500d101c4c8bdb4df19588782d131d5a97aee7e4817dd060ed5f9bfb4",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2326,7 +2326,7 @@
   },
   "calendar-3b2729ac3d5c": {
     "fingerprint": "b489ee739819a503aa60e4cad1d12e1c22dd7e1dc8c785513b0f323bb025f9c1",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "04673628aec6d12400f802f089d169a96f94831d91fd58a6daeea31e592dd4ae",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2335,7 +2335,7 @@
   },
   "calendar-38cbbfc9ef4e": {
     "fingerprint": "65189b64067e90a543976de821fc603fd9595e09bb3cd9913892ef6a99a74023",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "4efdd0a6c22549c2e96b5c7ef6d1d8b5c4958f54c5edcd47b91794682c9eeb24",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2344,7 +2344,7 @@
   },
   "calendar-390b9e52acd9": {
     "fingerprint": "92fdb8228a298ec56c83a49c98034b980e0bb18fd4004de7d2349ab3a33da22d",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d14a91b3710cffc9633702027b429e225f8410a7f91cb02465218370565005ce",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2353,7 +2353,7 @@
   },
   "calendar-c74c5ddfde84": {
     "fingerprint": "b769f176061368f363cda2f34c84a1f8d323a9fa9733d7937f116919e51d7768",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d0a151e3e63475721e063cab83fa30e9b04d17aca9861aa26c9db0b4722b86fa",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2362,7 +2362,7 @@
   },
   "calendar-971b4d231960": {
     "fingerprint": "00159ddef9d191f63ce98fa62dbb2afc02f7f8821f39381ccca67dfbc62eec7d",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "5bb261b3814574d75e389bd0e8752c4701196cd24ddbbd264dac26fdfc6e04b8",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2371,7 +2371,7 @@
   },
   "calendar-3ff35d8ac74f": {
     "fingerprint": "89331d3f6f03ec8eab5a6f955d09a8b4d7b8c4c5414e8d9c3242fbdcc3928ffe",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "34d510ca67931bc6f655dcae138be0579197b5b4ae05eaf68ec39d8d783c463f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2381,7 +2381,7 @@
   "calendar-e493171fa4ce": {
     "fingerprint": "9426e0ccaf8a7b76f741aa612503acf4c23e701e64e376bb2f4dd150cf969c29",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "c90a5d6f24cdf904d8a6ae6767cab8e46d259c06a6f86a060565fadb4128ee69",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2390,7 +2390,7 @@
   },
   "calendar-41e5cda407fc": {
     "fingerprint": "1c1942332c93fc50bd8584ffa9056bf2772ee89ef3577fa94a8fb31cd9efb4cb",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "63619b3ab2e9b4a3946bdd5e760cf287b833396d6677dd7494a50e0211566a5d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2399,7 +2399,7 @@
   },
   "calendar-52961adc06ba": {
     "fingerprint": "6a0202ac07ff252e1d53a7f6b696956546d0edb1f968bd8df84a17f695584c3c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "befa26c57dcf9bf1c3048c57d27e131b0b7bd7786367b483d75f5bf6196d4986",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2408,7 +2408,7 @@
   },
   "calendar-31d299f8dec0": {
     "fingerprint": "0a20c00919c034899eb4d668e1840597251b6696b5c924e05b2dc4bb136883f5",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "05ed688280285e68903cff05bd095585002b6d2dc2e765891f692894a01e8958",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2417,7 +2417,7 @@
   },
   "calendar-55f7d04b6da4": {
     "fingerprint": "e59af18db48bc1cb125127feb65c3ef7459cff44583cdae8be4039327c11b7ee",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0a52d4965b624c7363dac432985202e2d13f675a4235b69b107e03637f9e8e5b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2426,7 +2426,7 @@
   },
   "calendar-21e915392e39": {
     "fingerprint": "afb20f32a7ed50d8141cb5550e86039652a7d1ac0594f1fafa4190bcae9dfff6",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f9b692747d3c491459b90a5d3c7a3daeb48242973f35948daf66302b91fe5da2",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2435,7 +2435,7 @@
   },
   "calendar-760544a34e5e": {
     "fingerprint": "71c7b217fc750f5e30c431e54c48ebfc0807dcb17815e9c7877a2b10d4fb2221",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f08cc8b48e1c5c7ade4a6d45b8bd0520c538d597d4b11e13c8a98615147c452b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2444,7 +2444,7 @@
   },
   "calendar-ea3585c43b96": {
     "fingerprint": "337940110c5ae4adacd7ba5e4cf7918490fb28923142334653e9ebd5c8f28535",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "15005aa4d80aa61f444aa8a7ae5aab4d8b03bd8337331805ffd58927f38fff45",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2552,7 +2552,7 @@
   "377358": {
     "fingerprint": "586d62d91485ac61b9df12c493d39714e7e8d68b7ba2d512ca656027ea8b0b0e",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "068c15978316f306009c72624347ffcc79775c34c5a7af272d36af736a5a8082",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2562,7 +2562,7 @@
   "377451": {
     "fingerprint": "590a23f1fb39928ca9b3f4f59ffae1b31f33b722d43407c04f3949b538837e83",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "523aab99448cf6c4c472bb5643663a310ca3d18e9d0fab25dfac6df12a183a06",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2572,7 +2572,7 @@
   "377519": {
     "fingerprint": "d799e38e4b65a9257ef0066979caf8ce12f993354556ccf86960135a6c80ee59",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "82fe9bf871a882c37a40bdada8d135355d90f7c2f89eaa0b240dfa1fe3227125",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2591,7 +2591,7 @@
   "377363": {
     "fingerprint": "0d9b1649534516ba5cb58f5a1fe3b2d3314b9013ef88a4d17a65668fb5a08ad2",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "55fc8cf672c2a969bf4470d17d5b4342a31210760bc7a7ebb6bd3be1208bf0e7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2600,7 +2600,7 @@
   "377210": {
     "fingerprint": "0d70148a367978a4c456e7bb6a29885338c1546d87170fdd48017da3827ad8ea",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d7a1f130604fe6221a4aaf65998e7da5768cc3cc441d5a540ba60e0a9b3c96db",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2609,7 +2609,7 @@
   "376905": {
     "fingerprint": "0411030dd0b1e232fae62614158e0dc7ecde3934b13288100a713a75ffc3c214",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "25288c401d51520b89ff5e5d59655cf7bd2689d50e69d12b1e47f16e03403b4b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2619,7 +2619,7 @@
   "377211": {
     "fingerprint": "3aa3521dd36e21821e28acebbcb3c18b3495f4798f169eaca772ee17da038e18",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "23784b4f7367596db85e270342685e91fee6f667cff8e2808b8e3d4eaf28cc34",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2628,7 +2628,7 @@
   "376786": {
     "fingerprint": "f34e554b8913b9a047eba07b57a4a73c5d782bf8bcf36a5ed893049b1db4c330",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "27721d99ca3bffe22f5af5b51a532e73e168da5addf1d2f73884f94d4cc5136a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2638,7 +2638,7 @@
   "377119": {
     "fingerprint": "a29fd5bcd8eb39358e3b1014e30a72020df3e8e841e3c052f6d2d86972e13b1f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9d19b92f7193e051409fd3448028709bf961086ed0793c744fc4986e5b38e598",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2648,7 +2648,7 @@
   "376775": {
     "fingerprint": "a8c36aba8fec0173757f06ec6b4f292086f29c9e857c61ec12e23d6972a2a282",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "96068c77f5b6fa2e4c5a3d53e0e3a6d3a0993d0aa5a865e7924dd355cee3dca0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2657,7 +2657,7 @@
   "375891": {
     "fingerprint": "f8fc4cda7c66b991b1dd996996dfffc15098d2a26fc9dc4d24f50a8d17d2bbdc",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "b356ce10fb683dea5bf18c1ecfd79beb457b5075e326cd399b0e085a9e29aa80",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2667,7 +2667,7 @@
   "376494": {
     "fingerprint": "680598af4b2af3ff540f11c6b62e8b7ea42c153fb873466bab5b19660910bd4f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "1a1416f0b4da910ab29506ccc3c0d73d7960eb365811ab2c3f657a0a1ca560fd",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2676,7 +2676,7 @@
   "376493": {
     "fingerprint": "37cf49fb4772af1eeef1bdac803f7c1d6d46efea7420594368e0fbc37c341206",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "9f7be0105391f5bfcde3e5172f3bf64a8e9d4053a1d1d766923ebe49bcd0c7b6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2685,7 +2685,7 @@
   },
   "375546": {
     "fingerprint": "476e95b09d028a553d36e979b4469a8c054abe4cf9152fcbf5e0b33e814b08de",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d68061c9f84451b5fccfd5f39e4a34f25a1c6b583f1f2137d3e3f4688159c397",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -2792,7 +2792,7 @@
   "373487": {
     "fingerprint": "47d222b489a0ad54dfae4deb138f187c8ca9a7f335a1c4b83e2bad2ec2619507",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "460b672ea9c35abe77c2a454d6e03f783e3ab1b019a75dae6a653e3723c28346",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3165,7 +3165,7 @@
   },
   "377582": {
     "fingerprint": "1c057ba46c3610cbb159c967dd27ef73e662d6fe24677e79c454f197d6551b5b",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "c657a50a14b494c3071a48150b8afc394f85a69e6049fce0e241326638b610f4",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3208,7 +3208,7 @@
   },
   "377620": {
     "fingerprint": "b91a5c0deddb8fb8439fb44a0211af9ef1c22d1b120f645b8c8ff5d0ed36c783",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "5d91367b802590be5e19c2ebe5f9f5db204af457933249287bb9fb38f63f4d06",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3251,7 +3251,7 @@
   },
   "377631": {
     "fingerprint": "433f384a741a0a4b3806ad9f9b290706fbd106ea3be36db2cca961b796a66521",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "ca76d7bb2542329c276a2a53d6e8b0f88db37acdac437b33bb3908462d1e8662",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3269,7 +3269,7 @@
   },
   "377617": {
     "fingerprint": "381ddbb61de33db483e52d42fc53133ede94acf95d09d5fc7d16f77c778b8b38",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "596c67da44f7c798d5e354b7a5cf21f400e78f7e6958f1bfec238984beb1585e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3296,7 +3296,7 @@
   "377613": {
     "fingerprint": "5f779c076e7598b5c7c267835ed77a47949fb9bb91b37bea09c7d9a237daa9d9",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "269ce599b06a96f55f29fc31225fc5dbd41a00bd18bdf43ce4083fa8871c303c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3314,7 +3314,7 @@
   "377644": {
     "fingerprint": "8ca71c9140ceb4dfbc306cae8f0c7bb84aef9cc5aa4c43aaae68d73a6c69a715",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "099dcbbb2036d00c9e6f5fa8e6cd084d1fbd242a37eb302b61cdfbd4fe4c49d1",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3351,7 +3351,7 @@
   "377612": {
     "fingerprint": "c3bc18e9c8a6dc82e06134f9998aff5fc82a75c8e883b8df8c6435a234812fb3",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "968b0a9e1144df0696fd32fb39d8749812619a151fbea4c053615676a375db2b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3369,7 +3369,7 @@
   "377668": {
     "fingerprint": "3c3914c4b051320d5e9ee5f0e4b5c2f5318ed829c28829d504b9c8fcf895656c",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "fda87da74e8e7f0c1026a5534a70b0cf52a3be1822c34f71db05597dd36fd67d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3405,7 +3405,7 @@
   "377722": {
     "fingerprint": "7e3f941637cf577d222a462d702e069c9b7501373e9a2c3399218c5e6d11df5c",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "84dfd23fbf204b03c00a6b77e537a44fc3ac7f9838526aba2a2fd1bdb8850286",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3415,7 +3415,7 @@
   "377718": {
     "fingerprint": "c492dd078993cdaa464b0ead321fa900d034826d3656ef8f41aaa3e2bed6f64a",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "035473f361ce548954f38dba1fdc9e0a591f1194d1adb8af9e7748d4eed523f4",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3659,7 +3659,7 @@
   "377730": {
     "fingerprint": "ca49fefa686c3152026322dd0faf5f556f11d96a738a9be06f44dcb51a59f2e0",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e185774c522eafbddfb57347c3b4ac58c6373a603525832d10828cb1a91d851f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3669,7 +3669,7 @@
   "377875": {
     "fingerprint": "adad48ea970e07073dd415e3b0864493875f31558037e43c2b755533d683d3cf",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "3f8d9bc19165b94a6dfb30c0ee365c559b96ae193f40a1de47336dc47ca354d0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3679,7 +3679,7 @@
   "377873": {
     "fingerprint": "9b9383905729da9744b86cc767cfa80b89dca35ef972eca298c62c7fc9347042",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "630110f6d357cfeefb4cb9f438d86ac2bf0590b74e0212bdaf8011d5bccd189a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3689,7 +3689,7 @@
   "377860": {
     "fingerprint": "1e79a60bd3822399980afd66a39492552497a64400a33d77a13d92f1bd2b919e",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f2173dd1a7c785fadb78b7660bb595cc773a6030cd8c7c319ee998907b96e114",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3699,7 +3699,7 @@
   "377769": {
     "fingerprint": "03df4751944cddd0b18b97e315176ded182a9748807863bbcb7b95b30a71e71d",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "62ca4c7f56ba0028856314e09f2cb85f00342129aa4fee2b2e4ea2da1ab36bea",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3709,7 +3709,7 @@
   "377824": {
     "fingerprint": "026cf40327733e7b0d9712150c0edfba50015ec1cae75717ce7c034f0409acb6",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "45dd1b7a64746a8b9c6f41ed131dcf3f3b850f0095ef1ab057d7ea633e762955",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3744,7 +3744,7 @@
   "378176": {
     "fingerprint": "cfbf4b3a7bd236f0a0c20537eca649ba939cc14d55acd587ccc982c108dd0e28",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0ad26bdeb055f8edbb06dab448ba91c55ffbf3ffc8d53fb0d1d6c5d3f9bdda7c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3754,7 +3754,7 @@
   "377926": {
     "fingerprint": "95dde3384f209bb7a01e152d85589927aa0722c38505022de9d0d897032cc9c3",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "2aa053e110da85c1176adeb58c07b458ff3669209003ff5f7627f904073b7aed",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3762,7 +3762,7 @@
   },
   "377619": {
     "fingerprint": "381ddbb61de33db483e52d42fc53133ede94acf95d09d5fc7d16f77c778b8b38",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "596c67da44f7c798d5e354b7a5cf21f400e78f7e6958f1bfec238984beb1585e",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3772,7 +3772,7 @@
   "377983": {
     "fingerprint": "eb14f84a42a387e3e319397430371786f4509f91e2bcf0404ab120b6f5e9fcff",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "da86acd6dea997dfff3bc7aae268a04fa49b8ba7ccd880babbf3c16c1e2027ea",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3781,7 +3781,7 @@
   "378342": {
     "fingerprint": "2a6f61de39179bdbbea0332a2d071dca2bdb567cd4e967a9555eb17aa18be106",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "87a272a1ea01bf0e709f1908d17a1d1d0e26970b95265a95c4731ad13e58b963",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3790,7 +3790,7 @@
   "378346": {
     "fingerprint": "44117920b27d794fa2763b3c4a83ed1bd764142a71de6623fe5e7d57338220fd",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6e12d0af92afa6b66f4aafb7a65f9a576b0a327a8d543427cd5e55e1efd2b579",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3807,7 +3807,7 @@
   "378319": {
     "fingerprint": "931b94ac9d2006fe217c09379ca7bf6ee4dec79750e763f0609d7796f89cb1a6",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "df06826685589d62245fb2346f910788c236f3ff6a4ed7bf68b83dc9c1e8ab6c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -3816,7 +3816,7 @@
   "378317": {
     "fingerprint": "e491bffbce0fb6c15d20114cc0d0cc35427cf4e7f3a08c5f9b5d97c8625515f2",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "5109276675126ada068a7e5f6858a52606847861150c284e2d15e9989d48b521",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4097,7 +4097,7 @@
   "378289": {
     "fingerprint": "4c442591d6a0690d88680963448a0a4547ee64df7eebc1582959d75c54c81177",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "803c021db1d15d409986ef57b9bfa44ac6ba4d27d9451170c5ddf8cf16809751",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4107,7 +4107,7 @@
   "378283": {
     "fingerprint": "3d5e46243880de7a250b948ee3803e8713830953b1b808ac4e2534fbec0a50b4",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "58015eb907209e2d31701078c026277d9b5e5c7762865ae7758a0acc3cfb27da",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4116,7 +4116,7 @@
   "378058": {
     "fingerprint": "23f540508591b789c99306a4a610abea31844b627f6814af306bf86f1d291669",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f4645806d40e5d6996ad25e5cd22d3df195d4852c81edc365c7536389752e9fc",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4126,7 +4126,7 @@
   "378223": {
     "fingerprint": "76c4f4d226b3e76d76ca29bcb069214ce7a26e96476baa3741e887e8b57b668f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "71214f366a82cb9ee307aa061a0528950df0f752467b3b6bfa6af988ebd92b1f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4136,7 +4136,7 @@
   "378276": {
     "fingerprint": "ac5f73b2a4db1214517e499568ff354d40433547bd907ac39b711d42778648ea",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "cce5d098d892e4399c311c0d7d90e6812f0f214ebba23b23003081c4475f5dac",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4146,7 +4146,7 @@
   "378243": {
     "fingerprint": "78fcbe60fb0d8325fbdf5ea83d52a496cb37f58bc2c9e3023b5f58c413f8533f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e125dca8d61ee7750c223b6d89d2d177e83ea7ba7907f497197fa2ed7f2c0350",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4156,7 +4156,7 @@
   "378186": {
     "fingerprint": "ff3ccd952d3f66e8019d2c024552bc62a8570b6e46c1f1b1aae780cf7a5b4a91",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d6fe35f5c71c3bc10e2a595282607c8e2437509014a5d7a120ba337d4e10370a",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4166,7 +4166,7 @@
   "378203": {
     "fingerprint": "527da9f7679ff1886c3f1f21f1284f467a60a71ea15312e8271eedf777cb6a95",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "45fb461cf24e3a46963f6a58b814a2545d9c007995150a58f5774ad743f86937",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4185,7 +4185,7 @@
   },
   "library-ck54981ee9suwbmg": {
     "fingerprint": "dc8865d56149d795b9fee214cb23df2578c1e013e5d7cfe1a8d74890afd1c55d",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f5b6f5c23ace4d1fabf684130fe4df2be76120cc15b434634361c0f048c41d0d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4194,7 +4194,7 @@
   },
   "library-u7f8la6ejjpj5yk0": {
     "fingerprint": "e61c43514c17945331c32122647d472aa0c032ab1b980a28ccac8cbb4132eb5f",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "90e1982e82d7b9c112c854905d3ba7ca8441de8ccfb22c54b604ade00f9567ee",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4203,7 +4203,7 @@
   },
   "library-t4hefl3jjociazez": {
     "fingerprint": "1388290f495ed8f4c7dc055530bfda435aff0c096c65caf59a03efb836b9d173",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "6f72caef963ee2ca036f94b9e0be5908a7e7965ad96a34c349889c3d82f31fc0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4212,7 +4212,7 @@
   },
   "library-pacbr6quv0exz8yu": {
     "fingerprint": "c1193a14a6c149b17726f9738a98e60bdd6109bc6fbb04ee9d5c486add559c6c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "3a43c92cfddf876e479686209057ba0e5249a196d25f7503877535d68f78f323",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4221,7 +4221,7 @@
   },
   "library-gqjzwz7kwasttzbx": {
     "fingerprint": "241db5aeb529003f1817ed70a7d7d58242ff2378dc711892e8f6ec226e16beee",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "c433aad43de767a2711abf2b1ef4d31fbb1a83cbbcf29115e1069f2f76c35420",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4231,7 +4231,7 @@
   "library-ttyrj7tsv3qcthii": {
     "fingerprint": "eed57193838645b399251fddd9296bc394027b519331b798f0baa1fbc4191bf2",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0c29431cd0f7c12a8cdfbabb185358e4ea71b8bdb50edb0644cd968d24320515",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4240,7 +4240,7 @@
   },
   "library-ci9r6thfqdm7z8dy": {
     "fingerprint": "57bd89331c4dd56bf0864f1541dd834bcec35d9bd20d22e55782f440255600d5",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "7a2c7712759e8480fbe0c7805ea732dd80065601586dd257c393c2fd6318ff2f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4250,7 +4250,7 @@
   "library-2ya2ubh0ana3fl5b": {
     "fingerprint": "a1a5d4c5409199e15c4845ff219ab5969f6064394ab5367e61296a43a2061aa1",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "89e7d7c8c397cf05ee0c2d10b770224ee435448feda1b34557e2ecefd92fd15b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4259,7 +4259,7 @@
   "library-gs7ztccq1uh6so5v": {
     "fingerprint": "cafc8fc4cefa52b1c8e4c50b02b48efa1c4a080f9331269665fc680782d6858f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "15f7dcb6973671c7741a34653a6a72232607cbc988ad6fffb206f50f2957afbf",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4267,7 +4267,7 @@
   },
   "library-9teze3zbezag91it": {
     "fingerprint": "e0cefcee749f7dd1fd8d8ec2f7394515160d459341d29f0e79ae952832ed3c7c",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "f0ca1dc9549ffd7926cb52e5e1d74959d90e2177da002c8275f5bf08f39f6d21",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4277,7 +4277,7 @@
   "library-zvkqka1xtsr7b56k": {
     "fingerprint": "2f4ab1ad017310201e28f9eafed04c7d8583f3149279f7e4c63b6a0f7507211e",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "3ca7c232262d2420a4eda143ad1884bcf6e92b05b61e35b02143eac0d93461b7",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4286,7 +4286,7 @@
   "library-ux0bddg7qlxeaxdn": {
     "fingerprint": "ad5cf0ac10082ccafc36f10316492a7ef380732413de7b2e6a2a0c794ec7a07d",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a97f825173a6ce0d76e6fbba2e70f8d488ddd7e4830b57a3e65c0d59f5d3fd12",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4295,7 +4295,7 @@
   },
   "library-sk6v5tb3pqp1zssb": {
     "fingerprint": "672b687900c8deb9e4c7721d000b47f1f6dd766136e3424d62169e8b0e148347",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "4700e3798370cddbaa8a29b3c92d297c170a0b86070f330d0d264b76ced209d0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4304,7 +4304,7 @@
   },
   "library-8u0jb439c5vly2g7": {
     "fingerprint": "0d39490b2cc59e804a12a821a2b9b20b2d9e548a7848b42f3f7ef58a91896580",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "5109ff4e092e4e0699b7719ebf3982d7137cb5c4c3847512e41434a0a75950bb",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4314,7 +4314,7 @@
   "library-7nkaawyryrviccw3": {
     "fingerprint": "f24e2f656171f6bd2d2ac48e165d3b549b044c68bd105beadd2eeb12f40c8ec5",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "63eec6eb32e7fed6f824eae61995203f5b2786e2355ae87a5c78cdd91cee3f04",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4323,7 +4323,7 @@
   "378318": {
     "fingerprint": "e90761f241e2f5b6bf9e68040f709320dfe2bfb68999ce7eacb827e301505b65",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "44f356e6ff5b6057f720ed206f73379ec08a715a00a3ba22f67e575e05664ae5",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4333,7 +4333,7 @@
   "377927": {
     "fingerprint": "80810234aefdc638a8ef9219b0ccb821fdacf0574cee771616064d586c0e97c4",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d3c56159fb9e7d526dd11ffb1077adf59ba088cd44b97d1aeb978a0df4c2eb6b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4342,7 +4342,7 @@
   "library-rsj81irpl9rz9rsp": {
     "fingerprint": "54629e726cb0d423b9b41749982ea03e019a42bce8166dfe99fc3a014f497013",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "e6c70e12a7baefa4dde9b7e3bba030cec5e1b88c4b371c3fcc7bf559f1df8812",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4387,7 +4387,7 @@
   "378380": {
     "fingerprint": "23b99a5dc6bd30501e461c74885fe2d1fa2337e146087dd5d54703867d2befa6",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "7b6079759289c9944d0fd5886190ae753d41fc9d4e739285647b382e1a4f51d3",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4406,7 +4406,7 @@
   "378448": {
     "fingerprint": "0a9b592a3c799afceb19ca0905871faac99afec87295c155fc8966fea712383b",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0df2b3091326bbd4ab8395d7e861d7cf34fa9d4b4764dea95233804abec46392",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4434,7 +4434,7 @@
   "378434": {
     "fingerprint": "61fcc8fb3fab5396fa14afe941ff631b1fd5b7e3d1067916c0ba8c40801d0d61",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "fc689f098d94f2d3a801e5f60002f546dce45ef733b67754d1ac217ec659e1bb",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4443,7 +4443,7 @@
   "378409": {
     "fingerprint": "0e987d953da0144ee50ff01d94d8e39ca4cae40be1781e9eaf9fb964927f68f8",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "18f20d0845409878e36bc41e977576ff636269cf85cab7fb4eda45dcadf66764",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4461,7 +4461,7 @@
   "378467": {
     "fingerprint": "9a58d2ffa72bcee655ecc9759882ae2135e10054f5844b4c166e84509a19fa4d",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "2e0f9b1b50ecddce8f920b9fc4a67e89d95fcf04393765ff8024da9d80f20fe3",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4479,7 +4479,7 @@
   "378516": {
     "fingerprint": "561870b43da67bc9cb294c2dcb7c32a0293b302e60c38e4e8448cac2fd11920d",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "52e6516d0429480d264da078b89276cfdaaf133e6ed0fd1ab6867534cf3c6e55",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4498,7 +4498,7 @@
   "378578": {
     "fingerprint": "da39a55e2279f2ad6ca3fa78162ca9b63b9800cff136ec208c2686886031668f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "df9c5bb990459c996e9668f2911da05f3afae0c246a6114869ac2030879b0a33",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4508,7 +4508,7 @@
   "378645": {
     "fingerprint": "bc7e204cf1dc2d78541276fc4786241bf19fab4d603e2da7bb2db68513574ca0",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "4c4ad6f5f6b2a01b8773ea3540b9b4d941e52316911607c3df82eed64b31abb1",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4527,7 +4527,7 @@
   "378603": {
     "fingerprint": "4218b3351143382133ce6ddecf23e4b36880847a532b691419e8412e54aa1a98",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "88fc81dd3fcb7d47951bb74a8ef2becc291914e8eb05a2cf73d23a61fb1537de",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4537,7 +4537,7 @@
   "378604": {
     "fingerprint": "a6ce9cfea09e0321a823973d4fb7313e24de236741d738db6f2156971e652690",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "94dc2cf51b1cc730d48272ee659711761a1ff36f77172bbff3cd54b408902e82",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4546,7 +4546,7 @@
   "378643": {
     "fingerprint": "ed7b5b9d580e0e4701347008f6a47dbe5816c023128ffd4dec5e21901c4b9f7f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "bd56cd848f5cf0e37b3a89684d7eaf570e510fc92640f0a45744c53fcec93ca6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4564,7 +4564,7 @@
   "378602": {
     "fingerprint": "68ad679fd1e28f46a91aa295a5ae9643059e2b44acbbc80efadbf684c5c9e365",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "a42d530641d26a860dd672d0884faa10c5ec664adee11416842542694c825759",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4573,7 +4573,7 @@
   },
   "378628": {
     "fingerprint": "ae8f8b29b6222e9b12ed8f05bd16220eb6537d852162ace57e3935d55f4d417e",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "96d73877d00713b0cec0a0827a773cd1cfe28b2307300eac49a9f3c5b322250b",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4582,7 +4582,7 @@
   },
   "378626": {
     "fingerprint": "92c43f873b2d5a9840a578d3c8e1794047f8cacfd682cb0aba51e5c210407a19",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "d5108b9e91c78dc4bc3ed00e9029bdef07eb6d48dab394761e8c5fd321c28c15",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4591,7 +4591,7 @@
   },
   "378627": {
     "fingerprint": "155c82edb1cb61b63ae6a7b9ebdcfe5695932d172a3df7bdd87d146e5859137a",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "83cda291377300a5c46b4f8bf468ddbea129b06c4eb7fe3f0af54ce45f367672",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4600,7 +4600,7 @@
   },
   "378624": {
     "fingerprint": "a5960265fd5c7184d12797992e386230179236fd629dac01b3ac74fb8babe861",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "0e61ab01b2650bfd61a1487cf0ae873c81d4b45c5ce4dc44a33efc7b54473d29",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4610,7 +4610,7 @@
   "378644": {
     "fingerprint": "da7a9612e7b9d986060ed5f58e2d4464bb874d4f07fea779fa2afe50ce178fc6",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "07efcdf1f52f9cb83f9bafbd281446e97a6ff912484cc28d2ea3572d17b65374",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4620,7 +4620,7 @@
   "378672": {
     "fingerprint": "9ea2697656ed84105f8f69be47e7eae66adfec6031cd5a88cf55cc56cb593f60",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "daae26bd1e05b1fa09bfd1ae018e032be97e9b9d27115e4e4377852f9dc5911f",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4629,7 +4629,7 @@
   "378666": {
     "fingerprint": "2fcd99fa57330b12da64791531c83edc9c017747e7a82cb6ac6869b3100792e9",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "17e7332387e99f7d94fef5f2515bea00318370e0b9a59d7cd77893565ac96e63",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4638,7 +4638,7 @@
   "378663": {
     "fingerprint": "c2c29d0459d540fdb74c6b88ff883361dc7e3793980b96ce0986da91db3526c7",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "99bc6f3a0b1b91af3647dba0428a3b95e74a10fb6d31cf93e290da3f933ee871",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4647,7 +4647,7 @@
   "378656": {
     "fingerprint": "b1d192177194fd2a4ebe0465797503504183f1671c5faec324bb0d424dfdf0c4",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "8df9af4de63001cbb1c53778a7cb400e2bbd6e4f24fd96f2c444b93736ee93d4",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4656,7 +4656,7 @@
   "378655": {
     "fingerprint": "8d2d54f2e6652b4127b8bbbf00f93ca44af442254c04517ad174aa40189b3f16",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "7ad392a47c7f91c578b282292a9e260b3f1c992ff7908f84afaa654676efc368",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4665,7 +4665,7 @@
   "378652": {
     "fingerprint": "49170a8e101361d08ea8f99af36276bcef2b1747cb5bfe380250a8fbf65dfc3d",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "761ab9a034bd1bca518e30630c4dd61b907ce8a3540c07197c368a74f2c617ae",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4674,7 +4674,7 @@
   "378693": {
     "fingerprint": "1726760d173353fc393a2ca5abbe4039f30be94e21a397819b45b361c9bc9485",
     "fingerprintKind": "direct",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "4af655512277d00dfca2f94cec6d7013e89daafb596c2e2fa29471986d7a8d49",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4711,7 +4711,7 @@
   "378735": {
     "fingerprint": "d5fc76c858a6c813e58485e071de5bb06af8258c98aeaa20b151e478c12f326a",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "76c7e74da8b6282fcd5a30bed7f890ab93816cf3ed3363f158e0a4af3385215c",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4721,7 +4721,7 @@
   "378897": {
     "fingerprint": "1887a72104cef4474c3d5c832904ec83519fcada8da819539987a29719bae1e2",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "8b5a07ec627a1b8246094f3f63c152faf0054a0fdae691844cc4f1dfea95c8ac",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4731,7 +4731,7 @@
   "378896": {
     "fingerprint": "40c6e1cabec616c48cf493cee9ec10d7c05641bc3b409e78e9b5e8e8cffec42b",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "18ef2f2b6de592ae9f230dc0e8183b8050d0fb561a7223f7f4a3b21d39310b0d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4740,7 +4740,7 @@
   "378920": {
     "fingerprint": "e4b5af4dd564972e932483fc91b09b2cc3222a9e5bcd29ecb92531b623860790",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "de6d3d992eb2e6354e9a9627e2bdb20feff2b397be72ea5eb436599c4c609d07",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4759,7 +4759,7 @@
   "378855": {
     "fingerprint": "2b679ccea8eb2a67b0f68a4616f802d87e56cc94679446f108b2c9e1e47ddf9a",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "37dccf645ca8b23cb76e64eae135679d74dd11d3c0c2f87da2216ffee9b49f4d",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4779,7 +4779,7 @@
   "378854": {
     "fingerprint": "f0b99eb38e4298768a59b3ee866cc54571bf199176fd56d03a8750fac00cca0d",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "7aec689f7a60f6036c528c6e12cf5cf6a30196ad1699ac98dca505db4e525646",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4807,7 +4807,7 @@
   "378986": {
     "fingerprint": "602e1bfeba6c546831b06f2bf0fe413f2c2ba3553c39de92f97929876dbb939f",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "1f66ec8d018046904d93e10e78a9d43c79e28003313aab0c89db24083c3dacb0",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4817,7 +4817,7 @@
   "378980": {
     "fingerprint": "37e89b4dff934691e45ab7a017f7badef1c0d24967846655f75b80c1b0bfbe62",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "2b1064f85c40052215e572ee37dc81f12e9f95344886fba6c83e60e114589c80",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4826,7 +4826,7 @@
   "378983": {
     "fingerprint": "6e00a598da988a38ffdc2d93fe129d1b54f11a973845d0461908c7376493d130",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "31fe277b92ff2ad9968071fa684068aab903fc2834656355e502577a93d53cbf",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4835,7 +4835,7 @@
   "378966": {
     "fingerprint": "bbc992acc77005851cb5bb49019c637045da5545e0f641b29085a8d31dd25f9c",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "202038564570f4a09e820e92c0d21eb99def6611492265fdb352b95b81630c91",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4845,7 +4845,7 @@
   "378972": {
     "fingerprint": "72ed427d33d396ed89625d18b5dea1ab11b6f7d7ad13764fbb8b1eb3a40aa830",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "bf84f4fbfa3a9843ac985524970cf83268e967192c9ff94eb72133316fd8cce6",
     "model": "gpt-6-luna",
     "prompt": 4,
@@ -4863,7 +4863,7 @@
   "378959": {
     "fingerprint": "cbcaa88cdf8f92fe32502506f1bea14c7a4b5dd4d99d895ca2c74b479818d670",
     "fingerprintKind": "posters",
-    "checkedAt": "2026-11-09T11:42:10.316528+09:00",
+    "checkedAt": "2026-11-10T13:39:23.314311+09:00",
     "sourceFingerprint": "82aa92238488e4b1dc6d5e77f21ef70676a5bc4ef9c3ea0bb77c57b805510ce1",
     "model": "gpt-6-luna",
     "prompt": 4,

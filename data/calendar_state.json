@@ -2031,21 +2031,22 @@
       "TRANSP:TRANSPARENT",
       "END:VEVENT"
     ],
-    "sequence": 0,
+    "sequence": 1,
     "event": [
       "BEGIN:VEVENT",
       "UID:378960-deadline@ajou-notices.zhupoxixixi.github.io",
-      "DTSTAMP:20261109T024210Z",
-      "LAST-MODIFIED:20261109T024210Z",
+      "DTSTAMP:20261110T052116Z",
+      "LAST-MODIFIED:20261110T052116Z",
       "DTSTART:20261207T090000Z",
       "SUMMARY:申请 / 办理截止：2027年上半年 Imec 全球实习研修生招募",
       "DESCRIPTION:适用对象：国内大学院硕士、博士在读生；限韩国国籍，须为相关研究领域工学专业，外国留学生不符合。\\n选派约10名硕博生赴比利时 Leuven 的 Imec 研修12个月，并提供相应资助；仅限韩国国籍。\\nAI 自动整理，重要日期请核对原文。\\n官方原文：https://grad.ajou.ac.kr/gs/community/notice.do?mode=view&articleNo=378960",
       "URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378960",
       "TRANSP:TRANSPARENT",
-      "SEQUENCE:0",
+      "STATUS:CANCELLED",
+      "SEQUENCE:1",
       "END:VEVENT"
     ],
-    "cancelled": false
+    "cancelled": true
   },
   "378449-deadline@ajou-notices.zhupoxixixi.github.io": {
     "fields": [

@@ -1240,8 +1240,8 @@ SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
 UID:378960-deadline@ajou-notices.zhupoxixixi.github.io
-DTSTAMP:20261109T024210Z
-LAST-MODIFIED:20261109T024210Z
+DTSTAMP:20261110T052116Z
+LAST-MODIFIED:20261110T052116Z
 DTSTART:20261207T090000Z
 SUMMARY:申请 / 办理截止：2027年上半年 Imec 全球实习研修
  生招募
@@ -1253,7 +1253,8 @@ DESCRIPTION:适用对象：国内大学院硕士、博士在读生；限
  r/gs/community/notice.do?mode=view&articleNo=378960
 URL:https://zhupoxixixi.github.io/ajou-notices/#notice-378960
 TRANSP:TRANSPARENT
-SEQUENCE:0
+STATUS:CANCELLED
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:378449-deadline@ajou-notices.zhupoxixixi.github.io
