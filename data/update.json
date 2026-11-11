@@ -1,59 +1,109 @@
 {
-  "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+  "checkedAt": "2026-11-11T11:49:57.942862+09:00",
   "model": "gpt-6-luna",
   "transport": "api",
-  "scanned": 584,
+  "scanned": 589,
   "pages": 36,
   "boards": 10,
   "translated": 0,
   "unchanged": 199,
-  "excluded": 67,
+  "excluded": 64,
   "skipped": 0,
   "errors": [
     {
+      "id": "379126",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c2345fa1-b58f-48dc-a193-2d728ac35b3e)"
+    },
+    {
+      "id": "379130",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c84408e3-7d67-40ed-8fad-e7d79430fd2a)"
+    },
+    {
+      "id": "379121",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id efe0ba5b-3426-42f0-928c-0c7f72aa2bd6)"
+    },
+    {
+      "id": "379109",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0874555d-c46d-49d4-9e3c-877f3010c071)"
+    },
+    {
+      "id": "379127",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b1bb7c51-f0c1-426b-beac-909c981c96e1)"
+    },
+    {
+      "id": "379088",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3815859f-7aa7-440e-8441-8e331f464c0e)"
+    },
+    {
+      "id": "379091",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f43b1e03-0c1b-48be-8860-30b1f9966eba)"
+    },
+    {
+      "id": "379107",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4230b959-3485-49a3-b8a6-7adad9709067)"
+    },
+    {
       "id": "379076",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id f83602c2-fbfb-4257-9c42-d65165e3258a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 48dc34ed-00f4-40ff-936f-314d38504741)"
     },
     {
-      "id": "379074",
+      "id": "379084",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 686b3de1-4cf5-4c2d-b72e-9c38571c2829)"
-    },
-    {
-      "id": "379054",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1a7fcf1c-7809-45e0-94fe-877c33f7ab55)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 16bdaed4-3bf8-4536-96d5-58a874801d76)"
     },
     {
       "id": "379044",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id d3af4ab3-9fc8-4f4c-82fb-a679ce2eb37a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 33427f20-e2b5-4ff8-9eb2-85417a7a0e30)"
     },
     {
-      "id": "379050",
+      "id": "379054",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2ed2e88e-3d13-4dcd-b18c-383902fb3722)"
-    },
-    {
-      "id": "378993",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3b81c5fa-309a-4175-b53e-fbc4a0eb5f6e)"
-    },
-    {
-      "id": "378946",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 664a13e1-790d-4b08-8ce1-9a80edc43f6f)"
-    },
-    {
-      "id": "379035",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b92f7050-5da3-4d7c-8981-af9eacb32c8a)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 60e78411-1618-4a2f-a3ae-4af94784d44f)"
     },
     {
       "id": "378994",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8d606b57-7319-40af-acd1-bd78c2755f11)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 8d417156-4c95-4d93-9529-70a7decbacf0)"
+    },
+    {
+      "id": "378993",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 3c5cb831-a756-4c93-b749-c465aa8f20d5)"
+    },
+    {
+      "id": "378946",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 62ea8b45-1cbe-44db-b65f-6f97e7b84c66)"
+    },
+    {
+      "id": "379035",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ac275c81-c0ae-44b3-aa0f-ebf851f719b5)"
+    },
+    {
+      "id": "379034",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id eb20d170-1842-43fc-9a79-77cb8f3876c4)"
+    },
+    {
+      "id": "379012",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id fd22075e-1fbb-4ea9-9acb-ba603c712fcc)"
+    },
+    {
+      "id": "379090",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c6e6b1a3-4e0a-4352-bed4-97bfbc3aae08)"
     },
     {
       "id": "377588",
@@ -66,12 +116,12 @@
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "379034",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 7aa781bc-7df8-411c-a57b-53d9da589db5)"
+      "id": "library-23188",
+      "error": "ValueError",
+      "reason": "ValueError"
     },
     {
-      "id": "library-23188",
+      "id": "library-23144",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -86,17 +136,12 @@
       "reason": "ValueError"
     },
     {
+      "id": "379050",
+      "error": "TranslationError",
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 44c951fa-9a6d-4289-aee5-7296b6efef58)"
+    },
+    {
       "id": "library-23044",
-      "error": "ValueError",
-      "reason": "ValueError"
-    },
-    {
-      "id": "library-23144",
-      "error": "ValueError",
-      "reason": "ValueError"
-    },
-    {
-      "id": "library-22872",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -117,6 +162,11 @@
     },
     {
       "id": "library-22770",
+      "error": "ValueError",
+      "reason": "ValueError"
+    },
+    {
+      "id": "library-22872",
       "error": "ValueError",
       "reason": "ValueError"
     },
@@ -151,74 +201,74 @@
       "reason": "ValueError"
     },
     {
-      "id": "379012",
+      "id": "379122",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4984ff02-e67c-4068-852d-22bf03b87807)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id bd44617d-cc89-48fb-bd73-3369d22d698e)"
     },
     {
       "id": "370260",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id a86a1c36-b5d2-42b4-89cf-5492f3926cdf)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id ac88b3a5-35c2-457f-92a8-29e88ba393b6)"
     },
     {
       "id": "372220",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c20c4596-7c2b-490b-bfad-861d76e92c68)"
-    },
-    {
-      "id": "371003",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id b6a05aa2-9b12-4019-b711-e8d495c332f2)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 667e6e96-a1d2-49b4-8422-ece69a3383a6)"
     },
     {
       "id": "369877",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 5d0ea0c5-82f1-45cc-8fef-f67861956934)"
-    },
-    {
-      "id": "369230",
-      "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id c9eb5bba-c930-41a2-a5a6-e2f8a3c0c20d)"
+      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 2a8e5ea1-21c3-4c74-b46b-052ab175b164)"
     },
     {
       "id": "370058",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 07700ad7-d6ae-4612-bcc3-fb9df6030f89)"
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377852",
+      "id": "369230",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id aaa4341f-acb5-4f40-84a8-87e0f4c9c39d)"
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "371003",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377600",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 1e89c3a2-1e7e-47b8-b3ef-c67bac7f467d)"
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377741",
+      "id": "377852",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 56b19a25-5327-471a-85f0-4ab00802621c)"
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377708",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 4a3bc14f-f529-46df-bc99-1ef529a2cb99)"
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "374920",
+      "id": "377741",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id cb0d6cb4-8038-4784-ad1a-b601a9fa542d)"
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377823",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 0fda1ce7-9ea2-40d2-8224-a2ad693eccdb)"
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
+      "id": "374920",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377896",
       "error": "TranslationError",
-      "reason": "Translation HTTP 402 — 402: insufficient_quota - You have exceeded your credit quota for this month (request id 9ba31aa7-8b73-491b-be73-e00a5498e68f)"
+      "reason": "Translation request budget exhausted; item deferred"
     },
     {
       "id": "377770",
@@ -236,17 +286,12 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377663",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "377906",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377672",
+      "id": "377663",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -256,12 +301,17 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "377672",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "378239",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378237",
+      "id": "378232",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -281,7 +331,7 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "378232",
+      "id": "378237",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -306,6 +356,11 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "377967",
+      "error": "TranslationError",
+      "reason": "Translation request budget exhausted; item deferred"
+    },
+    {
       "id": "378090",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
@@ -316,17 +371,12 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377967",
-      "error": "TranslationError",
-      "reason": "Translation request budget exhausted; item deferred"
-    },
-    {
       "id": "378160",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375097",
+      "id": "378201",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -341,12 +391,12 @@
       "reason": "Reader could not retrieve the official page successfully"
     },
     {
-      "id": "378201",
+      "id": "375368",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375368",
+      "id": "375097",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -406,17 +456,12 @@
       "reason": "Poster image check unavailable; retaining previous result"
     },
     {
-      "id": "378701",
-      "error": "GatewayError",
-      "reason": "Poster image check unavailable; retaining previous result"
-    },
-    {
-      "id": "378391",
+      "id": "375849",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "375849",
+      "id": "378391",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
@@ -426,19 +471,29 @@
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
+      "id": "378862",
+      "error": "GatewayError",
+      "reason": "Reader could not retrieve the official page successfully"
+    },
+    {
       "id": "378960",
       "error": "TranslationError",
       "reason": "Translation request budget exhausted; item deferred"
     },
     {
-      "id": "377232",
+      "id": "377119",
       "error": "GatewayError",
       "reason": "Poster image check unavailable; retaining previous result"
     },
     {
-      "id": "378862",
+      "id": "375378",
       "error": "GatewayError",
-      "reason": "Reader could not retrieve the official page successfully"
+      "reason": "Poster image check unavailable; retaining previous result"
+    },
+    {
+      "id": "378467",
+      "error": "GatewayError",
+      "reason": "Poster image check unavailable; retaining previous result"
     }
   ],
   "schedule": "每日 08:17、12:17、18:17 KST",
@@ -452,7 +507,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -464,7 +519,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
       "lastSuccessAt": "2026-11-06T12:28:09.507370+09:00"
     },
     {
@@ -476,7 +531,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
       "lastSuccessAt": "2026-11-07T01:48:02.187325+09:00"
     },
     {
@@ -488,7 +543,7 @@
       "status": "partial",
       "bounded": true,
       "boundary": "request-limit",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
       "lastSuccessAt": "2026-10-24T22:22:15.477204+09:00"
     },
     {
@@ -500,8 +555,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
-      "lastSuccessAt": "2026-11-10T13:39:23.314311+09:00"
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
+      "lastSuccessAt": "2026-11-11T11:49:57.942862+09:00"
     },
     {
       "key": "innovation",
@@ -512,7 +567,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
       "lastSuccessAt": "2026-11-09T11:42:10.316528+09:00"
     },
     {
@@ -520,11 +575,11 @@
       "name": "奖学金公告",
       "url": "https://www.ajou.ac.kr/kr/ajou/notice_scholarship.do",
       "pages": 2,
-      "scanned": 26,
+      "scanned": 27,
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     },
     {
@@ -536,7 +591,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "date-window",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
       "lastSuccessAt": "2026-10-28T00:23:52.135254+09:00"
     },
     {
@@ -548,8 +603,8 @@
       "status": "ok",
       "bounded": false,
       "boundary": "academic-year",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
-      "lastSuccessAt": "2026-11-10T13:39:23.314311+09:00"
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
+      "lastSuccessAt": "2026-11-11T11:49:57.942862+09:00"
     },
     {
       "key": "college",
@@ -560,7 +615,7 @@
       "status": "partial",
       "bounded": false,
       "boundary": "known-page",
-      "checkedAt": "2026-11-10T13:39:23.314311+09:00",
+      "checkedAt": "2026-11-11T11:49:57.942862+09:00",
       "lastSuccessAt": "2026-11-05T12:31:12.405739+09:00"
     }
   ],
